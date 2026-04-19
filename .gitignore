@@ -17,3 +17,5 @@ dist/
 npm-debug.log*
 
 .DS_Store
+output/diagram-screenshots/*.png
+output/morning-run.json

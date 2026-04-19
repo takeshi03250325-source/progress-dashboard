@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>推奨する作り方（図解）</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['"Noto Sans JP"', 'system-ui', 'sans-serif'] },
+        },
+      },
+    };
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body class="min-h-screen bg-slate-50 text-slate-900 antialiased">
+  <div class="mx-auto max-w-3xl px-4 py-10 sm:px-6 lg:px-8">
+    <header class="mb-10 border-b border-slate-200 pb-8">
+      <p class="text-sm font-medium uppercase tracking-wide text-amber-700">Surge 向け静的ページ</p>
+      <div class="mt-3 rounded-lg border border-sky-200 bg-sky-50 px-4 py-3 text-sm text-slate-800">
+        <span class="font-semibold text-sky-900">この資料の Surge URL（共有・添付用）</span>
+        <p class="mt-1 break-all">
+          <a
+            href="https://ads-recommended-build-flow.surge.sh"
+            class="font-mono text-base font-medium text-sky-700 underline decoration-sky-300 underline-offset-2 hover:text-sky-900"
+            >https://ads-recommended-build-flow.surge.sh</a>
+        </p>
+        <p class="mt-2 text-xs text-slate-600">このページが Surge に<strong>一度も上げられていない</strong>と、Surge は「プロジェクトが見つかりません」と出ます。下のフッター手順でデプロイしてください。<code class="rounded bg-white px-1 py-0.5 text-slate-800">surge.json</code> のドメインを変えた場合は、このリンク文言も合わせて書き換えてください。</p>
+      </div>
+      <h1 class="mt-6 text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">推奨する作り方（図解）</h1>
+      <p class="mt-4 text-lg leading-relaxed text-slate-600">
+        朝の建設ニュース → 1本選ぶ → X用の文 → LINEで「OK？」→ OKならX投稿、という仕組みを
+        <strong class="font-semibold text-slate-800">分かりやすい順番</strong>で作るときの目安です。
+      </p>
+    </header>
+
+    <section class="mb-12 scroll-mt-4 rounded-2xl border-2 border-emerald-300 bg-white p-6 shadow-md ring-1 ring-emerald-100 sm:p-8" id="who-does-what">
+      <p class="mb-2 text-center text-xs font-bold uppercase tracking-wider text-emerald-800">運用の切り分け（はっきり書いておく）</p>
+      <h2 class="mb-6 text-center text-2xl font-bold text-slate-900">プログラムに任せる／人が担う</h2>
+      <div class="grid gap-6 sm:grid-cols-2">
+        <div class="rounded-xl border border-emerald-200 bg-emerald-50/90 p-5">
+          <h3 class="mb-3 flex items-center gap-2 text-lg font-bold text-emerald-900">
+            <span class="flex h-8 w-8 items-center justify-center rounded-full bg-emerald-600 text-sm text-white">自動</span>
+            プログラムに任せた方がよいこと
+          </h3>
+          <ul class="space-y-2.5 text-sm leading-relaxed text-slate-800">
+            <li><strong class="text-emerald-900">定時起動</strong> — 毎朝など、決まった時刻に処理を始める（cron / GitHub Actions など）。</li>
+            <li><strong class="text-emerald-900">データ取得と加工</strong> — RSS 等の取得、候補の 1 本への絞り込み、X 用文案の生成、いったんの保存。</li>
+            <li><strong class="text-emerald-900">API 呼び出しの実行</strong> — LINE へのプッシュ、承認後の X 投稿 API の実行（ロジックとトークンはコード・Secrets 側）。</li>
+            <li><strong class="text-emerald-900">失敗時の通知・再実行</strong> — エラー検知、Slack 等への通知、ジョブのリトライや手動再実行の入口。</li>
+            <li><strong class="text-emerald-900">このページの運用も</strong> — 更新後の Surge デプロイはコマンドで繰り返す。資料用の画面キャプチャはリポジトリの <code class="rounded bg-white px-1 py-0.5 text-xs text-slate-900">npm run screenshot:diagrams</code>（Playwright）に任せると Mermaid まで含めて再現しやすい。</li>
+          </ul>
+        </div>
+        <div class="rounded-xl border border-rose-200 bg-rose-50/80 p-5">
+          <h3 class="mb-3 flex items-center gap-2 text-lg font-bold text-rose-900">
+            <span class="flex h-8 w-8 items-center justify-center rounded-full bg-rose-600 text-sm text-white">人</span>
+            人が担う方がよいこと
+          </h3>
+          <ul class="space-y-2.5 text-sm leading-relaxed text-slate-800">
+            <li><strong class="text-rose-900">何を見せて何を承認するかの設計</strong> — 静的 HTML（Tailwind）で「画面の見本」を決める。LINE に送る文面の前提もここで固まる。</li>
+            <li><strong class="text-rose-900">公開してよいかの判断</strong> — LINE での「OK」／NG。自動投稿の最終ゲートは人が持つ。</li>
+            <li><strong class="text-rose-900">ルールとポリシー</strong> — どのソースから取るか、X API・利用規約の確認、チーム内の運用ルール。</li>
+            <li><strong class="text-rose-900">初回のインフラ</strong> — Surge ドメインの確保、各サービスのアカウント作成、Secrets の登録（作業そのものは一度人手で行う）。</li>
+            <li><strong class="text-rose-900">このページの中身</strong> — 図の文言・Mermaid・デザインの更新は <code class="rounded bg-white px-1 py-0.5 text-xs text-slate-900">index.html</code> を編集する（創作は人）。</li>
+          </ul>
+        </div>
+      </div>
+      <p class="mt-6 text-center text-xs text-slate-600">迷ったら「<strong>繰り返し・同じ手順・ミスが痛い</strong>」はプログラム、「<strong>意味・責任・初回の決めごと</strong>」は人、と考えると整理しやすいです。</p>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="mb-4 text-xl font-bold text-slate-900">まずこれだけ（4ステップ）</h2>
+      <p class="mb-4 text-slate-600">プレビューしなくても読めるように、<strong>文字だけの図</strong>にしています。</p>
+      <pre class="overflow-x-auto rounded-xl border border-slate-200 bg-white p-4 text-xs leading-relaxed text-slate-800 shadow-sm sm:text-sm">  STEP 1          STEP 2              STEP 3              STEP 4
+ ┌─────────┐    ┌─────────────┐    ┌──────────────┐    ┌─────────────┐
+ │ 画面の   │ → │ 記事の取得   │ → │ LINE と X を  │ → │ 失敗したら   │
+ │ 見本を   │   │ と「1本選ぶ」 │   │ つなぐ        │   │ 気づける仕組み│
+ │ 先に作る │   │ ロジック     │   │               │   │              │
+ └─────────┘    └─────────────┘    └──────────────┘    └─────────────┘
+   HTML            プログラム         API連携            通知・再実行
+  (Tailwind)      (RSSなど)         (公式の仕組み)      (運用)</pre>
+      <div class="mt-6 overflow-x-auto rounded-xl border border-slate-200 bg-white shadow-sm">
+        <table class="min-w-full divide-y divide-slate-200 text-sm">
+          <thead class="bg-slate-100">
+            <tr>
+              <th class="px-4 py-3 text-left font-semibold text-slate-900">ステップ</th>
+              <th class="px-4 py-3 text-left font-semibold text-slate-900">やること</th>
+              <th class="px-4 py-3 text-left font-semibold text-slate-900">こうしておくと楽</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100">
+            <tr>
+              <td class="px-4 py-3 font-medium text-slate-900">1</td>
+              <td class="px-4 py-3 text-slate-700">完成イメージの <strong>静的HTML</strong>（Tailwind）を作る</td>
+              <td class="px-4 py-3 text-slate-600">「LINEに何を見せるか」「何を承認するか」が決まる</td>
+            </tr>
+            <tr class="bg-slate-50/80">
+              <td class="px-4 py-3 font-medium text-slate-900">2</td>
+              <td class="px-4 py-3 text-slate-700"><strong>ニュース取得</strong>（RSS等）→ <strong>1本に絞る</strong> → <strong>X用の文</strong> → <strong>いったん保存</strong></td>
+              <td class="px-4 py-3 text-slate-600">まだLINE/Xに繋がなくてよい</td>
+            </tr>
+            <tr>
+              <td class="px-4 py-3 font-medium text-slate-900">3</td>
+              <td class="px-4 py-3 text-slate-700"><strong>LINE</strong>で候補を送る → 返信で <strong>OK</strong> → <strong>X API</strong>で投稿</td>
+              <td class="px-4 py-3 text-slate-600">人が最終チェックしてから公開</td>
+            </tr>
+            <tr class="bg-slate-50/80">
+              <td class="px-4 py-3 font-medium text-slate-900">4</td>
+              <td class="px-4 py-3 text-slate-700"><strong>エラー通知</strong>・<strong>APIキーの管理</strong>・必要なら<strong>再実行</strong></td>
+              <td class="px-4 py-3 text-slate-600">朝の1回だけに頼らない</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="mt-4 font-medium text-slate-800">覚え方: 「<strong>見た目 → 中身 → 外との配線 → 運用</strong>」の順。</p>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="mb-4 text-xl font-bold text-slate-900">講義の「4パーツ」と、この仕組みの対応</h2>
+      <pre class="overflow-x-auto rounded-xl border border-slate-200 bg-white p-4 text-xs leading-relaxed text-slate-800 shadow-sm sm:text-sm">  トリガー        ソース元         処理する場所           届ける先
+ （いつ動く）   （データの元）   （中で何をするか）    （どこに出すか）
+
+     │               │                 │                    │
+     ▼               ▼                 ▼                    ▼
+ 毎朝6:30      建設系の記事      ・最新から1本選ぶ     ・まず LINE
+ タイマーで     （RSSなど        ・X用の文を作る       　（人が確認）
+ 起動する        安全な取得）    ・承認待ちで保存      ・OKなら Xへ投稿</pre>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="mb-4 text-xl font-bold text-slate-900">1日の流れ（だれがいつ動くか）</h2>
+      <pre class="overflow-x-auto rounded-xl border border-slate-200 bg-white p-4 text-xs leading-relaxed text-slate-800 shadow-sm sm:text-sm">  6:30頃          あなたのサーバ              あなた           X
+    │                    │                     │            │
+    │ ① 起動してね        │                     │            │
+    ├──────────────────►│                     │            │
+    │                    │ ② ニュース取得       │            │
+    │                    │ ③ 1本＋文案を決める  │            │
+    │                    │                     │            │
+    │                    │ ④ LINEに送る         │            │
+    │                    ├────────────────────►│            │
+    │                    │                     │            │
+    │                    │     ⑤ 「OK」返信     │            │
+    │                    │◄────────────────────┤            │
+    │                    │                     │            │
+    │                    │ ⑥ OKなら投稿API      │            │
+    │                    ├─────────────────────────────────►│
+    │                    │                     │            │</pre>
+      <p class="mt-4 text-slate-600">⑥ で <strong>NG</strong> のときは、投稿せず別処理（再提案・翌日まで保留など）にできます。</p>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="mb-4 text-xl font-bold text-slate-900">なぜ「HTMLを先」なのか</h2>
+      <pre class="overflow-x-auto rounded-xl border border-slate-200 bg-white p-4 text-xs leading-relaxed text-slate-800 shadow-sm sm:text-sm">   いきなりプログラムだけ作る        先にHTMLで見本を作る
+   ─────────────────────          ─────────────────────
+   あとから「画面が違う」            最初に「こう見せたい」が固定できる
+   手戻りが増えやすい                そのあとデータを流し込むだけに近づく</pre>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="mb-4 text-xl font-bold text-slate-900">図（Mermaid）</h2>
+      <p class="mb-6 text-slate-600">ブラウザ上でレンダリングしています（Surge にそのまま載せて表示可能）。</p>
+      <h3 class="mb-3 text-lg font-semibold text-slate-800">作る順番（縦に読む）</h3>
+      <div class="mb-10 flex justify-center rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+        <pre class="mermaid text-sm">
+flowchart TD
+  s1["ステップ1: 画面の見本_HTML_Tailwind"]
+  s2["ステップ2: ニュース取得と1本選定と文案_DB等に保存"]
+  s3["ステップ3: LINEで確認_OKでX投稿"]
+  s4["ステップ4: 失敗通知と秘密情報の管理"]
+  s1 --> s2 --> s3 --> s4
+        </pre>
+      </div>
+      <h3 class="mb-3 text-lg font-semibold text-slate-800">4パーツのつながり</h3>
+      <div class="flex justify-center rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+        <pre class="mermaid text-sm">
+flowchart LR
+  t[トリガー_6時半]
+  src[ソース_ニュース]
+  p[処理_選定と文案]
+  d[届け先_LINE_then_X]
+  t --> src --> p --> d
+        </pre>
+      </div>
+    </section>
+
+    <section class="mb-12 rounded-xl border border-amber-200 bg-amber-50/80 p-6">
+      <h2 class="mb-3 text-lg font-bold text-amber-900">注意（短く）</h2>
+      <ul class="list-inside list-disc space-y-2 text-slate-800">
+        <li>記事は <strong>RSS・公式の配信など、ルールがはっきりした取り方</strong>を優先するのが安全です。</li>
+        <li>X への投稿は <strong>API の条件・料金</strong>を事前に確認してください。</li>
+      </ul>
+    </section>
+
+    <footer class="rounded-xl border border-slate-200 bg-slate-900 p-6 text-slate-100">
+      <h2 class="mb-2 text-lg font-bold text-white">Surge で公開する手順</h2>
+      <p class="mb-4 text-sm text-slate-300">このフォルダだけをアップロードすればOKです（ビルド不要）。</p>
+      <ol class="list-inside list-decimal space-y-2 text-sm text-slate-200">
+        <li>ターミナルでこのフォルダへ移動: <code class="rounded bg-slate-800 px-1.5 py-0.5 text-amber-200">cd docs/recommended-build-flow-surge</code></li>
+        <li>初回のみ: <code class="rounded bg-slate-800 px-1.5 py-0.5 text-amber-200">npx surge login</code></li>
+        <li>公開（ドメインを確実に合わせる）: <code class="rounded bg-slate-800 px-1.5 py-0.5 text-amber-200">npx surge . ads-recommended-build-flow.surge.sh</code></li>
+      </ol>
+      <p class="mt-4 text-sm text-slate-300">
+        公開後のURL: <a class="font-mono text-amber-200 underline hover:text-white" href="https://ads-recommended-build-flow.surge.sh">https://ads-recommended-build-flow.surge.sh</a>
+      </p>
+      <p class="mt-4 text-xs text-slate-400">別リポジトリで実装するときは、このフォルダごとコピーして使って構いません。</p>
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.3/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'neutral',
+      securityLevel: 'loose',
+      fontFamily: 'Noto Sans JP, sans-serif',
+    });
+  </script>
+</body>
+</html>

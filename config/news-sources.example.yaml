@@ -1,0 +1,16 @@
+# コピーして news-sources.yaml にリネームし、実際の RSS URL に差し替えてください。
+
+feeds:
+  - name: サンプル（無効）
+    url: https://example.com/rss.xml
+    enabled: false
+    weight: 1
+
+keywords:
+  interest:
+    - 建設
+    - 工事
+    - 入札
+
+max_age_hours: 48
+x_post_max_chars: 260
