@@ -15,7 +15,8 @@
     "run-all": "npm run fetch-data && npm run calculate-health && npm run ai-suggestions && npm run generate-dashboard && npm run deploy && npm run screenshot && npm run post-slack",
     "screenshot:diagrams": "node scripts/screenshot-diagram-pages.js",
     "morning:fetch": "node scripts/morning/fetch-and-draft.mjs",
-    "morning:line": "node scripts/morning/send-line-push.mjs"
+    "morning:line": "node scripts/morning/send-line-push.mjs",
+    "morning:webhook": "node scripts/morning/line-webhook.mjs"
   },
   "keywords": [
     "dashboard",

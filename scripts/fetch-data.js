@@ -17,7 +17,23 @@ import { LINEAR_API_URL, LINEAR_TEAM_KEY, LABEL_GROUPS, STATUS_LABELS } from '..
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const LINEAR_API_KEY = process.env.MAGAZINE_LINEAR_API_KEY;
+/** Personal API Key は Authorization にそのまま。先頭の Bearer や引用符は Linear が拒否することがある */
+function normalizeLinearApiKey(raw) {
+  if (!raw || typeof raw !== 'string') return '';
+  let k = raw.replace(/\r/g, '').replace(/^\uFEFF/, '').trim();
+  if (
+    (k.startsWith('"') && k.endsWith('"')) ||
+    (k.startsWith("'") && k.endsWith("'"))
+  ) {
+    k = k.slice(1, -1).trim();
+  }
+  if (k.toLowerCase().startsWith('bearer ')) {
+    k = k.slice(7).trim();
+  }
+  return k;
+}
+
+const LINEAR_API_KEY = normalizeLinearApiKey(process.env.MAGAZINE_LINEAR_API_KEY ?? '');
 
 /**
  * Fetch magazines with sub-issues from Linear
@@ -209,6 +225,10 @@ async function fetchLinearData() {
     });
 
     if (!activeResponse.ok) {
+      const errBody = await activeResponse.text();
+      if (errBody) {
+        console.error('Linear API 応答本文:', errBody.slice(0, 800));
+      }
       throw new Error(`Linear API エラー: ${activeResponse.status} ${activeResponse.statusText}`);
     }
 
@@ -374,9 +394,15 @@ async function fetchLinearData() {
   }
 }
 
-// Execute if run directly
-if (import.meta.url === `file://${process.argv[1]}`) {
-  fetchLinearData();
+// Execute if run directly（Windows では argv と import.meta.url の文字列一致が成立しないため path で比較）
+const invokedAsMain =
+  process.argv[1] &&
+  path.resolve(__filename) === path.resolve(process.argv[1]);
+if (invokedAsMain) {
+  fetchLinearData().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
 }
 
 export default fetchLinearData;

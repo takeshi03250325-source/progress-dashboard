@@ -275,8 +275,14 @@ async function takeScreenshot() {
   }
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
-  takeScreenshot();
+const invokedAsMain =
+  process.argv[1] &&
+  path.resolve(__filename) === path.resolve(process.argv[1]);
+if (invokedAsMain) {
+  takeScreenshot().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
 }
 
 export default takeScreenshot;

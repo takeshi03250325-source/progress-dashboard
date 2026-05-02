@@ -1,10 +1,13 @@
 name: 朝ニュース取得と LINE プッシュ
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
-    # 平日 6:30 JST = 前日 21:30 UTC（日〜木 UTC = 月〜金 JST の朝）
-    - cron: "30 21 * * 0-4"
+    # 毎日 6:30 JST = 毎日 21:30 UTC（GitHub のスケジューラは数分遅延することがある）
+    - cron: "30 21 * * *"
 
 jobs:
   morning:
@@ -21,6 +24,21 @@ jobs:
 
       - name: RSS 取得と X 投稿案の生成
         run: npm run morning:fetch
+        env:
+          MAGAZINE_GEMINI_API_KEY: ${{ secrets.MAGAZINE_GEMINI_API_KEY }}
+          MAGAZINE_GEMINI_MODEL: ${{ secrets.MAGAZINE_GEMINI_MODEL }}
+
+      - name: 投稿履歴をコミット（転載除外用・変更時のみ）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/posted-articles.json
+          if git diff --staged --quiet; then
+            echo "No change to posted-articles.json"
+          else
+            git commit -m "chore: update posted articles history [skip ci]"
+            git push
+          fi
 
       - name: LINE にプッシュ
         run: npm run morning:line

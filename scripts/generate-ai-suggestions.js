@@ -263,9 +263,15 @@ function parseAISuggestions(text) {
   }
 }
 
-// 実行
-if (import.meta.url === `file://${process.argv[1]}`) {
-  generateAISuggestions();
+// 実行（Windows では argv と import.meta.url の文字列一致が成立しないため path で比較）
+const invokedAsMain =
+  process.argv[1] &&
+  path.resolve(__filename) === path.resolve(process.argv[1]);
+if (invokedAsMain) {
+  generateAISuggestions().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
 }
 
 export default generateAISuggestions;

@@ -676,7 +676,10 @@ async function calculateHealth() {
   return result;
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+const invokedAsMain =
+  process.argv[1] &&
+  path.resolve(__filename) === path.resolve(process.argv[1]);
+if (invokedAsMain) {
   calculateHealth().catch(error => {
     console.error('❌ エラーが発生しました:', error.message);
     if (error.stack) console.error(error.stack);

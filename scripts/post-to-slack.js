@@ -206,8 +206,14 @@ async function postToSlack() {
   }
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
-  postToSlack();
+const invokedAsMain =
+  process.argv[1] &&
+  path.resolve(__filename) === path.resolve(process.argv[1]);
+if (invokedAsMain) {
+  postToSlack().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
 }
 
 export default postToSlack;

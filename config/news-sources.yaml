@@ -1,14 +1,58 @@
+# 朝のニュース取得元（RSS）
+# 公式の配信URLを優先。各社の利用条件・転載可否はサイトの記載に従ってください。
+
 feeds:
+  # 日経クロステック（xTECH）— 公式 RSS 一覧: https://xtech.nikkei.com/atcl/nxt/info/18/00001/022300009/
+  - name: 日経クロステック 土木
+    url: https://xtech.nikkei.com/rss/xtech-con.rdf
+    enabled: true
+    weight: 1.2
+
+  - name: 日経クロステック 建築・住宅
+    url: https://xtech.nikkei.com/rss/xtech-bld.rdf
+    enabled: true
+    weight: 1.0
+
+  # Google ニュースの「建設」検索 RSS（ウェブ検索の上位とは一致しない場合あり。API 不要）
+  # 使うときは enabled: true に。日経と混ざるので weight で調整する
+  - name: Googleニュース 建設
+    url: https://news.google.com/rss/search?q=%E5%BB%BA%E8%A8%AD&hl=ja&gl=JP&ceid=JP:ja
+    enabled: true
+    weight: 0.9
+
+  # 以前の動作確認用（オフにしておく。必要なら enabled: true に）
   - name: テスト用 TechCrunch
     url: https://techcrunch.com/feed/
-    enabled: true
+    enabled: false
     weight: 1
 
 keywords:
   interest:
     - 建設
+    - 土木
+    - 工事
+    - インフラ
+    - ゼネコン
+    - 建築
+    - 国交省
+    - 入札
     - AI
-    - startup
 
 max_age_hours: 48
-x_post_max_chars: 260
+# X 投稿案全体の目安（本文＋出典＋抜粋＋判定＋候補。長いほど NG 時の代替案に余裕あり）
+x_post_max_chars: 1800
+
+# X 投稿案：石男くん風の文案（Gemini / フォールバック）
+# MAGAZINE_GEMINI_API_KEY があるとき、下記 prompt_file を使って生成。無いときはフォールバック文案。
+# ishio_gemini は後方互換（false で LLM 無効）。ishio_llm でも可。
+x_post:
+  ishio_llm: true
+  # LINE で並べて送る記事候補の数（1〜5。dedupe で足りない分はその時点の取得件数まで）
+  pick_count: 3
+  prompt_file: config/ai-prompts/morning-ishio-x-post.md
+
+# 転載レベルの重複除外（過去に取り上げた URL / 同一内容の指紋を記録）
+dedupe:
+  enabled: true
+  history_file: data/posted-articles.json
+  max_entries: 400

@@ -100,9 +100,14 @@ async function deployToSurge() {
   }
 }
 
-// 実行
-if (import.meta.url === `file://${process.argv[1]}`) {
-  deployToSurge();
+const invokedAsMain =
+  process.argv[1] &&
+  path.resolve(__filename) === path.resolve(process.argv[1]);
+if (invokedAsMain) {
+  deployToSurge().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
 }
 
 export default deployToSurge;
