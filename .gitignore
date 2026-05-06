@@ -18,4 +18,4 @@ npm-debug.log*
 
 .DS_Store
 output/diagram-screenshots/*.png
-output/morning-run.json
+# morning-run.json は朝ニュースの実行結果として CI でコミットし、pull で同期する（ローカル Webhook の NG 除外に使う）

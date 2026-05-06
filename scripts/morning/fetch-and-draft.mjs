@@ -101,6 +101,160 @@ function isAlreadyPosted(urlNorm, fingerprint, urls, fps) {
   return false;
 }
 
+/** 都道府県・東京大阪京都（タイトルに地名だけ出るケース用） */
+const JP_REGION_MARKERS = [
+  "北海道",
+  "青森県",
+  "岩手県",
+  "宮城県",
+  "秋田県",
+  "山形県",
+  "福島県",
+  "茨城県",
+  "栃木県",
+  "群馬県",
+  "埼玉県",
+  "千葉県",
+  "東京都",
+  "神奈川県",
+  "新潟県",
+  "富山県",
+  "石川県",
+  "福井県",
+  "山梨県",
+  "長野県",
+  "岐阜県",
+  "静岡県",
+  "愛知県",
+  "三重県",
+  "滋賀県",
+  "京都府",
+  "大阪府",
+  "兵庫県",
+  "奈良県",
+  "和歌山県",
+  "鳥取県",
+  "島根県",
+  "岡山県",
+  "広島県",
+  "山口県",
+  "徳島県",
+  "香川県",
+  "愛媛県",
+  "高知県",
+  "福岡県",
+  "佐賀県",
+  "長崎県",
+  "熊本県",
+  "大分県",
+  "宮崎県",
+  "鹿児島県",
+  "沖縄県",
+];
+
+/** ホスト名が国内メディア等とみなせるか（region.trusted_host_suffixes） */
+function hostnameMatchesTrustedSuffix(hostname, suffixes) {
+  if (!hostname || !Array.isArray(suffixes) || suffixes.length === 0) return false;
+  const h = String(hostname).toLowerCase();
+  for (const raw of suffixes) {
+    const s = String(raw).trim().toLowerCase();
+    if (!s) continue;
+    const withoutDot = s.startsWith(".") ? s.slice(1) : s;
+    if (h === withoutDot || h.endsWith(`.${withoutDot}`)) return true;
+  }
+  return false;
+}
+
+function textHasJapanRegionMarker(text) {
+  if (!text || typeof text !== "string") return false;
+  return JP_REGION_MARKERS.some((m) => text.includes(m));
+}
+
+/** 海外ヒント: ラテン文字を含む語は大小無視（Vietnam.vn など） */
+function blobMatchesOverseasHint(blob, hint) {
+  if (!hint || typeof hint !== "string") return false;
+  if (/[A-Za-z]/.test(hint)) {
+    return blob.toLowerCase().includes(hint.toLowerCase());
+  }
+  return blob.includes(hint);
+}
+
+function blobMatchesAnyOverseasHint(blob, hints) {
+  if (!Array.isArray(hints)) return false;
+  return hints.some((k) => blobMatchesOverseasHint(blob, k));
+}
+
+/**
+ * region.japan_focus のとき:
+ * - japan_only_strict: 国内キーワード・都道府県・trusted いずれかがないと除外（海外記事を広く落とす）
+ * - それ以外（従来）: overseas_hint で海外ローカルを除外
+ */
+function passesJapanFocus(title, snippet, link, regionCfg) {
+  if (!regionCfg || regionCfg.japan_focus !== true) return true;
+  const blob = `${title || ""}\n${snippet || ""}\n${link || ""}`;
+  const keeps = regionCfg.japan_keep_substrings || [];
+  const auxKeeps = regionCfg.japan_aux_keep_substrings || [];
+  const hasStrongKeep = keeps.some((k) => typeof k === "string" && k && blob.includes(k));
+  const hasWeakKeep = auxKeeps.some((k) => typeof k === "string" && k && blob.includes(k));
+  const hasPref = textHasJapanRegionMarker(blob);
+  const strongJapan = hasStrongKeep || hasPref;
+
+  const hints = regionCfg.overseas_hint_substrings || [];
+  const hasHint = blobMatchesAnyOverseasHint(blob, hints);
+
+  const japanSignal = hasHint ? strongJapan : strongJapan || hasWeakKeep;
+
+  let trusted = false;
+  try {
+    const u = new URL(String(link || "").trim());
+    trusted = hostnameMatchesTrustedSuffix(u.hostname, regionCfg.trusted_host_suffixes);
+  } catch {
+    /* ignore */
+  }
+
+  if (regionCfg.japan_only_strict === true) {
+    const overseasOnly = hasHint && !strongJapan;
+    if (overseasOnly) return false;
+    if (japanSignal) return true;
+    if (trusted) return true;
+    return false;
+  }
+
+  if (hasHint && !strongJapan) return false;
+  if (japanSignal) return true;
+  if (trusted) return true;
+  if (hasHint) return false;
+  return true;
+}
+
+/** morning-run.json に載った「直近の候補」を NG 再選定から除外する（同一マシン・pull 済みで有効） */
+function addArticleToExclusionSets(article, urls, fps) {
+  if (!article || typeof article !== "object") return;
+  const link = (article.link || "").trim();
+  const urlNorm = article.urlNorm || (link ? normalizeUrl(link) : "");
+  if (urlNorm) urls.add(urlNorm);
+  if (article.fingerprint) fps.add(article.fingerprint);
+  else if (link || article.title) {
+    const fp = fingerprintArticle(article.title || "", article.contentSnippet || "");
+    if (fp) fps.add(fp);
+  }
+}
+
+async function mergeExclusionsFromMorningRunFile(urls, fps, filePath) {
+  try {
+    const raw = await fs.readFile(filePath, "utf-8");
+    const mr = JSON.parse(raw);
+    if (Array.isArray(mr.picks)) {
+      for (const pr of mr.picks) {
+        if (pr?.picked) addArticleToExclusionSets(pr.picked, urls, fps);
+      }
+    }
+    if (mr.picked) addArticleToExclusionSets(mr.picked, urls, fps);
+  } catch {
+    /* ファイルなし・破損時は無視 */
+  }
+}
+
 async function savePostedHistory(filePath, entries, maxEntries) {
   let list = [...entries];
   if (maxEntries > 0 && list.length > maxEntries) {
@@ -329,7 +483,12 @@ async function generateIshioXPost(cfg, picked, maxChars) {
   });
 }
 
-export async function runMorningFetch() {
+/**
+ * @param {{ excludeMorningRunPicks?: boolean }} [options]
+ *        excludeMorningRunPicks … Webhook の NG 用。output/morning-run.json に載った候補を追加除外する。
+ */
+export async function runMorningFetch(options = {}) {
+  const excludeMorningRunPicks = options.excludeMorningRunPicks === true;
   const cfg = await loadConfig();
   const maxAge = Number(cfg.max_age_hours ?? 48);
   const maxChars = Number(cfg.x_post_max_chars ?? 1800);
@@ -345,12 +504,24 @@ export async function runMorningFetch() {
     postedCtx = await loadPostedHistory(historyPath);
   }
 
+  const activeUrls = new Set(postedCtx.urls);
+  const activeFps = new Set(postedCtx.fps);
+  if (excludeMorningRunPicks) {
+    await mergeExclusionsFromMorningRunFile(
+      activeUrls,
+      activeFps,
+      path.join(ROOT, "output", "morning-run.json"),
+    );
+  }
+
   const parser = new Parser({
     timeout: 20000,
     headers: { "User-Agent": "morning-news-bot/1.0 (+https://github.com/)" },
   });
   const all = [];
   const errors = [];
+  const regionCfg = cfg.region || {};
+  let skippedJapanFocus = 0;
   for (const f of cfg.feeds || []) {
     if (!f.enabled) continue;
     try {
@@ -358,9 +529,13 @@ export async function runMorningFetch() {
       const feed = await parser.parseURL(f.url);
       for (const it of feed.items || []) {
         if (!withinAge(it.pubDate || it.isoDate, maxAge)) continue;
-        const base = scoreItem(it, keywords) * w;
         const link = it.link || "";
         const snippet = it.contentSnippet || it.content || "";
+        if (!passesJapanFocus(it.title, snippet, link, regionCfg)) {
+          skippedJapanFocus++;
+          continue;
+        }
+        const base = scoreItem(it, keywords) * w;
         const urlNorm = normalizeUrl(link);
         const fingerprint = fingerprintArticle(it.title, snippet);
         all.push({
@@ -385,9 +560,8 @@ export async function runMorningFetch() {
   const picks = [];
   let skippedDuplicates = 0;
   if (dedupeOn) {
-    const { urls, fps } = postedCtx;
     for (const cand of all) {
-      if (isAlreadyPosted(cand.urlNorm, cand.fingerprint, urls, fps)) {
+      if (isAlreadyPosted(cand.urlNorm, cand.fingerprint, activeUrls, activeFps)) {
         skippedDuplicates++;
         continue;
       }
@@ -395,8 +569,15 @@ export async function runMorningFetch() {
       if (picks.length >= pickCountRequested) break;
     }
   } else {
-    for (let i = 0; i < Math.min(pickCountRequested, all.length); i++) {
-      picks.push(all[i]);
+    for (const cand of all) {
+      if (picks.length >= pickCountRequested) break;
+      if (
+        excludeMorningRunPicks &&
+        isAlreadyPosted(cand.urlNorm, cand.fingerprint, activeUrls, activeFps)
+      ) {
+        continue;
+      }
+      picks.push(cand);
     }
   }
 
@@ -430,6 +611,7 @@ export async function runMorningFetch() {
     generatedAt: new Date().toISOString(),
     dedupeEnabled: dedupeOn,
     skippedDuplicates,
+    skippedJapanFocus,
     pickCountRequested,
     pickCountActual: picks.length,
     candidates: all.slice(0, 15),
@@ -460,6 +642,10 @@ export async function runMorningFetch() {
   if (picks.length) console.log("picked articles:", picks.length, "/", pickCountRequested);
   if (errors.length) console.warn("feed errors:", errors.length);
   if (dedupeOn && skippedDuplicates) console.log("dedupe: skipped", skippedDuplicates, "already-posted candidates");
+  if (regionCfg.japan_focus && skippedJapanFocus) {
+    const mode = regionCfg.japan_only_strict ? "japan_only_strict" : "japan_focus";
+    console.log("region: skipped", skippedJapanFocus, "items (" + mode + ")");
+  }
   if (!picked) {
     if (all.length === 0) {
       console.warn("No candidate picked (feeds, max_age_hours, or keywords).");

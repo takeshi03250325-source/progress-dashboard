@@ -13,10 +13,10 @@ feeds:
     enabled: true
     weight: 1.0
 
-  # Google ニュースの「建設」検索 RSS（ウェブ検索の上位とは一致しない場合あり。API 不要）
+  # Google ニュース：「建設業 日本」で取得（建設より業界・労働市場の記事に寄りやすい）
   # 使うときは enabled: true に。日経と混ざるので weight で調整する
-  - name: Googleニュース 建設
-    url: https://news.google.com/rss/search?q=%E5%BB%BA%E8%A8%AD&hl=ja&gl=JP&ceid=JP:ja
+  - name: Googleニュース 建設業
+    url: https://news.google.com/rss/search?q=%E5%BB%BA%E8%A8%AD%E6%A5%AD+%E6%97%A5%E6%9C%AC&hl=ja&gl=JP&ceid=JP:ja
     enabled: true
     weight: 0.9
 
@@ -26,9 +26,121 @@ feeds:
     enabled: false
     weight: 1
 
+# 日本向けに絞る（fetch-and-draft.mjs）
+# japan_only_strict: 国内キーワード・都道府県名・trusted ホストのいずれかがない記事は除外
+region:
+  japan_focus: true
+  japan_only_strict: true
+  overseas_hint_substrings:
+    - ソウル
+    - ソウル市
+    - ハノイ
+    - ジャカルタ
+    - バンコク
+    - 上海市
+    - 北京市
+    - 深圳市
+    - 台北市
+    - ミャンマー
+    - ベトナム
+    - ベトナムの
+    - ロンタイン
+    - ロンタン
+    - タイン国際空港
+    - Vietnam.vn
+    - Vietnam
+    - カンボジア
+    - ラオス
+    - カンボジアの
+    - ラオスの
+    - シンガポール
+    - マニラ
+    - クアラルンプール
+    - フィリピンの
+    - インドネシアの
+    - タイの首都
+    - マレーシアの
+    - ドバイ
+    - カタール
+    - サウジアラビア
+    - ニューヨーク市
+    - ロサンゼルス
+    - ロンドン市
+    # オーストラリア（経済指標・豪◯表記。単独「豪」は 豪雨 等に当たるため使わない）
+    - オーストラリア
+    - 豪州
+    - 豪住宅
+    - 豪建設
+    - 豪不動産
+    - 豪企業
+    - 豪景気
+    - 豪GDP
+    - 豪CPI
+    - 豪指標
+    - 豪家計
+    - 豪小売
+    - 豪失業
+    - 豪中銀
+    - 豪準備銀行
+    - 豪利上げ
+    - 豪利下げ
+    - 豪ドル
+    - 豪金利
+    - 豪政策
+    - 豪首相
+    - 豪政権
+    - シドニー
+    - メルボルン
+    - ブリスベン
+    - アデレード
+    - パース
+    - ケアンズ
+  japan_keep_substrings:
+    - 日本
+    - 国内
+    - 国土交通
+    - 国交省
+    - 東京
+    - 大阪
+    - 名古屋
+    - 札幌
+    - 福岡
+    - 横浜
+    - 神戸
+    - 京都
+    - 北海道
+    - 沖縄
+    - 都道府県
+    - 地方自治体
+    - ゼネコン
+    - 日系
+    - 国交
+    - 再開発
+    - 被災地
+    - 防災
+    - 新幹線
+    - 高速道路
+    - 国道
+    - 整備計画
+  # 海外ヒントと同時に出るだけでは「日本絡み」とみなさない（豪で受注、等を除外）
+  japan_aux_keep_substrings:
+    - 入札
+    - 受注
+    - 元請
+    - 下請
+  trusted_host_suffixes:
+    - ".co.jp"
+    - ".go.jp"
+    - ".lg.jp"
+    - ".ne.jp"
+    - ".or.jp"
+    - ".ac.jp"
+    - "nikkei.com"
+    - "news.yahoo.co.jp"
+
 keywords:
   interest:
-    - 建設
+    - 建設業
     - 土木
     - 工事
     - インフラ

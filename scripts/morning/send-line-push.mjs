@@ -22,6 +22,23 @@ export function buildLineMessageTexts(parsed, options = {}) {
   const picks =
     Array.isArray(parsed.picks) && parsed.picks.length > 0 ? parsed.picks : null;
 
+  const pickCountActual =
+    typeof parsed.pickCountActual === "number"
+      ? parsed.pickCountActual
+      : picks
+        ? picks.length
+        : parsed.picked
+          ? 1
+          : 0;
+
+  if (pickCountActual === 0 && banner.trim()) {
+    const hintNg =
+      banner.includes("NG") || banner.includes("次の候補")
+        ? "\n\n【別の候補は見つかりませんでした】\n朝の自動実行は GitHub が投稿履歴を更新します。このフォルダで **git pull** してからもう一度 NG を試してください。\nそれでも無いときは、RSS 上にその時点で未投稿の記事が無い可能性があります（翌日までお待ちください）。"
+        : "\n\n（この実行では候補がありませんでした）";
+    return [(banner.trim() + hintNg).slice(0, LINE_TEXT_MAX)];
+  }
+
   if (!picks) {
     const verdictLine = verdictLineFor(parsed.xPostVerdict);
     const text = [
@@ -87,10 +104,13 @@ export async function sendLinePush(data = null, options = {}) {
       !token?.trim() && "LINE_CHANNEL_ACCESS_TOKEN",
       !to?.trim() && "LINE_PUSH_TO_USER_ID",
     ].filter(Boolean);
-    console.log(
-      `LINE 未設定（${missing.join(" と ")} が .env に無いか空です）。.env を保存（Ctrl+S）したか確認してください。\n\n内容:\n` +
-        preview,
-    );
+    const localHint = `${missing.join(" と ")} が .env に無いか空です。.env を保存（Ctrl+S）したか確認してください。`;
+    const ciHint = `GitHub Actions では .env は使えません。リポジトリの Settings → Secrets and variables → Actions に ${missing.join(" と ")} を登録してください。`;
+    console.error(process.env.GITHUB_ACTIONS === "true" ? ciHint : localHint);
+    console.error("\n--- 送信できなかった本文プレビュー ---\n" + preview.slice(0, 6000));
+    if (process.env.GITHUB_ACTIONS === "true") {
+      throw new Error(ciHint);
+    }
     return false;
   }
 

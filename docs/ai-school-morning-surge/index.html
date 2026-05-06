@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>マガジン自動化ツール（AIスクール向け概要）</title>
+  <style>
+    :root {
+      --bg: #eef2f7;
+      --surface: #ffffff;
+      --border: #c9d1d9;
+      --border-strong: #8c959f;
+      --text: #1c2128;
+      --text-muted: #424a53;
+      --text-dim: #57606a;
+      --accent: #0550ae;
+      --accent-hover: #054083;
+      --info-bg: #e8f1fc;
+      --info-border: #74b9ff;
+      --info-title: #054da7;
+      --warn-bg: #fff8e7;
+      --warn-border: #e3b341;
+      --warn-title: #7d4e00;
+      --neutral-bg: #f6f8fa;
+      --table-stripe: #f8fafc;
+      --shadow-card: 0 1px 3px rgba(31, 35, 40, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.75;
+      font-size: 16px;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 28px 20px 56px;
+      background: var(--surface);
+      min-height: 100vh;
+      box-shadow: 0 0 0 1px rgba(31, 35, 40, 0.06);
+    }
+    @media (min-width: 960px) {
+      .wrap {
+        margin: 16px auto;
+        padding: 36px 40px 56px;
+        border-radius: 10px;
+        box-shadow: var(--shadow-card), 0 4px 24px rgba(31, 35, 40, 0.06);
+      }
+    }
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin: 0 0 14px;
+      letter-spacing: 0.02em;
+      color: var(--text);
+      line-height: 1.35;
+    }
+    h2 {
+      font-size: 1.28rem;
+      font-weight: 700;
+      margin: 32px 0 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--border);
+      color: var(--text);
+    }
+    h3 {
+      font-size: 1.08rem;
+      font-weight: 700;
+      margin: 20px 0 14px;
+      color: var(--text);
+    }
+    .lead {
+      color: var(--text-muted);
+      margin: 0;
+      font-size: 1.02rem;
+      line-height: 1.8;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+      margin-top: 22px;
+    }
+    @media (max-width: 640px) {
+      .stats { grid-template-columns: 1fr; }
+    }
+    .stat {
+      background: var(--neutral-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 14px;
+      text-align: center;
+      box-shadow: var(--shadow-card);
+    }
+    .stat .val {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+    .stat .lbl {
+      font-size: 0.875rem;
+      color: var(--text-dim);
+      line-height: 1.5;
+    }
+    .divider {
+      height: 1px;
+      background: var(--border);
+      margin: 28px 0;
+    }
+    .flow-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: stretch;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .step {
+      flex: 1 1 140px;
+      min-width: 120px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 14px;
+      box-shadow: var(--shadow-card);
+    }
+    .step .t {
+      font-size: 0.8125rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: var(--text);
+      text-transform: none;
+      letter-spacing: 0.02em;
+    }
+    .step .b {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin: 0;
+      line-height: 1.65;
+    }
+    .arrow {
+      align-self: center;
+      color: var(--border-strong);
+      font-size: 1.15rem;
+      font-weight: 600;
+      padding: 0 2px;
+      flex: 0 0 auto;
+    }
+    .subflow {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .subflow .hint {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--text-dim);
+    }
+    .step.narrow {
+      flex: 0 0 auto;
+      min-width: 120px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9375rem;
+      box-shadow: var(--shadow-card);
+      border-radius: 8px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    tbody tr:nth-child(even) {
+      background: var(--table-stripe);
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 12px 14px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #e8ecf1;
+      font-weight: 700;
+      color: var(--text);
+      white-space: nowrap;
+    }
+    td:first-child {
+      font-weight: 600;
+      color: var(--text);
+    }
+    .callout {
+      border-radius: 8px;
+      padding: 18px 20px;
+      margin-top: 14px;
+      border-width: 1px;
+      border-style: solid;
+    }
+    .callout strong {
+      display: block;
+      margin-bottom: 12px;
+      font-size: 1rem;
+    }
+    .callout.info {
+      background: var(--info-bg);
+      border-color: var(--info-border);
+    }
+    .callout.info strong {
+      color: var(--info-title);
+    }
+    .callout.warn {
+      background: var(--warn-bg);
+      border-color: var(--warn-border);
+    }
+    .callout.warn strong {
+      color: var(--warn-title);
+    }
+    .callout.neutral {
+      background: var(--neutral-bg);
+      border-color: var(--border);
+    }
+    .callout.neutral strong {
+      color: var(--text);
+    }
+    .callout p {
+      margin: 0 0 12px;
+      font-size: 0.9375rem;
+      color: var(--text-muted);
+      line-height: 1.75;
+    }
+    .callout p:last-child { margin-bottom: 0; }
+    .note {
+      font-size: 0.9375rem;
+      color: var(--text-dim);
+      margin: 10px 0 14px;
+      line-height: 1.7;
+    }
+    .intro-roles {
+      background: var(--neutral-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 18px;
+      margin-top: 18px;
+      color: var(--text-muted);
+    }
+    .intro-roles strong:first-child {
+      color: var(--text);
+    }
+    .intro-roles .note {
+      margin: 10px 0;
+    }
+    .intro-roles .note:last-child {
+      margin-bottom: 0;
+    }
+    .surge-banner {
+      background: var(--info-bg);
+      border: 1px solid var(--info-border);
+      border-radius: 8px;
+      padding: 16px 18px;
+      margin-bottom: 24px;
+      font-size: 0.9375rem;
+      color: var(--text-muted);
+    }
+    .surge-banner strong {
+      color: var(--text);
+      display: block;
+      margin-bottom: 8px;
+      font-size: 0.95rem;
+    }
+    .surge-banner a {
+      color: var(--accent);
+      font-weight: 600;
+      word-break: break-all;
+    }
+    .surge-banner a:hover {
+      color: var(--accent-hover);
+      text-decoration: underline;
+    }
+    .surge-banner .muted {
+      color: var(--text-dim);
+      font-size: 0.875rem;
+      margin: 10px 0 0;
+      line-height: 1.65;
+    }
+    .surge-deploy {
+      margin-top: 36px;
+      padding: 18px 20px;
+      background: var(--neutral-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      line-height: 1.65;
+    }
+    .surge-deploy strong.main {
+      color: var(--text);
+      display: block;
+      margin-bottom: 12px;
+      font-size: 1rem;
+    }
+    .surge-deploy code {
+      font-family: ui-monospace, Consolas, monospace;
+      font-size: 0.84rem;
+      color: #611f69;
+      background: #f8f0fc;
+      padding: 2px 6px;
+      border-radius: 4px;
+      border: 1px solid #e7d4ee;
+    }
+    .surge-deploy ol { margin: 0; padding-left: 1.35em; }
+    .surge-deploy li { margin-bottom: 8px; }
+    .doc-figure {
+      margin: 18px 0 12px;
+    }
+    .doc-figure img {
+      display: block;
+      max-width: 440px;
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      box-shadow: var(--shadow-card);
+    }
+    .doc-figure figcaption {
+      font-size: 0.9rem;
+      color: var(--text-dim);
+      margin-top: 14px;
+      line-height: 1.75;
+      max-width: 40rem;
+    }
+    @media print {
+      body { background: #fff; }
+      .wrap {
+        box-shadow: none;
+        margin: 0;
+        max-width: none;
+      }
+      .surge-deploy { display: none; }
+      .surge-banner { break-inside: avoid; }
+      .doc-figure img { max-width: 320px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="surge-banner">
+      <strong>Surge 公開 URL（共有・投影用）</strong>
+      <div>
+        <a href="https://ads-ai-school-morning.surge.sh">https://ads-ai-school-morning.surge.sh</a>
+      </div>
+      <p class="muted">初回デプロイ前は Surge が「プロジェクトが見つかりません」と表示されます。下の手順でアップロードしてください。</p>
+      <p class="muted">
+        ブラウザ閲覧・投影だけに特化した別 URL（デプロイ手順なし）：<a href="https://ads-magazine-browser.surge.sh">https://ads-magazine-browser.surge.sh</a>
+      </p>
+    </div>
+    <h1>マガジン自動化ツール（AIスクール向け概要）</h1>
+    <p class="lead">
+      ニュース収集から文案生成、LINE 配信までをつなぎ、編集の「最初の一手」を毎日自動で届ける構成です。進捗用ダッシュボード（Linear 起点）は別パイプラインとして動きます。
+    </p>
+    <div class="intro-roles">
+      <strong>役割の整理（どちらも「毎朝届く」とは別の話）</strong>
+      <p class="note">
+        <strong>朝ニュース</strong>は<strong>外部</strong>の情報（業界ニュース・投稿ネタ・文案のたたき）を届けるもの。<strong>進捗ダッシュボード</strong>は<strong>内部</strong>の制作工程（企画・原稿・動画などが Linear 上でどこまで進んだか）を把握するものです。
+      </p>
+      <p class="note">
+        毎朝 LINE でネタが来ても、納期や担当の詰まりは別問題なので、ダッシュボードが無意味になるわけではありません（1 人運用で Linear をほぼ使わない場合は、ダッシュボードより朝ニュースが主役になりやすい、という整理だけはあります）。
+      </p>
+    </div>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="val">GitHub Actions</div>
+        <div class="lbl">定時実行・手動再実行</div>
+      </div>
+      <div class="stat">
+        <div class="val">Gemini</div>
+        <div class="lbl">文案・サマリ・提案文</div>
+      </div>
+      <div class="stat">
+        <div class="val">LINE</div>
+        <div class="lbl">プッシュ／Webhook</div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <h2>全体の流れ（図解）</h2>
+
+    <h3>朝ニュース（RSS → 文案 → LINE）</h3>
+    <div class="flow-row">
+      <div class="step">
+        <div class="t">スケジュール</div>
+        <p class="b">GitHub Actions の cron（例: JST 朝に相当する UTC）で workflow 起動</p>
+      </div>
+      <span class="arrow" aria-hidden="true">→</span>
+      <div class="step">
+        <div class="t">収集・選定</div>
+        <p class="b">RSS / 設定 YAML、重複排除、複数記事ピック</p>
+      </div>
+      <span class="arrow" aria-hidden="true">→</span>
+      <div class="step">
+        <div class="t">生成</div>
+        <p class="b">Gemini で「石男くん風」X 文案・出典ラベル整理</p>
+      </div>
+      <span class="arrow" aria-hidden="true">→</span>
+      <div class="step">
+        <div class="t">配信</div>
+        <p class="b">LINE Messaging API でプッシュ（分割テキスト）</p>
+      </div>
+    </div>
+    <div class="subflow">
+      <span class="hint">対話（開発時）</span>
+      <div class="step narrow">
+        <div class="t">Webhook</div>
+        <p class="b">返信が NG のとき再フェッチ・再プッシュ（署名検証）</p>
+      </div>
+    </div>
+
+    <h2>LINE の画面例（NG のあと次の候補）</h2>
+    <p class="note">
+      フロー図の補足として、実際のトーク画面があると「人が最後に OK / NG する」イメージが伝わりやすくなります。投影時はスマホの縦スクショなので、スライドに貼るより<strong>このページを拡大表示</strong>するか、画像だけ切り出して使うと見やすいです。
+    </p>
+    <figure class="doc-figure">
+      <img
+        src="line-ng-candidate-example.png"
+        alt="LINE公式アカウント「石男くんのX投稿文」のトーク。冒頭に「NGを受け取りました。次の候補です」、本日の候補のタイトルとURL、投稿判定の案内、X投稿案の本文、出典の表示がある。"
+        loading="lazy"
+        decoding="async"
+      />
+      <figcaption>
+        チャットで <strong>NG</strong> を送ると Webhook から次の候補を再取得し、<strong>「次の候補です」</strong>付きで届く例です。石男くん風の本文、OK/NG の案内、出典がまとまって表示されます（長文は複数メッセージに分かれることもあります）。
+      </figcaption>
+    </figure>
+
+    <div class="divider"></div>
+
+    <h3>進捗ダッシュボード（別ライン）</h3>
+    <div class="flow-row">
+      <div class="step">
+        <div class="t">Linear</div>
+        <p class="b">イシュー取得・フィルタ</p>
+      </div>
+      <span class="arrow" aria-hidden="true">→</span>
+      <div class="step">
+        <div class="t">健康度</div>
+        <p class="b">集計スクリプト</p>
+      </div>
+      <span class="arrow" aria-hidden="true">→</span>
+      <div class="step">
+        <div class="t">AI提案</div>
+        <p class="b">Gemini コメント生成</p>
+      </div>
+      <span class="arrow" aria-hidden="true">→</span>
+      <div class="step">
+        <div class="t">静的HTML</div>
+        <p class="b">ダッシュボード生成・公開（例: Surge）</p>
+      </div>
+    </div>
+
+    <h2>使っているサービスと役割</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>サービス</th>
+          <th>できること（このプロジェクト内）</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>GitHub / Actions</td>
+          <td>リポジトリにスクリプトと設定を置き、cron または手動で朝ニュース処理を実行。Secrets に API キーや LINE トークンを保存。</td>
+        </tr>
+        <tr>
+          <td>Google Gemini API</td>
+          <td>記事要約・文体指定の X 文案生成、ダッシュボード用の短い提案文など。</td>
+        </tr>
+        <tr>
+          <td>LINE Messaging API</td>
+          <td>ユーザー ID 宛てプッシュ、Webhook で返信イベント受信（NG 時の再実行トリガー）。</td>
+        </tr>
+        <tr>
+          <td>RSS / ニュース設定</td>
+          <td>YAML でソースやピック数を管理し、取得結果を JSON に残して追跡可能にする。</td>
+        </tr>
+        <tr>
+          <td>トンネル（例: ngrok）</td>
+          <td>ローカルの Webhook サーバーを LINE が叩ける公開 URL に繋ぐ（開発・検証用）。</td>
+        </tr>
+        <tr>
+          <td>静的ホスティング（例: Surge）</td>
+          <td>生成した dashboard.html を URL で共有（進捗ダッシュボード側）。</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>工夫したところ</h2>
+    <div class="callout info">
+      <strong>設計・品質</strong>
+      <p>設定（ソース・プロンプト・ピック数）をコードと同じリポジトリでバージョン管理し、誰が見ても「何をどう生成しているか」追えるようにした。</p>
+      <p>出典表示を集約サイト名に偏らせず、一次媒体に寄せるプロンプトと後処理で、読者に伝わるラベルに寄せた。</p>
+      <p>LINE は長文を複数メッセージに分割し、Webhook 側は署名検証・ユーザー ID 一致・デバウンスで、誤爆と連打を抑えた。</p>
+      <p>Windows と CI の両方で同じスクリプトが動くよう、エントリポイント判定やパス・改行まわりを揃えた。</p>
+    </div>
+
+    <h2>大変だったところ</h2>
+    <div class="callout warn">
+      <strong>運用と境界の押さえ所</strong>
+      <p>外部 API の認証エラー（キーの不足・改行混入・プレースホルダのまま）はログがなければ原因が見えにくい。Linear / Gemini / LINE それぞれで「期待するキーの形」を README とコードで一致させる必要があった。</p>
+      <p>LINE の Webhook は POST が本体で、トンネル URL の更新やチャネル設定の取り違いが起きやすい。応答メッセージのオンオフも挙動に効く。</p>
+      <p>GitHub Actions の cron は UTC 基準で、実際の実行時刻は遅延しうる。JST の「毎朝◯時」とはズレる前提で設計した。</p>
+    </div>
+
+    <h2>無料範囲でできること vs 有料で広げられること</h2>
+    <p class="note">いま無料枠・無料プランの組み合わせで成立させている範囲と、課金すると現実的に伸ばせる方向を整理した。</p>
+    <table>
+      <thead>
+        <tr>
+          <th>領域</th>
+          <th>無料（または低コスト）でできること</th>
+          <th>有料化・課金でできること（例）</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>生成 AI（Gemini）</td>
+          <td>無料枠内のトークンで文案・短い要約。開発・小規模配信に十分なことが多い。</td>
+          <td>従量・上位モデルで長文・高精度・高頻度。レート制限解除に近い安定運用。</td>
+        </tr>
+        <tr>
+          <td>LINE</td>
+          <td>開発者向けチャネルや無料メッセージ枠内でのプッシュ・Webhook 検証。</td>
+          <td>公式アカウントのプランアップで配信上限・オプション機能（リッチメニュー等）が拡張。</td>
+        </tr>
+        <tr>
+          <td>実行基盤（GitHub）</td>
+          <td>公開リポジトリなら Actions の無料分で定時実行。Secrets で鍵管理。</td>
+          <td>プライベート repo・大規模 runner・長時間ジョブはプラン次第で有料・クォータ増。</td>
+        </tr>
+        <tr>
+          <td>公開 URL（Webhook）</td>
+          <td>ngrok 無料で一時 URL（再起動で変わりやすい）。</td>
+          <td>固定ドメイン・予約サブドメイン、チーム機能などはプロバイダの有料枠。</td>
+        </tr>
+        <tr>
+          <td>常駐サーバー</td>
+          <td>ローカル PC + トンネルで検証。</td>
+          <td>VPS / PaaS / Cloud Run 等に常駐させ、トンネルなしで Webhook を安定運用。</td>
+        </tr>
+        <tr>
+          <td>X（Twitter）への自動投稿</td>
+          <td>手動コピペ前提なら API 不要。</td>
+          <td>X API の有料プラン・ビジネス要件に応じて自動ポスト・メトリクス取得が可能。</td>
+        </tr>
+        <tr>
+          <td>ダッシュボード公開</td>
+          <td>Surge 等の無料〜低額ホスティングで静的配信。</td>
+          <td>独自ドメイン・チーム・ステージングの使い分けはプランで拡張。</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="callout neutral">
+      <strong>デモの話し方のヒント</strong>
+      <p>「入力（RSS・設定）」「処理（選定・プロンプト）」「出力（LINE・JSON ログ）」の三段で説明し、障害時は「どの段でログが止まったか」を見せると理解が早い。</p>
+    </div>
+
+    <div class="surge-deploy">
+      <strong class="main">Surge で更新する手順</strong>
+      <ol>
+        <li>リポジトリルートで <code>npm run deploy:ai-school-surge</code>（初回のみ <code>npx surge login</code>）</li>
+        <li>または <code>cd docs/ai-school-morning-surge</code> のあと <code>npx surge . ads-ai-school-morning.surge.sh</code></li>
+      </ol>
+    </div>
+  </div>
+</body>
+</html>

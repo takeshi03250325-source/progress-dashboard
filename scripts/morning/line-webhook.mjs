@@ -30,6 +30,20 @@ const DEBOUNCE_MS = 8000;
 
 let pipelineBusy = false;
 
+/** パスを /webhook とマッチしやすく正規化（末尾スラッシュ・二重スラッシュ・URL デコード） */
+function normalizePathname(pathname) {
+  if (!pathname || pathname === "/") return "/";
+  let p = pathname;
+  try {
+    p = decodeURIComponent(p);
+  } catch {
+    /* そのまま */
+  }
+  p = p.replace(/\/{2,}/g, "/").replace(/\/+$/, "");
+  if (!p.startsWith("/")) p = "/" + p;
+  return p || "/";
+}
+
 function verifyLineSignature(rawBody, signature) {
   if (!CHANNEL_SECRET || !signature) return false;
   const hash = crypto.createHmac("sha256", CHANNEL_SECRET).update(rawBody, "utf8").digest("base64");
@@ -77,7 +91,7 @@ async function runNgPipeline(userId) {
   pipelineBusy = true;
   try {
     console.log("[webhook] NG -> runMorningFetch + sendLinePush");
-    await runMorningFetch();
+    await runMorningFetch({ excludeMorningRunPicks: true });
     await sendLinePush(null, {
       banner: "【NG を受け取りました。次の候補です】\n",
     });
@@ -89,24 +103,27 @@ async function runNgPipeline(userId) {
 }
 
 const server = http.createServer(async (req, res) => {
-  const url = new URL(req.url || "/", `http://${req.headers.host || "localhost"}`);
+  const rawUrl = req.url || "/";
+  const url = new URL(rawUrl, `http://${req.headers.host || "localhost"}`);
+  const pathNorm = normalizePathname(url.pathname);
+  const method = (req.method || "GET").toUpperCase();
 
-  if (req.method === "GET" && url.pathname === "/") {
+  console.log(`[webhook] ${method} ${rawUrl} -> pathNorm=${pathNorm}`);
+
+  if (method === "GET" && pathNorm === "/") {
     res.writeHead(200, { "Content-Type": "text/plain; charset=utf-8" });
     res.end("morning LINE webhook OK (POST /webhook)\n");
     return;
   }
 
-  /** ブラウザで /webhook を開くと GET になり 404 になりがちなので説明だけ返す（LINE 本体は POST） */
-  if (req.method === "GET" && url.pathname === "/webhook") {
+  if (method === "GET" && pathNorm === "/webhook") {
     res.writeHead(200, { "Content-Type": "text/plain; charset=utf-8" });
-    res.end(
-      "LINE Webhook の URL は正しいです。この画面は確認用です。実際のイベントは LINE から POST で届きます。\n",
-    );
+    res.end("webhook OK (LINE からの POST 待ち)\n");
     return;
   }
 
-  if (req.method !== "POST" || url.pathname !== "/webhook") {
+  if (method !== "POST" || pathNorm !== "/webhook") {
+    console.warn(`[webhook] 404: method=${method} pathNorm=${pathNorm} (期待: POST /webhook)`);
     res.writeHead(404);
     res.end();
     return;
@@ -132,7 +149,8 @@ const server = http.createServer(async (req, res) => {
 
   let payload;
   try {
-    payload = JSON.parse(rawBody);
+    const t = rawBody.trim();
+    payload = t === "" ? { events: [] } : JSON.parse(t);
   } catch {
     res.writeHead(400);
     res.end();
