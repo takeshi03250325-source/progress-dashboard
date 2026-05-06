@@ -6,13 +6,28 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    # 毎日 6:30 JST = 毎日 21:30 UTC（GitHub のスケジューラは数分遅延することがある）
+    # 毎日 6:30 JST（東京）相当 … cron は必ず UTC。JST 6:30 = 前日 UTC 21:30。
+    # GitHub の schedule は負荷により数分〜遅延することがある。
+    # ▼ LINE が届かないときのチェック（ほとんどがコレ）
+    #   - Repository secrets に LINE_CHANNEL_ACCESS_TOKEN と LINE_PUSH_TO_USER_ID があるか（.env は Actions で読めない）
+    #   - 既定ブランチにこの workflow があるか（schedule は既定ブランチのみ）
+    #   - フォークでは既定で schedule が無効なことがある
+    # Actions タブで「朝ニュース取得と LINE プッシュ」の失敗ログを確認。手動テストは workflow_dispatch で実行可能。
+    #
+    # 時刻の対応（cron は必ず UTC のみ）:
+    #   30 21 * * *  → 毎日 UTC 21:30 ＝ 日本時間 翌日 06:30（JST）
+    #   もし毎朝 ~9:00 JST に動いているなら、過去は "0 0 * * *"（UTC 深夜＝日本9時）の可能性あり。main のこの行を確認すること。
     - cron: "30 21 * * *"
 
 jobs:
   morning:
     runs-on: ubuntu-latest
     steps:
+      - name: 実行時刻の確認（定時が 6:30 JST 相当かログで見る）
+        run: |
+          echo "UTC=$(date -u '+%Y-%m-%d %H:%M:%S')"
+          echo "JST=$(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M:%S')"
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
@@ -28,15 +43,15 @@ jobs:
           MAGAZINE_GEMINI_API_KEY: ${{ secrets.MAGAZINE_GEMINI_API_KEY }}
           MAGAZINE_GEMINI_MODEL: ${{ secrets.MAGAZINE_GEMINI_MODEL }}
 
-      - name: 投稿履歴をコミット（転載除外用・変更時のみ）
+      - name: 投稿履歴・取得結果をコミット（転載除外・ローカル NG 同期用・変更時のみ）
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/posted-articles.json
+          git add data/posted-articles.json output/morning-run.json
           if git diff --staged --quiet; then
-            echo "No change to posted-articles.json"
+            echo "No change to posted-articles.json or morning-run.json"
           else
-            git commit -m "chore: update posted articles history [skip ci]"
+            git commit -m "chore: morning news posted history + run output [skip ci]"
             git push
           fi
 
