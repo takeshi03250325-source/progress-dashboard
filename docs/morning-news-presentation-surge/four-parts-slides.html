@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>新聞記事の自動化ツール｜4つのパーツ（スライド）</title>
+  <style>
+    :root {
+      --sun: #fff9e6;
+      --coral: #ff7b89;
+      --mint: #5eead4;
+      --sky: #38bdf8;
+      --lavender: #c4b5fd;
+      --gold: #fcd34d;
+      --text: #1e1b4b;
+      --text-soft: #4338ca;
+      --card-shadow: 0 12px 40px rgba(30, 27, 75, 0.12);
+    }
+    * { box-sizing: border-box; }
+    html {
+      scroll-snap-type: y mandatory;
+      scroll-behavior: smooth;
+    }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+      background: linear-gradient(165deg, #fff5f7 0%, #fffbeb 35%, #ecfeff 70%, #f5f3ff 100%);
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+    }
+    .slide {
+      min-height: 100vh;
+      scroll-snap-align: start;
+      scroll-snap-stop: always;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: clamp(24px, 5vw, 56px);
+      position: relative;
+    }
+    .slide--title {
+      background: radial-gradient(ellipse 80% 60% at 50% 20%, #fde68a 0%, transparent 55%),
+        linear-gradient(180deg, #fff7ed 0%, #fce7f3 50%, #e0f2fe 100%);
+    }
+    .slide--diagram {
+      background: linear-gradient(180deg, #fef3c7 0%, #fce7f3 100%);
+    }
+    .slide--part {
+      background: linear-gradient(180deg, #ecfeff 0%, #faf5ff 100%);
+    }
+    .slide--summary {
+      background: linear-gradient(135deg, #fef9c3 0%, #fde68a 40%, #fda4af 100%);
+    }
+    .inner {
+      width: 100%;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: clamp(2rem, 5vw, 3.25rem);
+      font-weight: 800;
+      text-align: center;
+      margin: 0 0 0.5em;
+      line-height: 1.25;
+      letter-spacing: 0.04em;
+      color: var(--text);
+      text-shadow: 0 2px 0 rgba(255, 255, 255, 0.8);
+    }
+    .subtitle {
+      font-size: clamp(1.25rem, 3vw, 1.75rem);
+      font-weight: 700;
+      text-align: center;
+      color: var(--text-soft);
+      margin: 0 0 1.25em;
+      line-height: 1.5;
+    }
+    .hint-bar {
+      text-align: center;
+      font-size: clamp(1rem, 2.2vw, 1.25rem);
+      font-weight: 600;
+      color: #7c3aed;
+      margin-top: 2em;
+      padding: 0.75em 1.25em;
+      background: rgba(255, 255, 255, 0.75);
+      border-radius: 999px;
+      display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: var(--card-shadow);
+    }
+    .slide > .inner > .hint-bar { align-self: center; }
+
+    /* 4パーツ横並び図 */
+    .four-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: clamp(12px, 2vw, 24px);
+      align-items: stretch;
+    }
+    @media (max-width: 900px) {
+      .four-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    @media (max-width: 520px) {
+      .four-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    .part-card {
+      background: #fff;
+      border-radius: 20px;
+      padding: clamp(18px, 3vw, 28px);
+      box-shadow: var(--card-shadow);
+      border: 4px solid;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      min-height: 280px;
+    }
+    .part-card:nth-child(1) { border-color: var(--coral); }
+    .part-card:nth-child(2) { border-color: var(--sky); }
+    .part-card:nth-child(3) { border-color: var(--mint); }
+    .part-card:nth-child(4) { border-color: var(--lavender); }
+    .part-card .num {
+      font-size: clamp(2.5rem, 6vw, 3.5rem);
+      font-weight: 900;
+      line-height: 1;
+      margin-bottom: 0.15em;
+    }
+    .part-card:nth-child(1) .num { color: var(--coral); }
+    .part-card:nth-child(2) .num { color: #0284c7; }
+    .part-card:nth-child(3) .num { color: #0d9488; }
+    .part-card:nth-child(4) .num { color: #7c3aed; }
+    .part-card h2 {
+      font-size: clamp(1.35rem, 3vw, 1.85rem);
+      font-weight: 800;
+      margin: 0 0 0.5em;
+      line-height: 1.3;
+    }
+    .part-card .def {
+      font-size: clamp(1.05rem, 2.2vw, 1.35rem);
+      font-weight: 600;
+      color: #475569;
+      line-height: 1.55;
+      flex: 1;
+    }
+    .arrows-row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      margin: 0.35em 0 0.75em;
+      color: #db2777;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+    }
+
+    /* 各パーツ詳細スライド */
+    .part-slide-card {
+      background: #fff;
+      border-radius: 28px;
+      padding: clamp(28px, 5vw, 48px);
+      box-shadow: var(--card-shadow);
+      border: 5px solid;
+      max-width: 920px;
+      margin: 0 auto;
+    }
+    .part-slide-card.trig { border-color: var(--coral); }
+    .part-slide-card.src { border-color: var(--sky); }
+    .part-slide-card.proc { border-color: var(--mint); }
+    .part-slide-card.out { border-color: var(--lavender); }
+    .part-slide-card .label {
+      font-size: clamp(1.15rem, 2.5vw, 1.45rem);
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      margin-bottom: 0.35em;
+    }
+    .part-slide-card.trig .label { color: #be123c; }
+    .part-slide-card.src .label { color: #0369a1; }
+    .part-slide-card.proc .label { color: #0f766e; }
+    .part-slide-card.out .label { color: #6d28d9; }
+    .part-slide-card h2 {
+      font-size: clamp(1.85rem, 4vw, 2.75rem);
+      font-weight: 900;
+      margin: 0 0 0.6em;
+      line-height: 1.25;
+    }
+    .part-slide-card .def-big {
+      font-size: clamp(1.2rem, 2.8vw, 1.65rem);
+      line-height: 1.65;
+      color: #334155;
+      font-weight: 600;
+      margin: 0 0 1.25em;
+      padding: 1em 1.15em;
+      background: linear-gradient(90deg, #fffbeb 0%, #fdf4ff 100%);
+      border-radius: 16px;
+      border-left: 6px solid var(--gold);
+    }
+    .part-slide-card .example-title {
+      font-size: clamp(1.1rem, 2.2vw, 1.35rem);
+      font-weight: 800;
+      color: var(--text);
+      margin: 0 0 0.5em;
+    }
+    .part-slide-card ul {
+      margin: 0;
+      padding-left: 1.35em;
+      font-size: clamp(1.1rem, 2.4vw, 1.45rem);
+      line-height: 1.75;
+      font-weight: 600;
+      color: #1e293b;
+    }
+    .part-slide-card li { margin-bottom: 0.45em; }
+
+    /* まとめスライド：縦フロー */
+    .flow-stack {
+      display: flex;
+      flex-direction: column;
+      gap: clamp(12px, 2vw, 20px);
+      align-items: center;
+      max-width: 720px;
+      margin: 0 auto;
+    }
+    .flow-box {
+      width: 100%;
+      background: #fff;
+      border-radius: 20px;
+      padding: clamp(16px, 3vw, 26px) clamp(20px, 4vw, 36px);
+      font-size: clamp(1.15rem, 2.5vw, 1.5rem);
+      font-weight: 700;
+      text-align: center;
+      box-shadow: var(--card-shadow);
+      border: 4px solid;
+    }
+    .flow-box.b1 { border-color: var(--coral); color: #9f1239; }
+    .flow-box.b2 { border-color: var(--sky); color: #0369a1; }
+    .flow-box.b3 { border-color: var(--mint); color: #0f766e; }
+    .flow-box.b4 { border-color: var(--lavender); color: #5b21b6; }
+    .flow-chev {
+      font-size: clamp(1.5rem, 3vw, 2rem);
+      color: #e11d48;
+      font-weight: 900;
+    }
+
+    nav.keys {
+      position: fixed;
+      bottom: 16px;
+      right: 16px;
+      z-index: 10;
+      font-size: clamp(0.9rem, 1.8vw, 1.05rem);
+      font-weight: 700;
+      background: rgba(255, 255, 255, 0.92);
+      padding: 10px 16px;
+      border-radius: 14px;
+      box-shadow: var(--card-shadow);
+      color: #64748b;
+    }
+    @media print {
+      html { scroll-snap-type: none; }
+      .slide {
+        min-height: auto;
+        page-break-after: always;
+        padding: 32px;
+      }
+      nav.keys { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="keys" aria-live="polite">↑↓ または PageUp / PageDown でスライド移動</nav>
+
+  <!-- 1 タイトル -->
+  <section class="slide slide--title" aria-label="スライド1">
+    <div class="inner">
+      <h1>新聞記事の自動化ツール</h1>
+      <p class="subtitle">説明するときの「4つのパーツ」で整理する</p>
+      <p class="subtitle" style="font-size: clamp(1.1rem, 2.5vw, 1.45rem); font-weight: 600; color: #64748b;">
+        トリガー → ソース元 → 処理する場所 → 届ける先
+      </p>
+      <div class="hint-bar">文字は大きめ・配色は明るめ（発表・投影向け）</div>
+    </div>
+  </section>
+
+  <!-- 2 4パーツ一覧図解 -->
+  <section class="slide slide--diagram" aria-label="スライド2">
+    <div class="inner">
+      <h1 style="margin-bottom: 0.35em;">4つのパーツ（ひと目の図）</h1>
+      <p class="subtitle" style="margin-bottom: 1.25em;">左から順にデータが流れるイメージ</p>
+      <div class="arrows-row" aria-hidden="true">→ → →</div>
+      <div class="four-grid">
+        <article class="part-card">
+          <div class="num">1</div>
+          <h2>トリガー</h2>
+          <p class="def">いつ・何をきっかけに動くかを決める</p>
+        </article>
+        <article class="part-card">
+          <div class="num">2</div>
+          <h2>ソース元</h2>
+          <p class="def">データがある場所を決める</p>
+        </article>
+        <article class="part-card">
+          <div class="num">3</div>
+          <h2>処理する場所</h2>
+          <p class="def">データを加工してレポートにする場所を決める</p>
+        </article>
+        <article class="part-card">
+          <div class="num">4</div>
+          <h2>届ける先</h2>
+          <p class="def">完成したレポートを届ける先を決める</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3 トリガー -->
+  <section class="slide slide--part" aria-label="スライド3">
+    <div class="inner">
+      <article class="part-slide-card trig">
+        <p class="label">PART 1</p>
+        <h2>トリガー</h2>
+        <p class="def-big">いつ・何をきっかけに動くかを決める</p>
+        <p class="example-title">このプロジェクトでの例</p>
+        <ul>
+          <li><strong>定時：</strong>GitHub Actions のスケジュール（毎朝・日本時間 6:30 前後のイメージ）</li>
+          <li><strong>手動：</strong>Actions の「このワークフローを実行」（workflow_dispatch）</li>
+          <li><strong>任意：</strong>LINE で「NG」と返したとき Webhook が再取得のきっかけに（開発・検証時）</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <!-- 4 ソース元 -->
+  <section class="slide slide--part" aria-label="スライド4">
+    <div class="inner">
+      <article class="part-slide-card src">
+        <p class="label">PART 2</p>
+        <h2>ソース元</h2>
+        <p class="def-big">データがある場所を決める</p>
+        <p class="example-title">このプロジェクトでの例</p>
+        <ul>
+          <li><strong>RSS：</strong>各メディアのフィード（設定は YAML などで管理）</li>
+          <li><strong>Google ニュース：</strong>検索ワード（例：建設業×日本）で記事 URL を取得</li>
+          <li><strong>設定ファイル：</strong>どのソースを何件読むか・絞り込み条件をコードと一緒にバージョン管理</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <!-- 5 処理する場所 -->
+  <section class="slide slide--part" aria-label="スライド5">
+    <div class="inner">
+      <article class="part-slide-card proc">
+        <p class="label">PART 3</p>
+        <h2>処理する場所</h2>
+        <p class="def-big">データを加工してレポートにする場所を決める</p>
+        <p class="example-title">このプロジェクトでの例</p>
+        <ul>
+          <li><strong>実行環境：</strong>GitHub Actions 上の Linux（npm / Node でスクリプト実行）</li>
+          <li><strong>加工内容：</strong>記事の選定・重複除外・AI（Gemini）で X 投稿案の文案生成</li>
+          <li><strong>出力物：</strong>当日の候補リスト・投稿履歴 JSON（リポジトリに保存される）</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <!-- 6 届ける先 -->
+  <section class="slide slide--part" aria-label="スライド6">
+    <div class="inner">
+      <article class="part-slide-card out">
+        <p class="label">PART 4</p>
+        <h2>届ける先</h2>
+        <p class="def-big">完成したレポートを届ける先を決める</p>
+        <p class="example-title">このプロジェクトでの例</p>
+        <ul>
+          <li><strong>LINE プッシュ：</strong>Messaging API で指定ユーザーにテキストを分割送信</li>
+          <li><strong>中身：</strong>本日の候補・X 投稿案・出典などをまとめて届ける</li>
+          <li><strong>Secrets：</strong>チャネルのアクセストークン・届け先ユーザー ID は GitHub に安全に保管</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <!-- 7 まとめ -->
+  <section class="slide slide--summary" aria-label="スライド7">
+    <div class="inner">
+      <h1 style="margin-bottom: 0.75em;">一周まわすとこうなる</h1>
+      <div class="flow-stack">
+        <div class="flow-box b1">① トリガー … 毎朝の定時・手動・（任意）Webhook</div>
+        <span class="flow-chev">▼</span>
+        <div class="flow-box b2">② ソース元 … RSS・Google ニュース・YAML 設定</div>
+        <span class="flow-chev">▼</span>
+        <div class="flow-box b3">③ 処理 … GitHub Actions で取得・選定・AI 文案・JSON 保存</div>
+        <span class="flow-chev">▼</span>
+        <div class="flow-box b4">④ 届ける先 … LINE にプッシュ（自分のスマホで確認）</div>
+      </div>
+      <p class="subtitle" style="margin-top: 1.5em; font-size: clamp(1.05rem, 2.2vw, 1.35rem); color: #581c87;">
+        説明するときは、この 4 語を口ぐせにすると聞き手が迷いにくいです。
+      </p>
+    </div>
+  </section>
+</body>
+</html>
