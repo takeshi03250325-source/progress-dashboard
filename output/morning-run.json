@@ -1,56 +1,143 @@
 {
-  "generatedAt": "2026-05-04T06:45:47.368Z",
+  "generatedAt": "2026-06-28T22:35:17.581Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 1,
+  "pickCountActual": 3,
   "candidates": [
     {
-      "title": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター - note",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
-      "pubDate": "Sun, 03 May 2026 19:19:14 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6000523586,
-      "contentSnippet": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター  note",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
-      "fingerprint": "b85aceb8b76acad56dc5a0a0dbe02343fee6ee56a293e96418268e91185ca8c2"
+      "title": "1位は「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+      "pubDate": "2026-06-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年6月29日～7月5日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+      "fingerprint": "7c220baf87013fa228ceea5454e9ec456053465496c4b7c4ba987c1eec9b58dd"
+    },
+    {
+      "title": "設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02690/",
+      "pubDate": "2026-06-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "広島県が発注した砂防工事で設計ミスが判明し、完成した河川構造物を全て造り直すことになった。越流水深を本来よりも0.2m低く設定していたため、強度が不足した。再構築に掛かる費用は、設計者のアース開発コンサルタント（広島県呉市）が全額負担する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02690/",
+      "fingerprint": "4b6c543084dcfdcf609f154bb84d98fb1e0779f5f632653e7c925626325e1342"
+    },
+    {
+      "title": "1位は「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+      "pubDate": "2026-06-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年6月29日～7月5日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+      "fingerprint": "7c220baf87013fa228ceea5454e9ec456053465496c4b7c4ba987c1eec9b58dd"
+    },
+    {
+      "title": "建築学会が建築士法改正に「注文」、大学卒業前の1級建築士受験に懸念",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02850/",
+      "pubDate": "2026-06-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "建築士法を改正し、大学の学部在学中に1級建築士試験の受験を可能にする議論が進む中、日本建築学会と全国建築系大学教育連絡協議会が、教育への影響を「憂慮している」との意見書を国土交通省に提出した。今後、全国建築系大学教育連絡協議会によるアンケート調査などを踏まえ、公式に意見表明する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02850/",
+      "fingerprint": "e5ec0e61c8e1a84e307d9751630563ad038e0c1bab1a8af5bb7afea2814a3533"
+    },
+    {
+      "title": "「技術士の近道」登録まだ100人、周知に課題　若手技術者の育成支援",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02686/",
+      "pubDate": "2026-06-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "国家資格「技術士」の取得を目指す若手技術者の支援などを目的とした日本技術士会の「IPD（初期専門能力開発）事業」が、登録者数の初動で伸び悩んでいる。同事業の対象となる「修習技術者」は毎年およそ2万人存在する。しかし、事業開始から約2カ月たった2026年5月末時点の登録者数は100人にとどまり、同会は周知に頭を悩ます。文部科学省の技術士分科会は、IPDの登録者に対する技術士取得に向けたインセンティブの付与など次の一手を検討している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02686/",
+      "fingerprint": "fef9a24d03778f7eec65bdb39a7590ebcc799f644f977d95cbe19daa24144c51"
+    },
+    {
+      "title": "最大180kgのドアに対応するトラックレールタイプのドアクローザー",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01036/",
+      "pubDate": "2026-06-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "リョービは、最大で180kgの重さがあるドアに対応した「トラックレールタイプ ドアクローザ GT-6V」を2026年4月に発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01036/",
+      "fingerprint": "479486e8a4e4b24cace392f1e551f78a53d76e997c5f5268d72ee5c85d7d6f7a"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター - note",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
-        "pubDate": "Sun, 03 May 2026 19:19:14 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 1.6000523586,
-        "contentSnippet": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター  note",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
-        "fingerprint": "b85aceb8b76acad56dc5a0a0dbe02343fee6ee56a293e96418268e91185ca8c2"
+        "title": "1位は「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+        "pubDate": "2026-06-28T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年6月29日～7月5日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+        "fingerprint": "7c220baf87013fa228ceea5454e9ec456053465496c4b7c4ba987c1eec9b58dd"
       },
-      "xDraft": "【本文】\nインフロニア・ホールディングス（5076）が「脱・建設依存」を進め、利益を急拡大させているという記事を読みました。配当利回りが4%と高いことから、機関投資家からも熱い視線が注がれているようです。\n\n建設事業だけでなく、インフラ運営など多様な事業ポートフォリオを持つ企業が注目されるのは、現代の建設・土木業界が目指す姿の一つだと感じます。持続的なまちづくりを支える上で、安定した収益基盤と先進的な事業展開は、僕たち現場の人間にとっても希望になりますね。\n\n出典：日本個別株デューデリジェンスセンター - note\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3NTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5\n\n【抜粋元】\n「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター noteの記事を参考にしました。インフロニア・ホールディングスの事業戦略が注目されている点に焦点を当てて書いています。\n\n【判定】OK\n\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
+      "xDraft": "【本文】\n日経クロステック土木にて、過去の人気記事ランキングが公開されました。1位は、下水道管に遮られてトンネル掘削が中止となった事例について、責任の所在を発注者と受注者のどちらに帰すべきかを論じた記事です。期間限定で無料公開されています。\n地下埋設物のトラブルは、事前調査の限界と現場の現実がぶつかる難しい課題ですね。こうした事態における責任のあり方を考えることは、業界全体の適正なリスク分担を追求する上で、非常に重要な一歩だと僕は思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/\n\n【抜粋元】\n日経クロステック土木の「過去の人気記事ランキング」から、1位のトンネル工事中止事例を紹介しました。地下工事の予期せぬ障害物に対する責任分担という、業界の実務に関連の深いテーマを扱っています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木の「過去の人気記事ランキング」から、1位のトンネル工事中止事例を紹介しました。地下工事の予期せぬ障害物に対する責任分担という、業界の実務に関連の深いテーマを扱っています。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02690/",
+        "pubDate": "2026-06-28T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "広島県が発注した砂防工事で設計ミスが判明し、完成した河川構造物を全て造り直すことになった。越流水深を本来よりも0.2m低く設定していたため、強度が不足した。再構築に掛かる費用は、設計者のアース開発コンサルタント（広島県呉市）が全額負担する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02690/",
+        "fingerprint": "4b6c543084dcfdcf609f154bb84d98fb1e0779f5f632653e7c925626325e1342"
+      },
+      "xDraft": "【本文】\n広島県発注の砂防工事で、設計ミスにより完成済みの構造物をすべて造り直す事態となりました。越流水深を本来より0.2m低く設定したことで強度が不足し、設計者が再構築費用を全額負担します。\nわずか20cmの差が構造全体の安全性を左右するという事実に、土木設計の責任の重さを改めて感じます。現場で一度完成したものをすべて取り壊して造り直すという決断は、関係者の方々にとっても非常に苦しいものだったはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02690/\n\n【抜粋元】\n広島県発注の砂防工事において、設計条件（越流水深）の誤りから強度不足が判明し、完成済みの構造物を全撤去・再構築することになったニュースです。設計会社が全額費用負担する点についても触れています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "広島県発注の砂防工事において、設計条件（越流水深）の誤りから強度不足が判明し、完成済みの構造物を全撤去・再構築することになったニュースです。設計会社が全額費用負担する点についても触れています。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+        "pubDate": "2026-06-28T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 2,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年6月29日～7月5日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+        "fingerprint": "7c220baf87013fa228ceea5454e9ec456053465496c4b7c4ba987c1eec9b58dd"
+      },
+      "xDraft": "【本文】\n日経クロステック土木面が、2025年6月29日～7月5日に読まれた記事のランキングを公開し、これらを2026年6月29日～7月5日の期間で無料で読めるようにしているそうです。その中でも特に注目は、1位にランクインした「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」という見出しです。\n\nトンネル掘削中止という事態の背景にある「下水道管」の存在は、計画段階での地中情報把握の重要性を強く示唆していますね。発注者と受注者、双方の責任について議論されるでしょうが、僕は、この件から業界全体として何を学び、どう再発防止に繋げるかが最も大切だと考えます。こういう事例から学ぶことは本当に多いです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/\n\n【抜粋元】\nこの投稿は、日経クロステック土木面が公開した、過去記事ランキングの紹介記事を参考に作成しました。特に、2025年6月29日～7月5日に読まれた記事が2026年6月29日～7月5日に無料公開されていること、そして1位の「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」という見出しを主な情報源としています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター noteの記事を参考にしました。インフロニア・ホールディングスの事業戦略が注目されている点に焦点を当てて書いています。",
+      "xDraftExcerptSummary": "この投稿は、日経クロステック土木面が公開した、過去記事ランキングの紹介記事を参考に作成しました。特に、2025年6月29日～7月5日に読まれた記事が2026年6月29日～7月5日に無料公開されていること、そして1位の「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」という見出しを主な情報源としています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター - note",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
-    "pubDate": "Sun, 03 May 2026 19:19:14 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 1.6000523586,
-    "contentSnippet": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター  note",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
-    "fingerprint": "b85aceb8b76acad56dc5a0a0dbe02343fee6ee56a293e96418268e91185ca8c2"
+    "title": "1位は「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+    "pubDate": "2026-06-28T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 2.4,
+    "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年6月29日～7月5日に無料で読めるようにしました。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
+    "fingerprint": "7c220baf87013fa228ceea5454e9ec456053465496c4b7c4ba987c1eec9b58dd"
   },
-  "xDraft": "【本文】\nインフロニア・ホールディングス（5076）が「脱・建設依存」を進め、利益を急拡大させているという記事を読みました。配当利回りが4%と高いことから、機関投資家からも熱い視線が注がれているようです。\n\n建設事業だけでなく、インフラ運営など多様な事業ポートフォリオを持つ企業が注目されるのは、現代の建設・土木業界が目指す姿の一つだと感じます。持続的なまちづくりを支える上で、安定した収益基盤と先進的な事業展開は、僕たち現場の人間にとっても希望になりますね。\n\n出典：日本個別株デューデリジェンスセンター - note\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3NTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5\n\n【抜粋元】\n「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター noteの記事を参考にしました。インフロニア・ホールディングスの事業戦略が注目されている点に焦点を当てて書いています。\n\n【判定】OK\n\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
+  "xDraft": "【本文】\n日経クロステック土木にて、過去の人気記事ランキングが公開されました。1位は、下水道管に遮られてトンネル掘削が中止となった事例について、責任の所在を発注者と受注者のどちらに帰すべきかを論じた記事です。期間限定で無料公開されています。\n地下埋設物のトラブルは、事前調査の限界と現場の現実がぶつかる難しい課題ですね。こうした事態における責任のあり方を考えることは、業界全体の適正なリスク分担を追求する上で、非常に重要な一歩だと僕は思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/\n\n【抜粋元】\n日経クロステック土木の「過去の人気記事ランキング」から、1位のトンネル工事中止事例を紹介しました。地下工事の予期せぬ障害物に対する責任分担という、業界の実務に関連の深いテーマを扱っています。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-2.5-flash",
+  "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター noteの記事を参考にしました。インフロニア・ホールディングスの事業戦略が注目されている点に焦点を当てて書いています。",
+  "xDraftExcerptSummary": "日経クロステック土木の「過去の人気記事ランキング」から、1位のトンネル工事中止事例を紹介しました。地下工事の予期せぬ障害物に対する責任分担という、業界の実務に関連の深いテーマを扱っています。",
   "xDraftAlternates": [],
   "errors": []
 }
