@@ -1,40 +1,90 @@
 {
-  "generatedAt": "2026-06-29T22:35:33.509Z",
+  "generatedAt": "2026-06-30T22:49:21.734Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 3,
-  "skippedJapanFocus": 0,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
+      "title": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVVdFakFnVHdRU3FDYUVsRFl3TlF4UXV4WGFHV1UzaTlrT1gtem0zbGxZZ29FNzVSNDhRTEowYlgyN2pDUVdmMVIwTE9KU3p3dUVZVGQ2Slk0elhTbl9jdzBkdDZ0Q1JZeGZ6aHc4dEJWT0VCUDk1V2YzRQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 09:00:28 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4045290252,
+      "contentSnippet": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入  ニコニコニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVVdFakFnVHdRU3FDYUVsRFl3TlF4UXV4WGFHV1UzaTlrT1gtem0zbGxZZ29FNzVSNDhRTEowYlgyN2pDUVdmMVIwTE9KU3p3dUVZVGQ2Slk0elhTbl9jdzBkdDZ0Q1JZeGZ6aHc4dEJWT0VCUDk1V2YzRQ?oc=5",
+      "fingerprint": "fc1d89d7ca3bb05aa2714cab875ec119959e6442a7ab8c116d589336b16cdae1"
+    },
+    {
       "title": "「人」 日本道路建設業協会中部支部長 杉山雅浩氏 - 建通新聞",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXRJeURpOEstWWMtcVNuVTlMMFVSbm9EWndOUVJJWXdmOW9zYVg5aXBCSTZzZDNxMTdfblgtREFmQjIzQmphOFBMNzNJTmZJaDdLYXBSQWRjemZ0VHBEcFVTVW9VN1B2dkJxX3o1Y1FuSjhUOWRQQlZxSVJGdGpYNA?oc=5",
-      "pubDate": "Mon, 29 Jun 2026 20:02:07 GMT",
+      "pubDate": "Mon, 29 Jun 2026 20:00:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4044869943,
+      "score": 3.40448688,
       "contentSnippet": "「人」 日本道路建設業協会中部支部長 杉山雅浩氏  建通新聞",
       "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXRJeURpOEstWWMtcVNuVTlMMFVSbm9EWndOUVJJWXdmOW9zYVg5aXBCSTZzZDNxMTdfblgtREFmQjIzQmphOFBMNzNJTmZJaDdLYXBSQWRjemZ0VHBEcFVTVW9VN1B2dkJxX3o1Y1FuSjhUOWRQQlZxSVJGdGpYNA?oc=5",
       "fingerprint": "c73521ca04ea59813b9412a826ac5fb8242d02b9295545fd2449ebd36b7740d8"
     },
     {
-      "title": "1位は「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
-      "pubDate": "2026-06-28T20:00:00.000Z",
+      "title": "清水建設　鉄筋作業に「フィジカルAI」、現場にロボット導入",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年6月29日～7月5日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
-      "fingerprint": "7c220baf87013fa228ceea5454e9ec456053465496c4b7c4ba987c1eec9b58dd"
+      "contentSnippet": "清水建設は鉄筋の組み立てや結束などの作業で、機械やロボットを自律的に制御する「フィジカルAI（人工知能）」を活用する。スイスのスタートアップと連携し、27年3月までに国内の建設現場で導入する方針だ。自律制御のロボットで、鉄筋ユニットの製造を省力化する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
+      "fingerprint": "c506fc516a47dc39bf05259cc81d99d491c84bd77da884395d0c2f17b3613393"
     },
     {
-      "title": "設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02690/",
-      "pubDate": "2026-06-28T20:00:00.000Z",
+      "title": "見えてきた「富岳NEXT」の輪郭、ポイントはメモリー　先端技術を深掘り",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "広島県が発注した砂防工事で設計ミスが判明し、完成した河川構造物を全て造り直すことになった。越流水深を本来よりも0.2m低く設定していたため、強度が不足した。再構築に掛かる費用は、設計者のアース開発コンサルタント（広島県呉市）が全額負担する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02690/",
-      "fingerprint": "4b6c543084dcfdcf609f154bb84d98fb1e0779f5f632653e7c925626325e1342"
+      "contentSnippet": "理化学研究所や富士通が、スーパーコンピューター「富岳」の後継機として開発を進める「富岳NEXT」の輪郭が見えてきた。演算性能を過度に追い求めた富岳の反省から、「使われる計算機」を目指し、AI中心の設計思想を取り入れる。詳しくリポートする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
+      "fingerprint": "81a5ea13a5bb92a2c0984cf6a6543a94f30c0b8a02c486e23a60b31ed93d0854"
+    },
+    {
+      "title": "戦略17分野で「防災・国土強靱化」に2.6兆円、経済波及効果14.5兆円と試算",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02695/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "政府は日本の経済成長をけん引する「戦略17分野」に対し、2040年度までに総額370兆円超と想定する官民投資の工程表を取りまとめた。そのうち「防災・国土強靱（きょうじん）化」分野では30年度までに2.6兆円を投じる。自動施工・遠隔施工やインフラの老朽化対策などを含めた防災技術を、開発から実装まで一貫して支援。30年度までに14.5兆円の経済波及効果を生み出し、海外展開も図る。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02695/",
+      "fingerprint": "57beac2b9a08fc384c606facdd31d9791d67b5c4a2666659803de3c0d4713359"
+    },
+    {
+      "title": "清水建設　鉄筋作業に「フィジカルAI」、現場にロボット導入",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "清水建設は鉄筋の組み立てや結束などの作業で、機械やロボットを自律的に制御する「フィジカルAI（人工知能）」を活用する。スイスのスタートアップと連携し、27年3月までに国内の建設現場で導入する方針だ。自律制御のロボットで、鉄筋ユニットの製造を省力化する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
+      "fingerprint": "c506fc516a47dc39bf05259cc81d99d491c84bd77da884395d0c2f17b3613393"
+    },
+    {
+      "title": "見えてきた「富岳NEXT」の輪郭、ポイントはメモリー　先端技術を深掘り",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "理化学研究所や富士通が、スーパーコンピューター「富岳」の後継機として開発を進める「富岳NEXT」の輪郭が見えてきた。演算性能を過度に追い求めた富岳の反省から、「使われる計算機」を目指し、AI中心の設計思想を取り入れる。詳しくリポートする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
+      "fingerprint": "81a5ea13a5bb92a2c0984cf6a6543a94f30c0b8a02c486e23a60b31ed93d0854"
+    },
+    {
+      "title": "木造ビルの”欄間”に鋼材ダンパー設置、鹿島が独自の制振技術開発",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02855/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "鹿島は、伝統的な木造建築の技術と最新の制振技術を融合させた「欄間制震システム」を開発した。2029年中の竣工を目指す木造フラグシップビル「東北支店ビル」（仙台市）に目玉技術として導入する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02855/",
+      "fingerprint": "d6efd51c11dcd45f56b4833e34794bff37011fa247c95217652fefed04988ab1"
     },
     {
       "title": "BIG「NOT A HOTEL」を詳細解説、瀬戸内海の島に輝く絶景建築",
@@ -47,34 +97,44 @@
       "fingerprint": "37b994979d26e6133d5fd357028e65539d4856d4d4f63a41316efd1dbd52bd3b"
     },
     {
-      "title": "1位は「下水道管に遮られトンネル掘削中止、大失態の責任は発注者か受注者か」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
-      "pubDate": "2026-06-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年6月29日～7月5日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/031200371/",
-      "fingerprint": "7c220baf87013fa228ceea5454e9ec456053465496c4b7c4ba987c1eec9b58dd"
+      "title": "浴室の変更依頼　工期に余裕と2週間放置、「忘れていたのか」とお客が叱責",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03495/030500012/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "浴室の仕様変更依頼を2週間放置していた問題。工期に余裕があると判断して対応を急がなかったが、お客から「本当は忘れていたのではないのか。なぜこんなに時間がかかるのか」と厳しい叱責を受けた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03495/030500012/",
+      "fingerprint": "bda390ef51e6acfda80ae909a6927fe762e0a9d2c65d637b71cfff9e589c9c0e"
     },
     {
-      "title": "建築学会が建築士法改正に「注文」、大学卒業前の1級建築士受験に懸念",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02850/",
-      "pubDate": "2026-06-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "建築士法を改正し、大学の学部在学中に1級建築士試験の受験を可能にする議論が進む中、日本建築学会と全国建築系大学教育連絡協議会が、教育への影響を「憂慮している」との意見書を国土交通省に提出した。今後、全国建築系大学教育連絡協議会によるアンケート調査などを踏まえ、公式に意見表明する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02850/",
-      "fingerprint": "e5ec0e61c8e1a84e307d9751630563ad038e0c1bab1a8af5bb7afea2814a3533"
+      "title": "14日間で習得！　日経クロステックがさらに役立つ、3つのステップ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00039/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックには様々な機能があります。これらの機能を使いこなして、日経クロステックの記事を仕事や学びに役立てましょう。そのノウハウを14日間で習得するための3つのステップを紹介します。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00039/",
+      "fingerprint": "68c7c6b53ce0e70c223774522c71f0426a2ee1d85b4d30a4eb2fe85ecba2bd79"
     },
     {
-      "title": "日本型枠／標準労務単価の目安公表／六つの躯体種別対象に - 日刊建設工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TTC04Z1FHdGJQQUtDcnpqT1JsZlRLMzFCNXVGNllMdExiaXc5aGlya3Z6aU1IRndncHhCdUZzRFBXZ0hqaTZz?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 21:02:39 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6044125031,
-      "contentSnippet": "日本型枠／標準労務単価の目安公表／六つの躯体種別対象に  日刊建設工業新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TTC04Z1FHdGJQQUtDcnpqT1JsZlRLMzFCNXVGNllMdExiaXc5aGlya3Z6aU1IRndncHhCdUZzRFBXZ0hqaTZz?oc=5",
-      "fingerprint": "b8df6de73e29403fc0d8c0d63aa6a8d82cc5a6e2b504703a7043db74d1e05e03"
+      "title": "高さ31.5mの帝国ホテル 京都、1泊300万円スイートは祇園の特等席",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03129/062500031/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "「帝国ホテル 京都」が2026年3月、花街として人気の祇園で開業した。帝国ホテルにとって30年ぶりの新規ホテルで、6階にある最上位の客室「インペリアルスイート」は宿泊料金が1泊300万円で、京都の街並みを見渡せる祇園の特等席だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03129/062500031/",
+      "fingerprint": "6a3f8ae14c20523dc53c3399af7e9ee91ba1a75189526bf20cb9ffc6c31f2d80"
+    },
+    {
+      "title": "KDDI、ゼロからGPUクラウド設計　同業さくらインターネットに「弟子入り」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/062300028/",
+      "pubDate": "2026-06-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "「この業界に新規参入したいので、先輩企業として我々にノウハウを伝授していただけませんか」――。KDDIは堺データセンターを拠点とするGPUクラウドサービスの立ち上げに当たり、同業他社に「弟子入り」を請うた。飛び込んだ先輩企業も、それに快く応じた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/062300028/",
+      "fingerprint": "6fc66dcc46858337eadccbf294fa64353df7d803921138defc221b8dd68803cb"
     },
     {
       "title": "談合に関与した首都高が受注者に違約金、道路清掃4社に30億円請求",
@@ -95,109 +155,79 @@
       "contentSnippet": "国内最大級の調節池プロジェクトである荒川第二・第三調節池（埼玉県さいたま市・川越市・上尾市）のうち第二調節池の一部区間が完成し、国土交通省荒川上流河川事務所が供用を開始した。完成した区間の洪水調節容量は第二調節池全体の3割程度だが、東京ドーム約10個分の約1200万m3に上る。供用で埼玉県から東京都へ貫流する荒川の流域の治水を強化する。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02689/",
       "fingerprint": "dab026a224c58af91393bc415d61c290b89ae34f19c6505e12e1d129f051b9a9"
-    },
-    {
-      "title": "「技術士の近道」登録まだ100人、周知に課題　若手技術者の育成支援",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02686/",
-      "pubDate": "2026-06-28T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "国家資格「技術士」の取得を目指す若手技術者の支援などを目的とした日本技術士会の「IPD（初期専門能力開発）事業」が、登録者数の初動で伸び悩んでいる。同事業の対象となる「修習技術者」は毎年およそ2万人存在する。しかし、事業開始から約2カ月たった2026年5月末時点の登録者数は100人にとどまり、同会は周知に頭を悩ます。文部科学省の技術士分科会は、IPDの登録者に対する技術士取得に向けたインセンティブの付与など次の一手を検討している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02686/",
-      "fingerprint": "fef9a24d03778f7eec65bdb39a7590ebcc799f644f977d95cbe19daa24144c51"
-    },
-    {
-      "title": "中東情勢の混乱で建設投資に暗雲、2028年は3.8％下振れも　日本総研",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02854/",
-      "pubDate": "2026-06-29T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "中東情勢の混乱が、国内の建設投資を数年にわたって押し下げる――。日本総合研究所（日本総研）は、実質建設投資額に関する試算結果を発表。2026年以降の実質建設投資額の見通しが、数％下振れする可能性を指摘した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02854/",
-      "fingerprint": "bfca47f92a94cbe5174b2a59b6668b33c52d46ff8c76fb857dfa27283380d424"
-    },
-    {
-      "title": "最大180kgのドアに対応するトラックレールタイプのドアクローザー",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01036/",
-      "pubDate": "2026-06-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "リョービは、最大で180kgの重さがあるドアに対応した「トラックレールタイプ ドアクローザ GT-6V」を2026年4月に発売した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01036/",
-      "fingerprint": "479486e8a4e4b24cace392f1e551f78a53d76e997c5f5268d72ee5c85d7d6f7a"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "「人」 日本道路建設業協会中部支部長 杉山雅浩氏 - 建通新聞",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXRJeURpOEstWWMtcVNuVTlMMFVSbm9EWndOUVJJWXdmOW9zYVg5aXBCSTZzZDNxMTdfblgtREFmQjIzQmphOFBMNzNJTmZJaDdLYXBSQWRjemZ0VHBEcFVTVW9VN1B2dkJxX3o1Y1FuSjhUOWRQQlZxSVJGdGpYNA?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 20:02:07 GMT",
+        "title": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入 - ニコニコニュース",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVVdFakFnVHdRU3FDYUVsRFl3TlF4UXV4WGFHV1UzaTlrT1gtem0zbGxZZ29FNzVSNDhRTEowYlgyN2pDUVdmMVIwTE9KU3p3dUVZVGQ2Slk0elhTbl9jdzBkdDZ0Q1JZeGZ6aHc4dEJWT0VCUDk1V2YzRQ?oc=5",
+        "pubDate": "Tue, 30 Jun 2026 09:00:28 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.4044869943,
-        "contentSnippet": "「人」 日本道路建設業協会中部支部長 杉山雅浩氏  建通新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXRJeURpOEstWWMtcVNuVTlMMFVSbm9EWndOUVJJWXdmOW9zYVg5aXBCSTZzZDNxMTdfblgtREFmQjIzQmphOFBMNzNJTmZJaDdLYXBSQWRjemZ0VHBEcFVTVW9VN1B2dkJxX3o1Y1FuSjhUOWRQQlZxSVJGdGpYNA?oc=5",
-        "fingerprint": "c73521ca04ea59813b9412a826ac5fb8242d02b9295545fd2449ebd36b7740d8"
+        "score": 3.4045290252,
+        "contentSnippet": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入  ニコニコニュース",
+        "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVVdFakFnVHdRU3FDYUVsRFl3TlF4UXV4WGFHV1UzaTlrT1gtem0zbGxZZ29FNzVSNDhRTEowYlgyN2pDUVdmMVIwTE9KU3p3dUVZVGQ2Slk0elhTbl9jdzBkdDZ0Q1JZeGZ6aHc4dEJWT0VCUDk1V2YzRQ?oc=5",
+        "fingerprint": "fc1d89d7ca3bb05aa2714cab875ec119959e6442a7ab8c116d589336b16cdae1"
       },
-      "xDraft": "【本文】\n日本道路建設業協会の中部支部長に、杉山雅浩氏が就任されました。中部地方の道路建設を支える団体のリーダーとして、これからの活動が注目されます。\n僕たちの暮らしや物流に欠かせない道路網を守るには、こうした組織の舵取りがとても重要です。現場を大切にする視点から、地域のインフラ維持・発展に尽力されることを期待しています。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPOXRJeURpOEstWWMtcVNuVTlMMFVSbm9EWndOUVJJWXdmOW9zYVg5aXBCSTZzZDNxMTdfblgtREFmQjIzQmphOFBMNzNJTmZJaDdLYXBSQWRjemZ0VHBEcFVTVW9VN1B2dkJxX3o1Y1FuSjhUOWRQQlZxSVJGdGpYNA?oc=5\n\n【抜粋元】\n建通新聞の人物紹介記事「人」より、日本道路建設業協会の中部支部長に就任した杉山雅浩氏の情報を参照しました。業界団体の新体制について伝える内容です。\n\n【判定】OK",
+      "xDraft": "【本文】\n創業100年を超える建設企業の日本トリートが、TOKIUMのAI経費承認システムを導入しました。長きにわたり業界を支えてきた老舗企業が、バックオフィスのDXへと大きく舵を切る取り組みです。\n歴史ある組織ほど既存の業務フローを変えるのは勇気がいることですが、事務負担の軽減は次の一世紀に向けた大切な基盤づくりだと感じます。こうした効率化が業界全体に広がり、本業により集中できる環境が整っていくのは素晴らしいことですね。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE9DVVdFakFnVHdRU3FDYUVsRFl3TlF4UXV4WGFHV1UzaTlrT1gtem0zbGxZZ29FNzVSNDhRTEowYlgyN2pDUVdmMVIwTE9KU3p3dUVZVGQ2Slk0elhTbl9jdzBkdDZ0Q1JZeGZ6aHc4dEJWT0VCUDk1V2YzRQ?oc=5\n\n【抜粋元】\n創業100年超の歴史を持つ建設企業である日本トリートが、TOKIUM AI経費承認を導入した事実に基づき記述しました。老舗企業による最新技術の活用という点に焦点を当てています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建通新聞の人物紹介記事「人」より、日本道路建設業協会の中部支部長に就任した杉山雅浩氏の情報を参照しました。業界団体の新体制について伝える内容です。",
+      "xDraftExcerptSummary": "創業100年超の歴史を持つ建設企業である日本トリートが、TOKIUM AI経費承認を導入した事実に基づき記述しました。老舗企業による最新技術の活用という点に焦点を当てています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "BIG「NOT A HOTEL」を詳細解説、瀬戸内海の島に輝く絶景建築",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03129/061100030/",
-        "pubDate": "2026-06-29T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "デンマークの著名な設計事務所Bjarke Ingels Groupによる別荘が、瀬戸内海の離島に完成した。日本文化を表現しつつ、可動式の大型曲面サッシを初導入するなど、調和と挑戦が随所に表れている。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03129/061100030/",
-        "fingerprint": "37b994979d26e6133d5fd357028e65539d4856d4d4f63a41316efd1dbd52bd3b"
+        "title": "清水建設　鉄筋作業に「フィジカルAI」、現場にロボット導入",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
+        "pubDate": "2026-06-30T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "清水建設は鉄筋の組み立てや結束などの作業で、機械やロボットを自律的に制御する「フィジカルAI（人工知能）」を活用する。スイスのスタートアップと連携し、27年3月までに国内の建設現場で導入する方針だ。自律制御のロボットで、鉄筋ユニットの製造を省力化する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
+        "fingerprint": "c506fc516a47dc39bf05259cc81d99d491c84bd77da884395d0c2f17b3613393"
       },
-      "xDraft": "【本文】\nデンマークの設計事務所BIG（ビャルケ・インゲルス・グループ）が設計した「NOT A HOTEL」が、瀬戸内海の離島に完成しました。日本文化を再解釈しつつ、可動式の大型曲面サッシを初導入するなど、風景との調和と技術的な挑戦が両立されています。\n\n世界的な建築家が日本の離島という環境でどのような解釈を示したのか、非常に興味深いですね。特に初導入の可動式サッシは、施工の精度が空間の質を直接左右するはずで、現場の技術力の高さが伺えます。自然と建築の境界をあいまいにしようとする試みに、ものづくりの醍醐味を感じます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03129/061100030/\n\n【抜粋元】\nデンマークの著名な設計事務所BIGが瀬戸内海の離島に完成させた別荘について。可動式大型曲面サッシの導入といった技術的挑戦と、日本文化への敬意が示された建築の詳細を伝えています。\n\n【判定】OK",
+      "xDraft": "【本文】\n清水建設が鉄筋作業に「フィジカルAI」を導入し、自律制御ロボットで省力化を進めるとのことです。スイスのスタートアップと連携し、2027年3月までに国内現場での導入を目指すそうです。\n\n現場の鉄筋作業は、熟練の技術と体力が求められる重労働です。こうした作業をAIとロボットが担うことで、人手不足の解消や作業効率の向上に大きく貢献するはずです。未来の建設現場の姿が、少しずつ具体化しているように感じます。この技術が広く普及し、業界全体を押し上げることを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/\n\n【抜粋元】\n清水建設が鉄筋作業に「フィジカルAI」を導入し、自律制御ロボットで省力化を図るという記事内容を踏まえて、現場への期待や将来性について僕の視点を添えました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
+      "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "デンマークの著名な設計事務所BIGが瀬戸内海の離島に完成させた別荘について。可動式大型曲面サッシの導入といった技術的挑戦と、日本文化への敬意が示された建築の詳細を伝えています。",
+      "xDraftExcerptSummary": "清水建設が鉄筋作業に「フィジカルAI」を導入し、自律制御ロボットで省力化を図るという記事内容を踏まえて、現場への期待や将来性について僕の視点を添えました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "建築学会が建築士法改正に「注文」、大学卒業前の1級建築士受験に懸念",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02850/",
-        "pubDate": "2026-06-28T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "建築士法を改正し、大学の学部在学中に1級建築士試験の受験を可能にする議論が進む中、日本建築学会と全国建築系大学教育連絡協議会が、教育への影響を「憂慮している」との意見書を国土交通省に提出した。今後、全国建築系大学教育連絡協議会によるアンケート調査などを踏まえ、公式に意見表明する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02850/",
-        "fingerprint": "e5ec0e61c8e1a84e307d9751630563ad038e0c1bab1a8af5bb7afea2814a3533"
+        "title": "見えてきた「富岳NEXT」の輪郭、ポイントはメモリー　先端技術を深掘り",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
+        "pubDate": "2026-06-30T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "理化学研究所や富士通が、スーパーコンピューター「富岳」の後継機として開発を進める「富岳NEXT」の輪郭が見えてきた。演算性能を過度に追い求めた富岳の反省から、「使われる計算機」を目指し、AI中心の設計思想を取り入れる。詳しくリポートする。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
+        "fingerprint": "81a5ea13a5bb92a2c0984cf6a6543a94f30c0b8a02c486e23a60b31ed93d0854"
       },
-      "xDraft": "【本文】\n建築学会と大学教育連絡協議会が、学部在学中に1級建築士試験の受験を可能にする法改正の動きに対し、教育への影響を懸念する意見書を提出しました。今後は実態調査などを踏まえ、公式な意見表明を行う方針です。\n担い手不足の解消に向けた早期受験の議論ですが、僕としては大学での自由な学びが試験対策に偏ってしまわないか心配な面もあります。教育の質と資格取得のスピードをどう両立させるのか、業界全体で考えるべき課題ですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02850/\n\n【抜粋元】\n建築学会などが、建築士法改正による「卒業前の1級建築士受験」が教育現場に及ぼす悪影響を懸念し、国交省へ意見書を提出したという事実に基づいています。\n\n【判定】OK",
+      "xDraft": "【本文】\n理化学研究所と富士通が開発を進める「富岳NEXT」の設計思想が見えてきました。演算性能を過度に追求した前世代の反省を活かし、AI中心で「使われる計算機」を目指すとのこと。メモリー性能を重視する点が大きなポイントです。\n\n建設現場のデータ解析や都市シミュレーションなど、実務でAIを活用する場面は確実に増えています。単なるスペック競争ではなく、僕たちが実際に道具として使いこなせる進化を遂げようとしている点に、技術への敬意を感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/\n\n【抜粋元】\n日経クロステック 土木の記事「見えてきた『富岳NEXT』の輪郭、ポイントはメモリー　先端技術を深掘り」に基づき、富岳の反省を活かしたAI中心の設計思想について、土木分野への関連性を交えて作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建築学会などが、建築士法改正による「卒業前の1級建築士受験」が教育現場に及ぼす悪影響を懸念し、国交省へ意見書を提出したという事実に基づいています。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事「見えてきた『富岳NEXT』の輪郭、ポイントはメモリー　先端技術を深掘り」に基づき、富岳の反省を活かしたAI中心の設計思想について、土木分野への関連性を交えて作成しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "「人」 日本道路建設業協会中部支部長 杉山雅浩氏 - 建通新聞",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXRJeURpOEstWWMtcVNuVTlMMFVSbm9EWndOUVJJWXdmOW9zYVg5aXBCSTZzZDNxMTdfblgtREFmQjIzQmphOFBMNzNJTmZJaDdLYXBSQWRjemZ0VHBEcFVTVW9VN1B2dkJxX3o1Y1FuSjhUOWRQQlZxSVJGdGpYNA?oc=5",
-    "pubDate": "Mon, 29 Jun 2026 20:02:07 GMT",
+    "title": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入 - ニコニコニュース",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVVdFakFnVHdRU3FDYUVsRFl3TlF4UXV4WGFHV1UzaTlrT1gtem0zbGxZZ29FNzVSNDhRTEowYlgyN2pDUVdmMVIwTE9KU3p3dUVZVGQ2Slk0elhTbl9jdzBkdDZ0Q1JZeGZ6aHc4dEJWT0VCUDk1V2YzRQ?oc=5",
+    "pubDate": "Tue, 30 Jun 2026 09:00:28 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 3.4044869943,
-    "contentSnippet": "「人」 日本道路建設業協会中部支部長 杉山雅浩氏  建通新聞",
-    "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXRJeURpOEstWWMtcVNuVTlMMFVSbm9EWndOUVJJWXdmOW9zYVg5aXBCSTZzZDNxMTdfblgtREFmQjIzQmphOFBMNzNJTmZJaDdLYXBSQWRjemZ0VHBEcFVTVW9VN1B2dkJxX3o1Y1FuSjhUOWRQQlZxSVJGdGpYNA?oc=5",
-    "fingerprint": "c73521ca04ea59813b9412a826ac5fb8242d02b9295545fd2449ebd36b7740d8"
+    "score": 3.4045290252,
+    "contentSnippet": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入  ニコニコニュース",
+    "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DVVdFakFnVHdRU3FDYUVsRFl3TlF4UXV4WGFHV1UzaTlrT1gtem0zbGxZZ29FNzVSNDhRTEowYlgyN2pDUVdmMVIwTE9KU3p3dUVZVGQ2Slk0elhTbl9jdzBkdDZ0Q1JZeGZ6aHc4dEJWT0VCUDk1V2YzRQ?oc=5",
+    "fingerprint": "fc1d89d7ca3bb05aa2714cab875ec119959e6442a7ab8c116d589336b16cdae1"
   },
-  "xDraft": "【本文】\n日本道路建設業協会の中部支部長に、杉山雅浩氏が就任されました。中部地方の道路建設を支える団体のリーダーとして、これからの活動が注目されます。\n僕たちの暮らしや物流に欠かせない道路網を守るには、こうした組織の舵取りがとても重要です。現場を大切にする視点から、地域のインフラ維持・発展に尽力されることを期待しています。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPOXRJeURpOEstWWMtcVNuVTlMMFVSbm9EWndOUVJJWXdmOW9zYVg5aXBCSTZzZDNxMTdfblgtREFmQjIzQmphOFBMNzNJTmZJaDdLYXBSQWRjemZ0VHBEcFVTVW9VN1B2dkJxX3o1Y1FuSjhUOWRQQlZxSVJGdGpYNA?oc=5\n\n【抜粋元】\n建通新聞の人物紹介記事「人」より、日本道路建設業協会の中部支部長に就任した杉山雅浩氏の情報を参照しました。業界団体の新体制について伝える内容です。\n\n【判定】OK",
+  "xDraft": "【本文】\n創業100年を超える建設企業の日本トリートが、TOKIUMのAI経費承認システムを導入しました。長きにわたり業界を支えてきた老舗企業が、バックオフィスのDXへと大きく舵を切る取り組みです。\n歴史ある組織ほど既存の業務フローを変えるのは勇気がいることですが、事務負担の軽減は次の一世紀に向けた大切な基盤づくりだと感じます。こうした効率化が業界全体に広がり、本業により集中できる環境が整っていくのは素晴らしいことですね。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE9DVVdFakFnVHdRU3FDYUVsRFl3TlF4UXV4WGFHV1UzaTlrT1gtem0zbGxZZ29FNzVSNDhRTEowYlgyN2pDUVdmMVIwTE9KU3p3dUVZVGQ2Slk0elhTbl9jdzBkdDZ0Q1JZeGZ6aHc4dEJWT0VCUDk1V2YzRQ?oc=5\n\n【抜粋元】\n創業100年超の歴史を持つ建設企業である日本トリートが、TOKIUM AI経費承認を導入した事実に基づき記述しました。老舗企業による最新技術の活用という点に焦点を当てています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "建通新聞の人物紹介記事「人」より、日本道路建設業協会の中部支部長に就任した杉山雅浩氏の情報を参照しました。業界団体の新体制について伝える内容です。",
+  "xDraftExcerptSummary": "創業100年超の歴史を持つ建設企業である日本トリートが、TOKIUM AI経費承認を導入した事実に基づき記述しました。老舗企業による最新技術の活用という点に焦点を当てています。",
   "xDraftAlternates": [],
   "errors": []
 }
