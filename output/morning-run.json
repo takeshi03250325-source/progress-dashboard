@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:46:23.591Z",
+  "generatedAt": "2026-07-02T22:35:56.988Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
@@ -7,14 +7,44 @@
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入 - RBB TODAY",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wM3FnU3NwX2VPNVhQb0xnaURZQTQza29iSkVIZzM2SWplNmdCazg2X1NLaEdxZHV4cjJzRnNoTHZlR1JaeDBTWHRoYWdtcjBycXZrZEg3QlgxYXVmem04OEdlak1faGFRNmppY1RZbXRXeXlKYzYtbg?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:10:02 GMT",
+      "title": "建設業課題 解決へ連携 橋本組、AIインサイドと - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0Q0UDVTUEdnLW92d1paYkFMd1lqTEZnQV9HSE1GdklZNHFGTTdiOGFFbkZOWkFHcDRzOXphbi1EUWxyRGg2WVI5SGgtNVNsVHRoU3Uyd1dIOFpQNnhMYTh5VEhBNndjLVd4Sll6aXdta04wSmdlOF9kQVJlUHNVbG9NLVlhNTN1dDBHZ0hyUW5YNV9LYmZsRmhQdDRRTXBtaFhQU1lsVHc?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:42:22 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4045457418,
-      "contentSnippet": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入  RBB TODAY",
-      "urlNorm": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wM3FnU3NwX2VPNVhQb0xnaURZQTQza29iSkVIZzM2SWplNmdCazg2X1NLaEdxZHV4cjJzRnNoTHZlR1JaeDBTWHRoYWdtcjBycXZrZEg3QlgxYXVmem04OEdlak1faGFRNmppY1RZbXRXeXlKYzYtbg?oc=5",
-      "fingerprint": "76616bba164962fc089b388ded60616ef1d8b3bce98626c1b9e25c6880fce907"
+      "score": 5.2047159678,
+      "contentSnippet": "建設業課題 解決へ連携 橋本組、AIインサイドと  日本経済新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0Q0UDVTUEdnLW92d1paYkFMd1lqTEZnQV9HSE1GdklZNHFGTTdiOGFFbkZOWkFHcDRzOXphbi1EUWxyRGg2WVI5SGgtNVNsVHRoU3Uyd1dIOFpQNnhMYTh5VEhBNndjLVd4Sll6aXdta04wSmdlOF9kQVJlUHNVbG9NLVlhNTN1dDBHZ0hyUW5YNV9LYmZsRmhQdDRRTXBtaFhQU1lsVHc?oc=5",
+      "fingerprint": "bf96bafeeaf2c18b51c602762dccaf14d402f32de37e3ebdcfde52b871dee0a6"
+    },
+    {
+      "title": "香川県発注の土木工事で談合、高松市内の27社に課徴金計4.4億円　公取委",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02697/",
+      "pubDate": "2026-07-02T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "香川県発注の土木工事で談合が繰り返されていたとして、公正取引委員会は高松市内の建設会社29社に対して独占禁止法違反（不当な取引制限）を認定した。そのうち27社に課徴金納付を命じ、20社に再発防止を求める排除措置命令を出した。課徴金の総額は4億4177万円に上る。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02697/",
+      "fingerprint": "e5cc78a672b0fac08a86026bc0f535623d1a0417e462fb2f8d3131ae1823866a"
+    },
+    {
+      "title": "JR東日本コンサルタンツがスタートアップに出資、AIで設計の効率化を目指す",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02698/",
+      "pubDate": "2026-07-02T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "JR東日本コンサルタンツが、図面管理プラットフォームを提供するスタートアップのMalme（マルメ、東京・新宿）と資本業務提携を締結した。Malmeの開発した土木技術者向けのデータ管理プラットフォームに、品質管理を含む自社で蓄積した設計業務の知見を提供する。図面などの業務データを一元管理し、現場で得た知識をAI（人工知能）で活用できるようにプラットフォームを刷新することで、自社の設計業務の効率化を図る。将来的に外販も目指す。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02698/",
+      "fingerprint": "324fe371d5f7fef605ae435194ad98eb175445be64be0a8706345cef2efb680f"
+    },
+    {
+      "title": "香川県発注の土木工事で談合、高松市内の27社に課徴金計4.4億円　公取委",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02697/",
+      "pubDate": "2026-07-02T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "香川県発注の土木工事で談合が繰り返されていたとして、公正取引委員会は高松市内の建設会社29社に対して独占禁止法違反（不当な取引制限）を認定した。そのうち27社に課徴金納付を命じ、20社に再発防止を求める排除措置命令を出した。課徴金の総額は4億4177万円に上る。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02697/",
+      "fingerprint": "e5cc78a672b0fac08a86026bc0f535623d1a0417e462fb2f8d3131ae1823866a"
     },
     {
       "title": "1位は「梁の穴に建て主が激怒、構造耐力担う部材の欠損に要注意」",
@@ -25,16 +55,6 @@
       "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年7月2～8日に無料で読めるようにしました。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/031200422/",
       "fingerprint": "82417507a43ca329d09372380647dac33270c526ff6a18d38f964922d6b2e72c"
-    },
-    {
-      "title": "大林組、ドローンのレベル3.5飛行で建設現場の点群データを自動生成",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02691/",
-      "pubDate": "2026-07-01T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "大林組はLiberaware（リベラウェア、千葉市）、KDDIスマートドローン（東京・千代田）と共同で、ドローンのレベル3.5飛行によって相模ダム（相模原市）のリニューアル工事の現場を撮影した。現場補助者の配置などが必要なレベル3と異なり、レベル3.5ではドローンに搭載したカメラで安全を確認すればよいので、撮影範囲が広がった。さらに、ドローンで撮影した施工中の構造物の写真から、点群データの自動生成も実現した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02691/",
-      "fingerprint": "c4c582b4708da51be23aa95058687f18a9b4b21bba52d01c15295b048e654079"
     },
     {
       "title": "関空が万博のファーストパビリオンに、非常事態逆手に大規模リノベーション",
@@ -57,44 +77,14 @@
       "fingerprint": "d22031446f18c8db9da20d391a9c7262c6ece6c5ef46b1b1b35a123d0a95a8fa"
     },
     {
-      "title": "見えてきた「富岳NEXT」の輪郭、ポイントはメモリー　先端技術を深掘り",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
-      "pubDate": "2026-06-30T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "理化学研究所や富士通が、スーパーコンピューター「富岳」の後継機として開発を進める「富岳NEXT」の輪郭が見えてきた。演算性能を過度に追い求めた富岳の反省から、「使われる計算機」を目指し、AI中心の設計思想を取り入れる。詳しくリポートする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
-      "fingerprint": "81a5ea13a5bb92a2c0984cf6a6543a94f30c0b8a02c486e23a60b31ed93d0854"
-    },
-    {
-      "title": "戦略17分野で「防災・国土強靱化」に2.6兆円、経済波及効果14.5兆円と試算",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02695/",
-      "pubDate": "2026-06-30T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "政府は日本の経済成長をけん引する「戦略17分野」に対し、2040年度までに総額370兆円超と想定する官民投資の工程表を取りまとめた。そのうち「防災・国土強靱（きょうじん）化」分野では30年度までに2.6兆円を投じる。自動施工・遠隔施工やインフラの老朽化対策などを含めた防災技術を、開発から実装まで一貫して支援。30年度までに14.5兆円の経済波及効果を生み出し、海外展開も図る。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02695/",
-      "fingerprint": "57beac2b9a08fc384c606facdd31d9791d67b5c4a2666659803de3c0d4713359"
-    },
-    {
-      "title": "清水建設　鉄筋作業に「フィジカルAI」、現場にロボット導入",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
-      "pubDate": "2026-06-30T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "清水建設は鉄筋の組み立てや結束などの作業で、機械やロボットを自律的に制御する「フィジカルAI（人工知能）」を活用する。スイスのスタートアップと連携し、27年3月までに国内の建設現場で導入する方針だ。自律制御のロボットで、鉄筋ユニットの製造を省力化する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
-      "fingerprint": "c506fc516a47dc39bf05259cc81d99d491c84bd77da884395d0c2f17b3613393"
-    },
-    {
-      "title": "1位は「梁の穴に建て主が激怒、構造耐力担う部材の欠損に要注意」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/031200422/",
+      "title": "大林組、ドローンのレベル3.5飛行で建設現場の点群データを自動生成",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02691/",
       "pubDate": "2026-07-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年7月2～8日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/031200422/",
-      "fingerprint": "82417507a43ca329d09372380647dac33270c526ff6a18d38f964922d6b2e72c"
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "大林組はLiberaware（リベラウェア、千葉市）、KDDIスマートドローン（東京・千代田）と共同で、ドローンのレベル3.5飛行によって相模ダム（相模原市）のリニューアル工事の現場を撮影した。現場補助者の配置などが必要なレベル3と異なり、レベル3.5ではドローンに搭載したカメラで安全を確認すればよいので、撮影範囲が広がった。さらに、ドローンで撮影した施工中の構造物の写真から、点群データの自動生成も実現した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02691/",
+      "fingerprint": "c4c582b4708da51be23aa95058687f18a9b4b21bba52d01c15295b048e654079"
     },
     {
       "title": "読者が選んだ「50年後も残したい建築」、名作22選を一挙公開",
@@ -107,6 +97,16 @@
       "fingerprint": "09bf27cdc78b1673430271a40b0a6f3ce3449535384bef6eee691271441f2769"
     },
     {
+      "title": "1位は「梁の穴に建て主が激怒、構造耐力担う部材の欠損に要注意」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/031200422/",
+      "pubDate": "2026-07-01T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年7月2～8日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/031200422/",
+      "fingerprint": "82417507a43ca329d09372380647dac33270c526ff6a18d38f964922d6b2e72c"
+    },
+    {
       "title": "関空が万博のファーストパビリオンに、非常事態逆手に大規模リノベーション",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/063000029/",
       "pubDate": "2026-07-01T20:00:00.000Z",
@@ -117,34 +117,14 @@
       "fingerprint": "27d40616ed4d685462cfb812f74cade71cf13ee59cf32f5f622a53c3f59be6a1"
     },
     {
-      "title": "清水建設　鉄筋作業に「フィジカルAI」、現場にロボット導入",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
-      "pubDate": "2026-06-30T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "清水建設は鉄筋の組み立てや結束などの作業で、機械やロボットを自律的に制御する「フィジカルAI（人工知能）」を活用する。スイスのスタートアップと連携し、27年3月までに国内の建設現場で導入する方針だ。自律制御のロボットで、鉄筋ユニットの製造を省力化する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02694/",
-      "fingerprint": "c506fc516a47dc39bf05259cc81d99d491c84bd77da884395d0c2f17b3613393"
-    },
-    {
-      "title": "木造ビルの”欄間”に鋼材ダンパー設置、鹿島が独自の制振技術開発",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02855/",
-      "pubDate": "2026-06-30T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "鹿島は、伝統的な木造建築の技術と最新の制振技術を融合させた「欄間制震システム」を開発した。2029年中の竣工を目指す木造フラグシップビル「東北支店ビル」（仙台市）に目玉技術として導入する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02855/",
-      "fingerprint": "d6efd51c11dcd45f56b4833e34794bff37011fa247c95217652fefed04988ab1"
-    },
-    {
-      "title": "見えてきた「富岳NEXT」の輪郭、ポイントはメモリー　先端技術を深掘り",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
-      "pubDate": "2026-06-30T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "理化学研究所や富士通が、スーパーコンピューター「富岳」の後継機として開発を進める「富岳NEXT」の輪郭が見えてきた。演算性能を過度に追い求めた富岳の反省から、「使われる計算機」を目指し、AI中心の設計思想を取り入れる。詳しくリポートする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/062900014/",
-      "fingerprint": "81a5ea13a5bb92a2c0984cf6a6543a94f30c0b8a02c486e23a60b31ed93d0854"
+      "title": "原発「基準地震動」のばらつき、大飯逆転判決の意味と浜岡データ不正の罪",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061002045/",
+      "pubDate": "2026-07-02T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "原子力発電所の耐震性評価でベースとなる「基準地震動」を巡る2つの問題が、社会の注目を集めている。一つは、関西電力の大飯原発に関する国側の逆転判決。もう一つは、中部電力の浜岡原発のデータ不正だ。絶対はないという科学の不確実性に対し、誠実かつ謙虚に向き合わなければ社会の信頼は得られないことを示している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061002045/",
+      "fingerprint": "6fd03d8f44a069578083efb330a100b581ccc1d13182c293a0dd7d22572ca9d3"
     },
     {
       "title": "女性活躍は誰のため？育成見直すJCOM、社内の声に向き合うNTT東日本",
@@ -155,83 +135,99 @@
       "contentSnippet": "イノベーションを生むためには、性別や国籍をはじめ多様な人材が意思決定に携わることが大切とされている。情報・通信業界における女性活躍の先進企業は、どんな施策を進め、課題をどう乗り越えようとしているのか。「女性が活躍する会社BEST100」2026年版から、情報・通信業界の女性活躍における特徴と課題、上位企業の施策を追う。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03660/062200001/",
       "fingerprint": "b63e39028fd022f0355fbcb429ac10bbb4a9b053b2419ab3f7abe4d486afbfed"
+    },
+    {
+      "title": "閉じたまま出入りができる調光スルーカーテン",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01042/",
+      "pubDate": "2026-07-02T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "トーソーは、閉じたまま出入りができる調光スルーカーテン「スリーヌ」の販売を2026年6月に開始した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01042/",
+      "fingerprint": "6f441b00a975291f7165e23897964fb2f0fb24c832cff7e580ae21aa6bda90fe"
+    },
+    {
+      "title": "江戸東京博物館の大改修を深掘り、菊竹清訓の外観変えず機能更新",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200005/",
+      "pubDate": "2026-07-02T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "1992年に建設された東京都江戸東京博物館が、初の大規模改修を経てリニューアルオープンした。菊竹清訓による外観やコンセプトを継承しつつ、広場では大型映像投影を新設。動線も使いやすいものへと見直し、人々が訪れたくなる「東京のアイコン」を目指す。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200005/",
+      "fingerprint": "4e0a92238d1f52f4707770efc9afa8f591bddb951aaf1256c750da0d5c27fe33"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入 - RBB TODAY",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wM3FnU3NwX2VPNVhQb0xnaURZQTQza29iSkVIZzM2SWplNmdCazg2X1NLaEdxZHV4cjJzRnNoTHZlR1JaeDBTWHRoYWdtcjBycXZrZEg3QlgxYXVmem04OEdlak1faGFRNmppY1RZbXRXeXlKYzYtbg?oc=5",
-        "pubDate": "Tue, 30 Jun 2026 14:10:02 GMT",
+        "title": "建設業課題 解決へ連携 橋本組、AIインサイドと - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0Q0UDVTUEdnLW92d1paYkFMd1lqTEZnQV9HSE1GdklZNHFGTTdiOGFFbkZOWkFHcDRzOXphbi1EUWxyRGg2WVI5SGgtNVNsVHRoU3Uyd1dIOFpQNnhMYTh5VEhBNndjLVd4Sll6aXdta04wSmdlOF9kQVJlUHNVbG9NLVlhNTN1dDBHZ0hyUW5YNV9LYmZsRmhQdDRRTXBtaFhQU1lsVHc?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 18:42:22 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.4045457418,
-        "contentSnippet": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入  RBB TODAY",
-        "urlNorm": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wM3FnU3NwX2VPNVhQb0xnaURZQTQza29iSkVIZzM2SWplNmdCazg2X1NLaEdxZHV4cjJzRnNoTHZlR1JaeDBTWHRoYWdtcjBycXZrZEg3QlgxYXVmem04OEdlak1faGFRNmppY1RZbXRXeXlKYzYtbg?oc=5",
-        "fingerprint": "76616bba164962fc089b388ded60616ef1d8b3bce98626c1b9e25c6880fce907"
+        "score": 5.2047159678,
+        "contentSnippet": "建設業課題 解決へ連携 橋本組、AIインサイドと  日本経済新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0Q0UDVTUEdnLW92d1paYkFMd1lqTEZnQV9HSE1GdklZNHFGTTdiOGFFbkZOWkFHcDRzOXphbi1EUWxyRGg2WVI5SGgtNVNsVHRoU3Uyd1dIOFpQNnhMYTh5VEhBNndjLVd4Sll6aXdta04wSmdlOF9kQVJlUHNVbG9NLVlhNTN1dDBHZ0hyUW5YNV9LYmZsRmhQdDRRTXBtaFhQU1lsVHc?oc=5",
+        "fingerprint": "bf96bafeeaf2c18b51c602762dccaf14d402f32de37e3ebdcfde52b871dee0a6"
       },
-      "xDraft": "【本文】\n創業100年を超える建設企業の日本トリートが、AIを活用した経費承認システム「TOKIUM」を導入したそうです。\n老舗企業が新しい技術を積極的に取り入れ、事務負担の軽減を図る姿勢には敬意を表したくなります。\n現場を支えるバックオフィスの効率化は、建設業界全体の持続可能性を高める重要な一歩ですね。\n伝統を守りつつ、変化を恐れない柔軟な組織文化が伝わってきます。\n\n出典：RBB TODAY\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE8wM3FnU3NwX2VPNVhQb0xnaURZQTQza29iSkVIZzM2SWplNmdCazg2X1NLaEdxZHV4cjJzRnNoTHZlR1JaeDBTWHRoYWdtcjBycXZrZEg3QlgxYXVmem04OEdlak1faGFRNmppY1RZbXRXeXlKYzYtbg?oc=5\n\n【抜粋元】\nRBB TODAYの、創業100年超の建設企業である日本トリートが「TOKIUM AI経費承認」を導入したというニュースです。老舗企業がDXによって業務効率化を進める点に着目して執筆しました。\n\n【判定】NG\n\n【候補2】\n100年以上の歴史を持つ日本トリートが、AIによる経費承認を導入したというニュースです。\n事務作業のデジタル化は、現場監督やスタッフが本来の専門業務に集中できる環境作りにつながりますね。\n老舗企業が率先してDXを進める姿は、業界の他企業にとっ…",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "NG",
-      "xDraftExcerptSummary": "RBB TODAYの、創業100年超の建設企業である日本トリートが「TOKIUM AI経費承認」を導入したというニュースです。老舗企業がDXによって業務効率化を進める点に着目して執筆しました。",
-      "xDraftAlternates": [
-        "100年以上の歴史を持つ日本トリートが、AIによる経費承認を導入したというニュースです。\n事務作業のデジタル化は、現場監督やスタッフが本来の専門業務に集中できる環境作りにつながりますね。\n老舗企業が率先してDXを進める姿は、業界の他企業にとっ…"
-      ]
-    },
-    {
-      "picked": {
-        "title": "1位は「梁の穴に建て主が激怒、構造耐力担う部材の欠損に要注意」",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/031200422/",
-        "pubDate": "2026-07-01T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年6月29日～7月5日に読まれた記事の1～10位を26年7月2～8日に無料で読めるようにしました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/031200422/",
-        "fingerprint": "82417507a43ca329d09372380647dac33270c526ff6a18d38f964922d6b2e72c"
-      },
-      "xDraft": "【本文】\n日経クロステック建築面で、過去の読者ランキング上位記事が期間限定で無料公開されています。1位は、梁への穴あけによって構造耐力を担う部材を欠損させ、建て主の強い抗議を招いたトラブルを扱った記事です。\n\n構造の要となる部材に不適切な欠損が生じることは、建物の安全性に直結する非常に重い事態ですね。現場での確認作業や関係者間の意思疎通がいかに重要であるかを改めて実感します。僕たち技術者にとって、こうした事例から謙虚に学ぶ姿勢は欠かせないものだと思います。\n\n出典：日経クロステック 建築\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00241/031200422/\n\n【抜粋元】\n日経クロステック建築面の人気記事ランキングを紹介する記事より、1位の「梁の穴による部材欠損」という具体的なトラブル事例と、該当記事が期間限定で無料公開されている点に基づき執筆しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n総合建設業の橋本組が、AI insideと連携して建設業界の課題解決に取り組むと発表しました。AIを活用することで、現場の生産性向上や技術継承といった重要課題の克服を目指すとのことです。\n地場の建設会社がIT企業とタッグを組み、現場の知見をシステムに落とし込んでいく試みは、DXの理想的な形の一つだと感じます。具体的なソリューションが現場をどう変えるのか、非常に興味深いです。\n\n出典：建設業課題 解決へ連携 橋本組、AIインサイドと - 日本経済新聞\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0Q0UDVTUEdnLW92d1paYkFMd1lqTEZnQV9HSE1GdklZNHFGTTdiOGFFbkZOWkFHcDRzOXphbi1EUWxyRGg2WVI5SGgtNVNsVHRoU3Uyd1dIOFpQNnhMYTh5VEhBNndjLVd4Sll6aXdta04wSmdlOF9kQVJlUHNVbG9NLVlhNTN1dDBHZ0hyUW5YNV9LYmZsRmhQdDRRTXBtaFhQU1lsVHc?oc=5\n\n【抜粋元】\n日本経済新聞の、静岡県焼津市の橋本組がAI insideと提携し、AIを用いた建設DXを推進するという記事に基づいています。生産性向上や人手不足解消に向けた具体的な連携の動きを取り上げています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック建築面の人気記事ランキングを紹介する記事より、1位の「梁の穴による部材欠損」という具体的なトラブル事例と、該当記事が期間限定で無料公開されている点に基づき執筆しました。",
+      "xDraftExcerptSummary": "日本経済新聞の、静岡県焼津市の橋本組がAI insideと提携し、AIを用いた建設DXを推進するという記事に基づいています。生産性向上や人手不足解消に向けた具体的な連携の動きを取り上げています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "大林組、ドローンのレベル3.5飛行で建設現場の点群データを自動生成",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02691/",
-        "pubDate": "2026-07-01T20:00:00.000Z",
+        "title": "香川県発注の土木工事で談合、高松市内の27社に課徴金計4.4億円　公取委",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02697/",
+        "pubDate": "2026-07-02T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "大林組はLiberaware（リベラウェア、千葉市）、KDDIスマートドローン（東京・千代田）と共同で、ドローンのレベル3.5飛行によって相模ダム（相模原市）のリニューアル工事の現場を撮影した。現場補助者の配置などが必要なレベル3と異なり、レベル3.5ではドローンに搭載したカメラで安全を確認すればよいので、撮影範囲が広がった。さらに、ドローンで撮影した施工中の構造物の写真から、点群データの自動生成も実現した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02691/",
-        "fingerprint": "c4c582b4708da51be23aa95058687f18a9b4b21bba52d01c15295b048e654079"
+        "score": 4.8,
+        "contentSnippet": "香川県発注の土木工事で談合が繰り返されていたとして、公正取引委員会は高松市内の建設会社29社に対して独占禁止法違反（不当な取引制限）を認定した。そのうち27社に課徴金納付を命じ、20社に再発防止を求める排除措置命令を出した。課徴金の総額は4億4177万円に上る。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02697/",
+        "fingerprint": "e5cc78a672b0fac08a86026bc0f535623d1a0417e462fb2f8d3131ae1823866a"
       },
-      "xDraft": "【本文】\n大林組が相模ダムのリニューアル工事にて、ドローンの「レベル3.5」飛行による撮影と点群データの自動生成を実施しました。補助者の配置が不要なレベル3.5の活用により、撮影範囲の拡大と効率化を実現しています。\n\n現場のデジタル化において、補助員の配置コストや調整は大きなハードルでした。制度の緩和を技術で使いこなし、撮影から点群生成まで一気に自動化する流れは、測量業務のあり方を大きく変えていきそうですね。インフラの維持管理現場がどう進化していくのか、非常に興味深いです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02691/\n\n【抜粋元】\n大林組がLiberaware、KDDIスマートドローンと共同で、相模ダムの現場にてレベル3.5飛行による撮影と点群データの自動生成を行った記事です。補助者不要による範囲拡大のメリットを伝えています。\n\n【判定】OK",
+      "xDraft": "【本文】\n香川県発注の土木工事を巡り、公正取引委員会が高松市内の建設会社29社に対して独占禁止法違反を認定しました。そのうち27社への課徴金は総額で4億4177万円に上り、20社には再発防止を求める排除措置命令が出されています。\n\nこうしたニュースを聞くと、業界が積み上げてきた信頼が損なわれるようで、やはり寂しい気持ちになります。健全な競争環境が守られることは、巡り巡って地域のインフラを維持する企業の持続可能性にも繋がるはずです。二度と繰り返されないよう、適正な受注環境が守られていくことを願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02697/\n\n【抜粋元】\n公正取引委員会が香川県発注の土木工事で談合を認定し、27社に計4.4億円超の課徴金を命じた事実と数字に基づき、業界への敬意を込めて記述しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "大林組がLiberaware、KDDIスマートドローンと共同で、相模ダムの現場にてレベル3.5飛行による撮影と点群データの自動生成を行った記事です。補助者不要による範囲拡大のメリットを伝えています。",
+      "xDraftExcerptSummary": "公正取引委員会が香川県発注の土木工事で談合を認定し、27社に計4.4億円超の課徴金を命じた事実と数字に基づき、業界への敬意を込めて記述しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "JR東日本コンサルタンツがスタートアップに出資、AIで設計の効率化を目指す",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02698/",
+        "pubDate": "2026-07-02T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "JR東日本コンサルタンツが、図面管理プラットフォームを提供するスタートアップのMalme（マルメ、東京・新宿）と資本業務提携を締結した。Malmeの開発した土木技術者向けのデータ管理プラットフォームに、品質管理を含む自社で蓄積した設計業務の知見を提供する。図面などの業務データを一元管理し、現場で得た知識をAI（人工知能）で活用できるようにプラットフォームを刷新することで、自社の設計業務の効率化を図る。将来的に外販も目指す。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02698/",
+        "fingerprint": "324fe371d5f7fef605ae435194ad98eb175445be64be0a8706345cef2efb680f"
+      },
+      "xDraft": "【本文】\nJR東日本コンサルタンツが、図面管理プラットフォームを手掛けるスタートアップのMalmeと資本業務提携を結んだそうです。Malmeのプラットフォームに、JR東日本コンサルタンツが持つ設計業務の知見を提供し、業務データの一元管理やAIによる現場知識の活用で、設計業務の効率化を目指すとのこと。将来的な外販も視野に入れているようですね。\n大手とスタートアップが協業し、現場の知見をAIで活かす取り組みは非常に興味深いです。設計業務の生産性向上はもちろん、蓄積されたデータが新たな価値を生み出すきっかけになるかもしれません。業界全体のDXを牽引する一歩となることを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02698/\n\n【抜粋元】\n日経クロステック 土木の「JR東日本コンサルタンツがスタートアップに出資、AIで設計の効率化を目指す」という記事から、JR東日本コンサルタンツとMalmeの資本業務提携による設計業務の効率化、特にAIを活用した現場知見の活用と将来的な外販の可能性について情報を受け取りました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-2.5-flash",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 土木の「JR東日本コンサルタンツがスタートアップに出資、AIで設計の効率化を目指す」という記事から、JR東日本コンサルタンツとMalmeの資本業務提携による設計業務の効率化、特にAIを活用した現場知見の活用と将来的な外販の可能性について情報を受け取りました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入 - RBB TODAY",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wM3FnU3NwX2VPNVhQb0xnaURZQTQza29iSkVIZzM2SWplNmdCazg2X1NLaEdxZHV4cjJzRnNoTHZlR1JaeDBTWHRoYWdtcjBycXZrZEg3QlgxYXVmem04OEdlak1faGFRNmppY1RZbXRXeXlKYzYtbg?oc=5",
-    "pubDate": "Tue, 30 Jun 2026 14:10:02 GMT",
+    "title": "建設業課題 解決へ連携 橋本組、AIインサイドと - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0Q0UDVTUEdnLW92d1paYkFMd1lqTEZnQV9HSE1GdklZNHFGTTdiOGFFbkZOWkFHcDRzOXphbi1EUWxyRGg2WVI5SGgtNVNsVHRoU3Uyd1dIOFpQNnhMYTh5VEhBNndjLVd4Sll6aXdta04wSmdlOF9kQVJlUHNVbG9NLVlhNTN1dDBHZ0hyUW5YNV9LYmZsRmhQdDRRTXBtaFhQU1lsVHc?oc=5",
+    "pubDate": "Thu, 02 Jul 2026 18:42:22 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 3.4045457418,
-    "contentSnippet": "創業100年超の建設企業日本トリート、TOKIUM AI経費承認を導入  RBB TODAY",
-    "urlNorm": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wM3FnU3NwX2VPNVhQb0xnaURZQTQza29iSkVIZzM2SWplNmdCazg2X1NLaEdxZHV4cjJzRnNoTHZlR1JaeDBTWHRoYWdtcjBycXZrZEg3QlgxYXVmem04OEdlak1faGFRNmppY1RZbXRXeXlKYzYtbg?oc=5",
-    "fingerprint": "76616bba164962fc089b388ded60616ef1d8b3bce98626c1b9e25c6880fce907"
+    "score": 5.2047159678,
+    "contentSnippet": "建設業課題 解決へ連携 橋本組、AIインサイドと  日本経済新聞",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0Q0UDVTUEdnLW92d1paYkFMd1lqTEZnQV9HSE1GdklZNHFGTTdiOGFFbkZOWkFHcDRzOXphbi1EUWxyRGg2WVI5SGgtNVNsVHRoU3Uyd1dIOFpQNnhMYTh5VEhBNndjLVd4Sll6aXdta04wSmdlOF9kQVJlUHNVbG9NLVlhNTN1dDBHZ0hyUW5YNV9LYmZsRmhQdDRRTXBtaFhQU1lsVHc?oc=5",
+    "fingerprint": "bf96bafeeaf2c18b51c602762dccaf14d402f32de37e3ebdcfde52b871dee0a6"
   },
-  "xDraft": "【本文】\n創業100年を超える建設企業の日本トリートが、AIを活用した経費承認システム「TOKIUM」を導入したそうです。\n老舗企業が新しい技術を積極的に取り入れ、事務負担の軽減を図る姿勢には敬意を表したくなります。\n現場を支えるバックオフィスの効率化は、建設業界全体の持続可能性を高める重要な一歩ですね。\n伝統を守りつつ、変化を恐れない柔軟な組織文化が伝わってきます。\n\n出典：RBB TODAY\nhttps://news.google.com/rss/articles/CBMieEFVX3lxTE8wM3FnU3NwX2VPNVhQb0xnaURZQTQza29iSkVIZzM2SWplNmdCazg2X1NLaEdxZHV4cjJzRnNoTHZlR1JaeDBTWHRoYWdtcjBycXZrZEg3QlgxYXVmem04OEdlak1faGFRNmppY1RZbXRXeXlKYzYtbg?oc=5\n\n【抜粋元】\nRBB TODAYの、創業100年超の建設企業である日本トリートが「TOKIUM AI経費承認」を導入したというニュースです。老舗企業がDXによって業務効率化を進める点に着目して執筆しました。\n\n【判定】NG\n\n【候補2】\n100年以上の歴史を持つ日本トリートが、AIによる経費承認を導入したというニュースです。\n事務作業のデジタル化は、現場監督やスタッフが本来の専門業務に集中できる環境作りにつながりますね。\n老舗企業が率先してDXを進める姿は、業界の他企業にとっ…",
+  "xDraft": "【本文】\n総合建設業の橋本組が、AI insideと連携して建設業界の課題解決に取り組むと発表しました。AIを活用することで、現場の生産性向上や技術継承といった重要課題の克服を目指すとのことです。\n地場の建設会社がIT企業とタッグを組み、現場の知見をシステムに落とし込んでいく試みは、DXの理想的な形の一つだと感じます。具体的なソリューションが現場をどう変えるのか、非常に興味深いです。\n\n出典：建設業課題 解決へ連携 橋本組、AIインサイドと - 日本経済新聞\nhttps://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0Q0UDVTUEdnLW92d1paYkFMd1lqTEZnQV9HSE1GdklZNHFGTTdiOGFFbkZOWkFHcDRzOXphbi1EUWxyRGg2WVI5SGgtNVNsVHRoU3Uyd1dIOFpQNnhMYTh5VEhBNndjLVd4Sll6aXdta04wSmdlOF9kQVJlUHNVbG9NLVlhNTN1dDBHZ0hyUW5YNV9LYmZsRmhQdDRRTXBtaFhQU1lsVHc?oc=5\n\n【抜粋元】\n日本経済新聞の、静岡県焼津市の橋本組がAI insideと提携し、AIを用いた建設DXを推進するという記事に基づいています。生産性向上や人手不足解消に向けた具体的な連携の動きを取り上げています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "NG",
-  "xDraftExcerptSummary": "RBB TODAYの、創業100年超の建設企業である日本トリートが「TOKIUM AI経費承認」を導入したというニュースです。老舗企業がDXによって業務効率化を進める点に着目して執筆しました。",
-  "xDraftAlternates": [
-    "100年以上の歴史を持つ日本トリートが、AIによる経費承認を導入したというニュースです。\n事務作業のデジタル化は、現場監督やスタッフが本来の専門業務に集中できる環境作りにつながりますね。\n老舗企業が率先してDXを進める姿は、業界の他企業にとっ…"
-  ],
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "日本経済新聞の、静岡県焼津市の橋本組がAI insideと提携し、AIを用いた建設DXを推進するという記事に基づいています。生産性向上や人手不足解消に向けた具体的な連携の動きを取り上げています。",
+  "xDraftAlternates": [],
   "errors": []
 }
