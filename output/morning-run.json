@@ -1,17 +1,163 @@
 {
-  "generatedAt": "2026-07-04T22:26:05.544Z",
+  "generatedAt": "2026-07-05T22:29:57.080Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
-  "candidates": [],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "pickCountActual": 3,
+  "candidates": [
+    {
+      "title": "建設業界全体で土木技術を開発・共有、新フォーラムが26年秋に発足",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/",
+      "pubDate": "2026-07-05T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "建設業界が一団となって土木分野の技術開発を共同で推し進める組織「建設技術共創・実装フォーラム（仮称）」が、2026年秋に立ち上がる。先端建設技術センターが設立して、建設会社や建設コンサルタント会社、研究機関などに入会を促し、業界全体で新技術を共有できる体制を整える。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/",
+      "fingerprint": "9a071cec6a9b656f55ca1aa7a2988552f2a43cb74bec7e39be28ab904c188feb"
+    },
+    {
+      "title": "1位は「舗装と共に地下道の天井を破壊、施工箇所を試掘せず安易に深さ想定」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
+      "pubDate": "2026-07-05T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月6～12日に読まれた記事の1～10位を26年7月6～12日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
+      "fingerprint": "7002353e76b2108f9d874e578e67603c160dd49435e76a1a28135135de9fffa0"
+    },
+    {
+      "title": "「酷暑日」の熱中症対策に冷却ウエアや遮熱テント、建設業向け商戦過熱",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
+      "pubDate": "2026-07-05T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "厚生労働省の「職場における熱中症による死傷災害の発生状況」を見ると、熱中症による建設業の死傷者数は2025年に292人だった。25年6月から始まった罰則付きの熱中症対策義務化を踏まえ、建設業では熱中症対策が加速している。熱中症対策グッズ商戦も本格化する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
+      "fingerprint": "7440909eafd4a44591647c32e9126608770262cca1cc005ae90b8fd25f15ed1a"
+    },
+    {
+      "title": "江戸博館長の藤森照信氏に聞く、「有名建築」を残す分かれ道とは",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200006/",
+      "pubDate": "2026-07-05T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "初の大規模改修を終えた東京都江戸東京博物館。2016年から館長を務めてきた建築史家・建築家の藤森照信氏は、1993年開館時の常設展示計画にも携わっていた。4年ほどに及んだ今回の大規模改修の狙いや、今後の「有名建築」の保存活用について尋ねた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200006/",
+      "fingerprint": "08b7391972949bedde9d655e953f01470de50ad5a44facd5ac1b409cddbdacc7"
+    },
+    {
+      "title": "1位は「舗装と共に地下道の天井を破壊、施工箇所を試掘せず安易に深さ想定」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
+      "pubDate": "2026-07-05T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月6～12日に読まれた記事の1～10位を26年7月6～12日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
+      "fingerprint": "7002353e76b2108f9d874e578e67603c160dd49435e76a1a28135135de9fffa0"
+    },
+    {
+      "title": "「酷暑日」の熱中症対策に冷却ウエアや遮熱テント、建設業向け商戦過熱",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
+      "pubDate": "2026-07-05T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "厚生労働省の「職場における熱中症による死傷災害の発生状況」を見ると、熱中症による建設業の死傷者数は2025年に292人だった。25年6月から始まった罰則付きの熱中症対策義務化を踏まえ、建設業では熱中症対策が加速している。熱中症対策グッズ商戦も本格化する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
+      "fingerprint": "7440909eafd4a44591647c32e9126608770262cca1cc005ae90b8fd25f15ed1a"
+    },
+    {
+      "title": "グラングリーン大阪が28年3月完成、ラスト「南分譲棟」最高住戸40億円",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02858/",
+      "pubDate": "2026-07-05T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "大阪のうめきたエリアで進む再開発「グラングリーン大阪」のゴールが見えてきた。2028年3月下旬にラストピースとなる分譲マンション「THE SOUTH RESIDENCE」が完成し、全体の街開きとなる。住戸の最高販売価格は40億円だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02858/",
+      "fingerprint": "412c3bdad2c49c6fee6dca7def5ed2a94257a1a4e0dd7c78fc371193fd24d959"
+    },
+    {
+      "title": "グラングリーン大阪が28年3月完成、ラスト「南分譲棟」最高住戸40億円",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02858/",
+      "pubDate": "2026-07-05T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "大阪のうめきたエリアで進む再開発「グラングリーン大阪」のゴールが見えてきた。2028年3月下旬にラストピースとなる分譲マンション「THE SOUTH RESIDENCE」が完成し、全体の街開きとなる。住戸の最高販売価格は40億円だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02858/",
+      "fingerprint": "412c3bdad2c49c6fee6dca7def5ed2a94257a1a4e0dd7c78fc371193fd24d959"
+    }
+  ],
+  "picks": [
+    {
+      "picked": {
+        "title": "建設業界全体で土木技術を開発・共有、新フォーラムが26年秋に発足",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/",
+        "pubDate": "2026-07-05T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "建設業界が一団となって土木分野の技術開発を共同で推し進める組織「建設技術共創・実装フォーラム（仮称）」が、2026年秋に立ち上がる。先端建設技術センターが設立して、建設会社や建設コンサルタント会社、研究機関などに入会を促し、業界全体で新技術を共有できる体制を整える。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/",
+        "fingerprint": "9a071cec6a9b656f55ca1aa7a2988552f2a43cb74bec7e39be28ab904c188feb"
+      },
+      "xDraft": "【本文】\n2026年秋、建設業界が一丸となって土木技術の開発・共有を目指す「建設技術共創・実装フォーラム（仮称）」が設立されます。先端建設技術センターが主導し、ゼネコンや建設コンサルタント、研究機関などが連携して、新技術を業界全体で共有できる体制を整えるとのことです。\n\n企業ごとの開発に留まらず、業界全体で「共創」を目指す動きは、非常に心強く感じます。共通の課題が多い今、技術を実装しやすくする仕組みは、これからのまちづくりにおいて大きな力になりそうですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/\n\n【抜粋元】\n日経クロステック 土木の記事から、2026年秋に発足予定の「建設技術共創・実装フォーラム（仮称）」の概要と、業界全体で技術開発を推進する目的について抜粋しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から、2026年秋に発足予定の「建設技術共創・実装フォーラム（仮称）」の概要と、業界全体で技術開発を推進する目的について抜粋しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「舗装と共に地下道の天井を破壊、施工箇所を試掘せず安易に深さ想定」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
+        "pubDate": "2026-07-05T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月6～12日に読まれた記事の1～10位を26年7月6～12日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
+        "fingerprint": "7002353e76b2108f9d874e578e67603c160dd49435e76a1a28135135de9fffa0"
+      },
+      "xDraft": "【本文】\n日経クロステック土木のアクセスランキングで、舗装撤去時に地下道の天井を損壊させた事故の記事が1位となりました。事前の試掘を行わず、埋設物の深さを安易に想定して施工したことが要因とのことです。\n図面上の数値と現場の実態が異なることは珍しくありませんが、やはり「自分の目で確認すること」の重みを改めて痛感します。不確実な地下を相手にする土木の仕事だからこそ、僕も基本の確認を徹底していきたいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/\n\n【抜粋元】\n日経クロステック土木の週間ランキング記事より、1位となった「舗装撤去に伴う地下道損壊事故」の概要と、その原因が試掘不足と安易な深さ想定にあったという点を抽出しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木の週間ランキング記事より、1位となった「舗装撤去に伴う地下道損壊事故」の概要と、その原因が試掘不足と安易な深さ想定にあったという点を抽出しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "「酷暑日」の熱中症対策に冷却ウエアや遮熱テント、建設業向け商戦過熱",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
+        "pubDate": "2026-07-05T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "厚生労働省の「職場における熱中症による死傷災害の発生状況」を見ると、熱中症による建設業の死傷者数は2025年に292人だった。25年6月から始まった罰則付きの熱中症対策義務化を踏まえ、建設業では熱中症対策が加速している。熱中症対策グッズ商戦も本格化する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
+        "fingerprint": "7440909eafd4a44591647c32e9126608770262cca1cc005ae90b8fd25f15ed1a"
+      },
+      "xDraft": "【本文】\n厚生労働省のまとめによると、2025年の建設業における熱中症死傷者数は292人だったそうです。同年6月より始まった罰則付きの対策義務化を背景に、冷却ウェアや遮熱テントなど、建設現場向けの熱中症対策グッズの導入が加速しています。\n僕としては、対策が「推奨」から「罰則付きの義務」になったことの重みを感じています。こうした商戦の活発化が、過酷な現場で働く方々の安全をより確実に守る契機になればと願うばかりです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/\n\n【抜粋元】\n厚生労働省の統計による建設業の熱中症死傷者数と、2025年6月から施行された罰則付きの対策義務化、それに伴い過熱する対策グッズ市場の動向を抜粋しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "厚生労働省の統計による建設業の熱中症死傷者数と、2025年6月から施行された罰則付きの対策義務化、それに伴い過熱する対策グッズ市場の動向を抜粋しました。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "建設業界全体で土木技術を開発・共有、新フォーラムが26年秋に発足",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/",
+    "pubDate": "2026-07-05T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 4.8,
+    "contentSnippet": "建設業界が一団となって土木分野の技術開発を共同で推し進める組織「建設技術共創・実装フォーラム（仮称）」が、2026年秋に立ち上がる。先端建設技術センターが設立して、建設会社や建設コンサルタント会社、研究機関などに入会を促し、業界全体で新技術を共有できる体制を整える。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/",
+    "fingerprint": "9a071cec6a9b656f55ca1aa7a2988552f2a43cb74bec7e39be28ab904c188feb"
+  },
+  "xDraft": "【本文】\n2026年秋、建設業界が一丸となって土木技術の開発・共有を目指す「建設技術共創・実装フォーラム（仮称）」が設立されます。先端建設技術センターが主導し、ゼネコンや建設コンサルタント、研究機関などが連携して、新技術を業界全体で共有できる体制を整えるとのことです。\n\n企業ごとの開発に留まらず、業界全体で「共創」を目指す動きは、非常に心強く感じます。共通の課題が多い今、技術を実装しやすくする仕組みは、これからのまちづくりにおいて大きな力になりそうですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/\n\n【抜粋元】\n日経クロステック 土木の記事から、2026年秋に発足予定の「建設技術共創・実装フォーラム（仮称）」の概要と、業界全体で技術開発を推進する目的について抜粋しました。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "日経クロステック 土木の記事から、2026年秋に発足予定の「建設技術共創・実装フォーラム（仮称）」の概要と、業界全体で技術開発を推進する目的について抜粋しました。",
   "xDraftAlternates": [],
   "errors": []
 }
