@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T22:45:20.802Z",
+  "generatedAt": "2026-07-07T22:36:10.478Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
-  "skippedJapanFocus": 0,
+  "skippedDuplicates": 3,
+  "skippedJapanFocus": 2,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
@@ -37,14 +37,14 @@
       "fingerprint": "882477ee3de289aa96cca9e61f09f57158fa9b3de515395dfea158fa66cd8f28"
     },
     {
-      "title": "建設業界全体で土木技術を開発・共有、新フォーラムが26年秋に発足",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/",
-      "pubDate": "2026-07-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "建設業界が一団となって土木分野の技術開発を共同で推し進める組織「建設技術共創・実装フォーラム（仮称）」が、2026年秋に立ち上がる。先端建設技術センターが設立して、建設会社や建設コンサルタント会社、研究機関などに入会を促し、業界全体で新技術を共有できる体制を整える。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02700/",
-      "fingerprint": "9a071cec6a9b656f55ca1aa7a2988552f2a43cb74bec7e39be28ab904c188feb"
+      "title": "米子がいな祭りに支援広がる　米子市建設業協議会が米子市へ寄付金　花火大会開催決定以降募金・寄付金が約2,000万円に　昨年の4,000発を上回る花火が打ち上げ予定　鳥取県米子市 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHRQTWxSX0VWY3VPQnRzSk5KSUVfUVBuc1htMXlwaW9LU3l4NDR4QWtzMHJUSGhrZFJET1Y1eURvT1V1R1pCQzZ5aWdqTWtTVV9sSzBtajBGc3diMUluQzhVRXc4Vm4yY3FPbVBoN2tDU2Z6UFppT2dBc29kazN3dzNtVdIBiAFBVV95cUxOZU9PRFBLWmZ6NEhMN0xDYWo5LWRuSlR6cXFYWFp6MG5taGZrWWo3NWFIazVZa1hEbmdUTmV2VTUxNlRDZ19KYUNtME85anpzUy1sdC1MTjJXV29QeDRQY1Q1cEVjV1RpbkpaaXFFWE5hVWZnd0s1R2pkemh5cXRmM2wxVTdRS0pQ?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 10:10:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4050771,
+      "contentSnippet": "米子がいな祭りに支援広がる　米子市建設業協議会が米子市へ寄付金　花火大会開催決定以降募金・寄付金が約2,000万円に　昨年の4,000発を上回る花火が打ち上げ予定　鳥取県米子市  ｄメニューニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHRQTWxSX0VWY3VPQnRzSk5KSUVfUVBuc1htMXlwaW9LU3l4NDR4QWtzMHJUSGhrZFJET1Y1eURvT1V1R1pCQzZ5aWdqTWtTVV9sSzBtajBGc3diMUluQzhVRXc4Vm4yY3FPbVBoN2tDU2Z6UFppT2dBc29kazN3dzNtVdIBiAFBVV95cUxOZU9PRFBLWmZ6NEhMN0xDYWo5LWRuSlR6cXFYWFp6MG5taGZrWWo3NWFIazVZa1hEbmdUTmV2VTUxNlRDZ19KYUNtME85anpzUy1sdC1MTjJXV29QeDRQY1Q1cEVjV1RpbkpaaXFFWE5hVWZnd0s1R2pkemh5cXRmM2wxVTdRS0pQ?oc=5",
+      "fingerprint": "95c29b1d4a8a4515810a6238cfd136b02d9ac68ecf64b41eecd98f71fb2bb8a1"
     },
     {
       "title": "英建設業ＰＭＩ、6月は38.4と引き続き大幅な縮小 前月からは改善 - ニューズウィーク日本版",
@@ -57,24 +57,74 @@
       "fingerprint": "25f4929c56548fab39e7a211a4e3373f831183edc712d0199d2b6002588552af"
     },
     {
-      "title": "1位は「舗装と共に地下道の天井を破壊、施工箇所を試掘せず安易に深さ想定」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
-      "pubDate": "2026-07-05T20:00:00.000Z",
+      "title": "2位は「設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事」経営層の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300389/",
+      "pubDate": "2026-07-07T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月6～12日に読まれた記事の1～10位を26年7月6～12日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
-      "fingerprint": "7002353e76b2108f9d874e578e67603c160dd49435e76a1a28135135de9fffa0"
+      "contentSnippet": "日経クロステックで2026年6月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。2位に「設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300389/",
+      "fingerprint": "8317fe627b00fce0c109ce844a172a2486189ed5c9c133d20bda1763f0472f04"
     },
     {
-      "title": "「酷暑日」の熱中症対策に冷却ウエアや遮熱テント、建設業向け商戦過熱",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
-      "pubDate": "2026-07-05T20:00:00.000Z",
+      "title": "熊本豪雨、道路橋復旧最後のピース　現場付近の一般道を極力止めない工夫",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02011/070100046/",
+      "pubDate": "2026-07-07T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "厚生労働省の「職場における熱中症による死傷災害の発生状況」を見ると、熱中症による建設業の死傷者数は2025年に292人だった。25年6月から始まった罰則付きの熱中症対策義務化を踏まえ、建設業では熱中症対策が加速している。熱中症対策グッズ商戦も本格化する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
-      "fingerprint": "7440909eafd4a44591647c32e9126608770262cca1cc005ae90b8fd25f15ed1a"
+      "contentSnippet": "2020年7月の熊本豪雨から6年がたつ。熊本県の球磨川に架かる10の道路橋が流失するなど大きな被害を受けたが、26年5月末には復旧事業最後の上部工架設となる深水橋のアーチが無事、閉合した。現場近くを国道が走り、他の復旧現場へ向かう工事車両に支障を来さないような配慮が求められた。豊富な写真や動画とともに、現場の概要をリポートする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02011/070100046/",
+      "fingerprint": "eb1a7af9fd735933bb3373939b1fe811564facde3cd33092dbdec94560d2ebcd"
+    },
+    {
+      "title": "住宅着工33.9％増でも厳しい市況、中東問題で「値上げの夏」到来",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02859/",
+      "pubDate": "2026-07-07T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "国土交通省の建築着工統計調査報告によると、2026年5月の新設住宅着工戸数は前年同月比33.9％増の5万7877戸だった。一見すると市況が急回復したように感じられるかもしれないが、脱炭素大改正の影響で25年4～6月の着工が急減した反動に過ぎず、住宅市況の冷え込みは今後も続きそうだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02859/",
+      "fingerprint": "6ae4c48f7b7513973436963dc4c854717aa1eebc2f981f35fc6095e86ce04517"
+    },
+    {
+      "title": "建築や街並みの保存活用に新法を、後藤治氏が提言する未来への布石",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200008/",
+      "pubDate": "2026-07-07T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "歴史的建造物の保存再生には追い風が吹いている。一方で、文化財活用には範囲の制限や煩雑なプロセスといった課題も浮き彫りとなってきた。建築の保存再生に詳しい元工学院大学理事長で、文化庁文化審議会文化経済部会臨時委員を務める後藤治氏に、新たなルールの必要性を聞いた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200008/",
+      "fingerprint": "9e91e5f2704791ef77efa78975dbd3f5524f459a5848fd98e4e467021df79e7a"
+    },
+    {
+      "title": "2位は「設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事」経営層の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300389/",
+      "pubDate": "2026-07-07T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステックで2026年6月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。2位に「設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300389/",
+      "fingerprint": "8317fe627b00fce0c109ce844a172a2486189ed5c9c133d20bda1763f0472f04"
+    },
+    {
+      "title": "1棟だけと防耐火上は別の建物、準耐火木造を区画する火熱遮断壁等",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03672/063000001/",
+      "pubDate": "2026-07-07T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "鉄道工事に強みを持つ名工建設は2026年4月、自社施工により社員向け研修施設を開設した。「火熱遮断壁等」を用いて準耐火木造の建物を区画した、延べ面積5000m2超となる先進の木造大規模施設だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03672/063000001/",
+      "fingerprint": "d351a8f980ec0a65851a754bb66c2b631cdde55c11c77595b686d4f85b3db6d5"
+    },
+    {
+      "title": "住宅着工33.9％増でも厳しい市況、中東問題で「値上げの夏」到来",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02859/",
+      "pubDate": "2026-07-07T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "国土交通省の建築着工統計調査報告によると、2026年5月の新設住宅着工戸数は前年同月比33.9％増の5万7877戸だった。一見すると市況が急回復したように感じられるかもしれないが、脱炭素大改正の影響で25年4～6月の着工が急減した反動に過ぎず、住宅市況の冷え込みは今後も続きそうだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02859/",
+      "fingerprint": "6ae4c48f7b7513973436963dc4c854717aa1eebc2f981f35fc6095e86ce04517"
     },
     {
       "title": "JSCAの新認証　非構造材と設備含む耐震性能を審査、資産価値など可視化",
@@ -87,44 +137,14 @@
       "fingerprint": "259aa52dc9cdbd93ea741de603188875f7f264bb6da925cbe12d873e010806df"
     },
     {
-      "title": "江戸博館長の藤森照信氏に聞く、「有名建築」を残す分かれ道とは",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200006/",
-      "pubDate": "2026-07-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "初の大規模改修を終えた東京都江戸東京博物館。2016年から館長を務めてきた建築史家・建築家の藤森照信氏は、1993年開館時の常設展示計画にも携わっていた。4年ほどに及んだ今回の大規模改修の狙いや、今後の「有名建築」の保存活用について尋ねた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200006/",
-      "fingerprint": "08b7391972949bedde9d655e953f01470de50ad5a44facd5ac1b409cddbdacc7"
-    },
-    {
-      "title": "1位は「舗装と共に地下道の天井を破壊、施工箇所を試掘せず安易に深さ想定」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
-      "pubDate": "2026-07-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月6～12日に読まれた記事の1～10位を26年7月6～12日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700372/",
-      "fingerprint": "7002353e76b2108f9d874e578e67603c160dd49435e76a1a28135135de9fffa0"
-    },
-    {
-      "title": "「酷暑日」の熱中症対策に冷却ウエアや遮熱テント、建設業向け商戦過熱",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
-      "pubDate": "2026-07-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "厚生労働省の「職場における熱中症による死傷災害の発生状況」を見ると、熱中症による建設業の死傷者数は2025年に292人だった。25年6月から始まった罰則付きの熱中症対策義務化を踏まえ、建設業では熱中症対策が加速している。熱中症対策グッズ商戦も本格化する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02860/",
-      "fingerprint": "7440909eafd4a44591647c32e9126608770262cca1cc005ae90b8fd25f15ed1a"
-    },
-    {
-      "title": "日本企業の99.7％を占める「中小企業を救え」 元首相・岸田文雄と商工中金社長・関根正裕が語る「バブルが壊した金融の本質」 - 文春オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTkJtUkpGd2Exd25YNnVWeU82MEtIRE5CRmxTQW9VTGFaenI4a1J4akZUa1Fyazhkd1RrbzFDWVBDSS1qNzhFQ2JhUQ?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 21:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.60495668,
-      "contentSnippet": "日本企業の99.7％を占める「中小企業を救え」 元首相・岸田文雄と商工中金社長・関根正裕が語る「バブルが壊した金融の本質」  文春オンライン",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iTkJtUkpGd2Exd25YNnVWeU82MEtIRE5CRmxTQW9VTGFaenI4a1J4akZUa1Fyazhkd1RrbzFDWVBDSS1qNzhFQ2JhUQ?oc=5",
-      "fingerprint": "53bd6931b23bb563d8753b84e36a9ea168672d90d00fd6f7d382fa599842ce78"
+      "title": "鹿島、CO2固定したスラグをコンクリートの混和材に、圧縮強度を向上",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02702/",
+      "pubDate": "2026-07-07T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "鹿島と東北大学、宇都宮大学、JFEスチールの4者は共同で、製鉄の過程で発生する製鋼スラグに二酸化炭素（CO2）を吸収・固定させた炭酸化スラグが、コンクリートの混和材として適用できることを確認した。加えて、炭酸化スラグを用いることで、コンクリートの圧縮強度を向上させることも明らかにした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02702/",
+      "fingerprint": "c3b7fcbedd22299a0b03741884a89ed1e2c3d5b10fb28d4790853944c64247c4"
     },
     {
       "title": "Q．名古屋市が街づくりで連節バスを導入、車内で目を引く特徴は？",
@@ -135,102 +155,79 @@
       "contentSnippet": "かつて路面電車が走っていた名古屋市の広小路通を、目新しいデザインの連節バスが通り過ぎていく。この連節バスは、名古屋市が2026年2月13日に運行開始した次世代交通システム「SRT」。市はSRTを単なる移動手段ではなく、ウオーカブルな街づくりを実現するための起爆剤と位置付ける。その目的に沿うよう、車両に乗り込むと、通常のバスにはない珍しいものが目を引く。それは何か。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00647/070100157/",
       "fingerprint": "977baf24800802d560533b0845e28cf1d7470cfb7a402d20433e818b5b4412fa"
-    },
-    {
-      "title": "グラングリーン大阪が28年3月完成、ラスト「南分譲棟」最高住戸40億円",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02858/",
-      "pubDate": "2026-07-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "大阪のうめきたエリアで進む再開発「グラングリーン大阪」のゴールが見えてきた。2028年3月下旬にラストピースとなる分譲マンション「THE SOUTH RESIDENCE」が完成し、全体の街開きとなる。住戸の最高販売価格は40億円だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02858/",
-      "fingerprint": "412c3bdad2c49c6fee6dca7def5ed2a94257a1a4e0dd7c78fc371193fd24d959"
-    },
-    {
-      "title": "コンクリート中性化しても補修で耐用年数増、最新の調査研究を解説",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200007/",
-      "pubDate": "2026-07-06T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "コンクリートの中性化は必ずしも建物の寿命を決定しない──。その考えを証明すべく、沖縄県にある今帰仁（なきじん）村公民館の改修に乗り出した研究者がいる。「建物として人々に飽きられてしまった時が真の耐用年数だといえるのではないか」。耐用年数に縛られず適時適切に補修することが長寿命化の鍵だと語る。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03659/062200007/",
-      "fingerprint": "f7d80c922c84a5c9547e75dccc152cec69dc23d3ff1c96e06c85a6c37828af91"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "土木・建築分野でロボット62万台導入へ、2040年めど　経済産業省",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/",
-        "pubDate": "2026-07-06T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 7.199999999999999,
-        "contentSnippet": "経済産業省が2040年までに国内の主要18分野で1000万台規模のロボットを導入する目標を打ち出した。そのうち土木・建築分野の目標は62万台。公共工事でロボットの需要を創出し、技術の改善に必要なデータの収集などにつなげる。現場への導入検証を踏まえた設計・施工の基準類の見直しにも言及した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/",
-        "fingerprint": "7f330fb4f148e7df125e387295c1e59e8701d2f372a9a3ec74301906bcbfb663"
+        "title": "米子がいな祭りに支援広がる　米子市建設業協議会が米子市へ寄付金　花火大会開催決定以降募金・寄付金が約2,000万円に　昨年の4,000発を上回る花火が打ち上げ予定　鳥取県米子市 - ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHRQTWxSX0VWY3VPQnRzSk5KSUVfUVBuc1htMXlwaW9LU3l4NDR4QWtzMHJUSGhrZFJET1Y1eURvT1V1R1pCQzZ5aWdqTWtTVV9sSzBtajBGc3diMUluQzhVRXc4Vm4yY3FPbVBoN2tDU2Z6UFppT2dBc29kazN3dzNtVdIBiAFBVV95cUxOZU9PRFBLWmZ6NEhMN0xDYWo5LWRuSlR6cXFYWFp6MG5taGZrWWo3NWFIazVZa1hEbmdUTmV2VTUxNlRDZ19KYUNtME85anpzUy1sdC1MTjJXV29QeDRQY1Q1cEVjV1RpbkpaaXFFWE5hVWZnd0s1R2pkemh5cXRmM2wxVTdRS0pQ?oc=5",
+        "pubDate": "Tue, 07 Jul 2026 10:10:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4050771,
+        "contentSnippet": "米子がいな祭りに支援広がる　米子市建設業協議会が米子市へ寄付金　花火大会開催決定以降募金・寄付金が約2,000万円に　昨年の4,000発を上回る花火が打ち上げ予定　鳥取県米子市  ｄメニューニュース",
+        "urlNorm": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHRQTWxSX0VWY3VPQnRzSk5KSUVfUVBuc1htMXlwaW9LU3l4NDR4QWtzMHJUSGhrZFJET1Y1eURvT1V1R1pCQzZ5aWdqTWtTVV9sSzBtajBGc3diMUluQzhVRXc4Vm4yY3FPbVBoN2tDU2Z6UFppT2dBc29kazN3dzNtVdIBiAFBVV95cUxOZU9PRFBLWmZ6NEhMN0xDYWo5LWRuSlR6cXFYWFp6MG5taGZrWWo3NWFIazVZa1hEbmdUTmV2VTUxNlRDZ19KYUNtME85anpzUy1sdC1MTjJXV29QeDRQY1Q1cEVjV1RpbkpaaXFFWE5hVWZnd0s1R2pkemh5cXRmM2wxVTdRS0pQ?oc=5",
+        "fingerprint": "95c29b1d4a8a4515810a6238cfd136b02d9ac68ecf64b41eecd98f71fb2bb8a1"
       },
-      "xDraft": "【本文】\n経済産業省が2040年までに、国内の土木・建築分野で計62万台のロボットを導入する目標を掲げました。公共工事での活用を通じて技術改善のデータを蓄積し、あわせてロボット導入を前提とした設計・施工基準の見直しも進める方針です。\n\n単に台数を増やすだけでなく、ロボットが動きやすいように「現場のルール」そのものを最適化しようとする姿勢に期待が高まります。2040年という未来に向けて、僕たちの働く景色がどう変わっていくのか非常に興味深いです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/\n\n【抜粋元】\n経済産業省が発表した2040年までのロボット導入目標のうち、土木・建築分野の62万台という数字と、導入に向けた施工基準の見直し方針について記載された記事に基づいています。\n\n【判定】OK",
+      "xDraft": "【本文】\n鳥取県米子市の「米子がいな祭り」に対し、米子市建設業協議会が寄付金を手渡しました。開催決定以降、寄付などは約2,000万円に達しており、今年は昨年を上回る4,000発以上の花火が打ち上げられる予定です。\n\n地域の祭りを地元の建設業が支える姿は、まさに「まち」を想う仕事の原点だと感じます。インフラ整備だけでなく、こうした文化的な賑わいにも貢献する姿勢には敬意を評したいです。夜空を彩る大きな花火が、地域の方々の活力になることを願っています。\n\n出典：ｄメニューニュース\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxNWHRQTWxSX0VWY3VPQnRzSk5KSUVfUVBuc1htMXlwaW9LU3l4NDR4QWtzMHJUSGhrZFJET1Y1eURvT1V1R1pCQzZ5aWdqTWtTVV9sSzBtajBGc3diMUluQzhVRXc4Vm4yY3FPbVBoN2tDU2Z6UFppT2dBc29kazN3dzNtVdIBiAFBVV95cUxOZU9PRFBLWmZ6NEhMN0xDYWo5LWRuSlR6cXFYWFp6MG5taGZrWWo3NWFIazVZa1hEbmdUTmV2VTUxNlRDZ19KYUNtME85anpzUy1sdC1MTjJXV29QeDRQY1Q1cEVjV1RpbkpaaXFFWE5hVWZnd0s1R2pkemh5cXRmM2wxVTdRS0pQ?oc=…",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "経済産業省が発表した2040年までのロボット導入目標のうち、土木・建築分野の62万台という数字と、導入に向けた施工基準の見直し方針について記載された記事に基づいています。",
+      "xPostVerdict": null,
+      "xDraftExcerptSummary": null,
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "土木・建築分野でロボット62万台導入へ、2040年めど　経済産業省",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/",
-        "pubDate": "2026-07-06T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 6,
-        "contentSnippet": "経済産業省が2040年までに国内の主要18分野で1000万台規模のロボットを導入する目標を打ち出した。そのうち土木・建築分野の目標は62万台。公共工事でロボットの需要を創出し、技術の改善に必要なデータの収集などにつなげる。現場への導入検証を踏まえた設計・施工の基準類の見直しにも言及した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/",
-        "fingerprint": "7f330fb4f148e7df125e387295c1e59e8701d2f372a9a3ec74301906bcbfb663"
+        "title": "英建設業ＰＭＩ、6月は38.4と引き続き大幅な縮小 前月からは改善 - ニューズウィーク日本版",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OSlViNEMtdldCZU9XVXg5Rk9RclFyYmxvUURPS19lWXdaSklqWXFKVVlVc2lsa09Wd0xlcTdTNEgtWDQxRzY2b09rdWpKaWRsMklTQmIzNGpqUQ?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 09:00:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.40499556,
+        "contentSnippet": "英建設業ＰＭＩ、6月は38.4と引き続き大幅な縮小 前月からは改善  ニューズウィーク日本版",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OSlViNEMtdldCZU9XVXg5Rk9RclFyYmxvUURPS19lWXdaSklqWXFKVVlVc2lsa09Wd0xlcTdTNEgtWDQxRzY2b09rdWpKaWRsMklTQmIzNGpqUQ?oc=5",
+        "fingerprint": "25f4929c56548fab39e7a211a4e3373f831183edc712d0199d2b6002588552af"
       },
-      "xDraft": "【本文】\n経済産業省が2040年までに、国内の主要分野で1000万台規模のロボットを導入する目標を掲げました。そのうち土木・建築分野は62万台とされており、公共工事での需要創出や、ロボット活用を前提とした設計・施工基準の見直しも進める方針です。\n\n2040年という先の話ではありますが、62万台という具体的な数字が出たことに驚きました。単に機械を導入するだけでなく、基準類という現場の「ルール」から変えていこうとする姿勢に、産業構造をアップデートしようとする強い意志を感じます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/\n\n【抜粋元】\n経済産業省が打ち出した2040年までのロボット導入目標のうち、土木・建築分野の62万台という数値目標と、導入に向けた基準類の見直しへの言及を重点的に取り上げました。\n\n【判定】OK\n\n【候補2】\n経済産業省は2040年までに、土木・建築分野へ62万台のロボットを導入する目標を打ち出しました。公共工事を活用してデータを収集し、技術改善や設計・施工基準の見直しに繋げる計画です。僕たちが働く現場の景色が、数十年かけて着実に、かつ大胆に変わっていく予感がします。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/\n\n【候補3】\n政府が2040年までに国内…",
+      "xDraft": "【本文】\n6月のイギリス建設業PMIは38.4となりました。前月の数値からは改善が見られたものの、依然として好不況の節目である50を大きく下回る大幅な縮小傾向が続いています。\nイギリスの建設市場でも厳しい状況が継続しているようですね。数字だけ見ると冷え込みを感じますが、わずかな改善の兆しが現場の先行きの安心感に繋がっていくことを、僕も願っています。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTE5OSlViNEMtdldCZU9XVXg5Rk9RclFyYmxvUURPS19lWXdaSklqWXFKVVlVc2lsa09Wd0xlcTdTNEgtWDQxRzY2b09rdWpKaWRsMklTQmIzNGpqUQ?oc=5\n\n【抜粋元】\nニューズウィーク日本版によるイギリスの建設業PMI（購買担当者景気指数）のニュースです。大幅な縮小局面にある現状と、前月比での改善という二つの側面を整理して書きました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "経済産業省が打ち出した2040年までのロボット導入目標のうち、土木・建築分野の62万台という数値目標と、導入に向けた基準類の見直しへの言及を重点的に取り上げました。",
-      "xDraftAlternates": [
-        "経済産業省は2040年までに、土木・建築分野へ62万台のロボットを導入する目標を打ち出しました。公共工事を活用してデータを収集し、技術改善や設計・施工基準の見直しに繋げる計画です。僕たちが働く現場の景色が、数十年かけて着実に、かつ大胆に変わっていく予感がします。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/",
-        "政府が2040年までに国内…"
-      ]
+      "xDraftExcerptSummary": "ニューズウィーク日本版によるイギリスの建設業PMI（購買担当者景気指数）のニュースです。大幅な縮小局面にある現状と、前月比での改善という二つの側面を整理して書きました。",
+      "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "AIでシールド機を自動運転、大成建設　鹿児島県のトンネルで初適用",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00107/00274/",
-        "pubDate": "2026-07-06T20:00:00.000Z",
+        "title": "2位は「設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事」経営層の注目トップ10",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300389/",
+        "pubDate": "2026-07-07T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "大成建設は鹿児島東西道路のトンネル工事の一部で、AI（人工知能）を活用したシールド機の自動運転技術を初めて適用した。過去の施工データをAIに学習させ、シールド機の掘進方向を自動で制御。オペレーターによる手動操作を上回る精度の掘進を実現した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00107/00274/",
-        "fingerprint": "882477ee3de289aa96cca9e61f09f57158fa9b3de515395dfea158fa66cd8f28"
+        "score": 2.4,
+        "contentSnippet": "日経クロステックで2026年6月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。2位に「設計ミスで河川構造物を全て造り直し、設計者が全額負担　広島県の砂防工事」が入りました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300389/",
+        "fingerprint": "8317fe627b00fce0c109ce844a172a2486189ed5c9c133d20bda1763f0472f04"
       },
-      "xDraft": "【本文】\n大成建設さんが鹿児島東西道路のトンネル工事で、AI（人工知能）を活用したシールド機の自動運転技術を初適用したそうです。過去の施工データをAIに学習させ、掘進方向を自動制御することで、オペレーターの手動操作を上回る高精度な掘進を実現したとのこと。\n\n現場の安全性向上はもちろん、熟練技術者のノウハウをAIが学習し、若手にも共有されていく可能性を感じます。建設DXが具体的な形で進むこのニュースは、業界にとって本当に心強いですね。今後のさらなる展開が楽しみです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00107/00274/\n\n【抜粋元】\n大成建設がAIを活用したシールド機の自動運転技術を鹿児島県のトンネル工事で初めて適用し、オペレーターの手動操作を上回る高精度な掘進を実現した点について、記事の要約・抜粋を基に記述しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日経クロステックの経営層向けランキングで、広島県の砂防工事における設計ミスの記事が2位となりました。設計不備により河川構造物をすべて造り直すことになり、その費用を設計者が全額負担したという非常に重い事例です。\n\n設計という仕事が背負う責任の大きさを、僕も改めて深く感じています。全額負担という厳しい現実は、技術者個人だけでなく組織としてのリスク管理の重要性を物語っていますね。品質を守り抜くための仕組みについて、業界全体で改めて考えるきっかけになりそうです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/02156/070300389/\n\n【抜粋元】\n日経クロステックが配信した、経営層の会員に読まれた記事のランキングです。広島県の砂防工事で設計ミスが発生し、設計者が再施工費用を全額負担したというニュースが注目を集めている点に基づき作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "大成建設がAIを活用したシールド機の自動運転技術を鹿児島県のトンネル工事で初めて適用し、オペレーターの手動操作を上回る高精度な掘進を実現した点について、記事の要約・抜粋を基に記述しました。",
+      "xDraftExcerptSummary": "日経クロステックが配信した、経営層の会員に読まれた記事のランキングです。広島県の砂防工事で設計ミスが発生し、設計者が再施工費用を全額負担したというニュースが注目を集めている点に基づき作成しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "土木・建築分野でロボット62万台導入へ、2040年めど　経済産業省",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/",
-    "pubDate": "2026-07-06T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 7.199999999999999,
-    "contentSnippet": "経済産業省が2040年までに国内の主要18分野で1000万台規模のロボットを導入する目標を打ち出した。そのうち土木・建築分野の目標は62万台。公共工事でロボットの需要を創出し、技術の改善に必要なデータの収集などにつなげる。現場への導入検証を踏まえた設計・施工の基準類の見直しにも言及した。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/",
-    "fingerprint": "7f330fb4f148e7df125e387295c1e59e8701d2f372a9a3ec74301906bcbfb663"
+    "title": "米子がいな祭りに支援広がる　米子市建設業協議会が米子市へ寄付金　花火大会開催決定以降募金・寄付金が約2,000万円に　昨年の4,000発を上回る花火が打ち上げ予定　鳥取県米子市 - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHRQTWxSX0VWY3VPQnRzSk5KSUVfUVBuc1htMXlwaW9LU3l4NDR4QWtzMHJUSGhrZFJET1Y1eURvT1V1R1pCQzZ5aWdqTWtTVV9sSzBtajBGc3diMUluQzhVRXc4Vm4yY3FPbVBoN2tDU2Z6UFppT2dBc29kazN3dzNtVdIBiAFBVV95cUxOZU9PRFBLWmZ6NEhMN0xDYWo5LWRuSlR6cXFYWFp6MG5taGZrWWo3NWFIazVZa1hEbmdUTmV2VTUxNlRDZ19KYUNtME85anpzUy1sdC1MTjJXV29QeDRQY1Q1cEVjV1RpbkpaaXFFWE5hVWZnd0s1R2pkemh5cXRmM2wxVTdRS0pQ?oc=5",
+    "pubDate": "Tue, 07 Jul 2026 10:10:00 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 3.4050771,
+    "contentSnippet": "米子がいな祭りに支援広がる　米子市建設業協議会が米子市へ寄付金　花火大会開催決定以降募金・寄付金が約2,000万円に　昨年の4,000発を上回る花火が打ち上げ予定　鳥取県米子市  ｄメニューニュース",
+    "urlNorm": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHRQTWxSX0VWY3VPQnRzSk5KSUVfUVBuc1htMXlwaW9LU3l4NDR4QWtzMHJUSGhrZFJET1Y1eURvT1V1R1pCQzZ5aWdqTWtTVV9sSzBtajBGc3diMUluQzhVRXc4Vm4yY3FPbVBoN2tDU2Z6UFppT2dBc29kazN3dzNtVdIBiAFBVV95cUxOZU9PRFBLWmZ6NEhMN0xDYWo5LWRuSlR6cXFYWFp6MG5taGZrWWo3NWFIazVZa1hEbmdUTmV2VTUxNlRDZ19KYUNtME85anpzUy1sdC1MTjJXV29QeDRQY1Q1cEVjV1RpbkpaaXFFWE5hVWZnd0s1R2pkemh5cXRmM2wxVTdRS0pQ?oc=5",
+    "fingerprint": "95c29b1d4a8a4515810a6238cfd136b02d9ac68ecf64b41eecd98f71fb2bb8a1"
   },
-  "xDraft": "【本文】\n経済産業省が2040年までに、国内の土木・建築分野で計62万台のロボットを導入する目標を掲げました。公共工事での活用を通じて技術改善のデータを蓄積し、あわせてロボット導入を前提とした設計・施工基準の見直しも進める方針です。\n\n単に台数を増やすだけでなく、ロボットが動きやすいように「現場のルール」そのものを最適化しようとする姿勢に期待が高まります。2040年という未来に向けて、僕たちの働く景色がどう変わっていくのか非常に興味深いです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02701/\n\n【抜粋元】\n経済産業省が発表した2040年までのロボット導入目標のうち、土木・建築分野の62万台という数字と、導入に向けた施工基準の見直し方針について記載された記事に基づいています。\n\n【判定】OK",
+  "xDraft": "【本文】\n鳥取県米子市の「米子がいな祭り」に対し、米子市建設業協議会が寄付金を手渡しました。開催決定以降、寄付などは約2,000万円に達しており、今年は昨年を上回る4,000発以上の花火が打ち上げられる予定です。\n\n地域の祭りを地元の建設業が支える姿は、まさに「まち」を想う仕事の原点だと感じます。インフラ整備だけでなく、こうした文化的な賑わいにも貢献する姿勢には敬意を評したいです。夜空を彩る大きな花火が、地域の方々の活力になることを願っています。\n\n出典：ｄメニューニュース\nhttps://news.google.com/rss/articles/CBMigwFBVV95cUxNWHRQTWxSX0VWY3VPQnRzSk5KSUVfUVBuc1htMXlwaW9LU3l4NDR4QWtzMHJUSGhrZFJET1Y1eURvT1V1R1pCQzZ5aWdqTWtTVV9sSzBtajBGc3diMUluQzhVRXc4Vm4yY3FPbVBoN2tDU2Z6UFppT2dBc29kazN3dzNtVdIBiAFBVV95cUxOZU9PRFBLWmZ6NEhMN0xDYWo5LWRuSlR6cXFYWFp6MG5taGZrWWo3NWFIazVZa1hEbmdUTmV2VTUxNlRDZ19KYUNtME85anpzUy1sdC1MTjJXV29QeDRQY1Q1cEVjV1RpbkpaaXFFWE5hVWZnd0s1R2pkemh5cXRmM2wxVTdRS0pQ?oc=…",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "経済産業省が発表した2040年までのロボット導入目標のうち、土木・建築分野の62万台という数字と、導入に向けた施工基準の見直し方針について記載された記事に基づいています。",
+  "xPostVerdict": null,
+  "xDraftExcerptSummary": null,
   "xDraftAlternates": [],
   "errors": []
 }
