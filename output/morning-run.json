@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-10T22:32:01.496Z",
+  "generatedAt": "2026-07-11T22:12:11.850Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 2,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 0,
   "candidates": [
     {
       "title": "AIインフラの成長がけん引：日本の建設業界における新たな雇用創出 - PR TIMES",
@@ -25,209 +25,14 @@
       "contentSnippet": "BALLAS 木村将之｜日本の建設業をAI Nativeに変える。24億円を調達したスタートアップの挑戦  sogyotecho.jp",
       "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TY1JWd2ZPWHhWZXI1VjlHREFSQ3pMS0NwQXozbFJvdTZoNmdEanJodkIydmxGWjBSdTFCUV9pdFdyaFZEWktkQ2lCbnE4OHVIZm5raVZPNHdFZw?oc=5",
       "fingerprint": "f8d28f4c5b730af084cad4566b4cea29854693692c103060acc5d4a2f4f0a929"
-    },
-    {
-      "title": "清水建設、「日本一高いビル」施工現場にフィジカルAI 2足歩行ロボが巡回 LLMで解析も - CNET Japan",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yV3JKV21XUkVvRnBzSF9USHUxazNNQTB6RW1pa20yZkV3SnNJQUNnWFdIUVJJTFYxUFBGYzBNYmdsRkM1UENodEg5RzVEU2R1YlE?oc=5",
-      "pubDate": "Thu, 09 Jul 2026 08:50:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4052283,
-      "contentSnippet": "清水建設、「日本一高いビル」施工現場にフィジカルAI 2足歩行ロボが巡回 LLMで解析も  CNET Japan",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yV3JKV21XUkVvRnBzSF9USHUxazNNQTB6RW1pa20yZkV3SnNJQUNnWFdIUVJJTFYxUFBGYzBNYmdsRkM1UENodEg5RzVEU2R1YlE?oc=5",
-      "fingerprint": "2eb15b4f056cd41ebcdea747e4131eab0a33588f837cfb66e9ab316331bef39c"
-    },
-    {
-      "title": "三井不動産が木造ハイブリッドの物流施設、「＆forest」初弾満床",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02865/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "神奈川県海老名市で、物流施設や研究施設、ラボ機能を備える巨大な物流複合施設「三井不動産インダストリアルパーク（MFIP）海老名＆forest」が完成した。三井不動産グループが「＆forest」と名付けた木造建築ブランドの第1号プロジェクトだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02865/",
-      "fingerprint": "d49da1d4f630bffda5203d24c4e32a59b6941b5dbb15dfaf9a7fa89b7232ec86"
-    },
-    {
-      "title": "三井不動産が木造ハイブリッドの物流施設、「＆forest」初弾満床",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02865/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "神奈川県海老名市で、物流施設や研究施設、ラボ機能を備える巨大な物流複合施設「三井不動産インダストリアルパーク（MFIP）海老名＆forest」が完成した。三井不動産グループが「＆forest」と名付けた木造建築ブランドの第1号プロジェクトだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02865/",
-      "fingerprint": "d49da1d4f630bffda5203d24c4e32a59b6941b5dbb15dfaf9a7fa89b7232ec86"
-    },
-    {
-      "title": "道路表面にワイヤレス給電ユニット露出、EVの給電効率向上狙う",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02707/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "世紀東急工業と芝浦工業大学は、道路の表面に露出させたワイヤレス給電ユニットから、走行中の電気自動車（EV）に電気を送るシステムを開発した。従来の給電ユニットは、厚さ5cm程度の表層の下に設置する例が多く、給電効率が低くなりがちだった。世紀東急工業の敷地内に新システムを設置し、電力の伝送効率などの検証を進めている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02707/",
-      "fingerprint": "253b70d752ae8595c80433745188f87cde326f04b4f06e43c695fc92304b6437"
-    },
-    {
-      "title": "万博オランダ館を淡路島移設、パソナグループのオフィスに再構築する斬新さ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/070202062/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "パソナグループが兵庫県の淡路島に大阪・関西万博のオランダ館の建物を移設し、社員が利用するオフィス棟に再構築することを決めた。万博パビリオンをオフィスに転用するのは斬新なレガシー活用だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/070202062/",
-      "fingerprint": "6f49d6bbc86867ee5303fcc6c1e22b1f15954707a5e4fdeecf700fc582733320"
-    },
-    {
-      "title": "1位は「施工不良で配水幹線350mやり直し、費用2億円　施工者は負担拒否」一般社員層の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300391/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年6月、一般社員層の会員が読んだ記事をランキング形式で紹介します。1位は「施工不良で配水幹線350mやり直し、費用2億円　施工者は負担拒否」でした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300391/",
-      "fingerprint": "581f16e17c9d974b7c9fa5acca59637372514cfd0a918d549149e6dd31baf9cd"
-    },
-    {
-      "title": "成田空港で2030年代に新ターミナル　鉄道の単線区間は複線化、国土交通省",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02705/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "国土交通省は、成田空港で2030年代の実現を目指し空港施設の集約やアクセス鉄道の複線化を進める。「今後の成田空港施設の機能強化に関する検討会」の第4回会合で、そうした方針を盛り込んだ最終取りまとめ案を了承した。検討会では、滑走路の延伸・新設後を見据えて空港施設の増強や鉄道アクセスの利便性向上などについて協議を重ねてきた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02705/",
-      "fingerprint": "726cb0c86b04e00a990d80fd2e26582126eb9f5feb81f9d5fdc13c1c1412838b"
-    },
-    {
-      "title": "大和ハウス工業はDC全国展開に意欲、データセンター事業本部長に直撃",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03674/070300002/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "専門部署を立ち上げ、データセンター事業に注力する大和ハウス工業。2020年の参入以降、大規模データセンター団地の開発や住友電設の買収で話題を集める。大和ハウス工業の野辺克則データセンター事業本部長は、総合力を生かした全国展開に意欲を燃やす。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03674/070300002/",
-      "fingerprint": "a6c89753590cbe1b2653c73c8dabf3edc5a0e7ed1bc2923b0720074943339778"
-    },
-    {
-      "title": "木現しを採用しやすくする火熱遮断壁等、設計上の留意点を安井昇氏が解説",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03672/063000003/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "「火熱遮断壁等」は、鉄筋コンクリート（RC）造と木造を組み合わせやすくする規定だ。その導入事例が相次いで完成している。実際に設計に関わった桜設計集団の安井昇代表に、設計上の留意点などを聞いた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03672/063000003/",
-      "fingerprint": "d72c63a8faf29cb6d478bb096aab34df10ac18dd89ca1db099f4243c05fcbd6c"
-    },
-    {
-      "title": "万博オランダ館を淡路島移設、パソナグループのオフィスに再構築する斬新さ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/070202062/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "パソナグループが兵庫県の淡路島に大阪・関西万博のオランダ館の建物を移設し、社員が利用するオフィス棟に再構築することを決めた。万博パビリオンをオフィスに転用するのは斬新なレガシー活用だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/070202062/",
-      "fingerprint": "6f49d6bbc86867ee5303fcc6c1e22b1f15954707a5e4fdeecf700fc582733320"
-    },
-    {
-      "title": "玄関に必要な機能を集約したポストユニット",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01044/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "YKK APは、郵便ポストと宅配ボックスを一体化した玄関ユニット「オルフェス ポストユニット」を2026年6月に発売した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01044/",
-      "fingerprint": "2f728dea7158b6b7f5a8d2cbad9a8f324eadd0233762ce350f6734b897e52ed2"
-    },
-    {
-      "title": "1位は「施工不良で配水幹線350mやり直し、費用2億円　施工者は負担拒否」一般社員層の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300391/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年6月、一般社員層の会員が読んだ記事をランキング形式で紹介します。1位は「施工不良で配水幹線350mやり直し、費用2億円　施工者は負担拒否」でした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300391/",
-      "fingerprint": "581f16e17c9d974b7c9fa5acca59637372514cfd0a918d549149e6dd31baf9cd"
-    },
-    {
-      "title": "成田空港で2030年代に新ターミナル　鉄道の単線区間は複線化、国土交通省",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02705/",
-      "pubDate": "2026-07-09T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "国土交通省は、成田空港で2030年代の実現を目指し空港施設の集約やアクセス鉄道の複線化を進める。「今後の成田空港施設の機能強化に関する検討会」の第4回会合で、そうした方針を盛り込んだ最終取りまとめ案を了承した。検討会では、滑走路の延伸・新設後を見据えて空港施設の増強や鉄道アクセスの利便性向上などについて協議を重ねてきた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02705/",
-      "fingerprint": "726cb0c86b04e00a990d80fd2e26582126eb9f5feb81f9d5fdc13c1c1412838b"
     }
   ],
-  "picks": [
-    {
-      "picked": {
-        "title": "AIインフラの成長がけん引：日本の建設業界における新たな雇用創出 - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95LUYyOWdmU3lGb3ctSWpRTWh5UDFYZFp5anVoYjBIOXRHRzBSaElkaGptZlNUOFNKT3NrdjJQVUdzM1pTYlR4dnBXVUxlN004Tm56emM5WmI4cWlScmE3Q01ibjE1N2VJUnc?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 02:04:22 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 7.0052841558,
-        "contentSnippet": "AIインフラの成長がけん引：日本の建設業界における新たな雇用創出  PR TIMES",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95LUYyOWdmU3lGb3ctSWpRTWh5UDFYZFp5anVoYjBIOXRHRzBSaElkaGptZlNUOFNKT3NrdjJQVUdzM1pTYlR4dnBXVUxlN004Tm56emM5WmI4cWlScmE3Q01ibjE1N2VJUnc?oc=5",
-        "fingerprint": "ae2f963d2d9dd61409d4e111b9e0724d32cadda3922acaa84a3a61116aad6102"
-      },
-      "xDraft": "【本文】\nAIインフラの拡充が、日本の建設業界において新たな雇用を生む大きな要因となっているようです。特にデータセンターなどの専門的な施設需要が高まることで、現場の技能や技術へのニーズが再定義されています。\n\n単なるハコモノ作りにとどまらず、次世代の社会基盤を物理的に支える役割を僕たちが担っているのは誇らしいですね。デジタルの進化が、現場で働く方々の新しい活躍の場を広げていく流れを歓迎したいです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE95LUYyOWdmU3lGb3ctSWpRTWh5UDFYZFp5anVoYjBIOXRHRzBSaElkaGptZlNUOFNKT3NrdjJQVUdzM1pTYlR4dnBXVUxlN004Tm56emM5WmI4cWlScmE3Q01ibjE1N2VJUnc?oc=5\n\n【抜粋元】\nPR TIMESが配信した、AIインフラの成長が日本の建設業界における雇用創出を牽引しているというニュースに基づき作成しました。デジタル化が建設需要に与えるポジティブな影響に注目しています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "PR TIMESが配信した、AIインフラの成長が日本の建設業界における雇用創出を牽引しているというニュースに基づき作成しました。デジタル化が建設需要に与えるポジティブな影響に注目しています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "BALLAS 木村将之｜日本の建設業をAI Nativeに変える。24億円を調達したスタートアップの挑戦 - sogyotecho.jp",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TY1JWd2ZPWHhWZXI1VjlHREFSQ3pMS0NwQXozbFJvdTZoNmdEanJodkIydmxGWjBSdTFCUV9pdFdyaFZEWktkQ2lCbnE4OHVIZm5raVZPNHdFZw?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 01:11:45 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 5.2052813145000005,
-        "contentSnippet": "BALLAS 木村将之｜日本の建設業をAI Nativeに変える。24億円を調達したスタートアップの挑戦  sogyotecho.jp",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TY1JWd2ZPWHhWZXI1VjlHREFSQ3pMS0NwQXozbFJvdTZoNmdEanJodkIydmxGWjBSdTFCUV9pdFdyaFZEWktkQ2lCbnE4OHVIZm5raVZPNHdFZw?oc=5",
-        "fingerprint": "f8d28f4c5b730af084cad4566b4cea29854693692c103060acc5d4a2f4f0a929"
-      },
-      "xDraft": "【本文】\n建設資材のプラットフォームを展開するBALLASが、24億円の資金調達を実施しました。独自のシステムとAIを活用することで、部材調達の最適化や図面作成の自動化など、建設プロセスのデジタル化を推進しています。\n\n24億円という調達規模の大きさから、業界の構造改革に対する期待の高さが伝わってきます。現場の複雑な調整業務がテクノロジーで少しずつスマートになっていく過程を、僕も注視していきたいです。\n\n出典：創業手帳\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTE1TY1JWd2ZPWHhWZXI1VjlHREFSQ3pMS0NwQXozbFJvdTZoNmdEanJodkIydmxGWjBSdTFCUV9pdFdyaFZEWktkQ2lCbnE4OHVIZm5raVZPNHdFZw?oc=5\n\n【抜粋元】\n建設業のAI Native化を掲げるBALLASが24億円の資金調達を行った記事です。資金調達の規模と、AIによる図面自動化などの事業内容に焦点を当てて執筆しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建設業のAI Native化を掲げるBALLASが24億円の資金調達を行った記事です。資金調達の規模と、AIによる図面自動化などの事業内容に焦点を当てて執筆しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "三井不動産が木造ハイブリッドの物流施設、「＆forest」初弾満床",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02865/",
-        "pubDate": "2026-07-09T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "神奈川県海老名市で、物流施設や研究施設、ラボ機能を備える巨大な物流複合施設「三井不動産インダストリアルパーク（MFIP）海老名＆forest」が完成した。三井不動産グループが「＆forest」と名付けた木造建築ブランドの第1号プロジェクトだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02865/",
-        "fingerprint": "d49da1d4f630bffda5203d24c4e32a59b6941b5dbb15dfaf9a7fa89b7232ec86"
-      },
-      "xDraft": "【本文】\n三井不動産が神奈川県海老名市で、木造ハイブリッド構造の物流施設「MFIP海老名＆forest」を完成させました。同社が展開する木造建築ブランドの第1号プロジェクトで、物流機能のほかに研究施設やラボも備えた巨大な複合施設となっています。\n\n僕の感想ですが、物流施設という大きなスケールで木材を活用し、かつ満床で稼働を始めるという実績は、今後の産業施設のあり方に大きな影響を与えそうです。環境配慮と機能性をどう両立させているのか、現場の工夫が気になります。まちづくりの新しい形が見えてくるようです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02865/\n\n【抜粋元】\n神奈川県海老名市で完成した、三井不動産の木造ハイブリッド物流施設「MFIP海老名＆forest」の記事から。木造ブランドの第1号である点と、物流・研究・ラボを備えた複合施設であるという事実、そして満床という市場の反応を踏まえて作成しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "神奈川県海老名市で完成した、三井不動産の木造ハイブリッド物流施設「MFIP海老名＆forest」の記事から。木造ブランドの第1号である点と、物流・研究・ラボを備えた複合施設であるという事実、そして満床という市場の反応を踏まえて作成しました。",
-      "xDraftAlternates": []
-    }
-  ],
-  "picked": {
-    "title": "AIインフラの成長がけん引：日本の建設業界における新たな雇用創出 - PR TIMES",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95LUYyOWdmU3lGb3ctSWpRTWh5UDFYZFp5anVoYjBIOXRHRzBSaElkaGptZlNUOFNKT3NrdjJQVUdzM1pTYlR4dnBXVUxlN004Tm56emM5WmI4cWlScmE3Q01ibjE1N2VJUnc?oc=5",
-    "pubDate": "Fri, 10 Jul 2026 02:04:22 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 7.0052841558,
-    "contentSnippet": "AIインフラの成長がけん引：日本の建設業界における新たな雇用創出  PR TIMES",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95LUYyOWdmU3lGb3ctSWpRTWh5UDFYZFp5anVoYjBIOXRHRzBSaElkaGptZlNUOFNKT3NrdjJQVUdzM1pTYlR4dnBXVUxlN004Tm56emM5WmI4cWlScmE3Q01ibjE1N2VJUnc?oc=5",
-    "fingerprint": "ae2f963d2d9dd61409d4e111b9e0724d32cadda3922acaa84a3a61116aad6102"
-  },
-  "xDraft": "【本文】\nAIインフラの拡充が、日本の建設業界において新たな雇用を生む大きな要因となっているようです。特にデータセンターなどの専門的な施設需要が高まることで、現場の技能や技術へのニーズが再定義されています。\n\n単なるハコモノ作りにとどまらず、次世代の社会基盤を物理的に支える役割を僕たちが担っているのは誇らしいですね。デジタルの進化が、現場で働く方々の新しい活躍の場を広げていく流れを歓迎したいです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE95LUYyOWdmU3lGb3ctSWpRTWh5UDFYZFp5anVoYjBIOXRHRzBSaElkaGptZlNUOFNKT3NrdjJQVUdzM1pTYlR4dnBXVUxlN004Tm56emM5WmI4cWlScmE3Q01ibjE1N2VJUnc?oc=5\n\n【抜粋元】\nPR TIMESが配信した、AIインフラの成長が日本の建設業界における雇用創出を牽引しているというニュースに基づき作成しました。デジタル化が建設需要に与えるポジティブな影響に注目しています。\n\n【判定】OK",
-  "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "PR TIMESが配信した、AIインフラの成長が日本の建設業界における雇用創出を牽引しているというニュースに基づき作成しました。デジタル化が建設需要に与えるポジティブな影響に注目しています。",
+  "picks": [],
+  "picked": null,
+  "xDraft": "",
+  "xDraftModel": null,
+  "xPostVerdict": null,
+  "xDraftExcerptSummary": null,
   "xDraftAlternates": [],
   "errors": []
 }
