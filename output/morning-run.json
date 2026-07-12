@@ -1,38 +1,203 @@
 {
-  "generatedAt": "2026-07-11T22:12:11.850Z",
+  "generatedAt": "2026-07-12T22:14:24.042Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
+  "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
+  "pickCountActual": 3,
   "candidates": [
     {
-      "title": "AIインフラの成長がけん引：日本の建設業界における新たな雇用創出 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95LUYyOWdmU3lGb3ctSWpRTWh5UDFYZFp5anVoYjBIOXRHRzBSaElkaGptZlNUOFNKT3NrdjJQVUdzM1pTYlR4dnBXVUxlN004Tm56emM5WmI4cWlScmE3Q01ibjE1N2VJUnc?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 02:04:22 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 7.0052841558,
-      "contentSnippet": "AIインフラの成長がけん引：日本の建設業界における新たな雇用創出  PR TIMES",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95LUYyOWdmU3lGb3ctSWpRTWh5UDFYZFp5anVoYjBIOXRHRzBSaElkaGptZlNUOFNKT3NrdjJQVUdzM1pTYlR4dnBXVUxlN004Tm56emM5WmI4cWlScmE3Q01ibjE1N2VJUnc?oc=5",
-      "fingerprint": "ae2f963d2d9dd61409d4e111b9e0724d32cadda3922acaa84a3a61116aad6102"
+      "title": "データセンター建設しやすく　蓄電池の数量規制緩和、建基法など見直し答申",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02863/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "AI（人工知能）データセンターの立地促進に向けて、規制改革が進みそうだ。政府の規制改革推進会議は、施設に不可欠なリチウムイオン蓄電池について、消防法や建築基準法における数量規制を緩和し、建設しやすくするよう答申した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02863/",
+      "fingerprint": "8e347ee1c4c345c490b422d11f52996f2e1658b565d15d19d7a3afad3187ffd7"
     },
     {
-      "title": "BALLAS 木村将之｜日本の建設業をAI Nativeに変える。24億円を調達したスタートアップの挑戦 - sogyotecho.jp",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TY1JWd2ZPWHhWZXI1VjlHREFSQ3pMS0NwQXozbFJvdTZoNmdEanJodkIydmxGWjBSdTFCUV9pdFdyaFZEWktkQ2lCbnE4OHVIZm5raVZPNHdFZw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 01:11:45 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.2052813145000005,
-      "contentSnippet": "BALLAS 木村将之｜日本の建設業をAI Nativeに変える。24億円を調達したスタートアップの挑戦  sogyotecho.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TY1JWd2ZPWHhWZXI1VjlHREFSQ3pMS0NwQXozbFJvdTZoNmdEanJodkIydmxGWjBSdTFCUV9pdFdyaFZEWktkQ2lCbnE4OHVIZm5raVZPNHdFZw?oc=5",
-      "fingerprint": "f8d28f4c5b730af084cad4566b4cea29854693692c103060acc5d4a2f4f0a929"
+      "title": "1位は「大林組JVが工費増額巡り発注者を提訴、広島高速5号の二葉山トンネル掘削難航」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700373/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月13～19日に読まれた記事の1～10位を26年7月13～19日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700373/",
+      "fingerprint": "e297c6e6e9c20c0e053b7d5c10caa63f41564686bc4e487a6d6613c60f8acca6"
+    },
+    {
+      "title": "川崎市トンネル工事で危うく導水管損傷、干渉気づかず　開削工法に変更",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02710/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "清水建設などの共同企業体（JV）が手掛けた川崎市上下水道局のシールドトンネル工事で、掘削ルートを横断する東京都の導水管を損傷する恐れがあったことが分かった。シールド機の排泥トラブルを受け、掘削を止めた後に資料を精査したところ、2～3m先の掘進ルート上に導水管があることを把握。結果として、トラブルによる掘進停止が接触事故を防いだ。市はこの先のシールド掘進を断念し、浅い位置に開削工法で施工することにした。約2億円かけて造った到達たて坑は埋め戻し、開削区間と接続する新たなたて坑を構築する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02710/",
+      "fingerprint": "5b92a2c30a36dfe8ced24b6c81a1626d7a437638c62b4b5785a95b815d47edb4"
+    },
+    {
+      "title": "AIの主戦場は「空間知能」に、資金流入が急増　テクノロジー未来投資指数",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03191/070800010/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステックは四半期に1度、「テクノロジー未来投資指数」を発表している。今回は2026年3月末時点のデータを基にトップ50をランキングにした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03191/070800010/",
+      "fingerprint": "94da1f6425a5b8327dd27f3179c15ac6a5735128aaf917b224b75ab27c7d4a39"
+    },
+    {
+      "title": "1位は「大林組JVが工費増額巡り発注者を提訴、広島高速5号の二葉山トンネル掘削難航」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700373/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月13～19日に読まれた記事の1～10位を26年7月13～19日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700373/",
+      "fingerprint": "e297c6e6e9c20c0e053b7d5c10caa63f41564686bc4e487a6d6613c60f8acca6"
+    },
+    {
+      "title": "AIの主戦場は「空間知能」に、資金流入が急増　テクノロジー未来投資指数",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03191/070800010/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステックは四半期に1度、「テクノロジー未来投資指数」を発表している。今回は2026年3月末時点のデータを基にトップ50をランキングにした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03191/070800010/",
+      "fingerprint": "94da1f6425a5b8327dd27f3179c15ac6a5735128aaf917b224b75ab27c7d4a39"
+    },
+    {
+      "title": "3位は「IPAがロゴなどを変更、4800万円超で調達も『効果はある』『重要な取り組み』」20代以下の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300392/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年6月、20代以下の会員が読んだ記事をランキング形式で紹介します。3位に「IPAがロゴなどを変更、4800万円超で調達も『効果はある』『重要な取り組み』」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300392/",
+      "fingerprint": "13793cf491cfd141331614bc4a988689192da236792fe8086d557f4577aa450f"
+    },
+    {
+      "title": "インドネシアでエビ養殖事業に参入、オリコングローバル",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02708/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "オリエンタルコンサルタンツグローバル（OCG）が、インドネシアで水産物（バナメイエビ）の養殖事業に乗り出す。事業を手掛ける特別目的会社を共同出資で設立。同国中部のスラウェシ島にエビの養殖施設を整備し、年間1300トンの供給体制を構築する。これまで、同社の海外事業は主に技術支援や調査・計画などの受託型が中心だったが、資本参画する投資型の事業モデルを展開する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02708/",
+      "fingerprint": "b5b717761ca246b06656fd7f56053648c8f265caf0e8542fa4e1029e8bb7297e"
+    },
+    {
+      "title": "万博跡地の開発事業者募集開始、マスタープランに沿う圧倒的な非日常空間",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02864/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "大阪・関西万博の会場跡地「夢洲第2期区域」の開発が動き出す。大阪府・市は2026年7月3日、第2期区域の開発事業者の募集を開始し、「圧倒的な非日常空間」の提案を呼び掛けた。「夢洲第2期区域マスタープラン Ver.3.0」に沿う計画提案と価格提案の2段階審査で、27年2月に事業予定者を決定する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02864/",
+      "fingerprint": "8f7582086681b52d89f1b816403192782194c46004fb485f5f6d81d88c95639b"
+    },
+    {
+      "title": "3位は「IPAがロゴなどを変更、4800万円超で調達も『効果はある』『重要な取り組み』」20代以下の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300392/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年6月、20代以下の会員が読んだ記事をランキング形式で紹介します。3位に「IPAがロゴなどを変更、4800万円超で調達も『効果はある』『重要な取り組み』」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300392/",
+      "fingerprint": "13793cf491cfd141331614bc4a988689192da236792fe8086d557f4577aa450f"
+    },
+    {
+      "title": "それは事務所か工場か、データセンター紛争に悩む自治体　規制は地区計画で",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03674/070300003/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "データセンター建設ラッシュの負の側面が目立ってきた。住環境を破壊するなどとして、各地で住民紛争が相次いでいるのだ。事業者と住民の対立や乱開発を防ぐため、自治体は地区計画による規制などに乗り出した。データセンターを街づくりにどう位置づけるか。試行錯誤が始まった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03674/070300003/",
+      "fingerprint": "c4bb39d6a0fc8cf9d69bd1aa1ef8fddb2668678d03e903d8f56d07746f2437e4"
+    },
+    {
+      "title": "万博跡地の開発事業者募集開始、マスタープランに沿う圧倒的な非日常空間",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02864/",
+      "pubDate": "2026-07-12T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "大阪・関西万博の会場跡地「夢洲第2期区域」の開発が動き出す。大阪府・市は2026年7月3日、第2期区域の開発事業者の募集を開始し、「圧倒的な非日常空間」の提案を呼び掛けた。「夢洲第2期区域マスタープラン Ver.3.0」に沿う計画提案と価格提案の2段階審査で、27年2月に事業予定者を決定する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02864/",
+      "fingerprint": "8f7582086681b52d89f1b816403192782194c46004fb485f5f6d81d88c95639b"
     }
   ],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "picks": [
+    {
+      "picked": {
+        "title": "データセンター建設しやすく　蓄電池の数量規制緩和、建基法など見直し答申",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02863/",
+        "pubDate": "2026-07-12T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "AI（人工知能）データセンターの立地促進に向けて、規制改革が進みそうだ。政府の規制改革推進会議は、施設に不可欠なリチウムイオン蓄電池について、消防法や建築基準法における数量規制を緩和し、建設しやすくするよう答申した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02863/",
+        "fingerprint": "8e347ee1c4c345c490b422d11f52996f2e1658b565d15d19d7a3afad3187ffd7"
+      },
+      "xDraft": "【本文】\nAIデータセンターの立地促進に向け、政府の規制改革推進会議はリチウムイオン蓄電池の数量規制を緩和する答申を出しました。消防法や建築基準法の見直しにより、これまで建設の壁となっていた制約が緩和される見通しです。\n\n膨大な電力を扱う施設にとって、蓄電池は心臓部ともいえる重要な設備。最新の技術実装に合わせて「守るべき安全」と「促進すべき開発」のバランスが最適化されるのは、日本のインフラを支える現場にとっても心強い動きですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02863/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事。AIデータセンターの建設を促すため、リチウムイオン蓄電池の数量規制を消防法や建築基準法で見直す答申がなされたという事実を基に、その産業的意義について触れました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事。AIデータセンターの建設を促すため、リチウムイオン蓄電池の数量規制を消防法や建築基準法で見直す答申がなされたという事実を基に、その産業的意義について触れました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「大林組JVが工費増額巡り発注者を提訴、広島高速5号の二葉山トンネル掘削難航」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700373/",
+        "pubDate": "2026-07-12T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月13～19日に読まれた記事の1～10位を26年7月13～19日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700373/",
+        "fingerprint": "e297c6e6e9c20c0e053b7d5c10caa63f41564686bc4e487a6d6613c60f8acca6"
+      },
+      "xDraft": "【本文】\n広島高速5号の二葉山トンネル工事で、大林組JVが工費の増額を巡り発注者を提訴しました。掘削の難航によって生じた追加コストの負担が主な争点です。\n難工事において予期せぬ事態が起きた際、その責任の所在をどう明確にするかは土木業界が抱え続けている課題ですね。現場の苦労が司法の場で争われる形となりましたが、適正なリスク分担のあり方を考える上で重要な動向だと僕も注目しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/061700373/\n\n【抜粋元】\n日経クロステック 土木のニュースランキング記事より、1位となった「大林組JVが工費増額巡り発注者を提訴、広島高速5号の二葉山トンネル掘削難航」の情報を踏まえて作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 土木のニュースランキング記事より、1位となった「大林組JVが工費増額巡り発注者を提訴、広島高速5号の二葉山トンネル掘削難航」の情報を踏まえて作成しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "川崎市トンネル工事で危うく導水管損傷、干渉気づかず　開削工法に変更",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02710/",
+        "pubDate": "2026-07-12T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "清水建設などの共同企業体（JV）が手掛けた川崎市上下水道局のシールドトンネル工事で、掘削ルートを横断する東京都の導水管を損傷する恐れがあったことが分かった。シールド機の排泥トラブルを受け、掘削を止めた後に資料を精査したところ、2～3m先の掘進ルート上に導水管があることを把握。結果として、トラブルによる掘進停止が接触事故を防いだ。市はこの先のシールド掘進を断念し、浅い位置に開削工法で施工することにした。約2億円かけて造った到達たて坑は埋め戻し、開削区間と接続する新たなたて坑を構築する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02710/",
+        "fingerprint": "5b92a2c30a36dfe8ced24b6c81a1626d7a437638c62b4b5785a95b815d47edb4"
+      },
+      "xDraft": "【本文】\n川崎市のシールド工事で、掘削ルートを横断する東京都の導水管を見落としたまま施工が進んでいたことが分かりました。排泥トラブルで掘進を止めた際の精査により、わずか2〜3m先に管があることが発覚したそうです。\n\nトラブルが結果的に重大な接触事故を防いだ形ですが、一歩間違えば大惨事でした。2億円を投じた立坑の埋め戻しや開削工法への変更という決断に、地下の見えないインフラを扱う難しさと責任の重さを強く感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02710/\n\n【抜粋元】\n日経クロステック 土木の記事から、シールド工事中の導水管見落とし、トラブルによる事故回避の経緯、および2億円の立坑埋め戻しを伴う工法変更の決定という事実を抜粋しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から、シールド工事中の導水管見落とし、トラブルによる事故回避の経緯、および2億円の立坑埋め戻しを伴う工法変更の決定という事実を抜粋しました。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "データセンター建設しやすく　蓄電池の数量規制緩和、建基法など見直し答申",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02863/",
+    "pubDate": "2026-07-12T20:00:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 4,
+    "contentSnippet": "AI（人工知能）データセンターの立地促進に向けて、規制改革が進みそうだ。政府の規制改革推進会議は、施設に不可欠なリチウムイオン蓄電池について、消防法や建築基準法における数量規制を緩和し、建設しやすくするよう答申した。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02863/",
+    "fingerprint": "8e347ee1c4c345c490b422d11f52996f2e1658b565d15d19d7a3afad3187ffd7"
+  },
+  "xDraft": "【本文】\nAIデータセンターの立地促進に向け、政府の規制改革推進会議はリチウムイオン蓄電池の数量規制を緩和する答申を出しました。消防法や建築基準法の見直しにより、これまで建設の壁となっていた制約が緩和される見通しです。\n\n膨大な電力を扱う施設にとって、蓄電池は心臓部ともいえる重要な設備。最新の技術実装に合わせて「守るべき安全」と「促進すべき開発」のバランスが最適化されるのは、日本のインフラを支える現場にとっても心強い動きですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02863/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事。AIデータセンターの建設を促すため、リチウムイオン蓄電池の数量規制を消防法や建築基準法で見直す答申がなされたという事実を基に、その産業的意義について触れました。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事。AIデータセンターの建設を促すため、リチウムイオン蓄電池の数量規制を消防法や建築基準法で見直す答申がなされたという事実を基に、その産業的意義について触れました。",
   "xDraftAlternates": [],
   "errors": []
 }
