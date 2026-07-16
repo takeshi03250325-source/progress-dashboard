@@ -1,90 +1,80 @@
 {
-  "generatedAt": "2026-07-15T22:27:44.516Z",
+  "generatedAt": "2026-07-16T22:28:46.452Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 4,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "韓国建設業でAI大転換、設計から安全管理までロボット・ドローン活用拡大",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/071300098/",
-      "pubDate": "2026-07-14T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 9.6,
-      "contentSnippet": "韓国の建設業が人工知能（AI）を前面に出した大転換に乗り出している。生成AIを活用した設計自動化から工事費予測、安全管理、建設ロボット、入居者サービスまで、AIが建設産業全般に急速に広がっている。生産性の停滞、熟練人材不足、工事費上昇、重大災害予防など業界が抱える構造的課題を解決する核心手段としてAIが浮上し、主要建設会社も専任組織を設け、自社プラットフォームとデータインフラ構築に速度を上げている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/071300098/",
-      "fingerprint": "783e93ae16c3a578704a06e826fa27deedca9fcc626528ad2bbf108d6664f73e"
-    },
-    {
-      "title": "韓国建設業でAI大転換、設計から安全管理までロボット・ドローン活用拡大",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/071300098/",
-      "pubDate": "2026-07-14T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 8,
-      "contentSnippet": "韓国の建設業が人工知能（AI）を前面に出した大転換に乗り出している。生成AIを活用した設計自動化から工事費予測、安全管理、建設ロボット、入居者サービスまで、AIが建設産業全般に急速に広がっている。生産性の停滞、熟練人材不足、工事費上昇、重大災害予防など業界が抱える構造的課題を解決する核心手段としてAIが浮上し、主要建設会社も専任組織を設け、自社プラットフォームとデータインフラ構築に速度を上げている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/071300098/",
-      "fingerprint": "783e93ae16c3a578704a06e826fa27deedca9fcc626528ad2bbf108d6664f73e"
-    },
-    {
-      "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-      "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
-    },
-    {
-      "title": "3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "国土交通省が3Dプリンター建築の規制緩和に動いた。小規模建築物に3Dプリンターで製造した型枠を構造体として活用する仕様規定を策定した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-      "fingerprint": "0d04fcefde8d41e1fe6ddf28957be86d8e5d6986fbc0c91c1f7de9a8866b93f2"
-    },
-    {
-      "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-      "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
-    },
-    {
-      "title": "3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "国土交通省が3Dプリンター建築の規制緩和に動いた。小規模建築物に3Dプリンターで製造した型枠を構造体として活用する仕様規定を策定した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-      "fingerprint": "0d04fcefde8d41e1fe6ddf28957be86d8e5d6986fbc0c91c1f7de9a8866b93f2"
-    },
-    {
-      "title": "廃校の体育館にデータセンター、遊休不動産がAIインフラに化ける",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03674/070300005/",
-      "pubDate": "2026-07-14T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "データセンターといえば、開口が少ない巨大施設としてイメージされることが多いかもしれない。もっとも最近は、データセンターの多様化が急速に進み始めている。廃校の活用事例に、中規模の都市型、手軽に設置できるモジュール型など、バリエーションが増えてきた。建物の変化は、設計者や施工者など、データセンターに関わるプレーヤーの多様化をもたらしそうだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03674/070300005/",
-      "fingerprint": "70108fd33e2e35f41e8313637166dac3576438628025db8c51191d6617bc3029"
-    },
-    {
-      "title": "建設業の倒産・廃業が最多の5937件 1〜6月、帝国データ調べ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ia0lpdE9SVGJ2RXF2aVByc184Rm96MEdYRUZzSUFSVTdhbXI3N0FrV2EyVG5KY01Wa0U3V1ZsV0VpeE93bHZvTTZGaXRDd1RWN0tVb0ZoaU5iZHRiMzFhSXE5R1FaelctY3drTw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 09:23:31 GMT",
+      "title": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 01:00:02 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4056189099000003,
-      "contentSnippet": "建設業の倒産・廃業が最多の5937件 1〜6月、帝国データ調べ  日本経済新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ia0lpdE9SVGJ2RXF2aVByc184Rm96MEdYRUZzSUFSVTdhbXI3N0FrV2EyVG5KY01Wa0U3V1ZsV0VpeE93bHZvTTZGaXRDd1RWN0tVb0ZoaU5iZHRiMzFhSXE5R1FaelctY3drTw?oc=5",
-      "fingerprint": "13767d777301a12335c8ee3e64ae668b4c82235c877305346c5d679e6ec95247"
+      "score": 5.2057472418,
+      "contentSnippet": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰  PR TIMES",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
+      "fingerprint": "0f7cb600b69b4f8632001a4e81cb067276b0f15e03c966ca68b782f63dde8b0b"
+    },
+    {
+      "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
+      "pubDate": "2026-07-15T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
+      "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
+    },
+    {
+      "title": "3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
+      "pubDate": "2026-07-15T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "国土交通省が3Dプリンター建築の規制緩和に動いた。小規模建築物に3Dプリンターで製造した型枠を構造体として活用する仕様規定を策定した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
+      "fingerprint": "0d04fcefde8d41e1fe6ddf28957be86d8e5d6986fbc0c91c1f7de9a8866b93f2"
+    },
+    {
+      "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
+      "pubDate": "2026-07-15T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
+      "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
+    },
+    {
+      "title": "3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
+      "pubDate": "2026-07-15T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "国土交通省が3Dプリンター建築の規制緩和に動いた。小規模建築物に3Dプリンターで製造した型枠を構造体として活用する仕様規定を策定した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
+      "fingerprint": "0d04fcefde8d41e1fe6ddf28957be86d8e5d6986fbc0c91c1f7de9a8866b93f2"
+    },
+    {
+      "title": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く - ニューズウィーク日本版",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:11:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.405799674,
+      "contentSnippet": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く  ニューズウィーク日本版",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5",
+      "fingerprint": "d9c87300351786da7e6fc48bc7342f91c66103809761d4136b8ae21fc1160991"
+    },
+    {
+      "title": "グリーンインフラの資金調達を多角化、成果連動型報酬を先行導入した前橋市",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "自然の多様な機能を活用した社会資本であるグリーンインフラに多方面から資金を呼び込もうと、国土交通省は資金調達の事例集を作成した。成果連動型の手法を導入した前橋市など、全国の珍しい試みを発信する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
+      "fingerprint": "916c957024d613243dfd7d98a75aaaebeaabc7def1a5d232717655d9c9583df4"
     },
     {
       "title": "1位は「認定仕様にない断熱材充填に国土交通省が注意喚起、認定不適合の恐れ」",
@@ -107,16 +97,6 @@
       "fingerprint": "7dbe89bea29ff90a101c21eb20f66997a168b15666f51c2b0a3cb4d207fb5364"
     },
     {
-      "title": "中止乗り越え「石上純也展」が別会場で開幕、岐路に立つ徳島の新ホール整備",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02873/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "徳島県の要請で開催直前に中止に追い込まれた展覧会「石上純也展─徳島文化芸術ホールへと続く、風景と建築の思想─」が会場を移し、2026年7月11日に開幕した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02873/",
-      "fingerprint": "bd88c35d5b812186f6b281b0708c41b7e2aba7a06fa31ec7d9d8dac622526906"
-    },
-    {
       "title": "トンネルに土砂流入、逆止弁ない注入孔から　外周に裏込め材行き渡らず",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02714/",
       "pubDate": "2026-07-15T20:00:00.000Z",
@@ -127,24 +107,34 @@
       "fingerprint": "11ac139e7b50c166ec8a30cc58d2089bebb2bea5dab70f781b34d67f96f42d3e"
     },
     {
-      "title": "「自然の状態」測る国際指標が26年決定へ、グリーンインフラの効果を可視化",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000002/",
-      "pubDate": "2026-07-14T20:00:00.000Z",
+      "title": "中止乗り越え「石上純也展」が別会場で開幕、岐路に立つ徳島の新ホール整備",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02873/",
+      "pubDate": "2026-07-15T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "生物多様性の損失を止め、回復へと反転させる「ネイチャーポジティブ（自然再興）」を定量評価する国際指標が2026年に決まる予定だ。一方、国内の自然環境に合った指標づくりも動いており、自然の多様化な機能を活用した社会資本である「グリーンインフラ」整備の成果の可視化が進みそうだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000002/",
-      "fingerprint": "e3cc9fb846f4344f33124f8eaa3610312d1f0ee53d885c0ea9813f5da628b0b4"
+      "contentSnippet": "徳島県の要請で開催直前に中止に追い込まれた展覧会「石上純也展─徳島文化芸術ホールへと続く、風景と建築の思想─」が会場を移し、2026年7月11日に開幕した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02873/",
+      "fingerprint": "bd88c35d5b812186f6b281b0708c41b7e2aba7a06fa31ec7d9d8dac622526906"
     },
     {
-      "title": "鋼橋の塗装劣化をAIで確認、大阪市が本格導入に向けた検討業務を発注",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02711/",
-      "pubDate": "2026-07-14T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "大阪市は、橋梁の維持管理でのAI（人工知能）活用に向け、実証実験で運用方針などを検討する業務を発注する。委託期間は2026年秋ごろから28年3月31日までの予定。鋼橋の塗装劣化などを検知するAI技術を検証し、維持管理にかかるコスト削減などの効果を確認する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02711/",
-      "fingerprint": "0a513042193b1e0de4ae623849167e26f794340a4af6f333a05eb187db5311b6"
+      "title": "グリーンインフラの資金調達を多角化、成果連動型報酬を先行導入した前橋市",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "自然の多様な機能を活用した社会資本であるグリーンインフラに多方面から資金を呼び込もうと、国土交通省は資金調達の事例集を作成した。成果連動型の手法を導入した前橋市など、全国の珍しい試みを発信する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
+      "fingerprint": "916c957024d613243dfd7d98a75aaaebeaabc7def1a5d232717655d9c9583df4"
+    },
+    {
+      "title": "ペロブスカイト太陽電池の導入を促進、設置・面積測定方法の見直しへ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02872/",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "建築物の脱炭素に向けた切り札として注目を集めるペロブスカイト太陽電池。軽くて柔軟なため、多様な設置形態に対応できるのが特長だが、普及には課題がある。工場で設置する場合はカバーガラスで覆う必要があるなど、その特長を損ねるような規制が横たわる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02872/",
+      "fingerprint": "2ce7e62a87a295212d93aefbe8ca06c73243c577b7c9d631022e935a9aa66747"
     },
     {
       "title": "1位は「認定仕様にない断熱材充填に国土交通省が注意喚起、認定不適合の恐れ」",
@@ -155,79 +145,89 @@
       "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月13～19日に読まれた記事の1～10位を26年7月16～22日に無料で読めるようにしました。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700424/",
       "fingerprint": "fbf32c66121b857b8a3c0ff314b034eb748ac2a8e032e6c4b8e701f863a207c0"
+    },
+    {
+      "title": "沈下を続ける関空の独自工事、滑走路かさ上げ　建物支える1000本の柱の延伸",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/071300032/",
+      "pubDate": "2026-07-15T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年6月、関西国際空港の第2ターミナルがある2期島で、高さ約40mの連続地中壁を構築する工事が始まった。島とともに沈下した地下の設備が、地下水の影響を受けやすくなったため、島外周の海水を通さない地中壁を築いて島内の地下水位上昇を抑える。空港を守るための大規模な工事だが、これは序の口。沈下する島ならではの、やめられない工事が関空にはまだまだある",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/071300032/",
+      "fingerprint": "7dbe89bea29ff90a101c21eb20f66997a168b15666f51c2b0a3cb4d207fb5364"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-        "pubDate": "2026-07-15T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-        "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
+        "title": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
+        "pubDate": "Thu, 16 Jul 2026 01:00:02 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 5.2057472418,
+        "contentSnippet": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰  PR TIMES",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
+        "fingerprint": "0f7cb600b69b4f8632001a4e81cb067276b0f15e03c966ca68b782f63dde8b0b"
       },
-      "xDraft": "【本文】\nAI半導体やデータセンターの誘致が進む熊本県や千葉県などで、水資源の涵養やネイチャーポジティブを支える産官学の中間支援組織が地域単位で立ち上がっています。グリーンインフラの整備効果をクレジット化し、経済価値として循環させる役割も担うとのことです。\n\n最先端産業の集積には、豊かな水や自然といった土台が欠かせないと僕は考えています。開発と保全を切り離さず、地域が主体となって自然資本を管理・評価していく仕組みづくりは、持続可能なインフラのあり方として非常に興味深いですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/\n\n【抜粋元】\nAI半導体やデータセンターの産業集積に伴い、熊本や千葉で水資源保護やネイチャーポジティブを推進する産官学組織が誕生している点、およびその整備効果をクレジット化する動きについて。\n\n【判定】OK",
+      "xDraft": "【本文】\n東名高速道路の橋梁補修工事で、橋本組がNEXCO中日本より安全表彰を受けたとPR TIMESが報じています。\nこれは、「造る建設業」から「守る建設業」への移行が叫ばれる中で、現場の安全意識と品質への取り組みが評価された好事例だと感じました。\n既存インフラの維持管理がますます重要になる中、安全を最優先する姿勢が評価されるのは、業界全体の模範となり、技術者たちの士気向上にも繋がるはずです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5\n\n【抜粋元】\nPR TIMESが報じた、東名高速道路の橋梁補修工事で橋本組がNEXCO中日本より安全表彰を受けたという記事の内容、特に「造る建設業」から「守る建設業」への業界の変化と安全性の重要性という点に注目して記述しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
+      "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "AI半導体やデータセンターの産業集積に伴い、熊本や千葉で水資源保護やネイチャーポジティブを推進する産官学組織が誕生している点、およびその整備効果をクレジット化する動きについて。",
+      "xDraftExcerptSummary": "PR TIMESが報じた、東名高速道路の橋梁補修工事で橋本組がNEXCO中日本より安全表彰を受けたという記事の内容、特に「造る建設業」から「守る建設業」への業界の変化と安全性の重要性という点に注目して記述しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-        "pubDate": "2026-07-15T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "国土交通省が3Dプリンター建築の規制緩和に動いた。小規模建築物に3Dプリンターで製造した型枠を構造体として活用する仕様規定を策定した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-        "fingerprint": "0d04fcefde8d41e1fe6ddf28957be86d8e5d6986fbc0c91c1f7de9a8866b93f2"
+        "title": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く - ニューズウィーク日本版",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5",
+        "pubDate": "Thu, 16 Jul 2026 17:11:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.405799674,
+        "contentSnippet": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く  ニューズウィーク日本版",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5",
+        "fingerprint": "d9c87300351786da7e6fc48bc7342f91c66103809761d4136b8ae21fc1160991"
       },
-      "xDraft": "【本文】\n国土交通省が3Dプリンター建築の規制緩和に踏み切りました。小規模な建築物を対象に、3Dプリンターで製造した型枠をそのまま構造体として活用するための仕様規定を新たに策定しています。\n\nこれまでは実績が少なく、導入には高いハードルがあったはずです。こうして公的な基準が整っていくことで、新しい技術が実際の現場でより使いやすくなるのは素晴らしいことだと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/\n\n【抜粋元】\n日経クロステック 土木の記事「3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定」より。国交省が策定した仕様規定の内容とその対象についての情報を参照しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n米国の7月の住宅建設業者指数が低下しました。住宅ローン金利の高止まりが続いており、建設業者の景況感を押し下げているようです。\n\n金利というマクロな数字が、実際の建物の着工や現場の動きにブレーキをかけてしまうのは、僕たち建設に関わる人間として寂しいものがありますね。需要そのものが消えたわけではないでしょうから、今後の金利の動きと現場への影響を注視したいです。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5\n\n【抜粋元】\nニューズウィーク日本版の記事に基づき、7月の米住宅建設業者指数が金利高止まりを背景に低下した事実を伝えました。米国の建設業界における景況感の変化に焦点を当てています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事「3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定」より。国交省が策定した仕様規定の内容とその対象についての情報を参照しました。",
+      "xDraftExcerptSummary": "ニューズウィーク日本版の記事に基づき、7月の米住宅建設業者指数が金利高止まりを背景に低下した事実を伝えました。米国の建設業界における景況感の変化に焦点を当てています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-        "pubDate": "2026-07-15T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-        "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
+        "title": "グリーンインフラの資金調達を多角化、成果連動型報酬を先行導入した前橋市",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
+        "pubDate": "2026-07-16T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "自然の多様な機能を活用した社会資本であるグリーンインフラに多方面から資金を呼び込もうと、国土交通省は資金調達の事例集を作成した。成果連動型の手法を導入した前橋市など、全国の珍しい試みを発信する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
+        "fingerprint": "916c957024d613243dfd7d98a75aaaebeaabc7def1a5d232717655d9c9583df4"
       },
-      "xDraft": "【本文】\nAI半導体の工場やデータセンターの集積が進む熊本県や千葉県の自治体で、グリーンインフラやネイチャーポジティブを推進する産官学の中間支援組織が誕生しています。整備による環境効果を経済価値に変える「クレジット化」も担う仕組みです。\n\n先端産業の発展を支えるには、豊かな水資源などの自然資本を維持・強化する視点が不可欠ですね。環境への取り組みを単なる保護に留めず、地域単位で経済循環の中に組み込んでいく手法は、これからのまちづくりの重要なモデルになると感じます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/\n\n【抜粋元】\n熊本や千葉でAI産業の集積に伴い、自然資本を維持・強化する産官学の中間支援組織が設立され、整備効果のクレジット化も進められているという記事の要点を踏まえて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n国土交通省が、グリーンインフラへの資金調達を多角化するための事例集を作成しました。成果連動型報酬（PFS）を取り入れた前橋市の事例など、民間の資金を呼び込むための全国の珍しい試みが紹介されています。\n自然の機能をインフラに活用する取り組みは、維持管理の持続性が常に課題になります。公費だけに頼らず、成果を正しく評価して資金を循環させる仕組みは、これからのまちづくりに欠かせない視点だと僕は感じています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/\n\n【抜粋元】\n日経クロステック 土木の記事から、国土交通省によるグリーンインフラの資金調達事例集作成のニュースと、成果連動型報酬を導入した前橋市の取り組みについて抜粋しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "熊本や千葉でAI産業の集積に伴い、自然資本を維持・強化する産官学の中間支援組織が設立され、整備効果のクレジット化も進められているという記事の要点を踏まえて作成しました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から、国土交通省によるグリーンインフラの資金調達事例集作成のニュースと、成果連動型報酬を導入した前橋市の取り組みについて抜粋しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-    "pubDate": "2026-07-15T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-    "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
+    "title": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰 - PR TIMES",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
+    "pubDate": "Thu, 16 Jul 2026 01:00:02 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 5.2057472418,
+    "contentSnippet": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰  PR TIMES",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
+    "fingerprint": "0f7cb600b69b4f8632001a4e81cb067276b0f15e03c966ca68b782f63dde8b0b"
   },
-  "xDraft": "【本文】\nAI半導体やデータセンターの誘致が進む熊本県や千葉県などで、水資源の涵養やネイチャーポジティブを支える産官学の中間支援組織が地域単位で立ち上がっています。グリーンインフラの整備効果をクレジット化し、経済価値として循環させる役割も担うとのことです。\n\n最先端産業の集積には、豊かな水や自然といった土台が欠かせないと僕は考えています。開発と保全を切り離さず、地域が主体となって自然資本を管理・評価していく仕組みづくりは、持続可能なインフラのあり方として非常に興味深いですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/\n\n【抜粋元】\nAI半導体やデータセンターの産業集積に伴い、熊本や千葉で水資源保護やネイチャーポジティブを推進する産官学組織が誕生している点、およびその整備効果をクレジット化する動きについて。\n\n【判定】OK",
+  "xDraft": "【本文】\n東名高速道路の橋梁補修工事で、橋本組がNEXCO中日本より安全表彰を受けたとPR TIMESが報じています。\nこれは、「造る建設業」から「守る建設業」への移行が叫ばれる中で、現場の安全意識と品質への取り組みが評価された好事例だと感じました。\n既存インフラの維持管理がますます重要になる中、安全を最優先する姿勢が評価されるのは、業界全体の模範となり、技術者たちの士気向上にも繋がるはずです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5\n\n【抜粋元】\nPR TIMESが報じた、東名高速道路の橋梁補修工事で橋本組がNEXCO中日本より安全表彰を受けたという記事の内容、特に「造る建設業」から「守る建設業」への業界の変化と安全性の重要性という点に注目して記述しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
+  "xDraftModel": "models/gemini-2.5-flash",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "AI半導体やデータセンターの産業集積に伴い、熊本や千葉で水資源保護やネイチャーポジティブを推進する産官学組織が誕生している点、およびその整備効果をクレジット化する動きについて。",
+  "xDraftExcerptSummary": "PR TIMESが報じた、東名高速道路の橋梁補修工事で橋本組がNEXCO中日本より安全表彰を受けたという記事の内容、特に「造る建設業」から「守る建設業」への業界の変化と安全性の重要性という点に注目して記述しました。",
   "xDraftAlternates": [],
   "errors": []
 }
