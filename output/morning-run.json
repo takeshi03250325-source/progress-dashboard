@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-16T22:28:46.452Z",
+  "generatedAt": "2026-07-17T22:13:32.314Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 4,
-  "skippedJapanFocus": 0,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
@@ -17,54 +17,34 @@
       "fingerprint": "0f7cb600b69b4f8632001a4e81cb067276b0f15e03c966ca68b782f63dde8b0b"
     },
     {
-      "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-      "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
-    },
-    {
-      "title": "3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "国土交通省が3Dプリンター建築の規制緩和に動いた。小規模建築物に3Dプリンターで製造した型枠を構造体として活用する仕様規定を策定した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-      "fingerprint": "0d04fcefde8d41e1fe6ddf28957be86d8e5d6986fbc0c91c1f7de9a8866b93f2"
-    },
-    {
-      "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "AI（人工知能）の急速な進化に合わせて、産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
-      "fingerprint": "7461f18033d22c799ba702c3e0192dc0cc5799d9c10e9d464ab568af11504720"
-    },
-    {
-      "title": "3Dプリンター建築で規制緩和、国交省が小規模建物で型枠の構造体利用規定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "国土交通省が3Dプリンター建築の規制緩和に動いた。小規模建築物に3Dプリンターで製造した型枠を構造体として活用する仕様規定を策定した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02868/",
-      "fingerprint": "0d04fcefde8d41e1fe6ddf28957be86d8e5d6986fbc0c91c1f7de9a8866b93f2"
-    },
-    {
-      "title": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く - ニューズウィーク日本版",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 17:11:00 GMT",
+      "title": "建設通信新聞×日本建設業連合会四国支部/若手座談会 - 建設通信新聞Digital",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 01:41:30 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.405799674,
-      "contentSnippet": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く  ニューズウィーク日本版",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5",
-      "fingerprint": "d9c87300351786da7e6fc48bc7342f91c66103809761d4136b8ae21fc1160991"
+      "score": 3.4058272410000003,
+      "contentSnippet": "建設通信新聞×日本建設業連合会四国支部/若手座談会  建設通信新聞Digital",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5",
+      "fingerprint": "6fc8f39870e4be5f10c5fdc7a057b158bde5ea310867bf6ddeaba0318a2bd701"
+    },
+    {
+      "title": "新会長・日本空調衛生工事業協会 小島和人氏 - 建設通信新聞Digital",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMmo5aHlIUmtCZ1ZHSWZ2SXJUZEFJMkktTEplb1JOTEhmRVphRzUwRm5rRFB4TzVhRTdvSkZvejlBYzJBVHd3UWdQaW9fWnl4VFZBYW9HLUM?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 20:01:30 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.405808881,
+      "contentSnippet": "新会長・日本空調衛生工事業協会 小島和人氏  建設通信新聞Digital",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMmo5aHlIUmtCZ1ZHSWZ2SXJUZEFJMkktTEplb1JOTEhmRVphRzUwRm5rRFB4TzVhRTdvSkZvejlBYzJBVHd3UWdQaW9fWnl4VFZBYW9HLUM?oc=5",
+      "fingerprint": "2ab2c049973961fce016feb07b39a5469e35a9138ca8d9e45a794fb11e8092f6"
+    },
+    {
+      "title": "夏ボーナスの業種格差広がる 大手ゼネコン200万円超、鉄鋼は3%減 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMkFSX2ZveElZSWtTWV9QSGREV1RhVU8ydzdidUtTNkpXcXh4N0hhNDhUSjY4TGdKTjZfMElEZTRwdkk4eWU5cmZ2bHR0Y01KTjktM0x4X3lUNENWVzE3X3FyTWxsY0ZadkY0MQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 17:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4057990800000004,
+      "contentSnippet": "夏ボーナスの業種格差広がる 大手ゼネコン200万円超、鉄鋼は3%減  日本経済新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMkFSX2ZveElZSWtTWV9QSGREV1RhVU8ydzdidUtTNkpXcXh4N0hhNDhUSjY4TGdKTjZfMElEZTRwdkk4eWU5cmZ2bHR0Y01KTjktM0x4X3lUNENWVzE3X3FyTWxsY0ZadkY0MQ?oc=5",
+      "fingerprint": "23fe7e8276deb82f21b765d61a7d39c27e370a2f8686e223b169ff23fb436199"
     },
     {
       "title": "グリーンインフラの資金調達を多角化、成果連動型報酬を先行導入した前橋市",
@@ -75,46 +55,6 @@
       "contentSnippet": "自然の多様な機能を活用した社会資本であるグリーンインフラに多方面から資金を呼び込もうと、国土交通省は資金調達の事例集を作成した。成果連動型の手法を導入した前橋市など、全国の珍しい試みを発信する。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
       "fingerprint": "916c957024d613243dfd7d98a75aaaebeaabc7def1a5d232717655d9c9583df4"
-    },
-    {
-      "title": "1位は「認定仕様にない断熱材充填に国土交通省が注意喚起、認定不適合の恐れ」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700424/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月13～19日に読まれた記事の1～10位を26年7月16～22日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700424/",
-      "fingerprint": "fbf32c66121b857b8a3c0ff314b034eb748ac2a8e032e6c4b8e701f863a207c0"
-    },
-    {
-      "title": "沈下を続ける関空の独自工事、滑走路かさ上げ　建物支える1000本の柱の延伸",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/071300032/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "2026年6月、関西国際空港の第2ターミナルがある2期島で、高さ約40mの連続地中壁を構築する工事が始まった。島とともに沈下した地下の設備が、地下水の影響を受けやすくなったため、島外周の海水を通さない地中壁を築いて島内の地下水位上昇を抑える。空港を守るための大規模な工事だが、これは序の口。沈下する島ならではの、やめられない工事が関空にはまだまだある",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/071300032/",
-      "fingerprint": "7dbe89bea29ff90a101c21eb20f66997a168b15666f51c2b0a3cb4d207fb5364"
-    },
-    {
-      "title": "トンネルに土砂流入、逆止弁ない注入孔から　外周に裏込め材行き渡らず",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02714/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "東京都の水道工事で2026年4月に発生したシールドトンネル内への土砂流入事故について、流入経路となった裏込め注入孔に逆流を防ぐ「逆止弁」を設置していなかったことが分かった。注入孔の蓋を開けた作業員は、逆止弁の有無を把握していなかった。さらに、掘削で生じたトンネル外周の空間では下方に土砂が堆積し、流入箇所付近に裏込め材が十分に行き渡っていなかったと見られることも判明した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02714/",
-      "fingerprint": "11ac139e7b50c166ec8a30cc58d2089bebb2bea5dab70f781b34d67f96f42d3e"
-    },
-    {
-      "title": "中止乗り越え「石上純也展」が別会場で開幕、岐路に立つ徳島の新ホール整備",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02873/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "徳島県の要請で開催直前に中止に追い込まれた展覧会「石上純也展─徳島文化芸術ホールへと続く、風景と建築の思想─」が会場を移し、2026年7月11日に開幕した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02873/",
-      "fingerprint": "bd88c35d5b812186f6b281b0708c41b7e2aba7a06fa31ec7d9d8dac622526906"
     },
     {
       "title": "グリーンインフラの資金調達を多角化、成果連動型報酬を先行導入した前橋市",
@@ -137,97 +77,157 @@
       "fingerprint": "2ce7e62a87a295212d93aefbe8ca06c73243c577b7c9d631022e935a9aa66747"
     },
     {
-      "title": "1位は「認定仕様にない断熱材充填に国土交通省が注意喚起、認定不適合の恐れ」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700424/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月13～19日に読まれた記事の1～10位を26年7月16～22日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700424/",
-      "fingerprint": "fbf32c66121b857b8a3c0ff314b034eb748ac2a8e032e6c4b8e701f863a207c0"
+      "title": "【日本コムシス】協力会社の採用・育成を支援する『次世代の担い手確保奨励制度』を拡充 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80TzUyQTZjLTVRYUNaSHUwZVNOWE5kR0oxNVQ5QjBJWHFLYWRrOU1OcVRzbHA3UDg3Y3VTVVhBOHViYUJkSkxrT0Njd2QxUWxhbDJfaTR0MUU0amRZQ0EyNkpxeVMwNkNIVEU4ekh6dEJlYkpjSEpMaVRQOA?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 02:45:28 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6058306951999999,
+      "contentSnippet": "【日本コムシス】協力会社の採用・育成を支援する『次世代の担い手確保奨励制度』を拡充  ニコニコニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80TzUyQTZjLTVRYUNaSHUwZVNOWE5kR0oxNVQ5QjBJWHFLYWRrOU1OcVRzbHA3UDg3Y3VTVVhBOHViYUJkSkxrT0Njd2QxUWxhbDJfaTR0MUU0amRZQ0EyNkpxeVMwNkNIVEU4ekh6dEJlYkpjSEpMaVRQOA?oc=5",
+      "fingerprint": "12e2737b928f988061fcaeb03fbb4b4c19af3fd893e5b75a4a28488320c9f130"
     },
     {
-      "title": "沈下を続ける関空の独自工事、滑走路かさ上げ　建物支える1000本の柱の延伸",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/071300032/",
-      "pubDate": "2026-07-15T20:00:00.000Z",
+      "title": "日本は建設作業員の深刻な不足に直面している。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Welh6eHJxTXdrWkJuUmpkR2N5a1ZtMGxHcnhBOG1DV0haZGpCT3ZBV2lyNklNdkJCbmZzZ2FoX0dBckpWdGFDa3RZZUY5ZjlUcXNULVZTOGtMbXE3SXNnUl8yNGhPQmhwNW5vZk44U1hURkJUMkVOWQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 01:11:47 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6058256363,
+      "contentSnippet": "日本は建設作業員の深刻な不足に直面している。  Vietnam.vn",
+      "urlNorm": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Welh6eHJxTXdrWkJuUmpkR2N5a1ZtMGxHcnhBOG1DV0haZGpCT3ZBV2lyNklNdkJCbmZzZ2FoX0dBckpWdGFDa3RZZUY5ZjlUcXNULVZTOGtMbXE3SXNnUl8yNGhPQmhwNW5vZk44U1hURkJUMkVOWQ?oc=5",
+      "fingerprint": "db20b32878c8250056a2c49738a3589fcd7465a6f0473045dcca548db8a5da11"
+    },
+    {
+      "title": "日本土間業組合連合会 討論会を開催 11月には技能者検定を実施 - 建通新聞",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalhsc3JhMHN5ZHh2TmdTOFJ3VlR0LVdpYU5QNlEtRVFId3gtUGk3VGg2bm9SZl9SWV9yUTE4Wm9Sa0h6YTBTSTF5Z1J2TEhzS0VtaEtHT21PT0xoYVZmWm1WYzF4WDFEUW53VkZLMkZnYk02Wll5dUNHZFJJMno3aQ?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 01:58:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6057503720000001,
+      "contentSnippet": "日本土間業組合連合会 討論会を開催 11月には技能者検定を実施  建通新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalhsc3JhMHN5ZHh2TmdTOFJ3VlR0LVdpYU5QNlEtRVFId3gtUGk3VGg2bm9SZl9SWV9yUTE4Wm9Sa0h6YTBTSTF5Z1J2TEhzS0VtaEtHT21PT0xoYVZmWm1WYzF4WDFEUW53VkZLMkZnYk02Wll5dUNHZFJJMno3aQ?oc=5",
+      "fingerprint": "7972843d44833cf846ca2fce00413c689b5f705f53b1e54e57395511b777fbec"
+    },
+    {
+      "title": "3位は「EV向け全固体電池の『量産』いよいよ開始、トヨタは優位を保てるか」60代以上の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300396/",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年6月、60代以上の会員が読んだ記事をランキング形式で紹介します。3位に「EV向け全固体電池の『量産』いよいよ開始、トヨタは優位を保てるか」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300396/",
+      "fingerprint": "e6fc9d2d79134a5bbe5ddbd48fe25ebb45f4cd9adff4bca7ec17a1489ed2d56b"
+    },
+    {
+      "title": "肉食でも草食でもない、2026年のPPP/PFIアクションプランを読む",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01445/00047/",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "高市早苗政権になって初めてとなる「PPP/PFI推進アクションプラン」が公表された。肉食と草食の両方の要素がある「雑食系アクションプラン」と形容できそうだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01445/00047/",
+      "fingerprint": "672144b422d2952d8fb550652e75b8c16343a603c424c71410fdb7468218e9de"
+    },
+    {
+      "title": "メガソーラー訴訟、住民が逆転勝訴　奈良県は「評価」も事業者が上告",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02699/",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "奈良県平群（へぐり）町で進む大規模太陽光発電施設（メガソーラー）の整備に反発する近隣住民らが、事業者に対する開発許可の取り消しを県に求める訴訟を提起。大阪高裁は住民の訴えを退けた一審の奈良地裁の判断を覆し、県に開発許可の取り消しを命じる判決を出した。県は判決を受け入れて上告を断念したものの、発電事業者が上告した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02699/",
+      "fingerprint": "01b4470f0207dadb4643c4022ab46afd2085239cb8f733e933adc9c6a5227856"
+    },
+    {
+      "title": "中野駅の南北通路や橋上駅舎26年12月完成、サンプラザ跡地は段階整備案",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02874/",
+      "pubDate": "2026-07-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "「100年に一度」と言われる、東京都の中野駅周辺の大改造に進展があった。駅西側の南北通路と橋上駅舎はを2026年12月6日に供用を開始する。だが中野サンプラザの建て替えは大幅に遅れ、足並みがそろわない。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02874/",
+      "fingerprint": "7a3560410738ba2b21042af4b47f248d2aa76d9fa355ee66b9f77c7f8f73709c"
+    },
+    {
+      "title": "3位は「EV向け全固体電池の『量産』いよいよ開始、トヨタは優位を保てるか」60代以上の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300396/",
+      "pubDate": "2026-07-16T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年6月、関西国際空港の第2ターミナルがある2期島で、高さ約40mの連続地中壁を構築する工事が始まった。島とともに沈下した地下の設備が、地下水の影響を受けやすくなったため、島外周の海水を通さない地中壁を築いて島内の地下水位上昇を抑える。空港を守るための大規模な工事だが、これは序の口。沈下する島ならではの、やめられない工事が関空にはまだまだある",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/071300032/",
-      "fingerprint": "7dbe89bea29ff90a101c21eb20f66997a168b15666f51c2b0a3cb4d207fb5364"
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年6月、60代以上の会員が読んだ記事をランキング形式で紹介します。3位に「EV向け全固体電池の『量産』いよいよ開始、トヨタは優位を保てるか」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/070300396/",
+      "fingerprint": "e6fc9d2d79134a5bbe5ddbd48fe25ebb45f4cd9adff4bca7ec17a1489ed2d56b"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰 - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
-        "pubDate": "Thu, 16 Jul 2026 01:00:02 GMT",
+        "title": "建設通信新聞×日本建設業連合会四国支部/若手座談会 - 建設通信新聞Digital",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5",
+        "pubDate": "Fri, 17 Jul 2026 01:41:30 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 5.2057472418,
-        "contentSnippet": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰  PR TIMES",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
-        "fingerprint": "0f7cb600b69b4f8632001a4e81cb067276b0f15e03c966ca68b782f63dde8b0b"
+        "score": 3.4058272410000003,
+        "contentSnippet": "建設通信新聞×日本建設業連合会四国支部/若手座談会  建設通信新聞Digital",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5",
+        "fingerprint": "6fc8f39870e4be5f10c5fdc7a057b158bde5ea310867bf6ddeaba0318a2bd701"
       },
-      "xDraft": "【本文】\n東名高速道路の橋梁補修工事で、橋本組がNEXCO中日本より安全表彰を受けたとPR TIMESが報じています。\nこれは、「造る建設業」から「守る建設業」への移行が叫ばれる中で、現場の安全意識と品質への取り組みが評価された好事例だと感じました。\n既存インフラの維持管理がますます重要になる中、安全を最優先する姿勢が評価されるのは、業界全体の模範となり、技術者たちの士気向上にも繋がるはずです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5\n\n【抜粋元】\nPR TIMESが報じた、東名高速道路の橋梁補修工事で橋本組がNEXCO中日本より安全表彰を受けたという記事の内容、特に「造る建設業」から「守る建設業」への業界の変化と安全性の重要性という点に注目して記述しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日建連四国支部と建設通信新聞が、若手社員を招いた座談会を開催しました。四国エリアの建設現場で汗を流す若手たちが、日々の仕事への思いや業界の将来像について語り合っています。\n\n僕たちの産業は、彼らのような若い力が繋いでいくものです。地域の最前線にいる人たちの本音を知ることは、より良い職場環境や魅力あるまちづくりを考えるための第一歩になると僕は思います。こうした企画を通じて、現場の熱が広く伝わっていくのは素晴らしいことですね。\n\n出典：建設通信新聞×日本建設業連合会四国支部/若手座談会 - 建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5\n\n【抜粋元】\n日本建設業連合会（日建連）四国支部と建設通信新聞が連携して実施した、若手入職者による座談会の記事に基づき、その開催事実と意義を記述しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "PR TIMESが報じた、東名高速道路の橋梁補修工事で橋本組がNEXCO中日本より安全表彰を受けたという記事の内容、特に「造る建設業」から「守る建設業」への業界の変化と安全性の重要性という点に注目して記述しました。",
+      "xDraftExcerptSummary": "日本建設業連合会（日建連）四国支部と建設通信新聞が連携して実施した、若手入職者による座談会の記事に基づき、その開催事実と意義を記述しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く - ニューズウィーク日本版",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5",
-        "pubDate": "Thu, 16 Jul 2026 17:11:00 GMT",
+        "title": "新会長・日本空調衛生工事業協会 小島和人氏 - 建設通信新聞Digital",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMmo5aHlIUmtCZ1ZHSWZ2SXJUZEFJMkktTEplb1JOTEhmRVphRzUwRm5rRFB4TzVhRTdvSkZvejlBYzJBVHd3UWdQaW9fWnl4VFZBYW9HLUM?oc=5",
+        "pubDate": "Thu, 16 Jul 2026 20:01:30 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.405799674,
-        "contentSnippet": "米住宅建設業者指数、7月は低下 住宅金利の高止まり響く  ニューズウィーク日本版",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5",
-        "fingerprint": "d9c87300351786da7e6fc48bc7342f91c66103809761d4136b8ae21fc1160991"
+        "score": 3.405808881,
+        "contentSnippet": "新会長・日本空調衛生工事業協会 小島和人氏  建設通信新聞Digital",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMmo5aHlIUmtCZ1ZHSWZ2SXJUZEFJMkktTEplb1JOTEhmRVphRzUwRm5rRFB4TzVhRTdvSkZvejlBYzJBVHd3UWdQaW9fWnl4VFZBYW9HLUM?oc=5",
+        "fingerprint": "2ab2c049973961fce016feb07b39a5469e35a9138ca8d9e45a794fb11e8092f6"
       },
-      "xDraft": "【本文】\n米国の7月の住宅建設業者指数が低下しました。住宅ローン金利の高止まりが続いており、建設業者の景況感を押し下げているようです。\n\n金利というマクロな数字が、実際の建物の着工や現場の動きにブレーキをかけてしまうのは、僕たち建設に関わる人間として寂しいものがありますね。需要そのものが消えたわけではないでしょうから、今後の金利の動きと現場への影響を注視したいです。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTE9XSVd0M2o2RHVOM09SbV9qeDUxd3F0MU11RmJMNmdyWU1CT1JBZmVweWgySGdKcGxGdndOY1JGWVRyWU5vb3pTYWhwV0g2SnZ5Vlh0cGJLUWprZw?oc=5\n\n【抜粋元】\nニューズウィーク日本版の記事に基づき、7月の米住宅建設業者指数が金利高止まりを背景に低下した事実を伝えました。米国の建設業界における景況感の変化に焦点を当てています。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本空調衛生工事業協会の新会長に、ダイダン社長の小島和人氏が就任されました。空調や給排水などの設備は、僕たちが建物の中で快適に過ごすために欠かせない、まさに中枢を担う分野です。人手不足や働き方改革など業界が直面する課題は多いですが、小島新会長のもとでどのような変革が進んでいくのか注目しています。\n\n出典：建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTFAzMmo5aHlIUmtCZ1ZHSWZ2SXJUZEFJMkktTEplb1JOTEhmRVphRzUwRm5rRFB4TzVhRTdvSkZvejlBYzJBVHd3UWdQaW9fWnl4VFZBYW9HLUM?oc=5\n\n【抜粋元】\n日本空調衛生工事業協会の新会長にダイダン社長の小島和人氏が就任したという記事です。業界団体トップの交代という事実に、設備業の重要性と今後の動向への期待を添えて執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ニューズウィーク日本版の記事に基づき、7月の米住宅建設業者指数が金利高止まりを背景に低下した事実を伝えました。米国の建設業界における景況感の変化に焦点を当てています。",
+      "xDraftExcerptSummary": "日本空調衛生工事業協会の新会長にダイダン社長の小島和人氏が就任したという記事です。業界団体トップの交代という事実に、設備業の重要性と今後の動向への期待を添えて執筆しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "グリーンインフラの資金調達を多角化、成果連動型報酬を先行導入した前橋市",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
-        "pubDate": "2026-07-16T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "自然の多様な機能を活用した社会資本であるグリーンインフラに多方面から資金を呼び込もうと、国土交通省は資金調達の事例集を作成した。成果連動型の手法を導入した前橋市など、全国の珍しい試みを発信する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
-        "fingerprint": "916c957024d613243dfd7d98a75aaaebeaabc7def1a5d232717655d9c9583df4"
+        "title": "夏ボーナスの業種格差広がる 大手ゼネコン200万円超、鉄鋼は3%減 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMkFSX2ZveElZSWtTWV9QSGREV1RhVU8ydzdidUtTNkpXcXh4N0hhNDhUSjY4TGdKTjZfMElEZTRwdkk4eWU5cmZ2bHR0Y01KTjktM0x4X3lUNENWVzE3X3FyTWxsY0ZadkY0MQ?oc=5",
+        "pubDate": "Thu, 16 Jul 2026 17:00:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4057990800000004,
+        "contentSnippet": "夏ボーナスの業種格差広がる 大手ゼネコン200万円超、鉄鋼は3%減  日本経済新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMkFSX2ZveElZSWtTWV9QSGREV1RhVU8ydzdidUtTNkpXcXh4N0hhNDhUSjY4TGdKTjZfMElEZTRwdkk4eWU5cmZ2bHR0Y01KTjktM0x4X3lUNENWVzE3X3FyTWxsY0ZadkY0MQ?oc=5",
+        "fingerprint": "23fe7e8276deb82f21b765d61a7d39c27e370a2f8686e223b169ff23fb436199"
       },
-      "xDraft": "【本文】\n国土交通省が、グリーンインフラへの資金調達を多角化するための事例集を作成しました。成果連動型報酬（PFS）を取り入れた前橋市の事例など、民間の資金を呼び込むための全国の珍しい試みが紹介されています。\n自然の機能をインフラに活用する取り組みは、維持管理の持続性が常に課題になります。公費だけに頼らず、成果を正しく評価して資金を循環させる仕組みは、これからのまちづくりに欠かせない視点だと僕は感じています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/\n\n【抜粋元】\n日経クロステック 土木の記事から、国土交通省によるグリーンインフラの資金調達事例集作成のニュースと、成果連動型報酬を導入した前橋市の取り組みについて抜粋しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n今夏のボーナス調査で、大手ゼネコンの支給額が200万円を超えるなど、業種間の格差が広がっています。一方で鉄鋼は前年比で3%減少しており、製造業と建設業で対照的な動きとなりました。\n僕たちの建設業界において、処遇改善や業績の還元が具体的な数字として見えるのは非常に心強いことですね。こうした成果が現場の担い手不足を解消する一助となり、産業全体の持続可能性につながることを願っています。\n\n出典：日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE1PMkFSX2ZveElZSWtTWV9QSGREV1RhVU8ydzdidUtTNkpXcXh4N0hhNDhUSjY4TGdKTjZfMElEZTRwdkk4eWU5cmZ2bHR0Y01KTjktM0x4X3lUNENWVzE3X3FyTWxsY0ZadkY0MQ?oc=5\n\n【抜粋元】\n日本経済新聞の調査記事から、今夏のボーナス支給額における業種別の明暗を抜粋しました。特に大手ゼネコンが200万円の大台を超えたという事実に着目し、業界への敬意を込めて記述しています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事から、国土交通省によるグリーンインフラの資金調達事例集作成のニュースと、成果連動型報酬を導入した前橋市の取り組みについて抜粋しました。",
+      "xDraftExcerptSummary": "日本経済新聞の調査記事から、今夏のボーナス支給額における業種別の明暗を抜粋しました。特に大手ゼネコンが200万円の大台を超えたという事実に着目し、業界への敬意を込めて記述しています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰 - PR TIMES",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
-    "pubDate": "Thu, 16 Jul 2026 01:00:02 GMT",
+    "title": "建設通信新聞×日本建設業連合会四国支部/若手座談会 - 建設通信新聞Digital",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5",
+    "pubDate": "Fri, 17 Jul 2026 01:41:30 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 5.2057472418,
-    "contentSnippet": "「造る建設業」から「守る建設業」へ 東名高速道路橋梁補修工事で橋本組がNEXCO中日本より安全表彰  PR TIMES",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5",
-    "fingerprint": "0f7cb600b69b4f8632001a4e81cb067276b0f15e03c966ca68b782f63dde8b0b"
+    "score": 3.4058272410000003,
+    "contentSnippet": "建設通信新聞×日本建設業連合会四国支部/若手座談会  建設通信新聞Digital",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5",
+    "fingerprint": "6fc8f39870e4be5f10c5fdc7a057b158bde5ea310867bf6ddeaba0318a2bd701"
   },
-  "xDraft": "【本文】\n東名高速道路の橋梁補修工事で、橋本組がNEXCO中日本より安全表彰を受けたとPR TIMESが報じています。\nこれは、「造る建設業」から「守る建設業」への移行が叫ばれる中で、現場の安全意識と品質への取り組みが評価された好事例だと感じました。\n既存インフラの維持管理がますます重要になる中、安全を最優先する姿勢が評価されるのは、業界全体の模範となり、技術者たちの士気向上にも繋がるはずです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBnZjdvVGVzYnFTYWtBLVVlQ1NxQTg4Z0h2bjFEb3lIam1HQVFDOGhZOEwyWHdyM0doRXRISUh3d09iQmw5Nk5JTERDbVFSVVhyNzNmdkZFWmJUaERJak96Q3JCWFc2dUxNMUE?oc=5\n\n【抜粋元】\nPR TIMESが報じた、東名高速道路の橋梁補修工事で橋本組がNEXCO中日本より安全表彰を受けたという記事の内容、特に「造る建設業」から「守る建設業」への業界の変化と安全性の重要性という点に注目して記述しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n日建連四国支部と建設通信新聞が、若手社員を招いた座談会を開催しました。四国エリアの建設現場で汗を流す若手たちが、日々の仕事への思いや業界の将来像について語り合っています。\n\n僕たちの産業は、彼らのような若い力が繋いでいくものです。地域の最前線にいる人たちの本音を知ることは、より良い職場環境や魅力あるまちづくりを考えるための第一歩になると僕は思います。こうした企画を通じて、現場の熱が広く伝わっていくのは素晴らしいことですね。\n\n出典：建設通信新聞×日本建設業連合会四国支部/若手座談会 - 建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5\n\n【抜粋元】\n日本建設業連合会（日建連）四国支部と建設通信新聞が連携して実施した、若手入職者による座談会の記事に基づき、その開催事実と意義を記述しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-2.5-flash",
+  "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "PR TIMESが報じた、東名高速道路の橋梁補修工事で橋本組がNEXCO中日本より安全表彰を受けたという記事の内容、特に「造る建設業」から「守る建設業」への業界の変化と安全性の重要性という点に注目して記述しました。",
+  "xDraftExcerptSummary": "日本建設業連合会（日建連）四国支部と建設通信新聞が連携して実施した、若手入職者による座談会の記事に基づき、その開催事実と意義を記述しました。",
   "xDraftAlternates": [],
   "errors": []
 }
