@@ -1,22 +1,11 @@
 {
-  "generatedAt": "2026-07-18T22:12:45.731Z",
+  "generatedAt": "2026-07-19T22:23:27.040Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
+  "skippedDuplicates": 0,
   "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 0,
-  "candidates": [
-    {
-      "title": "建設通信新聞×日本建設業連合会四国支部/若手座談会 - 建設通信新聞Digital",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 01:41:30 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4058272410000003,
-      "contentSnippet": "建設通信新聞×日本建設業連合会四国支部/若手座談会  建設通信新聞Digital",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvOUJaMmM4ajZua2R2TW1JYWUwN1hDc2ZGaFJpMElhd0RQd0xZNm5WZDZPbnEwRUlwT21kVV9oVE1RUF83aTk2YUZqb2dJdEozMDRTVGpKNGg?oc=5",
-      "fingerprint": "6fc8f39870e4be5f10c5fdc7a057b158bde5ea310867bf6ddeaba0318a2bd701"
-    }
-  ],
+  "candidates": [],
   "picks": [],
   "picked": null,
   "xDraft": "",
