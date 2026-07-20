@@ -1,17 +1,233 @@
 {
-  "generatedAt": "2026-07-19T22:23:27.040Z",
+  "generatedAt": "2026-07-20T22:29:39.540Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
-  "skippedJapanFocus": 1,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
-  "candidates": [],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "pickCountActual": 3,
+  "candidates": [
+    {
+      "title": "建設業の倒産・廃業、5937件で「リーマン超え」　木造建築工事が最多",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/",
+      "pubDate": "2026-07-20T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 6,
+      "contentSnippet": "2026年上半期（1～6月）に発生した建設業の倒産が、前年同期比5.8％増の1043件に上ったことが帝国データバンクの調査で分かった。休廃業と解散を合わせた「廃業」の件数は26年6月末時点で前年同期比27.8％増の4894件だった。倒産と廃業を合わせた5937件は、上半期としてはリーマン・ショック直後に5811件を記録した09年を上回り、00年以降最多となった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/",
+      "fingerprint": "0d43c456eb5684a6b8cee1a7744e691a337996428e37ee190b1aaf1378afd98f"
+    },
+    {
+      "title": "1位は「リニアのトンネル工事で湧水対策中止」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700374/",
+      "pubDate": "2026-07-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月20～26日に読まれた記事の1～10位を26年7月21～27日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700374/",
+      "fingerprint": "d95e84da4d97853af0c27f995859cbd8ba34aaf35461f1d174cda15a4212b6b2"
+    },
+    {
+      "title": "橋工事で緊張材破断、鹿島を入札参加停止",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801036/",
+      "pubDate": "2026-07-20T17:06:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "新名神高速道路の橋の建設工事で、構造体を横締めする緊張材が破断し、作業員1人が骨折する事故が起こっていたことが分かった。事故当時、作業員が立ち入り禁止区域に入っていたことから、発注者の西日本高速道路（NEXCO西日本）は安全管理が不適切だったとして、施工者の鹿島に対し2026年5月18日から52日間、入札への参加資格を停止する措置を講じた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801036/",
+      "fingerprint": "821db4f4e8b5bbf82df6ffc0ea8cab4222066d585cb962abaee8f8ae27dd6dc6"
+    },
+    {
+      "title": "1位は「リニアのトンネル工事で湧水対策中止」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700374/",
+      "pubDate": "2026-07-20T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月20～26日に読まれた記事の1～10位を26年7月21～27日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700374/",
+      "fingerprint": "d95e84da4d97853af0c27f995859cbd8ba34aaf35461f1d174cda15a4212b6b2"
+    },
+    {
+      "title": "工事書類AI",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00008/070800571/",
+      "pubDate": "2026-07-20T17:01:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "EARTHBRAINは、建設現場の書類作成業務を効率化するサービス「工事書類AI」を開始した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00008/070800571/",
+      "fingerprint": "ccc52b3df2e9242fcacec1c8c424ac485e4ae50494135b11ead311dcf52e4547"
+    },
+    {
+      "title": "出水期でも堤防本体が施工可能に　国管理の河川で、防災処置が条件",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02718/",
+      "pubDate": "2026-07-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "国土交通省が2026年度に出水期の河川内工事で実施可能な工種を拡大した。出水期中、原則禁止としていた築堤盛り土や低水護岸工といった堤防本体の工種も可能とした。治水機能の保持や回復が可能な対策を講じることを条件とする。対象は全国の国管理河川の工事だ。今回の措置により、河川内工事のほぼ全ての工種で出水期中の施工が可能となる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02718/",
+      "fingerprint": "7410ccb0b579bb0f981f46039534febc90800849ae88642bca8bb59c78e5944b"
+    },
+    {
+      "title": "施工不良で配水管再敷設、負担求め訴訟も",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801038/",
+      "pubDate": "2026-07-20T17:08:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "新潟市の配水幹線工事で施工不良が判明したため、延長約350mにわたり全て新しい管で敷設し直すことになった。当初の工事は2024年9月に完了し、既に工事費約1億7000万円を施工者の長北組（新潟市）に支払っている。同社が再施工を拒否したため、市は別の会社に約2億円で発注。訴訟も視野に、再施工の費用を全額、長北組に請求する考えだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801038/",
+      "fingerprint": "64321e758faabfe08c4496789c09b63eec2a753f5afc01883b672ea38bee2a4b"
+    },
+    {
+      "title": "大深度たて坑、排水中に地下水流入が拡大",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801037/",
+      "pubDate": "2026-07-20T17:07:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "深さ100mを超える大深度たて坑で、内部を満たしていた水の排出中に外部から地下水が流入したトラブルに関し、流入箇所が排水途中に拡大していたことが分かった。工事発注者の大阪府が、2026年6月22日に開いた「大阪府河川構造物等審議会」の会合で明らかにした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801037/",
+      "fingerprint": "4b4c2cb2c749ae956a78db50a6c241b78abe843b5dc627949eec9a82e27cd5f8"
+    },
+    {
+      "title": "グリーンインフラに民間資金呼ぶ、前橋市が先行して成果連動型を導入",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800004/",
+      "pubDate": "2026-07-20T17:04:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "自然の多様な機能を活用した社会資本であるグリーンインフラに多方面から資金を呼び込もうと、国土交通省は資金調達の事例集を作成した。成果連動型の手法を導入した前橋市など、全国の珍しい試みを発信する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800004/",
+      "fingerprint": "c694f86cf24e62974c906b1af378653afc669ba9de923dc969af3de649f0fba3"
+    },
+    {
+      "title": "ネイチャーポジティブは地域単位で、熊本・千葉で生まれる中間支援組織",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800003/",
+      "pubDate": "2026-07-20T17:03:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800003/",
+      "fingerprint": "d7b60f3e71ff1f73102811db3d68f51a8ed17a08102f421bd54fcf0b16b62d84"
+    },
+    {
+      "title": "鹿島、自動運転車で締め固め品質を測定",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00006/070800472/",
+      "pubDate": "2026-07-20T17:03:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "鹿島は無人の自動運転車でけん引する3台の測定装置で、盛り土の締め固め品質を測定するシステムを開発した。乾燥密度や含水比など、広範囲にわたる締め固め品質のデータを遠隔地からリアルタイムで取得できる。新名神高速道路の工事現場で試験適用した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00006/070800472/",
+      "fingerprint": "545d03917a43bded37e96e5436948eab44ffefb46b7c5e16665801a651a0711a"
+    },
+    {
+      "title": "自然の価値測る指標が26年決定へ、グリーンインフラ整備の成果を可視化",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800002/",
+      "pubDate": "2026-07-20T17:02:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "ネイチャーポジティブ（自然再興）を定量評価する国際指標が2026年に決まる予定だ。一方、国内の自然環境に合った指標づくりも動いており、グリーンインフラ整備の成果の可視化が進みそうだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800002/",
+      "fingerprint": "36cac2f444efd23a2be0d8ab83c2ecbafdebad277071895948086f9ca4599a62"
+    },
+    {
+      "title": "清水建設が鉄筋作業に「フィジカルAI」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00006/070800471/",
+      "pubDate": "2026-07-20T17:02:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "清水建設は鉄筋の組み立てや結束などの作業で、機械やロボットを自律的に制御する「フィジカルAI（人工知能）」を活用する。スイスのスタートアップと連携し、2027年3月までに国内の建設現場で導入する方針だ。自律制御のロボットで、鉄筋ユニットの製造を省力化する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00006/070800471/",
+      "fingerprint": "f2c5239d91c1ce8d3b246e40599bda896fb48cab603b739bd96afe340715e4c2"
+    },
+    {
+      "title": "グリーンインフラに民間資金呼ぶ、前橋市が先行して成果連動型を導入",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800004/",
+      "pubDate": "2026-07-20T17:04:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "自然の多様な機能を活用した社会資本であるグリーンインフラに多方面から資金を呼び込もうと、国土交通省は資金調達の事例集を作成した。成果連動型の手法を導入した前橋市など、全国の珍しい試みを発信する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800004/",
+      "fingerprint": "c694f86cf24e62974c906b1af378653afc669ba9de923dc969af3de649f0fba3"
+    },
+    {
+      "title": "ネイチャーポジティブは地域単位で、熊本・千葉で生まれる中間支援組織",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800003/",
+      "pubDate": "2026-07-20T17:03:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "産業集積が進む熊本や千葉の自治体で、グリーンインフラやネイチャーポジティブを継続的に推進するための産官学の中間支援組織が地域単位で生まれている。整備効果を経済価値に変えるクレジット化も担う。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00266/070800003/",
+      "fingerprint": "d7b60f3e71ff1f73102811db3d68f51a8ed17a08102f421bd54fcf0b16b62d84"
+    }
+  ],
+  "picks": [
+    {
+      "picked": {
+        "title": "建設業の倒産・廃業、5937件で「リーマン超え」　木造建築工事が最多",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/",
+        "pubDate": "2026-07-20T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 6,
+        "contentSnippet": "2026年上半期（1～6月）に発生した建設業の倒産が、前年同期比5.8％増の1043件に上ったことが帝国データバンクの調査で分かった。休廃業と解散を合わせた「廃業」の件数は26年6月末時点で前年同期比27.8％増の4894件だった。倒産と廃業を合わせた5937件は、上半期としてはリーマン・ショック直後に5811件を記録した09年を上回り、00年以降最多となった。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/",
+        "fingerprint": "0d43c456eb5684a6b8cee1a7744e691a337996428e37ee190b1aaf1378afd98f"
+      },
+      "xDraft": "【本文】\n2026年上半期の建設業における倒産と廃業の合計が5937件に達し、リーマン・ショック後を上回って2000年以降で最多を記録しました。特に廃業が前年同期比で約28%増と急増しており、業種別では木造建築工事が最も多くなっています。\n\n倒産以上に、自ら幕を引く廃業がこれほど増えている事実に、現場が抱える深刻さを感じます。地域の住まいを支えてきた方々の苦渋の決断を思うと、技術の継承も含めてこれからの産業のあり方を考えずにはいられません。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/\n\n【抜粋元】\n帝国データバンクの調査に基づき、2026年上半期の建設業の倒産・廃業件数が過去最多の5937件に達したことを伝える記事です。廃業の大幅な増加と、木造建築分野への影響が深刻であることを中心に紹介しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "帝国データバンクの調査に基づき、2026年上半期の建設業の倒産・廃業件数が過去最多の5937件に達したことを伝える記事です。廃業の大幅な増加と、木造建築分野への影響が深刻であることを中心に紹介しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「リニアのトンネル工事で湧水対策中止」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700374/",
+        "pubDate": "2026-07-20T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月20～26日に読まれた記事の1～10位を26年7月21～27日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700374/",
+        "fingerprint": "d95e84da4d97853af0c27f995859cbd8ba34aaf35461f1d174cda15a4212b6b2"
+      },
+      "xDraft": "【本文】\n日経クロステック土木にて、過去に反響の大きかった記事ランキングの1位から10位が期間限定で無料公開されています。1位は、リニア中央新幹線のトンネル工事における湧水対策の中止を報じた記事です。\nリニアの湧水問題は常に高い関心を集めるテーマですが、現場の具体的な判断を知ることは非常に勉強になりますね。こうした専門メディアによる記事の再公開は、技術的な経緯を正確に把握する上でとても有り難い試みだと僕は思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/061700374/\n\n【抜粋元】\n日経クロステック土木が、2025年7月に読まれた人気記事を期間限定で無料公開しているというニュースに基づいています。特に1位に選ばれたリニアのトンネル湧水対策に関する記事の内容を踏まえて作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木が、2025年7月に読まれた人気記事を期間限定で無料公開しているというニュースに基づいています。特に1位に選ばれたリニアのトンネル湧水対策に関する記事の内容を踏まえて作成しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "橋工事で緊張材破断、鹿島を入札参加停止",
+        "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801036/",
+        "pubDate": "2026-07-20T17:06:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "新名神高速道路の橋の建設工事で、構造体を横締めする緊張材が破断し、作業員1人が骨折する事故が起こっていたことが分かった。事故当時、作業員が立ち入り禁止区域に入っていたことから、発注者の西日本高速道路（NEXCO西日本）は安全管理が不適切だったとして、施工者の鹿島に対し2026年5月18日から52日間、入札への参加資格を停止する措置を講じた。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801036/",
+        "fingerprint": "821db4f4e8b5bbf82df6ffc0ea8cab4222066d585cb962abaee8f8ae27dd6dc6"
+      },
+      "xDraft": "【本文】\n新名神高速道路の橋梁建設工事において、緊張材の破断により作業員が骨折する事故が発生しました。立ち入り禁止区域への立ち入りといった安全管理の不備を受け、発注者のNEXCO西日本は施工者の鹿島に対し、2026年5月18日から52日間の入札参加停止措置を講じています。\n\nプレストレストコンクリート橋の緊張作業は非常に大きな力がかかるため、区域管理の徹底は現場の生命線といえます。将来の期間を対象とした長期間の指名停止という判断に、発注側の安全に対する極めて厳しい姿勢を感じます。僕たち技術者にとって、基本ルールの遵守がどれほど重いものかを改めて考えさせられるニュースです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/070801036/\n\n【抜粋元】\n新名神高速道路の橋工事で発生した緊張材破断事故と、それによる作業員の負傷、施工者の鹿島に対する52日間の入札参加停止措置について報じた日経クロステック 土木の記事を参照しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "新名神高速道路の橋工事で発生した緊張材破断事故と、それによる作業員の負傷、施工者の鹿島に対する52日間の入札参加停止措置について報じた日経クロステック 土木の記事を参照しました。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "建設業の倒産・廃業、5937件で「リーマン超え」　木造建築工事が最多",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/",
+    "pubDate": "2026-07-20T20:00:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 6,
+    "contentSnippet": "2026年上半期（1～6月）に発生した建設業の倒産が、前年同期比5.8％増の1043件に上ったことが帝国データバンクの調査で分かった。休廃業と解散を合わせた「廃業」の件数は26年6月末時点で前年同期比27.8％増の4894件だった。倒産と廃業を合わせた5937件は、上半期としてはリーマン・ショック直後に5811件を記録した09年を上回り、00年以降最多となった。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/",
+    "fingerprint": "0d43c456eb5684a6b8cee1a7744e691a337996428e37ee190b1aaf1378afd98f"
+  },
+  "xDraft": "【本文】\n2026年上半期の建設業における倒産と廃業の合計が5937件に達し、リーマン・ショック後を上回って2000年以降で最多を記録しました。特に廃業が前年同期比で約28%増と急増しており、業種別では木造建築工事が最も多くなっています。\n\n倒産以上に、自ら幕を引く廃業がこれほど増えている事実に、現場が抱える深刻さを感じます。地域の住まいを支えてきた方々の苦渋の決断を思うと、技術の継承も含めてこれからの産業のあり方を考えずにはいられません。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02877/\n\n【抜粋元】\n帝国データバンクの調査に基づき、2026年上半期の建設業の倒産・廃業件数が過去最多の5937件に達したことを伝える記事です。廃業の大幅な増加と、木造建築分野への影響が深刻であることを中心に紹介しました。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "帝国データバンクの調査に基づき、2026年上半期の建設業の倒産・廃業件数が過去最多の5937件に達したことを伝える記事です。廃業の大幅な増加と、木造建築分野への影響が深刻であることを中心に紹介しました。",
   "xDraftAlternates": [],
   "errors": []
 }
