@@ -1,17 +1,143 @@
 {
-  "generatedAt": "2026-07-25T22:24:55.427Z",
+  "generatedAt": "2026-07-26T22:28:24.391Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
-  "candidates": [],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "pickCountActual": 3,
+  "candidates": [
+    {
+      "title": "自力で建てる「三田のサグラダ・ファミリア」、岡啓輔氏が問う建築の常識",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/",
+      "pubDate": "2026-07-26T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "建築家の岡啓輔氏は、2005年から自らの手で鉄筋コンクリート造の建物をつくり続けている。東京都港区の三田に立つ異形の建築「蟻鱒鳶ル（ありますとんびる）」だ。長きにわたり工事が続く様子から「三田のサグラダ・ファミリア」と呼ばれてきた。20年を超える工事を経た岡氏は、建築との向き合い方を語る。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/",
+      "fingerprint": "b05c21666f3785984c3cd4afff11132260268d6ef631f94dfe3b1372b64a947b"
+    },
+    {
+      "title": "1位は「有明海沿岸道路に段差、橋端部の伸縮装置に変状　暑さが原因か」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
+      "pubDate": "2026-07-26T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月27日～8月2日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
+      "fingerprint": "3eb4fac2cd039b49eeae85ef14ae199b25aee0946215879b95766629195cf259"
+    },
+    {
+      "title": "1位は「有明海沿岸道路に段差、橋端部の伸縮装置に変状　暑さが原因か」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
+      "pubDate": "2026-07-26T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月27日～8月2日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
+      "fingerprint": "3eb4fac2cd039b49eeae85ef14ae199b25aee0946215879b95766629195cf259"
+    },
+    {
+      "title": "［新連載］清水建設、日本一高いトーチタワーを襲う酷暑 7000人を守る戦い - 日経ビジネス電子版",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50eFBzbFo5bUNXOGxnZlFFZExUUTVXWnZqM195TVZhak9IUTVFM2ZlaHQ3bktidzVSNTdvR1FZR29xY3ExeXVUSWRiYXB3blkwN3h3dmlHcUZwazZYSFNoMFBWbHRQb0E?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 20:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6065864,
+      "contentSnippet": "［新連載］清水建設、日本一高いトーチタワーを襲う酷暑 7000人を守る戦い  日経ビジネス電子版",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50eFBzbFo5bUNXOGxnZlFFZExUUTVXWnZqM195TVZhak9IUTVFM2ZlaHQ3bktidzVSNTdvR1FZR29xY3ExeXVUSWRiYXB3blkwN3h3dmlHcUZwazZYSFNoMFBWbHRQb0E?oc=5",
+      "fingerprint": "51532bdabb82843bf513e713041d15edac347d1024fe628b47976a5a6649a6c6"
+    },
+    {
+      "title": "耐震補強した16橋に設計ミス、橋座などが耐力不足　四国の高速道",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02723/",
+      "pubDate": "2026-07-26T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "耐震補強した高松自動車道と高知自動車道の計16橋で設計ミスがあり、橋座などの耐力が不足していることが判明した。設計を担当した大日本ダイヤコンサルタント（東京・千代田）が水平力や抵抗面の設定を誤った。橋を管理する西日本高速道路（NEXCO西日本）は、大規模な地震で生じる損傷を早期に復旧できる程度に抑えるための耐震補強なので、設計に誤りがあっても通常の安全性に問題はないとしている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02723/",
+      "fingerprint": "1e9dc99c3bee408f2a0b7f9359d8649ea7a121c8577fdd93a287148546acc0e5"
+    },
+    {
+      "title": "ナフサ不足で建材・設備の値上げラッシュ、主要メーカーの価格改定一覧",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700003/",
+      "pubDate": "2026-07-26T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "中東情勢の混迷が長期化するにつれ、価格を改定するメーカーが増えている。当初は、塗料や断熱材などナフサ由来の樹脂を原料とする建材が目立ったが、内外装材や建具関連など、様々な製品分野に影響が及んでいる。2026年10月や12月の価格改定を発表する動きも出てきた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700003/",
+      "fingerprint": "c5c7f77e90766af686324bacf3ef7b4e0bb0a1b9b15775dfa66caf01d60f1731"
+    }
+  ],
+  "picks": [
+    {
+      "picked": {
+        "title": "自力で建てる「三田のサグラダ・ファミリア」、岡啓輔氏が問う建築の常識",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/",
+        "pubDate": "2026-07-26T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "建築家の岡啓輔氏は、2005年から自らの手で鉄筋コンクリート造の建物をつくり続けている。東京都港区の三田に立つ異形の建築「蟻鱒鳶ル（ありますとんびる）」だ。長きにわたり工事が続く様子から「三田のサグラダ・ファミリア」と呼ばれてきた。20年を超える工事を経た岡氏は、建築との向き合い方を語る。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/",
+        "fingerprint": "b05c21666f3785984c3cd4afff11132260268d6ef631f94dfe3b1372b64a947b"
+      },
+      "xDraft": "【本文】\n建築家の岡啓輔さんが2005年から東京・三田で自力建設を続けている、鉄筋コンクリート造の建物「蟻鱒鳶ル」。20年を超える歳月をかけて自らの手でつくり続ける姿から「三田のサグラダ・ファミリア」とも呼ばれています。\n\n分業が当たり前となった現代の建築において、たった一人で構造体と向き合い続ける姿勢には深い敬意を覚えます。効率や工期という尺度を超えた場所にある、建築の本質的な豊かさを僕たちに問いかけているようです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/\n\n【抜粋元】\n建築家の岡啓輔氏が2005年から港区三田で自ら施工し続けているRC造「蟻鱒鳶ル」の歩みと、20年を経て辿り着いた建築への向き合い方について触れた記事です。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "建築家の岡啓輔氏が2005年から港区三田で自ら施工し続けているRC造「蟻鱒鳶ル」の歩みと、20年を経て辿り着いた建築への向き合い方について触れた記事です。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「有明海沿岸道路に段差、橋端部の伸縮装置に変状　暑さが原因か」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
+        "pubDate": "2026-07-26T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月27日～8月2日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
+        "fingerprint": "3eb4fac2cd039b49eeae85ef14ae199b25aee0946215879b95766629195cf259"
+      },
+      "xDraft": "【本文】\n日経クロステック土木の週間ランキングで、有明海沿岸道路の橋端部にある伸縮装置の変状を報じた記事が1位となりました。記録的な暑さが原因で、道路に段差が生じた可能性があるとのことです。\n僕たちが利用するインフラが、近年の想定を超えるような猛暑の影響を強く受けていることがわかります。現場での点検や対応の重要性を改めて感じますし、こうした事例が今後の設計や維持管理の貴重な知見として蓄積されていくことを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/\n\n【抜粋元】\n日経クロステック土木の週間記事ランキングにおいて、1位となった「有明海沿岸道路の伸縮装置の変状と暑さの関係」というニュースを軸に構成しました。暑さが構造物に与える具体的な影響について記述しています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木の週間記事ランキングにおいて、1位となった「有明海沿岸道路の伸縮装置の変状と暑さの関係」というニュースを軸に構成しました。暑さが構造物に与える具体的な影響について記述しています。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「有明海沿岸道路に段差、橋端部の伸縮装置に変状　暑さが原因か」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
+        "pubDate": "2026-07-26T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 2,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月27日～8月2日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
+        "fingerprint": "3eb4fac2cd039b49eeae85ef14ae199b25aee0946215879b95766629195cf259"
+      },
+      "xDraft": "【本文】\n有明海沿岸道路の橋梁において、暑さが原因とみられる伸縮装置の変状が発生し、路面に段差が生じた事例が注目を集めています。橋の部材が想定以上の熱によって膨張した可能性が指摘されており、過去の人気記事として改めて公開されました。\n\n僕たちが造る構造物は常に自然環境との対話ですが、近年の猛暑は設計時の想定を優に超えつつあるのかもしれません。インフラの健康状態を守るための基準も、気候変動に合わせてアップデートしていく必要性を強く感じます。\n\n出典：日経クロステック土木面\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/\n\n【抜粋元】\n日経クロステックの読者数ランキングにおいて、有明海沿岸道路で発生した暑さによる橋梁の変状（伸縮装置のトラブルと路面の段差）を報じた記事が1位となった事実に基づき作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステックの読者数ランキングにおいて、有明海沿岸道路で発生した暑さによる橋梁の変状（伸縮装置のトラブルと路面の段差）を報じた記事が1位となった事実に基づき作成しました。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "自力で建てる「三田のサグラダ・ファミリア」、岡啓輔氏が問う建築の常識",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/",
+    "pubDate": "2026-07-26T20:00:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 4,
+    "contentSnippet": "建築家の岡啓輔氏は、2005年から自らの手で鉄筋コンクリート造の建物をつくり続けている。東京都港区の三田に立つ異形の建築「蟻鱒鳶ル（ありますとんびる）」だ。長きにわたり工事が続く様子から「三田のサグラダ・ファミリア」と呼ばれてきた。20年を超える工事を経た岡氏は、建築との向き合い方を語る。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/",
+    "fingerprint": "b05c21666f3785984c3cd4afff11132260268d6ef631f94dfe3b1372b64a947b"
+  },
+  "xDraft": "【本文】\n建築家の岡啓輔さんが2005年から東京・三田で自力建設を続けている、鉄筋コンクリート造の建物「蟻鱒鳶ル」。20年を超える歳月をかけて自らの手でつくり続ける姿から「三田のサグラダ・ファミリア」とも呼ばれています。\n\n分業が当たり前となった現代の建築において、たった一人で構造体と向き合い続ける姿勢には深い敬意を覚えます。効率や工期という尺度を超えた場所にある、建築の本質的な豊かさを僕たちに問いかけているようです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/\n\n【抜粋元】\n建築家の岡啓輔氏が2005年から港区三田で自ら施工し続けているRC造「蟻鱒鳶ル」の歩みと、20年を経て辿り着いた建築への向き合い方について触れた記事です。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "建築家の岡啓輔氏が2005年から港区三田で自ら施工し続けているRC造「蟻鱒鳶ル」の歩みと、20年を経て辿り着いた建築への向き合い方について触れた記事です。",
   "xDraftAlternates": [],
   "errors": []
 }
