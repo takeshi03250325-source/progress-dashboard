@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-07-27T22:33:15.298Z",
+  "generatedAt": "2026-07-28T22:33:19.277Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 1,
-  "skippedJapanFocus": 0,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
+    {
+      "title": "建設費高騰を想定した契約とは、秋野卓生弁護士がQ&Aで解説",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
+      "pubDate": "2026-07-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "物価高は長期的なトレンドとなる可能性がある。発注者との契約を今後、どう見直すべきか。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行された改正建設業法への対応が鍵だと説く。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
+      "fingerprint": "ef9b9351a53376fd8fccd6ce09554c25a7a0c6aeb745806ec58063ea1afd25c3"
+    },
     {
       "title": "不調・不落に悩む自治体が増加、入札契約制度の専門家が新方式提案",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/",
@@ -17,14 +27,54 @@
       "fingerprint": "e13e8b0f43234212345b36e9025ee4335eae0bb763a29a1de8088de3a750da1e"
     },
     {
-      "title": "自力で建てる「三田のサグラダ・ファミリア」、岡啓輔氏が問う建築の常識",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/",
-      "pubDate": "2026-07-26T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "建築家の岡啓輔氏は、2005年から自らの手で鉄筋コンクリート造の建物をつくり続けている。東京都港区の三田に立つ異形の建築「蟻鱒鳶ル（ありますとんびる）」だ。長きにわたり工事が続く様子から「三田のサグラダ・ファミリア」と呼ばれてきた。20年を超える工事を経た岡氏は、建築との向き合い方を語る。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02879/",
-      "fingerprint": "b05c21666f3785984c3cd4afff11132260268d6ef631f94dfe3b1372b64a947b"
+      "title": "建設業のPBR改善続く/主要建設企業ROE×PBR分析/日本総合研究所 - 建設通信新聞Digital",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:03:40 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4067421180000004,
+      "contentSnippet": "建設業のPBR改善続く/主要建設企業ROE×PBR分析/日本総合研究所  建設通信新聞Digital",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5",
+      "fingerprint": "63f30e99b022a4cf10400cdbb11ec8939671b24c968455b59d6d82ff7ab73148"
+    },
+    {
+      "title": "【東京都千代田区】建設業の「人手不足・現場負荷」に向き合う。株式会社松村組、全社プロジェクト「MX」の対話改革でホワイト企業認定（ゴールド）を取得 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MUkVJbG91ZGJrYkxNYXdZMm8yWVZWLXdfV1c3XzlNZUtRZnliS2ZDYUV5MGVBV2JZWjBqWEFZSTZLRE5paXZrbjNlbDdFbWkzZE1nVmxnbnJGb1lEV0VhcTh6ajRrNjhmV1E?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 01:00:03 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4066803627000004,
+      "contentSnippet": "【東京都千代田区】建設業の「人手不足・現場負荷」に向き合う。株式会社松村組、全社プロジェクト「MX」の対話改革でホワイト企業認定（ゴールド）を取得  PR TIMES",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MUkVJbG91ZGJrYkxNYXdZMm8yWVZWLXdfV1c3XzlNZUtRZnliS2ZDYUV5MGVBV2JZWjBqWEFZSTZLRE5paXZrbjNlbDdFbWkzZE1nVmxnbnJGb1lEV0VhcTh6ajRrNjhmV1E?oc=5",
+      "fingerprint": "7538dacc89f2eaf06ec60a65c2b84b4c6859e36ad0bc2494dd07d431ca9aac30"
+    },
+    {
+      "title": "5車線が収まる大断面トンネル　住宅近接、生態系も守る横浜環状南線工事",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072400275/",
+      "pubDate": "2026-07-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "首都圏中央連絡自動車道（圏央道）の未開通区間の一部である横浜環状南線は、横浜横須賀道路の釜利谷ジャンクション（JCT）と国道1号を結ぶ延長約8.9kmの自動車専用道路だ。同JCTにつながる釜利谷庄戸トンネルは、上り線では最大で5車線が1つの大空間に収まる。住宅近接地で、周辺環境に配慮して工事が進められている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072400275/",
+      "fingerprint": "ecd024cf7b20e8710fe42f7ae1c02fc63adb98d2058b372c1f58a0a0eed6e994"
+    },
+    {
+      "title": "下水道法や建築士法が改正、今国会で成立した建設関連法を総ざらい",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02721/",
+      "pubDate": "2026-07-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "158日間に及んだ特別国会が、2026年7月25日に閉会した。今国会では、下水道事業者に施設の維持管理状況の公表を義務付ける下水道法や、建築士試験の要件を緩和する建築士法が改正。この他、防災庁設置法や改正建築物省エネ法、副首都法などの建設関連法が成立した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02721/",
+      "fingerprint": "12b708d8809c295347de9c4ce43c6518096eb6195f4fe52221f02e5a5de8909b"
+    },
+    {
+      "title": "水源不要の宅地開発、クボタが米で実証開始　大気水生成と水循環技術を融合",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02890/",
+      "pubDate": "2026-07-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "大気中の水分を集めて水を生成する大気水生成と、水循環技術を融合する取り組みが進んでいる。クボタは米AirJouleと連携して、大気水生成装置の実証を米国で開始。水の確保から排水処理・再利用までを地域内で完結させる「分散型水循環システム」を、既存の水源に依存せず導入できるようにする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02890/",
+      "fingerprint": "0ea5c594c27fa10cb581c376ab9f923850c662164fe41c59022b4b9957e9249c"
     },
     {
       "title": "27年横浜園芸博への主要ルート、環状4号線立体化で橋桁を夜間架設",
@@ -47,24 +97,34 @@
       "fingerprint": "b78f9845f8357c0308ce66afec92204c5a6b22286943a826f0b0ad3b9556ee8e"
     },
     {
-      "title": "1位は「有明海沿岸道路に段差、橋端部の伸縮装置に変状　暑さが原因か」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
-      "pubDate": "2026-07-26T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月27日～8月2日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
-      "fingerprint": "3eb4fac2cd039b49eeae85ef14ae199b25aee0946215879b95766629195cf259"
-    },
-    {
-      "title": "27年横浜園芸博への主要ルート、環状4号線立体化で橋桁を夜間架設",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
-      "pubDate": "2026-07-27T20:00:00.000Z",
+      "title": "5車線が収まる大断面トンネル　住宅近接、生態系も守る横浜環状南線工事",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072400275/",
+      "pubDate": "2026-07-28T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "横浜市は同市瀬谷区の目黒交番前交差点付近を夜間通行止めとし、環状4号線（北町地区）交差点改良事業の一環として橋桁架設工事を実施した。2027年3月から開催される国際園芸博覧会の会場への主要アクセスルートとなる。26年内の完成を目指し工事が進む。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
-      "fingerprint": "98f69ff87e73ae23955c5fb9d98b3c981ab77f3d99e05c419eaca6f0ceec4345"
+      "contentSnippet": "首都圏中央連絡自動車道（圏央道）の未開通区間の一部である横浜環状南線は、横浜横須賀道路の釜利谷ジャンクション（JCT）と国道1号を結ぶ延長約8.9kmの自動車専用道路だ。同JCTにつながる釜利谷庄戸トンネルは、上り線では最大で5車線が1つの大空間に収まる。住宅近接地で、周辺環境に配慮して工事が進められている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072400275/",
+      "fingerprint": "ecd024cf7b20e8710fe42f7ae1c02fc63adb98d2058b372c1f58a0a0eed6e994"
+    },
+    {
+      "title": "下水道法や建築士法が改正、今国会で成立した建設関連法を総ざらい",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02721/",
+      "pubDate": "2026-07-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "158日間に及んだ特別国会が、2026年7月25日に閉会した。今国会では、下水道事業者に施設の維持管理状況の公表を義務付ける下水道法や、建築士試験の要件を緩和する建築士法が改正。この他、防災庁設置法や改正建築物省エネ法、副首都法などの建設関連法が成立した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02721/",
+      "fingerprint": "12b708d8809c295347de9c4ce43c6518096eb6195f4fe52221f02e5a5de8909b"
+    },
+    {
+      "title": "水源不要の宅地開発、クボタが米で実証開始　大気水生成と水循環技術を融合",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02890/",
+      "pubDate": "2026-07-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "大気中の水分を集めて水を生成する大気水生成と、水循環技術を融合する取り組みが進んでいる。クボタは米AirJouleと連携して、大気水生成装置の実証を米国で開始。水の確保から排水処理・再利用までを地域内で完結させる「分散型水循環システム」を、既存の水源に依存せず導入できるようにする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02890/",
+      "fingerprint": "0ea5c594c27fa10cb581c376ab9f923850c662164fe41c59022b4b9957e9249c"
     },
     {
       "title": "安藤忠雄氏設計の「住吉の長屋」が国の登録有形文化財へ、安藤建築で初めて",
@@ -77,160 +137,97 @@
       "fingerprint": "92883841c6cc886f5bbefc2ec311a71b2222ef7ed5435d865613448744c3dd70"
     },
     {
-      "title": "1位は「有明海沿岸道路に段差、橋端部の伸縮装置に変状　暑さが原因か」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
-      "pubDate": "2026-07-26T20:00:00.000Z",
+      "title": "27年横浜園芸博への主要ルート、環状4号線立体化で橋桁を夜間架設",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
+      "pubDate": "2026-07-27T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月27日～8月2日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/061700375/",
-      "fingerprint": "3eb4fac2cd039b49eeae85ef14ae199b25aee0946215879b95766629195cf259"
+      "contentSnippet": "横浜市は同市瀬谷区の目黒交番前交差点付近を夜間通行止めとし、環状4号線（北町地区）交差点改良事業の一環として橋桁架設工事を実施した。2027年3月から開催される国際園芸博覧会の会場への主要アクセスルートとなる。26年内の完成を目指し工事が進む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
+      "fingerprint": "98f69ff87e73ae23955c5fb9d98b3c981ab77f3d99e05c419eaca6f0ceec4345"
     },
     {
-      "title": "日本の建設機械市場規模、2034年までに225億2,000万米ドルに到達へ（CAGR 6.20%で成長） - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzWnJ1NnZaVFN6V0RxUzBRZ3R1RG9IZFFXazAtMDBwd3VYT2dVUlBuZlN2bTVScjd5Y1ZDMWp5azBQaXRYYjljb2s3M2VxQ01hSklNdnlSOGFFWmZYUkNJUXA2Rnd2eDRDbG53cWJ2S3M4bDA2T01YVFFjWQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 09:03:40 GMT",
+      "title": "ＮＥＸＣＯ中日本が岡野建設を表彰 - 建通新聞",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVJTd1ZXcDl0MUFPelpqblFTUk9QNjIyOXpWdHVVS2ZPc1F1MUs1TDJlRzJMVVNSNjJSWXcyWVdybU5BTm02MFVTRzg2MVBhRTVqOThZMGVNeE1ESmNPN3M3NXdhZWhOYXRjZXVINlluZnpkUnF6UTBORjlhZ3B3WA?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 00:15:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 1.606628718,
-      "contentSnippet": "日本の建設機械市場規模、2034年までに225億2,000万米ドルに到達へ（CAGR 6.20%で成長）  ニコニコニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzWnJ1NnZaVFN6V0RxUzBRZ3R1RG9IZFFXazAtMDBwd3VYT2dVUlBuZlN2bTVScjd5Y1ZDMWp5azBQaXRYYjljb2s3M2VxQ01hSklNdnlSOGFFWmZYUkNJUXA2Rnd2eDRDbG53cWJ2S3M4bDA2T01YVFFjWQ?oc=5",
-      "fingerprint": "54fb8fe3358d343c7fa2319bff76bb4129b8672c852b9e76ab571c5d7d3c4943"
-    },
-    {
-      "title": "日本ＤＸ大賞／６部門２４件を選定、大成建設が業務変革部門で大賞受賞／実行委員会 - 日刊建設工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0U2d1TGt3eFZkc1U3LTY2Z181M3NUSlJUUUtaZEtXYkE0Sm5BZkppQ251b05vSFBtczMyV3BKTTVCR0g5S3FJ?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 21:05:53 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6065899577,
-      "contentSnippet": "日本ＤＸ大賞／６部門２４件を選定、大成建設が業務変革部門で大賞受賞／実行委員会  日刊建設工業新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0U2d1TGt3eFZkc1U3LTY2Z181M3NUSlJUUUtaZEtXYkE0Sm5BZkppQ251b05vSFBtczMyV3BKTTVCR0g5S3FJ?oc=5",
-      "fingerprint": "3aae2a80c79857d6895b40fd0ca7cb4dc490490b6a710ceae66f4f7341ef9ff9"
-    },
-    {
-      "title": "［新連載］清水建設、日本一高いトーチタワーを襲う酷暑 7000人を守る戦い - 日経ビジネス電子版",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50eFBzbFo5bUNXOGxnZlFFZExUUTVXWnZqM195TVZhak9IUTVFM2ZlaHQ3bktidzVSNTdvR1FZR29xY3ExeXVUSWRiYXB3blkwN3h3dmlHcUZwazZYSFNoMFBWbHRQb0E?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 20:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6065864,
-      "contentSnippet": "［新連載］清水建設、日本一高いトーチタワーを襲う酷暑 7000人を守る戦い  日経ビジネス電子版",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50eFBzbFo5bUNXOGxnZlFFZExUUTVXWnZqM195TVZhak9IUTVFM2ZlaHQ3bktidzVSNTdvR1FZR29xY3ExeXVUSWRiYXB3blkwN3h3dmlHcUZwazZYSFNoMFBWbHRQb0E?oc=5",
-      "fingerprint": "51532bdabb82843bf513e713041d15edac347d1024fe628b47976a5a6649a6c6"
-    },
-    {
-      "title": "耐震補強した16橋に設計ミス、橋座などが耐力不足　四国の高速道",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02723/",
-      "pubDate": "2026-07-26T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "耐震補強した高松自動車道と高知自動車道の計16橋で設計ミスがあり、橋座などの耐力が不足していることが判明した。設計を担当した大日本ダイヤコンサルタント（東京・千代田）が水平力や抵抗面の設定を誤った。橋を管理する西日本高速道路（NEXCO西日本）は、大規模な地震で生じる損傷を早期に復旧できる程度に抑えるための耐震補強なので、設計に誤りがあっても通常の安全性に問題はないとしている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02723/",
-      "fingerprint": "1e9dc99c3bee408f2a0b7f9359d8649ea7a121c8577fdd93a287148546acc0e5"
-    },
-    {
-      "title": "LED照明付きのミラーキャビネット",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01048/",
-      "pubDate": "2026-07-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "ミラタップは、LED照明と収納を一体化したミラーキャビネット「ロイナ」を2026年5月に発売した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01048/",
-      "fingerprint": "f3422dec41222a3257450eef264a57974673b7bd0348c6564e1024627b9aadb2"
-    },
-    {
-      "title": "倉庫の床に砂まき「防震」、建物と荷物の揺れを低減　金沢工業大学など開発",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02881/",
-      "pubDate": "2026-07-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "金沢工業大学の山岸邦彰教授と山川産業が、地震時に物流倉庫の揺れを低減する新たな「防震」システムを開発した。人工砂を用いる手軽な構法で、建設費の抑制が期待できる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02881/",
-      "fingerprint": "2782121dc8f0d9a756a28b27e8e8aa920622a730db2ea909eca49377783c1d58"
-    },
-    {
-      "title": "ナフサ不足で建材・設備の値上げラッシュ、主要メーカーの価格改定一覧",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700003/",
-      "pubDate": "2026-07-26T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "中東情勢の混迷が長期化するにつれ、価格を改定するメーカーが増えている。当初は、塗料や断熱材などナフサ由来の樹脂を原料とする建材が目立ったが、内外装材や建具関連など、様々な製品分野に影響が及んでいる。2026年10月や12月の価格改定を発表する動きも出てきた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700003/",
-      "fingerprint": "c5c7f77e90766af686324bacf3ef7b4e0bb0a1b9b15775dfa66caf01d60f1731"
+      "score": 1.60667793,
+      "contentSnippet": "ＮＥＸＣＯ中日本が岡野建設を表彰  建通新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVJTd1ZXcDl0MUFPelpqblFTUk9QNjIyOXpWdHVVS2ZPc1F1MUs1TDJlRzJMVVNSNjJSWXcyWVdybU5BTm02MFVTRzg2MVBhRTVqOThZMGVNeE1ESmNPN3M3NXdhZWhOYXRjZXVINlluZnpkUnF6UTBORjlhZ3B3WA?oc=5",
+      "fingerprint": "0b1786b4864c22ad79c4ef802d14474a4c3a7f70dc7881b522922e94d73f8ebb"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "不調・不落に悩む自治体が増加、入札契約制度の専門家が新方式提案",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/",
-        "pubDate": "2026-07-27T20:00:00.000Z",
+        "title": "建設費高騰を想定した契約とは、秋野卓生弁護士がQ&Aで解説",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
+        "pubDate": "2026-07-28T20:00:00.000Z",
         "feedName": "日経クロステック 建築・住宅",
         "score": 4,
-        "contentSnippet": "武蔵野公会堂の改修工事に関する入札は、中東情勢の混迷による影響で中止に追い込まれた。不調・不落に悩む自治体が増える中、入札契約制度の専門家が、事業の停滞を防ぐための新しい方式を提案している。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/",
-        "fingerprint": "e13e8b0f43234212345b36e9025ee4335eae0bb763a29a1de8088de3a750da1e"
+        "contentSnippet": "物価高は長期的なトレンドとなる可能性がある。発注者との契約を今後、どう見直すべきか。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行された改正建設業法への対応が鍵だと説く。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
+        "fingerprint": "ef9b9351a53376fd8fccd6ce09554c25a7a0c6aeb745806ec58063ea1afd25c3"
       },
-      "xDraft": "【本文】\n武蔵野公会堂の改修工事の入札が、中東情勢の混迷を背景に中止されたとのことです。自治体が抱える不調・不落の問題は深刻化しており、事業の停滞を防ぐために、入札契約制度の専門家が新たな方式を提案しています。\n遠い海外の情勢が、国内の公共事業にまで直接的な影響を及ぼす。現代のサプライチェーンの複雑さを改めて感じさせられますね。多くの自治体が同様の課題に直面している中で、専門家による新しいアプローチがどのように現場を支えるのか、非常に興味深いです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/\n\n【抜粋元】\n「不調・不落に悩む自治体が増加、入札契約制度の専門家が新方式提案」という見出しの記事から、武蔵野公会堂の入札中止事例と、不調・不落に悩む自治体の増加、そしてそれに対応する専門家による新しい入札契約方式の提案という要点を踏まえて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n物価高騰が長期的なトレンドとなるなか、発注者との契約をどう見直すべきかが問われています。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行される改正建設業法への対応が鍵になると指摘しています。\nこれからの時代、現場を回す技術と同じくらい、法改正を味方につけた適正な契約実務が重要になりそうですね。リスクを一方的に背負うのではなく、産業全体を維持するための対話が必要だと僕は感じています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事から、物価高騰下での契約見直しの必要性と、その法的根拠となる改正建設業法（2025年12月全面施行）の重要性について解説した部分を抜粋しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "「不調・不落に悩む自治体が増加、入札契約制度の専門家が新方式提案」という見出しの記事から、武蔵野公会堂の入札中止事例と、不調・不落に悩む自治体の増加、そしてそれに対応する専門家による新しい入札契約方式の提案という要点を踏まえて作成しました。",
+      "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事から、物価高騰下での契約見直しの必要性と、その法的根拠となる改正建設業法（2025年12月全面施行）の重要性について解説した部分を抜粋しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "27年横浜園芸博への主要ルート、環状4号線立体化で橋桁を夜間架設",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
-        "pubDate": "2026-07-27T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "横浜市は同市瀬谷区の目黒交番前交差点付近を夜間通行止めとし、環状4号線（北町地区）交差点改良事業の一環として橋桁架設工事を実施した。2027年3月から開催される国際園芸博覧会の会場への主要アクセスルートとなる。26年内の完成を目指し工事が進む。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
-        "fingerprint": "98f69ff87e73ae23955c5fb9d98b3c981ab77f3d99e05c419eaca6f0ceec4345"
+        "title": "建設業のPBR改善続く/主要建設企業ROE×PBR分析/日本総合研究所 - 建設通信新聞Digital",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5",
+        "pubDate": "Tue, 28 Jul 2026 20:03:40 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4067421180000004,
+        "contentSnippet": "建設業のPBR改善続く/主要建設企業ROE×PBR分析/日本総合研究所  建設通信新聞Digital",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5",
+        "fingerprint": "63f30e99b022a4cf10400cdbb11ec8939671b24c968455b59d6d82ff7ab73148"
       },
-      "xDraft": "【本文】\n横浜市瀬谷区の目黒交番前交差点付近にて、環状4号線の立体化に向けた橋桁の夜間架設が行われました。2027年3月に開催される国際園芸博覧会（GREEN×EXPO 2027）への主要アクセスルートとして、2026年内の完成を目指して工事が進んでいます。\n\n万博に向けたインフラ整備が着実に形になっていますね。渋滞ポイントの解消は、開催期間中の円滑な輸送だけでなく、地域住民の皆さんの利便性向上にも大きく寄与しそうです。夜間の限られた時間での大規模な施工を支える、技術者の方々の緻密な段取りを感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/\n\n【抜粋元】\n日経クロステック 土木の「27年横浜園芸博への主要ルート、環状4号線立体化で橋桁を夜間架設」という記事から。横浜市瀬谷区で行われた橋桁架設の事実と、2027年国際園芸博覧会に向けた整備の背景を踏まえて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本総合研究所の分析によると、主要建設企業のPBR（株価純資産倍率）の改善傾向が続いているそうです。ROE（自己資本利益率）との相関を含め、各社で資本効率を重視する姿勢が市場に評価されていることが伺えます。\n僕たちの業界が「稼ぐ力」だけでなく「資本を活かす力」でも注目されるのは、非常に健全な変化だと感じます。現場の努力がこうした指標の改善に繋がり、産業全体の魅力向上に結びついてほしいですね。\n\n出典：建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5\n\n【抜粋元】\n日本総合研究所が実施した主要建設企業のROE×PBR分析において、建設業のPBR改善が継続しているという記事に基づき、資本効率への意識向上という論点をまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の「27年横浜園芸博への主要ルート、環状4号線立体化で橋桁を夜間架設」という記事から。横浜市瀬谷区で行われた橋桁架設の事実と、2027年国際園芸博覧会に向けた整備の背景を踏まえて作成しました。",
+      "xDraftExcerptSummary": "日本総合研究所が実施した主要建設企業のROE×PBR分析において、建設業のPBR改善が継続しているという記事に基づき、資本効率への意識向上という論点をまとめました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "生コン品質試験で不正発覚、監督員立ち会いで「現行犯」　北海道新幹線工事",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02724/",
-        "pubDate": "2026-07-27T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "鉄建建設などの共同企業体（JV）が手掛ける北海道新幹線のトンネル工事で、コンクリート打設前の生コン品質試験に不正があったことが発覚した。発注者による現場立ち会いの際、JVの試験担当者が測定器を不正に操作しているのを監督員が目撃した。鉄建建設が全ての試験担当者にヒアリングしたところ、過去にもこの現場で2回、不正をしていたことが分かった。同社JVは今後、打設済みのコンクリートに対し強度試験などを実施する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02724/",
-        "fingerprint": "b78f9845f8357c0308ce66afec92204c5a6b22286943a826f0b0ad3b9556ee8e"
+        "title": "【東京都千代田区】建設業の「人手不足・現場負荷」に向き合う。株式会社松村組、全社プロジェクト「MX」の対話改革でホワイト企業認定（ゴールド）を取得 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MUkVJbG91ZGJrYkxNYXdZMm8yWVZWLXdfV1c3XzlNZUtRZnliS2ZDYUV5MGVBV2JZWjBqWEFZSTZLRE5paXZrbjNlbDdFbWkzZE1nVmxnbnJGb1lEV0VhcTh6ajRrNjhmV1E?oc=5",
+        "pubDate": "Tue, 28 Jul 2026 01:00:03 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4066803627000004,
+        "contentSnippet": "【東京都千代田区】建設業の「人手不足・現場負荷」に向き合う。株式会社松村組、全社プロジェクト「MX」の対話改革でホワイト企業認定（ゴールド）を取得  PR TIMES",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MUkVJbG91ZGJrYkxNYXdZMm8yWVZWLXdfV1c3XzlNZUtRZnliS2ZDYUV5MGVBV2JZWjBqWEFZSTZLRE5paXZrbjNlbDdFbWkzZE1nVmxnbnJGb1lEV0VhcTh6ajRrNjhmV1E?oc=5",
+        "fingerprint": "7538dacc89f2eaf06ec60a65c2b84b4c6859e36ad0bc2494dd07d431ca9aac30"
       },
-      "xDraft": "【本文】\n北海道新幹線のトンネル工事にて、生コンクリートの品質試験における不正が発覚しました。発注者の立ち会い中にJVの担当者が測定器を不正に操作していたもので、ヒアリングの結果、過去にも2回の不正があったといいます。\n\n検査の現場でこのようなことが起きてしまったのは、誠に残念でなりません。品質は構造物の命ですから、改めて信頼を積み上げるための徹底した調査と誠実な対策がなされることを願うばかりです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02724/\n\n【抜粋元】\n北海道新幹線のトンネル工事で、施工JVの担当者が生コン品質試験の測定器を不正操作し、監督員に目撃されたという記事です。過去の不正判明分を含めた経緯と、今後の強度試験の実施予定についてまとめています。\n\n【判定】OK\n\n【候補2】\n鉄建建設らのJVによる北海道新幹線の工事で、生コンの品質試験に不正がありました。監督員が見守るなかでの不正操作に加え、過去の調査から計3回の事案が判明しています。\n\n現場の数値を正しく記録することは、技術者として最も重い責任の一つです。打設済みのコンクリートの安全性が、客観的な試験によって一刻も早く証明されることを望みます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02724/\n\n【候補3】\n北海道新幹線の延…",
+      "xDraft": "【本文】\n株式会社松村組が、全社プロジェクト「MX」を通じた対話改革に取り組み、ホワイト企業認定のゴールドを取得しました。建設業界の人手不足や現場負荷に向き合うため、社内の風通しを良くする組織改善を推進した成果とのことです。\n\n僕としては、DXならぬ「MX（Matsumura Transformation）」という名称に、自社を自ら変えようという強い意志を感じます。上意下達になりがちな現場仕事において、対話というソフト面を改革の軸に置いたのは非常に意義深いことですね。こうした取り組みが業界全体の標準になっていくことを願っています。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9MUkVJbG91ZGJrYkxNYXdZMm8yWVZWLXdfV1c3XzlNZUtRZnliS2ZDYUV5MGVBV2JZWjBqWEFZSTZLRE5paXZrbjNlbDdFbWkzZE1nVmxnbnJGb1lEV0VhcTh6ajRrNjhmV1E?oc=5\n\n【抜粋元】\n株式会社松村組が独自の変革プロジェクト「MX」を推進し、対話改革を通じてホワイト企業認定（ゴールド）を取得した事実と、その背景にある業界課題への向き合い方を踏まえて作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "北海道新幹線のトンネル工事で、施工JVの担当者が生コン品質試験の測定器を不正操作し、監督員に目撃されたという記事です。過去の不正判明分を含めた経緯と、今後の強度試験の実施予定についてまとめています。",
-      "xDraftAlternates": [
-        "鉄建建設らのJVによる北海道新幹線の工事で、生コンの品質試験に不正がありました。監督員が見守るなかでの不正操作に加え、過去の調査から計3回の事案が判明しています。\n\n現場の数値を正しく記録することは、技術者として最も重い責任の一つです。打設済みのコンクリートの安全性が、客観的な試験によって一刻も早く証明されることを望みます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02724/",
-        "北海道新幹線の延…"
-      ]
+      "xDraftExcerptSummary": "株式会社松村組が独自の変革プロジェクト「MX」を推進し、対話改革を通じてホワイト企業認定（ゴールド）を取得した事実と、その背景にある業界課題への向き合い方を踏まえて作成しました。",
+      "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "不調・不落に悩む自治体が増加、入札契約制度の専門家が新方式提案",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/",
-    "pubDate": "2026-07-27T20:00:00.000Z",
+    "title": "建設費高騰を想定した契約とは、秋野卓生弁護士がQ&Aで解説",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
+    "pubDate": "2026-07-28T20:00:00.000Z",
     "feedName": "日経クロステック 建築・住宅",
     "score": 4,
-    "contentSnippet": "武蔵野公会堂の改修工事に関する入札は、中東情勢の混迷による影響で中止に追い込まれた。不調・不落に悩む自治体が増える中、入札契約制度の専門家が、事業の停滞を防ぐための新しい方式を提案している。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/",
-    "fingerprint": "e13e8b0f43234212345b36e9025ee4335eae0bb763a29a1de8088de3a750da1e"
+    "contentSnippet": "物価高は長期的なトレンドとなる可能性がある。発注者との契約を今後、どう見直すべきか。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行された改正建設業法への対応が鍵だと説く。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
+    "fingerprint": "ef9b9351a53376fd8fccd6ce09554c25a7a0c6aeb745806ec58063ea1afd25c3"
   },
-  "xDraft": "【本文】\n武蔵野公会堂の改修工事の入札が、中東情勢の混迷を背景に中止されたとのことです。自治体が抱える不調・不落の問題は深刻化しており、事業の停滞を防ぐために、入札契約制度の専門家が新たな方式を提案しています。\n遠い海外の情勢が、国内の公共事業にまで直接的な影響を及ぼす。現代のサプライチェーンの複雑さを改めて感じさせられますね。多くの自治体が同様の課題に直面している中で、専門家による新しいアプローチがどのように現場を支えるのか、非常に興味深いです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/\n\n【抜粋元】\n「不調・不落に悩む自治体が増加、入札契約制度の専門家が新方式提案」という見出しの記事から、武蔵野公会堂の入札中止事例と、不調・不落に悩む自治体の増加、そしてそれに対応する専門家による新しい入札契約方式の提案という要点を踏まえて作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n物価高騰が長期的なトレンドとなるなか、発注者との契約をどう見直すべきかが問われています。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行される改正建設業法への対応が鍵になると指摘しています。\nこれからの時代、現場を回す技術と同じくらい、法改正を味方につけた適正な契約実務が重要になりそうですね。リスクを一方的に背負うのではなく、産業全体を維持するための対話が必要だと僕は感じています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事から、物価高騰下での契約見直しの必要性と、その法的根拠となる改正建設業法（2025年12月全面施行）の重要性について解説した部分を抜粋しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-2.5-flash",
+  "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "「不調・不落に悩む自治体が増加、入札契約制度の専門家が新方式提案」という見出しの記事から、武蔵野公会堂の入札中止事例と、不調・不落に悩む自治体の増加、そしてそれに対応する専門家による新しい入札契約方式の提案という要点を踏まえて作成しました。",
+  "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事から、物価高騰下での契約見直しの必要性と、その法的根拠となる改正建設業法（2025年12月全面施行）の重要性について解説した部分を抜粋しました。",
   "xDraftAlternates": [],
   "errors": []
 }
