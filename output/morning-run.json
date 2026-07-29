@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-07-28T22:33:19.277Z",
+  "generatedAt": "2026-07-29T22:28:11.447Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 1,
-  "skippedJapanFocus": 1,
+  "skippedJapanFocus": 4,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
+    {
+      "title": "鹿島がCO2を吸収・固定するハーフPCa床版開発、コマツ新本社に適用",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/",
+      "pubDate": "2026-07-29T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "鹿島とタカムラ建設（山梨県山中湖村）は二酸化炭素（CO2）を吸収・固定する環境配慮型コンクリートの技術を使用したハーフプレキャスト（PCa）床版を開発。東京都港区で施工中のコマツ新本社建築工事に適用した。建築基準法上の構造部材として使用するため、第三者機関の建設材料技術性能証明を取得している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/",
+      "fingerprint": "42380317ef0dcf58cced8885e3ac7101851763f1ab5f9a8f3ba259b6360b3cb8"
+    },
     {
       "title": "建設費高騰を想定した契約とは、秋野卓生弁護士がQ&Aで解説",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
@@ -17,23 +27,33 @@
       "fingerprint": "ef9b9351a53376fd8fccd6ce09554c25a7a0c6aeb745806ec58063ea1afd25c3"
     },
     {
-      "title": "不調・不落に悩む自治体が増加、入札契約制度の専門家が新方式提案",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/",
-      "pubDate": "2026-07-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "武蔵野公会堂の改修工事に関する入札は、中東情勢の混迷による影響で中止に追い込まれた。不調・不落に悩む自治体が増える中、入札契約制度の専門家が、事業の停滞を防ぐための新しい方式を提案している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700004/",
-      "fingerprint": "e13e8b0f43234212345b36e9025ee4335eae0bb763a29a1de8088de3a750da1e"
+      "title": "２６年熊本地震／国交省・建設会社ら、被害調査・復旧に全力／現場力を最大限発揮 - decn.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xWno3QUJvMGZiNmJHUm1DR2lOSDVtY0hpdngxVi1jaTZOVTRRY2dXc3d4LTJrQTJScUgyRkJ6MXJNWEs3M2FV?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 21:05:51 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4068232358999997,
+      "contentSnippet": "２６年熊本地震／国交省・建設会社ら、被害調査・復旧に全力／現場力を最大限発揮  decn.co.jp",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xWno3QUJvMGZiNmJHUm1DR2lOSDVtY0hpdngxVi1jaTZOVTRRY2dXc3d4LTJrQTJScUgyRkJ6MXJNWEs3M2FV?oc=5",
+      "fingerprint": "9b8e37d8b4d3e6e84535c7db8e89ac15a0346351d7adb74c86cb9c87a1913744"
+    },
+    {
+      "title": "日本フォーシーエスが建設業界向けにeformsignの導入支援を強化する理由 - voix.jp",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05aG5uakJFRWxSWktfT2NQNmpNcUc5N3JQUWl4Mi1GYVJPUWlmdVZ1NW1vTFpCLTVORzNucWgxY0lveFM5cmpHQzhEdDlfSzBPSnVlOW42dTgzXzBrdjdCZ2dUWll1eXFYczVJT0lWcHE?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 02:47:58 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4067639502000002,
+      "contentSnippet": "日本フォーシーエスが建設業界向けにeformsignの導入支援を強化する理由  voix.jp",
+      "urlNorm": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05aG5uakJFRWxSWktfT2NQNmpNcUc5N3JQUWl4Mi1GYVJPUWlmdVZ1NW1vTFpCLTVORzNucWgxY0lveFM5cmpHQzhEdDlfSzBPSnVlOW42dTgzXzBrdjdCZ2dUWll1eXFYczVJT0lWcHE?oc=5",
+      "fingerprint": "7051ecb56fb2baba9d061b6afbb368d992421da2271cb4a5923090c519e1e18a"
     },
     {
       "title": "建設業のPBR改善続く/主要建設企業ROE×PBR分析/日本総合研究所 - 建設通信新聞Digital",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 20:03:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5TDl4YXNOWUJNWl9XYzlSd0JNS2R0cDZTRWhRY2Jvc0UxSFU2bS02V3V3MUVDcVNhZEVYRVFMT3BIWTBXMFpOMEJYeVh4TmY1Zll3OEdLUDI?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:03:50 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4067421180000004,
+      "score": 3.4067421270000002,
       "contentSnippet": "建設業のPBR改善続く/主要建設企業ROE×PBR分析/日本総合研究所  建設通信新聞Digital",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5TDl4YXNOWUJNWl9XYzlSd0JNS2R0cDZTRWhRY2Jvc0UxSFU2bS02V3V3MUVDcVNhZEVYRVFMT3BIWTBXMFpOMEJYeVh4TmY1Zll3OEdLUDI?oc=5",
       "fingerprint": "63f30e99b022a4cf10400cdbb11ec8939671b24c968455b59d6d82ff7ab73148"
     },
     {
@@ -47,14 +67,24 @@
       "fingerprint": "7538dacc89f2eaf06ec60a65c2b84b4c6859e36ad0bc2494dd07d431ca9aac30"
     },
     {
-      "title": "5車線が収まる大断面トンネル　住宅近接、生態系も守る横浜環状南線工事",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072400275/",
-      "pubDate": "2026-07-28T20:00:00.000Z",
+      "title": "1位は「大東建託がペルチェとファンのダブル搭載ベスト開発、熱中症対策で重ね着を不要に」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700426/",
+      "pubDate": "2026-07-29T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "首都圏中央連絡自動車道（圏央道）の未開通区間の一部である横浜環状南線は、横浜横須賀道路の釜利谷ジャンクション（JCT）と国道1号を結ぶ延長約8.9kmの自動車専用道路だ。同JCTにつながる釜利谷庄戸トンネルは、上り線では最大で5車線が1つの大空間に収まる。住宅近接地で、周辺環境に配慮して工事が進められている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072400275/",
-      "fingerprint": "ecd024cf7b20e8710fe42f7ae1c02fc63adb98d2058b372c1f58a0a0eed6e994"
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月30日～8月5日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700426/",
+      "fingerprint": "de3e479ab357efd96da9657a99ee112d9b35890b18f3070d1613e14a2c1a0e7f"
+    },
+    {
+      "title": "ホンダやトヨタが31日まで工場停止、三菱ケミは窓ガラス破損　熊本地震",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900009/",
+      "pubDate": "2026-07-29T08:56:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "熊本県で2026年7月28日午後4時27分ごろに発生した「令和8年熊本地震」。最大震度7の揺れを観測した熊本地震により、熊本県や福岡県に製造拠点を置く企業で稼働停止が相次ぐ。ホンダやトヨタ自動車は、31日までの工場停止を決めた。自動車部品メーカーなどで断水や停電などのインフラ設備の停止も起きており、再開の見通しは不透明な状況が続いている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900009/",
+      "fingerprint": "98362b0ec2845b1cb18a9f1abf973c26e5c281f6b97388bf2b3294eecddf3890"
     },
     {
       "title": "下水道法や建築士法が改正、今国会で成立した建設関連法を総ざらい",
@@ -77,24 +107,34 @@
       "fingerprint": "0ea5c594c27fa10cb581c376ab9f923850c662164fe41c59022b4b9957e9249c"
     },
     {
-      "title": "27年横浜園芸博への主要ルート、環状4号線立体化で橋桁を夜間架設",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
-      "pubDate": "2026-07-27T20:00:00.000Z",
+      "title": "5車線が収まる大断面トンネル　住宅近接、生態系も守る横浜環状南線工事",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072400275/",
+      "pubDate": "2026-07-28T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "横浜市は同市瀬谷区の目黒交番前交差点付近を夜間通行止めとし、環状4号線（北町地区）交差点改良事業の一環として橋桁架設工事を実施した。2027年3月から開催される国際園芸博覧会の会場への主要アクセスルートとなる。26年内の完成を目指し工事が進む。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
-      "fingerprint": "98f69ff87e73ae23955c5fb9d98b3c981ab77f3d99e05c419eaca6f0ceec4345"
+      "contentSnippet": "首都圏中央連絡自動車道（圏央道）の未開通区間の一部である横浜環状南線は、横浜横須賀道路の釜利谷ジャンクション（JCT）と国道1号を結ぶ延長約8.9kmの自動車専用道路だ。同JCTにつながる釜利谷庄戸トンネルは、上り線では最大で5車線が1つの大空間に収まる。住宅近接地で、周辺環境に配慮して工事が進められている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072400275/",
+      "fingerprint": "ecd024cf7b20e8710fe42f7ae1c02fc63adb98d2058b372c1f58a0a0eed6e994"
     },
     {
-      "title": "生コン品質試験で不正発覚、監督員立ち会いで「現行犯」　北海道新幹線工事",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02724/",
-      "pubDate": "2026-07-27T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "鉄建建設などの共同企業体（JV）が手掛ける北海道新幹線のトンネル工事で、コンクリート打設前の生コン品質試験に不正があったことが発覚した。発注者による現場立ち会いの際、JVの試験担当者が測定器を不正に操作しているのを監督員が目撃した。鉄建建設が全ての試験担当者にヒアリングしたところ、過去にもこの現場で2回、不正をしていたことが分かった。同社JVは今後、打設済みのコンクリートに対し強度試験などを実施する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02724/",
-      "fingerprint": "b78f9845f8357c0308ce66afec92204c5a6b22286943a826f0b0ad3b9556ee8e"
+      "title": "1位は「大東建託がペルチェとファンのダブル搭載ベスト開発、熱中症対策で重ね着を不要に」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700426/",
+      "pubDate": "2026-07-29T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月30日～8月5日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700426/",
+      "fingerprint": "de3e479ab357efd96da9657a99ee112d9b35890b18f3070d1613e14a2c1a0e7f"
+    },
+    {
+      "title": "ホンダやトヨタが31日まで工場停止、三菱ケミは窓ガラス破損　熊本地震",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900009/",
+      "pubDate": "2026-07-29T08:56:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "熊本県で2026年7月28日午後4時27分ごろに発生した「令和8年熊本地震」。最大震度7の揺れを観測した熊本地震により、熊本県や福岡県に製造拠点を置く企業で稼働停止が相次ぐ。ホンダやトヨタ自動車は、31日までの工場停止を決めた。自動車部品メーカーなどで断水や停電などのインフラ設備の停止も起きており、再開の見通しは不透明な状況が続いている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900009/",
+      "fingerprint": "98362b0ec2845b1cb18a9f1abf973c26e5c281f6b97388bf2b3294eecddf3890"
     },
     {
       "title": "5車線が収まる大断面トンネル　住宅近接、生態系も守る横浜環状南線工事",
@@ -115,119 +155,79 @@
       "contentSnippet": "158日間に及んだ特別国会が、2026年7月25日に閉会した。今国会では、下水道事業者に施設の維持管理状況の公表を義務付ける下水道法や、建築士試験の要件を緩和する建築士法が改正。この他、防災庁設置法や改正建築物省エネ法、副首都法などの建設関連法が成立した。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02721/",
       "fingerprint": "12b708d8809c295347de9c4ce43c6518096eb6195f4fe52221f02e5a5de8909b"
-    },
-    {
-      "title": "水源不要の宅地開発、クボタが米で実証開始　大気水生成と水循環技術を融合",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02890/",
-      "pubDate": "2026-07-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "大気中の水分を集めて水を生成する大気水生成と、水循環技術を融合する取り組みが進んでいる。クボタは米AirJouleと連携して、大気水生成装置の実証を米国で開始。水の確保から排水処理・再利用までを地域内で完結させる「分散型水循環システム」を、既存の水源に依存せず導入できるようにする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02890/",
-      "fingerprint": "0ea5c594c27fa10cb581c376ab9f923850c662164fe41c59022b4b9957e9249c"
-    },
-    {
-      "title": "安藤忠雄氏設計の「住吉の長屋」が国の登録有形文化財へ、安藤建築で初めて",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02888/",
-      "pubDate": "2026-07-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "国の文化審議会（会長：日比野克彦・東京芸術大学学長）は、安藤忠雄氏が設計した住宅「住吉の長屋」など163件の建造物を登録有形文化財（建造物）に登録するよう、文部科学大臣に答申した。答申どおりに登録されれば、安藤氏が手掛けた建築物として初めて国の登録有形文化財となる。今後、官報告示を経て登録される予定だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02888/",
-      "fingerprint": "92883841c6cc886f5bbefc2ec311a71b2222ef7ed5435d865613448744c3dd70"
-    },
-    {
-      "title": "27年横浜園芸博への主要ルート、環状4号線立体化で橋桁を夜間架設",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
-      "pubDate": "2026-07-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "横浜市は同市瀬谷区の目黒交番前交差点付近を夜間通行止めとし、環状4号線（北町地区）交差点改良事業の一環として橋桁架設工事を実施した。2027年3月から開催される国際園芸博覧会の会場への主要アクセスルートとなる。26年内の完成を目指し工事が進む。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/072200274/",
-      "fingerprint": "98f69ff87e73ae23955c5fb9d98b3c981ab77f3d99e05c419eaca6f0ceec4345"
-    },
-    {
-      "title": "ＮＥＸＣＯ中日本が岡野建設を表彰 - 建通新聞",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVJTd1ZXcDl0MUFPelpqblFTUk9QNjIyOXpWdHVVS2ZPc1F1MUs1TDJlRzJMVVNSNjJSWXcyWVdybU5BTm02MFVTRzg2MVBhRTVqOThZMGVNeE1ESmNPN3M3NXdhZWhOYXRjZXVINlluZnpkUnF6UTBORjlhZ3B3WA?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 00:15:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.60667793,
-      "contentSnippet": "ＮＥＸＣＯ中日本が岡野建設を表彰  建通新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVJTd1ZXcDl0MUFPelpqblFTUk9QNjIyOXpWdHVVS2ZPc1F1MUs1TDJlRzJMVVNSNjJSWXcyWVdybU5BTm02MFVTRzg2MVBhRTVqOThZMGVNeE1ESmNPN3M3NXdhZWhOYXRjZXVINlluZnpkUnF6UTBORjlhZ3B3WA?oc=5",
-      "fingerprint": "0b1786b4864c22ad79c4ef802d14474a4c3a7f70dc7881b522922e94d73f8ebb"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "建設費高騰を想定した契約とは、秋野卓生弁護士がQ&Aで解説",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
-        "pubDate": "2026-07-28T20:00:00.000Z",
+        "title": "鹿島がCO2を吸収・固定するハーフPCa床版開発、コマツ新本社に適用",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/",
+        "pubDate": "2026-07-29T20:00:00.000Z",
         "feedName": "日経クロステック 建築・住宅",
         "score": 4,
-        "contentSnippet": "物価高は長期的なトレンドとなる可能性がある。発注者との契約を今後、どう見直すべきか。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行された改正建設業法への対応が鍵だと説く。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
-        "fingerprint": "ef9b9351a53376fd8fccd6ce09554c25a7a0c6aeb745806ec58063ea1afd25c3"
+        "contentSnippet": "鹿島とタカムラ建設（山梨県山中湖村）は二酸化炭素（CO2）を吸収・固定する環境配慮型コンクリートの技術を使用したハーフプレキャスト（PCa）床版を開発。東京都港区で施工中のコマツ新本社建築工事に適用した。建築基準法上の構造部材として使用するため、第三者機関の建設材料技術性能証明を取得している。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/",
+        "fingerprint": "42380317ef0dcf58cced8885e3ac7101851763f1ab5f9a8f3ba259b6360b3cb8"
       },
-      "xDraft": "【本文】\n物価高騰が長期的なトレンドとなるなか、発注者との契約をどう見直すべきかが問われています。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行される改正建設業法への対応が鍵になると指摘しています。\nこれからの時代、現場を回す技術と同じくらい、法改正を味方につけた適正な契約実務が重要になりそうですね。リスクを一方的に背負うのではなく、産業全体を維持するための対話が必要だと僕は感じています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事から、物価高騰下での契約見直しの必要性と、その法的根拠となる改正建設業法（2025年12月全面施行）の重要性について解説した部分を抜粋しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n鹿島とタカムラ建設が開発した、CO2を吸収・固定する環境配慮型コンクリートによるハーフPCa床版が、港区で施工中のコマツ新本社ビルに採用されました。建築基準法上の構造部材として第三者機関の性能証明を取得しており、実プロジェクトへの適用が進んでいます。\n\n環境負荷の低減と、現場の効率化に寄与するプレキャスト化を両立させている点が非常に合理的だと感じます。こうした技術が普及することで、都市の建物が炭素を貯蔵する役割を担っていく未来が楽しみです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/\n\n【抜粋元】\n鹿島とタカムラ建設が開発したCO2吸収・固定型のハーフPCa床版が、コマツ新本社建築工事に適用されたニュースです。構造部材として性能証明を得ている点についても記述されています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事から、物価高騰下での契約見直しの必要性と、その法的根拠となる改正建設業法（2025年12月全面施行）の重要性について解説した部分を抜粋しました。",
+      "xDraftExcerptSummary": "鹿島とタカムラ建設が開発したCO2吸収・固定型のハーフPCa床版が、コマツ新本社建築工事に適用されたニュースです。構造部材として性能証明を得ている点についても記述されています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "建設業のPBR改善続く/主要建設企業ROE×PBR分析/日本総合研究所 - 建設通信新聞Digital",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5",
-        "pubDate": "Tue, 28 Jul 2026 20:03:40 GMT",
+        "title": "２６年熊本地震／国交省・建設会社ら、被害調査・復旧に全力／現場力を最大限発揮 - decn.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xWno3QUJvMGZiNmJHUm1DR2lOSDVtY0hpdngxVi1jaTZOVTRRY2dXc3d4LTJrQTJScUgyRkJ6MXJNWEs3M2FV?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 21:05:51 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.4067421180000004,
-        "contentSnippet": "建設業のPBR改善続く/主要建設企業ROE×PBR分析/日本総合研究所  建設通信新聞Digital",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5",
-        "fingerprint": "63f30e99b022a4cf10400cdbb11ec8939671b24c968455b59d6d82ff7ab73148"
+        "score": 3.4068232358999997,
+        "contentSnippet": "２６年熊本地震／国交省・建設会社ら、被害調査・復旧に全力／現場力を最大限発揮  decn.co.jp",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xWno3QUJvMGZiNmJHUm1DR2lOSDVtY0hpdngxVi1jaTZOVTRRY2dXc3d4LTJrQTJScUgyRkJ6MXJNWEs3M2FV?oc=5",
+        "fingerprint": "9b8e37d8b4d3e6e84535c7db8e89ac15a0346351d7adb74c86cb9c87a1913744"
       },
-      "xDraft": "【本文】\n日本総合研究所の分析によると、主要建設企業のPBR（株価純資産倍率）の改善傾向が続いているそうです。ROE（自己資本利益率）との相関を含め、各社で資本効率を重視する姿勢が市場に評価されていることが伺えます。\n僕たちの業界が「稼ぐ力」だけでなく「資本を活かす力」でも注目されるのは、非常に健全な変化だと感じます。現場の努力がこうした指標の改善に繋がり、産業全体の魅力向上に結びついてほしいですね。\n\n出典：建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE5kelhRVTA4WGtnSmhpN2JOWXJjZXZBY2ZJZmQ3MVQ5aWtwVDA1bTJTRDFCUFJyS2puZmFtTUQ2SnowQXBiUzRqbVFlOThmdjRI?oc=5\n\n【抜粋元】\n日本総合研究所が実施した主要建設企業のROE×PBR分析において、建設業のPBR改善が継続しているという記事に基づき、資本効率への意識向上という論点をまとめました。\n\n【判定】OK",
+      "xDraft": "【本文】\n「２６年熊本地震」の際、国土交通省や建設各社が被害調査と早期復旧に全力を挙げた取り組みがまとめられています。それぞれの現場が持つ「現場力」を最大限に引き出し、インフラの再建に挑んだ軌跡です。\n僕たち建設に関わる人間にとって、こうした緊急時の即応性と使命感は忘れてはならない原点だと感じます。官民が一体となって地域を守る姿には、この産業の持つ真の価値が現れていますね。\n\n出典：建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiR0FVX3lxTE1xWno3QUJvMGZiNmJHUm1DR2lOSDVtY0hpdngxVi1jaTZOVTRRY2dXc3d4LTJrQTJScUgyRkJ6MXJNWEs3M2FV?oc=5\n\n【抜粋元】\n熊本地震における国交省と建設会社の復旧活動を振り返り、現場力が果たした役割を強調する記事です。迅速な被害調査から復旧へのプロセスに注目しています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本総合研究所が実施した主要建設企業のROE×PBR分析において、建設業のPBR改善が継続しているという記事に基づき、資本効率への意識向上という論点をまとめました。",
+      "xDraftExcerptSummary": "熊本地震における国交省と建設会社の復旧活動を振り返り、現場力が果たした役割を強調する記事です。迅速な被害調査から復旧へのプロセスに注目しています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "【東京都千代田区】建設業の「人手不足・現場負荷」に向き合う。株式会社松村組、全社プロジェクト「MX」の対話改革でホワイト企業認定（ゴールド）を取得 - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MUkVJbG91ZGJrYkxNYXdZMm8yWVZWLXdfV1c3XzlNZUtRZnliS2ZDYUV5MGVBV2JZWjBqWEFZSTZLRE5paXZrbjNlbDdFbWkzZE1nVmxnbnJGb1lEV0VhcTh6ajRrNjhmV1E?oc=5",
-        "pubDate": "Tue, 28 Jul 2026 01:00:03 GMT",
+        "title": "日本フォーシーエスが建設業界向けにeformsignの導入支援を強化する理由 - voix.jp",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05aG5uakJFRWxSWktfT2NQNmpNcUc5N3JQUWl4Mi1GYVJPUWlmdVZ1NW1vTFpCLTVORzNucWgxY0lveFM5cmpHQzhEdDlfSzBPSnVlOW42dTgzXzBrdjdCZ2dUWll1eXFYczVJT0lWcHE?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 02:47:58 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.4066803627000004,
-        "contentSnippet": "【東京都千代田区】建設業の「人手不足・現場負荷」に向き合う。株式会社松村組、全社プロジェクト「MX」の対話改革でホワイト企業認定（ゴールド）を取得  PR TIMES",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MUkVJbG91ZGJrYkxNYXdZMm8yWVZWLXdfV1c3XzlNZUtRZnliS2ZDYUV5MGVBV2JZWjBqWEFZSTZLRE5paXZrbjNlbDdFbWkzZE1nVmxnbnJGb1lEV0VhcTh6ajRrNjhmV1E?oc=5",
-        "fingerprint": "7538dacc89f2eaf06ec60a65c2b84b4c6859e36ad0bc2494dd07d431ca9aac30"
+        "score": 3.4067639502000002,
+        "contentSnippet": "日本フォーシーエスが建設業界向けにeformsignの導入支援を強化する理由  voix.jp",
+        "urlNorm": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05aG5uakJFRWxSWktfT2NQNmpNcUc5N3JQUWl4Mi1GYVJPUWlmdVZ1NW1vTFpCLTVORzNucWgxY0lveFM5cmpHQzhEdDlfSzBPSnVlOW42dTgzXzBrdjdCZ2dUWll1eXFYczVJT0lWcHE?oc=5",
+        "fingerprint": "7051ecb56fb2baba9d061b6afbb368d992421da2271cb4a5923090c519e1e18a"
       },
-      "xDraft": "【本文】\n株式会社松村組が、全社プロジェクト「MX」を通じた対話改革に取り組み、ホワイト企業認定のゴールドを取得しました。建設業界の人手不足や現場負荷に向き合うため、社内の風通しを良くする組織改善を推進した成果とのことです。\n\n僕としては、DXならぬ「MX（Matsumura Transformation）」という名称に、自社を自ら変えようという強い意志を感じます。上意下達になりがちな現場仕事において、対話というソフト面を改革の軸に置いたのは非常に意義深いことですね。こうした取り組みが業界全体の標準になっていくことを願っています。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9MUkVJbG91ZGJrYkxNYXdZMm8yWVZWLXdfV1c3XzlNZUtRZnliS2ZDYUV5MGVBV2JZWjBqWEFZSTZLRE5paXZrbjNlbDdFbWkzZE1nVmxnbnJGb1lEV0VhcTh6ajRrNjhmV1E?oc=5\n\n【抜粋元】\n株式会社松村組が独自の変革プロジェクト「MX」を推進し、対話改革を通じてホワイト企業認定（ゴールド）を取得した事実と、その背景にある業界課題への向き合い方を踏まえて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本フォーシーエスが、建設業界向けに電子契約・電子フォームサービス「eformsign」の導入支援を強化しています。紙ベースのやり取りが多い業界に対し、デジタル化を通じた業務効率化とコスト削減を推進する狙いがあるようです。\n\n僕も現場での書類作業の多さを実感することがありますが、事務負担が減ればそれだけ現場の管理や安全対策に注力できますね。こうした技術が、施工管理の皆さんの負担を少しでも軽くしてくれると嬉しいです。\n\n出典：voix.jp\nhttps://news.google.com/rss/articles/CBMicEFVX3lxTE05aG5uakJFRWxSWktfT2NQNmpNcUc5N3JQUWl4Mi1GYVJPUWlmdVZ1NW1vTFpCLTVORzNucWgxY0lveFM5cmpHQzhEdDlfSzBPSnVlOW42dTgzXzBrdjdCZ2dUWll1eXFYczVJT0lWcHE?oc=5\n\n【抜粋元】\n日本フォーシーエスが「eformsign」の建設業界向け支援を強化するという「voix.jp」の記事に基づき作成しました。建設業界におけるペーパーレス化の動向と、それに対する僕個人の期待を添えています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "株式会社松村組が独自の変革プロジェクト「MX」を推進し、対話改革を通じてホワイト企業認定（ゴールド）を取得した事実と、その背景にある業界課題への向き合い方を踏まえて作成しました。",
+      "xDraftExcerptSummary": "日本フォーシーエスが「eformsign」の建設業界向け支援を強化するという「voix.jp」の記事に基づき作成しました。建設業界におけるペーパーレス化の動向と、それに対する僕個人の期待を添えています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "建設費高騰を想定した契約とは、秋野卓生弁護士がQ&Aで解説",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
-    "pubDate": "2026-07-28T20:00:00.000Z",
+    "title": "鹿島がCO2を吸収・固定するハーフPCa床版開発、コマツ新本社に適用",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/",
+    "pubDate": "2026-07-29T20:00:00.000Z",
     "feedName": "日経クロステック 建築・住宅",
     "score": 4,
-    "contentSnippet": "物価高は長期的なトレンドとなる可能性がある。発注者との契約を今後、どう見直すべきか。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行された改正建設業法への対応が鍵だと説く。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/",
-    "fingerprint": "ef9b9351a53376fd8fccd6ce09554c25a7a0c6aeb745806ec58063ea1afd25c3"
+    "contentSnippet": "鹿島とタカムラ建設（山梨県山中湖村）は二酸化炭素（CO2）を吸収・固定する環境配慮型コンクリートの技術を使用したハーフプレキャスト（PCa）床版を開発。東京都港区で施工中のコマツ新本社建築工事に適用した。建築基準法上の構造部材として使用するため、第三者機関の建設材料技術性能証明を取得している。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/",
+    "fingerprint": "42380317ef0dcf58cced8885e3ac7101851763f1ab5f9a8f3ba259b6360b3cb8"
   },
-  "xDraft": "【本文】\n物価高騰が長期的なトレンドとなるなか、発注者との契約をどう見直すべきかが問われています。建築実務に詳しい秋野卓生弁護士は、2025年12月に全面施行される改正建設業法への対応が鍵になると指摘しています。\nこれからの時代、現場を回す技術と同じくらい、法改正を味方につけた適正な契約実務が重要になりそうですね。リスクを一方的に背負うのではなく、産業全体を維持するための対話が必要だと僕は感じています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03695/071700005/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事から、物価高騰下での契約見直しの必要性と、その法的根拠となる改正建設業法（2025年12月全面施行）の重要性について解説した部分を抜粋しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n鹿島とタカムラ建設が開発した、CO2を吸収・固定する環境配慮型コンクリートによるハーフPCa床版が、港区で施工中のコマツ新本社ビルに採用されました。建築基準法上の構造部材として第三者機関の性能証明を取得しており、実プロジェクトへの適用が進んでいます。\n\n環境負荷の低減と、現場の効率化に寄与するプレキャスト化を両立させている点が非常に合理的だと感じます。こうした技術が普及することで、都市の建物が炭素を貯蔵する役割を担っていく未来が楽しみです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/\n\n【抜粋元】\n鹿島とタカムラ建設が開発したCO2吸収・固定型のハーフPCa床版が、コマツ新本社建築工事に適用されたニュースです。構造部材として性能証明を得ている点についても記述されています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事から、物価高騰下での契約見直しの必要性と、その法的根拠となる改正建設業法（2025年12月全面施行）の重要性について解説した部分を抜粋しました。",
+  "xDraftExcerptSummary": "鹿島とタカムラ建設が開発したCO2吸収・固定型のハーフPCa床版が、コマツ新本社建築工事に適用されたニュースです。構造部材として性能証明を得ている点についても記述されています。",
   "xDraftAlternates": [],
   "errors": []
 }
