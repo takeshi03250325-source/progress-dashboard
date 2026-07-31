@@ -1,90 +1,30 @@
 {
-  "generatedAt": "2026-07-30T22:35:26.907Z",
+  "generatedAt": "2026-07-31T22:32:07.020Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "三重県 国児学園寮舎棟他建築工事を日本土建ＪＶが落札 - 建通新聞",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXlqaWRoWmRPbUs3NG1yWndlUnNSb20yZGZvVWM0VUc0THlYYVI5WUR0M3VTcXJWaFlFQzNjOGFqamN4VkhWb2VkcFA5bi1KdEQ2c2xKcGkzTDJSa0RnVjVZZFEzS1Z3MHVLNzV6Mi1jV1h6bEZuZjhaVFB1Zk9HUA?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 23:35:00 GMT",
+      "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - prtimes.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 03:00:01 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 5.206831289999999,
-      "contentSnippet": "三重県 国児学園寮舎棟他建築工事を日本土建ＪＶが落札  建通新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXlqaWRoWmRPbUs3NG1yWndlUnNSb20yZGZvVWM0VUc0THlYYVI5WUR0M3VTcXJWaFlFQzNjOGFqamN4VkhWb2VkcFA5bi1KdEQ2c2xKcGkzTDJSa0RnVjVZZFEzS1Z3MHVLNzV6Mi1jV1h6bEZuZjhaVFB1Zk9HUA?oc=5",
-      "fingerprint": "6ac3d367faec56fe03b92314364683418f965edfedbb537ea3203533c7d246d9"
+      "score": 5.2069201209000004,
+      "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  prtimes.jp",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5",
+      "fingerprint": "4f25fbb680d8028c1499323e58c672cee80b8946a335d1bca4fea4317014ce2c"
     },
     {
-      "title": "鹿島がCO2を吸収・固定するハーフPCa床版開発、コマツ新本社に適用",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/",
-      "pubDate": "2026-07-29T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "鹿島とタカムラ建設（山梨県山中湖村）は二酸化炭素（CO2）を吸収・固定する環境配慮型コンクリートの技術を使用したハーフプレキャスト（PCa）床版を開発。東京都港区で施工中のコマツ新本社建築工事に適用した。建築基準法上の構造部材として使用するため、第三者機関の建設材料技術性能証明を取得している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02886/",
-      "fingerprint": "42380317ef0dcf58cced8885e3ac7101851763f1ab5f9a8f3ba259b6360b3cb8"
-    },
-    {
-      "title": "日本の建設用化学品市場の将来展望：高性能材料、持続可能なインフラおよび2035年までの市場見通し - news.nicovideo.jp",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tcWYyNkZjVFZPejU3bXlRTWVkWldJNXFhLW9KUl9hTFhac1dTUXNaUHMzN0REamVjNGFEZkRSVVNaNVgxSjNKaUxJQnZhRGFtU2oxMXBoU2tMMVNUMFBPcS1CMzJYUGNSeEtuR2tYSlBUelRWYXZMN1ZVRQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 05:00:20 GMT",
+      "title": "日本の建設用化学品市場の将来展望：高性能材料、持続可能なインフラおよび2035年までの市場見通し - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SblJuSFpWTVlQWGlXbmpIYUNxS0VRRFR5NlZhS19GekQ1S3czYUZ0Ny02QWZaTmxrSzJPUmhDMThoNTNXa3dvRnhEZG56OUFKNzhuck5fOWR1X0hIVWduUXhFMnF5U1FhaEE?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 05:00:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.406848858,
-      "contentSnippet": "日本の建設用化学品市場の将来展望：高性能材料、持続可能なインフラおよび2035年までの市場見通し  news.nicovideo.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tcWYyNkZjVFZPejU3bXlRTWVkWldJNXFhLW9KUl9hTFhac1dTUXNaUHMzN0REamVjNGFEZkRSVVNaNVgxSjNKaUxJQnZhRGFtU2oxMXBoU2tMMVNUMFBPcS1CMzJYUGNSeEtuR2tYSlBUelRWYXZMN1ZVRQ?oc=5",
-      "fingerprint": "ce7e3f2a385edd4b143d46784f3f1e68963bb30efd34076d8416f16a884211d3"
-    },
-    {
-      "title": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」 - 日刊工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tUEgxaE9BeU1la3JLT2lkVXNEMlhOcWQ1VFhpc2RpWjZkLXRyT3RIbWJ2RjN0UWRRSWIwREpBZUlBLXFfUTVDUTFkLWgwSDhZVUlaNWpRaWtwY2s?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 21:07:31 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4068233259,
-      "contentSnippet": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」  日刊工業新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tUEgxaE9BeU1la3JLT2lkVXNEMlhOcWQ1VFhpc2RpWjZkLXRyT3RIbWJ2RjN0UWRRSWIwREpBZUlBLXFfUTVDUTFkLWgwSDhZVUlaNWpRaWtwY2s?oc=5",
-      "fingerprint": "150be79523b001fff9a248c3a621ff36f8ea385592e5cdc3c497d9032559af9f"
-    },
-    {
-      "title": "２６年熊本地震／国交省・建設会社ら、被害調査・復旧に全力／現場力を最大限発揮 - decn.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xWno3QUJvMGZiNmJHUm1DR2lOSDVtY0hpdngxVi1jaTZOVTRRY2dXc3d4LTJrQTJScUgyRkJ6MXJNWEs3M2FV?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 21:05:51 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4068232358999997,
-      "contentSnippet": "２６年熊本地震／国交省・建設会社ら、被害調査・復旧に全力／現場力を最大限発揮  decn.co.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xWno3QUJvMGZiNmJHUm1DR2lOSDVtY0hpdngxVi1jaTZOVTRRY2dXc3d4LTJrQTJScUgyRkJ6MXJNWEs3M2FV?oc=5",
-      "fingerprint": "9b8e37d8b4d3e6e84535c7db8e89ac15a0346351d7adb74c86cb9c87a1913744"
-    },
-    {
-      "title": "日本フォーシーエスが建設業界向けにeformsignの導入支援を強化する理由 - ニュースメディアVOIX",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05aG5uakJFRWxSWktfT2NQNmpNcUc5N3JQUWl4Mi1GYVJPUWlmdVZ1NW1vTFpCLTVORzNucWgxY0lveFM5cmpHQzhEdDlfSzBPSnVlOW42dTgzXzBrdjdCZ2dUWll1eXFYczVJT0lWcHE?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 02:47:58 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4067639502000002,
-      "contentSnippet": "日本フォーシーエスが建設業界向けにeformsignの導入支援を強化する理由  ニュースメディアVOIX",
-      "urlNorm": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05aG5uakJFRWxSWktfT2NQNmpNcUc5N3JQUWl4Mi1GYVJPUWlmdVZ1NW1vTFpCLTVORzNucWgxY0lveFM5cmpHQzhEdDlfSzBPSnVlOW42dTgzXzBrdjdCZ2dUWll1eXFYczVJT0lWcHE?oc=5",
-      "fingerprint": "ef0635eaa9864a94edcbb10f89936d7befa5225bd730207741b6dcddbcabc8ae"
-    },
-    {
-      "title": "1位は「大東建託がペルチェとファンのダブル搭載ベスト開発、熱中症対策で重ね着を不要に」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700426/",
-      "pubDate": "2026-07-29T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月30日～8月5日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700426/",
-      "fingerprint": "de3e479ab357efd96da9657a99ee112d9b35890b18f3070d1613e14a2c1a0e7f"
-    },
-    {
-      "title": "ホンダやトヨタが31日まで工場停止、三菱ケミは窓ガラス破損　熊本地震",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900009/",
-      "pubDate": "2026-07-29T08:56:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "熊本県で2026年7月28日午後4時27分ごろに発生した「令和8年熊本地震」。最大震度7の揺れを観測した熊本地震により、熊本県や福岡県に製造拠点を置く企業で稼働停止が相次ぐ。ホンダやトヨタ自動車は、31日までの工場停止を決めた。自動車部品メーカーなどで断水や停電などのインフラ設備の停止も起きており、再開の見通しは不透明な状況が続いている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900009/",
-      "fingerprint": "98362b0ec2845b1cb18a9f1abf973c26e5c281f6b97388bf2b3294eecddf3890"
+      "score": 3.40684884,
+      "contentSnippet": "日本の建設用化学品市場の将来展望：高性能材料、持続可能なインフラおよび2035年までの市場見通し  Excite エキサイト",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SblJuSFpWTVlQWGlXbmpIYUNxS0VRRFR5NlZhS19GekQ1S3czYUZ0Ny02QWZaTmxrSzJPUmhDMThoNTNXa3dvRnhEZG56OUFKNzhuck5fOWR1X0hIVWduUXhFMnF5U1FhaEE?oc=5",
+      "fingerprint": "9d90f7c9419e534b1c3e8ab6bf33f097d7213af78861ab9587806ddf42653eb8"
     },
     {
       "title": "住宅価格据え置きに挑む、中東発の資材高騰で試される調達力",
@@ -97,44 +37,104 @@
       "fingerprint": "7fb8e1cbe63f83a60130c29abd1d10c59c6eded03b16cc2d0fbb83303adf3e6d"
     },
     {
-      "title": "1位は「大東建託がペルチェとファンのダブル搭載ベスト開発、熱中症対策で重ね着を不要に」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700426/",
-      "pubDate": "2026-07-29T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年7月27日～8月2日に読まれた記事の1～10位を26年7月30日～8月5日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/061700426/",
-      "fingerprint": "de3e479ab357efd96da9657a99ee112d9b35890b18f3070d1613e14a2c1a0e7f"
-    },
-    {
-      "title": "ホンダやトヨタが31日まで工場停止、三菱ケミは窓ガラス破損　熊本地震",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900009/",
-      "pubDate": "2026-07-29T08:56:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "熊本県で2026年7月28日午後4時27分ごろに発生した「令和8年熊本地震」。最大震度7の揺れを観測した熊本地震により、熊本県や福岡県に製造拠点を置く企業で稼働停止が相次ぐ。ホンダやトヨタ自動車は、31日までの工場停止を決めた。自動車部品メーカーなどで断水や停電などのインフラ設備の停止も起きており、再開の見通しは不透明な状況が続いている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/072900009/",
-      "fingerprint": "98362b0ec2845b1cb18a9f1abf973c26e5c281f6b97388bf2b3294eecddf3890"
-    },
-    {
-      "title": "ｂＳＪ／１０月にｂＳＩ国際会議、日本のＢＩＭを世界に発信／代表理事に武藤正樹氏 - decn.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oc0JxaGlkUmpDVS05YlllYzFDNkRQXzZnOG1yaTN2VDctRVB0ZU9CcmhqbGR5YlpxMDhHVE1GQVlGR0sxQzZv?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 21:05:44 GMT",
+      "title": "日本技術士会県支部 26年度年次大会と講演会を開催 - 建通新聞",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGNBY0pNNjJDMWh6TjgxcllTcWl0dUJfU0pUeDBwallVazZMTGthWHFPMkhDdHVlNE1hS0RNenhWUjY2Mi1jLXl4cU1pZ2JNa2JjV0plMWhTQkpCSy1Jdktld3JjR01KeWVyMnd2bnY4a1pYY1ZaVVpyMTgzVlQtVA?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 1.6069009896000002,
-      "contentSnippet": "ｂＳＪ／１０月にｂＳＩ国際会議、日本のＢＩＭを世界に発信／代表理事に武藤正樹氏  decn.co.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oc0JxaGlkUmpDVS05YlllYzFDNkRQXzZnOG1yaTN2VDctRVB0ZU9CcmhqbGR5YlpxMDhHVE1GQVlGR0sxQzZv?oc=5",
-      "fingerprint": "11db0471de780c611cf4b370df1457f4e73b9f9751b6b43bb7a466d9d28d8f2c"
+      "score": 1.60685532,
+      "contentSnippet": "日本技術士会県支部 26年度年次大会と講演会を開催  建通新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGNBY0pNNjJDMWh6TjgxcllTcWl0dUJfU0pUeDBwallVazZMTGthWHFPMkhDdHVlNE1hS0RNenhWUjY2Mi1jLXl4cU1pZ2JNa2JjV0plMWhTQkpCSy1Jdktld3JjR01KeWVyMnd2bnY4a1pYY1ZaVVpyMTgzVlQtVA?oc=5",
+      "fingerprint": "07fd326db025f144d2aa0e7736aebd9d7f84a89e63ae5bbe7dac35e16f11ea32"
     },
     {
-      "title": "「建てることを目的化しない」から始まった日本中央建設の挑戦。「土地運用コンサル」から入るワンストップサービスの背景 - 沖縄タイムス社",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DanQzYVp1clRmVi01SUhUTHlURnVlcElJNFJsUWZib3FwT18wQlptcGx0d1NKQUp1c2hDSEpRWU9uUGwzc191X3R5ZFduWEl0bHJLYXNBT0FQTXhfb0E?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 02:35:40 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.606841046,
-      "contentSnippet": "「建てることを目的化しない」から始まった日本中央建設の挑戦。「土地運用コンサル」から入るワンストップサービスの背景  沖縄タイムス社",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DanQzYVp1clRmVi01SUhUTHlURnVlcElJNFJsUWZib3FwT18wQlptcGx0d1NKQUp1c2hDSEpRWU9uUGwzc191X3R5ZFduWEl0bHJLYXNBT0FQTXhfb0E?oc=5",
-      "fingerprint": "bfbd935f610e6832a08ad130d371b70370c4eec31df21a739b1c7e3e59375a34"
+      "title": "アイシン、熊本の工場で順次生産再開　近藤副社長「10年前の対策生きる」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/",
+      "pubDate": "2026-07-31T11:30:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "アイシン子会社のアイシン九州（熊本市）は、2026年7月28日に発生した「令和8年熊本地震」の影響で稼働を停止していた工場のラインの一部を試験的に稼働し始めた。品質や安全性に問題がなければ順次生産を再開する。10年前の熊本県の地震で被災した経験を生かし、迅速な再開を目指す。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/",
+      "fingerprint": "ae13550bfebe93367c0c52c83869c5a824ff04d1953cc0849e3bf3add572dd72"
+    },
+    {
+      "title": "ファミマ小谷社長、地震発生翌日に熊本で陣頭指揮　水・運転手不足に緊急対応",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100030/",
+      "pubDate": "2026-07-31T10:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "熊本地震の発災翌日、ファミリーマートの小谷建夫社長は被災地に入り、滞った商品供給の立て直しを陣頭指揮した。「自ら現場に入り、解を導く。それが私の経営だ」。社員も被災店舗へ派遣。熊本で経営者の危機対応を追った。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100030/",
+      "fingerprint": "6d47404b9832fc0f9e50fb1312d52d7181ba0ae50ca3559e08085b7712a50d25"
+    },
+    {
+      "title": "爆発事故発生の「イオンモール熊本」　ドローンが映した衝撃の大きさ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100027/",
+      "pubDate": "2026-07-31T09:45:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "熊本県で最大震度7を観測した地震後、爆発が発生した熊本県嘉島町のイオンモール熊本。テラドローンは要請を受けてドローンで撮影した内部の状況を31日、公開した。天井が崩れ落ちた様子などが確認でき、被害の大きさが改めて明らかとなった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100027/",
+      "fingerprint": "8507f77e9a1c3e679c0306105bdc27e4e1ff9b0c9effdb926c07e8b12e87c1a0"
+    },
+    {
+      "title": "イオンモール熊本爆発なぜ　専門家「焦点はガス遮断装置」　問われる管理体制",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000016/",
+      "pubDate": "2026-07-31T09:35:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "熊本県嘉島町のイオンモール熊本。建物の2階部分は原形をとどめず、内側から大きくえぐり取られたように損壊していた。未曽有の爆発はなぜ起きたのか。焦点となっているのは液化石油ガス（LPガス）だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000016/",
+      "fingerprint": "910aadfc3b91b04e45c2b65ea284e7d51bd5aed13ca08edf6fe255ef7aa38e18"
+    },
+    {
+      "title": "熊本地震で見えた企業防災の現実、東北大・丸谷特任教授「全国でBCP見直しを」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000015/",
+      "pubDate": "2026-07-31T09:30:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "熊本県で最大震度7の揺れを観測した地震は、県内の企業に大きな被害をもたらした。企業防災が専門の東北大学災害科学国際研究所の丸谷浩明特任教授に課題を聞いた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000015/",
+      "fingerprint": "dc280c989cde7425152af6f6a0ccbdc15397d4efe1309aa74e82b877e20b0720"
+    },
+    {
+      "title": "熊本地震で橋桁が落ちた南九州道の高架橋、耐震設計の専門家の視点",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100026/",
+      "pubDate": "2026-07-31T08:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月28日の熊本地震で橋桁がずり落ち、橋脚にめり込む被害が生じた南九州自動車道「妙見第一橋」（熊本県八代市）。損傷箇所の下では「日奈久断層」が横切っている。耐震設計に詳しい京都大学大学院工学研究科の高橋良和教授に、損傷の発生メカニズムなどを聞いた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100026/",
+      "fingerprint": "c77f7c1c0f0cf054fed1428536c053e07495747f506c09a63b16b1c73238f7be"
+    },
+    {
+      "title": "熊本城で石垣の被害拡大も「1本石垣」にはならず　熊本地震",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100024/",
+      "pubDate": "2026-07-31T05:30:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月28日に発生した熊本県を震源とする地震で、熊本市が7月30日までに把握した熊本城の被害箇所は石垣で40カ所、建造物で8カ所に拡大した。16年の地震で多数の石材が崩落し「1本石垣」と言われる状態になった箇所には、今回の地震では大きな被害は生じていないと見られる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100024/",
+      "fingerprint": "4530e590f1f660563399217e3d23032125c875c63382eb4fe8278a85ab91cfff"
+    },
+    {
+      "title": "わずか10年で再び最大震度7を観測した熊本地震、地震動を専門家が解説",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000022/",
+      "pubDate": "2026-07-31T04:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月28日に発生した熊本地震では、宇城市や氷川町で最大震度7を観測した。高速道路の高架橋に被害が発生した八代市では、周期が2秒を超える揺れのやや長周期の成分が多く含まれる地震動も観測されている。地震動の特徴について、京都大学防災研究所の境有紀教授に解説してもらう。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000022/",
+      "fingerprint": "40e026fa59b4d0bb61dc5b97fde97db3d462feb5ca9294490e7d6804721d4aea"
+    },
+    {
+      "title": "八代市の免震庁舎に大きな残留変位、施工者などが地下の装置を調査",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000023/",
+      "pubDate": "2026-07-31T02:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月28日の熊本地震で震度6強を観測した熊本県八代市では、免震構造を採用した真新しい市庁舎に被害が生じた。日経クロステック記者が7月30日に現地を取材したところ、免震部のエキスパンションジョイントが複数箇所で破損し、クリアランスに落下している箇所も確認した。地震時に大きな変位が生じた様子がうかがえる。建物には数十センチメートルの残留変位が発生している可能性がある。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000023/",
+      "fingerprint": "247a3e62ea05f0abc096a11b00a79d7513c3625d3bcfcd05eafd4ded6544b1bc"
     },
     {
       "title": "熊本地震で高架橋ずり落ち、異種の橋桁連結部　下に日奈久断層の地割れ",
@@ -160,74 +160,74 @@
   "picks": [
     {
       "picked": {
-        "title": "三重県 国児学園寮舎棟他建築工事を日本土建ＪＶが落札 - 建通新聞",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXlqaWRoWmRPbUs3NG1yWndlUnNSb20yZGZvVWM0VUc0THlYYVI5WUR0M3VTcXJWaFlFQzNjOGFqamN4VkhWb2VkcFA5bi1KdEQ2c2xKcGkzTDJSa0RnVjVZZFEzS1Z3MHVLNzV6Mi1jV1h6bEZuZjhaVFB1Zk9HUA?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 23:35:00 GMT",
+        "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - prtimes.jp",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5",
+        "pubDate": "Fri, 31 Jul 2026 03:00:01 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 5.206831289999999,
-        "contentSnippet": "三重県 国児学園寮舎棟他建築工事を日本土建ＪＶが落札  建通新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXlqaWRoWmRPbUs3NG1yWndlUnNSb20yZGZvVWM0VUc0THlYYVI5WUR0M3VTcXJWaFlFQzNjOGFqamN4VkhWb2VkcFA5bi1KdEQ2c2xKcGkzTDJSa0RnVjVZZFEzS1Z3MHVLNzV6Mi1jV1h6bEZuZjhaVFB1Zk9HUA?oc=5",
-        "fingerprint": "6ac3d367faec56fe03b92314364683418f965edfedbb537ea3203533c7d246d9"
+        "score": 5.2069201209000004,
+        "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  prtimes.jp",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5",
+        "fingerprint": "4f25fbb680d8028c1499323e58c672cee80b8946a335d1bca4fea4317014ce2c"
       },
-      "xDraft": "【本文】\n三重県が発注した国児学園の寮舎棟ほか建築工事を、日本土建JVが落札しました。児童福祉施設における生活の場を新しく整備する、大切なプロジェクトです。\n僕たちの仕事は、こうした建物を造ることで誰かの日常を支えることにあるのだと改めて感じます。地域を支える地元のJVによる、丁寧な施工を期待しています。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNaXlqaWRoWmRPbUs3NG1yWndlUnNSb20yZGZvVWM0VUc0THlYYVI5WUR0M3VTcXJWaFlFQzNjOGFqamN4VkhWb2VkcFA5bi1KdEQ2c2xKcGkzTDJSa0RnVjVZZFEzS1Z3MHVLNzV6Mi1jV1h6bEZuZjhaVFB1Zk9HUA?oc=5\n\n【抜粋元】\n三重県が実施した国児学園寮舎棟他建築工事の入札において、日本土建・大紀建設・藤原建築工務店JVが落札したという建通新聞の報道に基づいています。\n\n【判定】OK",
+      "xDraft": "【本文】\nopenBIMに関する体系的なナレッジをまとめた日本語の解説記事100本が公開されました。建設業界におけるデータ活用を促進し、特定のソフトウェアに依存しない連携の仕組みを学べる内容となっています。\n\n専門性が高く、かつ英語のリソースが多いこの分野において、まとまった日本語の教材が登場したのは非常に心強いですね。現場でBIMに触れる方々にとって、共通言語を構築する良いきっかけになればと僕も期待しています。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5\n\n【抜粋元】\n建設業のデータ活用促進を目的として、openBIMを日本語で体系的に学べる100本の解説記事がPR TIMESを通じて公開されたというニュースに基づき、その意義と期待を記述しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "三重県が実施した国児学園寮舎棟他建築工事の入札において、日本土建・大紀建設・藤原建築工務店JVが落札したという建通新聞の報道に基づいています。",
+      "xDraftExcerptSummary": "建設業のデータ活用促進を目的として、openBIMを日本語で体系的に学べる100本の解説記事がPR TIMESを通じて公開されたというニュースに基づき、その意義と期待を記述しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "日本の建設用化学品市場の将来展望：高性能材料、持続可能なインフラおよび2035年までの市場見通し - news.nicovideo.jp",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tcWYyNkZjVFZPejU3bXlRTWVkWldJNXFhLW9KUl9hTFhac1dTUXNaUHMzN0REamVjNGFEZkRSVVNaNVgxSjNKaUxJQnZhRGFtU2oxMXBoU2tMMVNUMFBPcS1CMzJYUGNSeEtuR2tYSlBUelRWYXZMN1ZVRQ?oc=5",
-        "pubDate": "Thu, 30 Jul 2026 05:00:20 GMT",
+        "title": "日本の建設用化学品市場の将来展望：高性能材料、持続可能なインフラおよび2035年までの市場見通し - Excite エキサイト",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SblJuSFpWTVlQWGlXbmpIYUNxS0VRRFR5NlZhS19GekQ1S3czYUZ0Ny02QWZaTmxrSzJPUmhDMThoNTNXa3dvRnhEZG56OUFKNzhuck5fOWR1X0hIVWduUXhFMnF5U1FhaEE?oc=5",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.406848858,
-        "contentSnippet": "日本の建設用化学品市場の将来展望：高性能材料、持続可能なインフラおよび2035年までの市場見通し  news.nicovideo.jp",
-        "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tcWYyNkZjVFZPejU3bXlRTWVkWldJNXFhLW9KUl9hTFhac1dTUXNaUHMzN0REamVjNGFEZkRSVVNaNVgxSjNKaUxJQnZhRGFtU2oxMXBoU2tMMVNUMFBPcS1CMzJYUGNSeEtuR2tYSlBUelRWYXZMN1ZVRQ?oc=5",
-        "fingerprint": "ce7e3f2a385edd4b143d46784f3f1e68963bb30efd34076d8416f16a884211d3"
+        "score": 3.40684884,
+        "contentSnippet": "日本の建設用化学品市場の将来展望：高性能材料、持続可能なインフラおよび2035年までの市場見通し  Excite エキサイト",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SblJuSFpWTVlQWGlXbmpIYUNxS0VRRFR5NlZhS19GekQ1S3czYUZ0Ny02QWZaTmxrSzJPUmhDMThoNTNXa3dvRnhEZG56OUFKNzhuck5fOWR1X0hIVWduUXhFMnF5U1FhaEE?oc=5",
+        "fingerprint": "9d90f7c9419e534b1c3e8ab6bf33f097d7213af78861ab9587806ddf42653eb8"
       },
-      "xDraft": "【本文】\n日本の建設用化学品市場について、2035年までの将来展望がまとまりました。高性能材料の活用や、持続可能なインフラ構築への需要が今後の市場成長を牽引する見通しです。\n僕たちの進めるインフラ整備において、化学品の進化は長寿命化や環境対応の鍵を握る重要な要素です。2035年という長期的な視点の中で、先端技術がどのように日本の街づくりを下支えしていくのか、僕も非常に興味深く感じています。🏗️\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE8tcWYyNkZjVFZPejU3bXlRTWVkWldJNXFhLW9KUl9hTFhac1dTUXNaUHMzN0REamVjNGFEZkRSVVNaNVgxSjNKaUxJQnZhRGFtU2oxMXBoU2tMMVNUMFBPcS1CMzJYUGNSeEtuR2tYSlBUelRWYXZMN1ZVRQ?oc=5\n\n【抜粋元】\n国内の建設用化学品市場における2035年までの見通しについて、高性能材料や持続可能性という観点から市場の成長予測を解説した記事の内容に基づき作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n2035年に向けた日本の建設用化学品市場の展望が示されました。高性能材料の活用や持続可能なインフラ整備への需要が高まっており、市場の拡大が見込まれています。\n\nコンクリートの耐久性を高める混和剤や補修材など、化学品の進化は構造物の長寿命化に欠かせない要素ですね。目立たない分野かもしれませんが、日本のインフラを裏側から支える技術の進歩に、僕は大きな可能性を感じています。\n\n出典：Excite エキサイト\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9SblJuSFpWTVlQWGlXbmpIYUNxS0VRRFR5NlZhS19GekQ1S3czYUZ0Ny02QWZaTmxrSzJPUmhDMThoNTNXa3dvRnhEZG56OUFKNzhuck5fOWR1X0hIVWduUXhFMnF5U1FhaEE?oc=5\n\n【抜粋元】\n2035年までの日本の建設用化学品市場の将来展望を報じる記事から、高性能材料の需要増や持続可能なインフラ整備という市場のトレンドを抽出しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国内の建設用化学品市場における2035年までの見通しについて、高性能材料や持続可能性という観点から市場の成長予測を解説した記事の内容に基づき作成しました。",
+      "xDraftExcerptSummary": "2035年までの日本の建設用化学品市場の将来展望を報じる記事から、高性能材料の需要増や持続可能なインフラ整備という市場のトレンドを抽出しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」 - 日刊工業新聞",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tUEgxaE9BeU1la3JLT2lkVXNEMlhOcWQ1VFhpc2RpWjZkLXRyT3RIbWJ2RjN0UWRRSWIwREpBZUlBLXFfUTVDUTFkLWgwSDhZVUlaNWpRaWtwY2s?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 21:07:31 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4068233259,
-        "contentSnippet": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」  日刊工業新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tUEgxaE9BeU1la3JLT2lkVXNEMlhOcWQ1VFhpc2RpWjZkLXRyT3RIbWJ2RjN0UWRRSWIwREpBZUlBLXFfUTVDUTFkLWgwSDhZVUlaNWpRaWtwY2s?oc=5",
-        "fingerprint": "150be79523b001fff9a248c3a621ff36f8ea385592e5cdc3c497d9032559af9f"
+        "title": "住宅価格据え置きに挑む、中東発の資材高騰で試される調達力",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700007/",
+        "pubDate": "2026-07-30T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 2,
+        "contentSnippet": "建築資材の供給不安や価格改定を受け、住宅会社は遅延リスクや建設費の上昇を顧客に説明するなどの対応に追われた。こうした中でも調達力を武器に、攻めの姿勢を崩さなかった住宅会社があった。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03695/071700007/",
+        "fingerprint": "7fb8e1cbe63f83a60130c29abd1d10c59c6eded03b16cc2d0fbb83303adf3e6d"
       },
-      "xDraft": "【本文】\n日本建設業連合会の蓮輪賢治副会長が、建設現場における酷暑対策をさらに強化する方針を示しました。近年の厳しい暑さは、屋外作業が中心となる現場にとって、安全確保と工程管理の両面で極めて深刻な課題となっています。業界トップ層が対策強化を明言することは、働く方々の命を守るだけでなく、建設産業の持続可能性を高める上でも非常に重要な一歩だと僕は思います。\n\n出典：経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」 - 日刊工業新聞\nhttps://news.google.com/rss/articles/CBMiW0FVX3lxTE0tUEgxaE9BeU1la3JLT2lkVXNEMlhOcWQ1VFhpc2RpWjZkLXRyT3RIbWJ2RjN0UWRRSWIwREpBZUlBLXFfUTVDUTFkLWgwSDhZVUlaNWpRaWtwY2s?oc=5\n\n【抜粋元】\n日刊工業新聞の記事より、日建連の蓮輪副会長が現場の酷暑対策強化に言及したという事実を抽出しました。産業全体で労働環境の改善に取り組む姿勢を強調して構成しています。\n\n【判定】OK",
+      "xDraft": "【本文】\n中東情勢による建築資材の供給不安や価格高騰を受け、多くの住宅会社が建設費の上昇や工期遅延への対応を余儀なくされています。こうした逆風の中でも、強固な調達力を武器に価格据え置きを掲げ、攻めの姿勢を貫く企業の動きが注目されています。\n資材を安定して確保する力は、今や現場の運営だけでなく経営の根幹を左右する戦略的な要素だと感じます。厳しい環境下で顧客への価値を守ろうとする企業の知恵と努力には、僕も深い敬意を抱かずにはいられません。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03695/071700007/\n\n【抜粋元】\n建築資材の価格高騰や供給不安に対して、住宅会社が顧客への説明に追われる実態と、一方で調達力を生かして価格維持に挑む企業の戦略について書かれた記事。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日刊工業新聞の記事より、日建連の蓮輪副会長が現場の酷暑対策強化に言及したという事実を抽出しました。産業全体で労働環境の改善に取り組む姿勢を強調して構成しています。",
+      "xDraftExcerptSummary": "建築資材の価格高騰や供給不安に対して、住宅会社が顧客への説明に追われる実態と、一方で調達力を生かして価格維持に挑む企業の戦略について書かれた記事。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "三重県 国児学園寮舎棟他建築工事を日本土建ＪＶが落札 - 建通新聞",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXlqaWRoWmRPbUs3NG1yWndlUnNSb20yZGZvVWM0VUc0THlYYVI5WUR0M3VTcXJWaFlFQzNjOGFqamN4VkhWb2VkcFA5bi1KdEQ2c2xKcGkzTDJSa0RnVjVZZFEzS1Z3MHVLNzV6Mi1jV1h6bEZuZjhaVFB1Zk9HUA?oc=5",
-    "pubDate": "Wed, 29 Jul 2026 23:35:00 GMT",
+    "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - prtimes.jp",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5",
+    "pubDate": "Fri, 31 Jul 2026 03:00:01 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 5.206831289999999,
-    "contentSnippet": "三重県 国児学園寮舎棟他建築工事を日本土建ＪＶが落札  建通新聞",
-    "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXlqaWRoWmRPbUs3NG1yWndlUnNSb20yZGZvVWM0VUc0THlYYVI5WUR0M3VTcXJWaFlFQzNjOGFqamN4VkhWb2VkcFA5bi1KdEQ2c2xKcGkzTDJSa0RnVjVZZFEzS1Z3MHVLNzV6Mi1jV1h6bEZuZjhaVFB1Zk9HUA?oc=5",
-    "fingerprint": "6ac3d367faec56fe03b92314364683418f965edfedbb537ea3203533c7d246d9"
+    "score": 5.2069201209000004,
+    "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  prtimes.jp",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5",
+    "fingerprint": "4f25fbb680d8028c1499323e58c672cee80b8946a335d1bca4fea4317014ce2c"
   },
-  "xDraft": "【本文】\n三重県が発注した国児学園の寮舎棟ほか建築工事を、日本土建JVが落札しました。児童福祉施設における生活の場を新しく整備する、大切なプロジェクトです。\n僕たちの仕事は、こうした建物を造ることで誰かの日常を支えることにあるのだと改めて感じます。地域を支える地元のJVによる、丁寧な施工を期待しています。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNaXlqaWRoWmRPbUs3NG1yWndlUnNSb20yZGZvVWM0VUc0THlYYVI5WUR0M3VTcXJWaFlFQzNjOGFqamN4VkhWb2VkcFA5bi1KdEQ2c2xKcGkzTDJSa0RnVjVZZFEzS1Z3MHVLNzV6Mi1jV1h6bEZuZjhaVFB1Zk9HUA?oc=5\n\n【抜粋元】\n三重県が実施した国児学園寮舎棟他建築工事の入札において、日本土建・大紀建設・藤原建築工務店JVが落札したという建通新聞の報道に基づいています。\n\n【判定】OK",
+  "xDraft": "【本文】\nopenBIMに関する体系的なナレッジをまとめた日本語の解説記事100本が公開されました。建設業界におけるデータ活用を促進し、特定のソフトウェアに依存しない連携の仕組みを学べる内容となっています。\n\n専門性が高く、かつ英語のリソースが多いこの分野において、まとまった日本語の教材が登場したのは非常に心強いですね。現場でBIMに触れる方々にとって、共通言語を構築する良いきっかけになればと僕も期待しています。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5\n\n【抜粋元】\n建設業のデータ活用促進を目的として、openBIMを日本語で体系的に学べる100本の解説記事がPR TIMESを通じて公開されたというニュースに基づき、その意義と期待を記述しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "三重県が実施した国児学園寮舎棟他建築工事の入札において、日本土建・大紀建設・藤原建築工務店JVが落札したという建通新聞の報道に基づいています。",
+  "xDraftExcerptSummary": "建設業のデータ活用促進を目的として、openBIMを日本語で体系的に学べる100本の解説記事がPR TIMESを通じて公開されたというニュースに基づき、その意義と期待を記述しました。",
   "xDraftAlternates": [],
   "errors": []
 }
