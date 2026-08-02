@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-01T22:27:14.110Z",
+  "generatedAt": "2026-08-02T22:26:54.455Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 2,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - prtimes.jp",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 03:00:01 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.2069201209000004,
-      "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  prtimes.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mNjJyT2hfNy1UeFJlcTJMV0dXdkVGT2E0NldaVWRMTzhPeWg4TmJiYUMzQ0RUb2R0c3ptWUE1bW55X1pPUy0tZm4tLVdESURCazJuOHc5WDBpX1h1SS1sNUxvdGlrcDNwOXc?oc=5",
-      "fingerprint": "4f25fbb680d8028c1499323e58c672cee80b8946a335d1bca4fea4317014ce2c"
+      "title": "富岡市庁舎の軒裏腐食、修繕費は隈事務所が全額負担　不燃薬剤で塗料溶解",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/",
+      "pubDate": "2026-08-02T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "軒裏に雨染みが生じた群馬県富岡市の市庁舎で、本格的な修繕工事が始まった。工事費用は、設計者の隈研吾建築都市設計事務所が全額負担する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/",
+      "fingerprint": "11dbeee12159a9521b7c3ed5ecfc75b2d3a121fac4434e35f394a047db7ff949"
     },
     {
-      "title": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価（KSB瀬戸内海放送） - Yahoo!ニュース",
+      "title": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価（KSB瀬戸内海放送） - news.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6emFOdVBfY0pCSS1fUWl0cXVFM2RORHl4Z3lPWHcwWlZpTnVKcmRpMXBKVmJhT0NlS05tVDlEaGNtLWlOZWI0R25FMXFHb2N3ODFHSmFsUHJ6NTc1MS1Lam14WVlKRXpnY3dDcGtZMGZ3RUtOdVZVZGhOMUZ6c3M?oc=5",
       "pubDate": "Sat, 01 Aug 2026 06:02:44 GMT",
       "feedName": "Googleニュース 建設業",
       "score": 3.4070077476000002,
-      "contentSnippet": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価（KSB瀬戸内海放送）  Yahoo!ニュース",
+      "contentSnippet": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価（KSB瀬戸内海放送）  news.yahoo.co.jp",
       "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6emFOdVBfY0pCSS1fUWl0cXVFM2RORHl4Z3lPWHcwWlZpTnVKcmRpMXBKVmJhT0NlS05tVDlEaGNtLWlOZWI0R25FMXFHb2N3ODFHSmFsUHJ6NTc1MS1Lam14WVlKRXpnY3dDcGtZMGZ3RUtOdVZVZGhOMUZ6c3M?oc=5",
-      "fingerprint": "f342d2ecbf9b5bcc795a689feb2568474b55ceb4da03aee6d4ae3a924cd58e01"
+      "fingerprint": "28564d15455a2ffebac9543a136178ac8c4a810a4511808f428f820d99f5a5b0"
     },
     {
       "title": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価 - au Webポータル",
@@ -37,197 +37,117 @@
       "fingerprint": "c7a20d010cc3ad63a3f8d686bdf7147fbd81addb350450e5d0bf7fcca3b578fb"
     },
     {
-      "title": "アイシン、熊本の工場で順次生産再開　近藤副社長「10年前の対策生きる」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/",
-      "pubDate": "2026-07-31T11:30:00.000Z",
+      "title": "1位は「36度の急斜面を“直滑降”で生コン運搬、清水建設JVがダム堤体打設を高速化」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
+      "pubDate": "2026-08-02T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "アイシン子会社のアイシン九州（熊本市）は、2026年7月28日に発生した「令和8年熊本地震」の影響で稼働を停止していた工場のラインの一部を試験的に稼働し始めた。品質や安全性に問題がなければ順次生産を再開する。10年前の熊本県の地震で被災した経験を生かし、迅速な再開を目指す。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/",
-      "fingerprint": "ae13550bfebe93367c0c52c83869c5a824ff04d1953cc0849e3bf3add572dd72"
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月3～9日に読まれた記事の1～10位を26年8月3～9日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
+      "fingerprint": "ea4b4e6f793f9b595439d529a219d5266da89eed1ed3f7514b65341b348a1e23"
     },
     {
-      "title": "ファミマ小谷社長、地震発生翌日に熊本で陣頭指揮　水・運転手不足に緊急対応",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100030/",
-      "pubDate": "2026-07-31T10:00:00.000Z",
+      "title": "大阪の路面陥没は人為ミス、事故の掘削機は地中に埋めてトンネル掘り直し",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02726/",
+      "pubDate": "2026-08-02T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "熊本地震の発災翌日、ファミリーマートの小谷建夫社長は被災地に入り、滞った商品供給の立て直しを陣頭指揮した。「自ら現場に入り、解を導く。それが私の経営だ」。社員も被災店舗へ派遣。熊本で経営者の危機対応を追った。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100030/",
-      "fingerprint": "6d47404b9832fc0f9e50fb1312d52d7181ba0ae50ca3559e08085b7712a50d25"
+      "score": 2.4,
+      "contentSnippet": "大阪市淀川区東三国で2023年12月に起こった路面の陥没事故は、地下で進めていたトンネル工事の人為的なミスが主な原因だったことが分かった。施工者の真柄建設・松村組JV（共同企業体）が本来と異なる方法で掘削機を操作したため、陥没原因となった機内への土砂流入を招いた。市は当初の位置での掘削継続を断念。直径2mを超える掘削機は地中に埋め、たて坑とトンネルを新たに掘り直す。26年8月17日に工事を再開する予定だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02726/",
+      "fingerprint": "1eb612cd4ce170241fbe35c62cdc447d0ed2602931121651a74d895fa867c108"
     },
     {
-      "title": "爆発事故発生の「イオンモール熊本」　ドローンが映した衝撃の大きさ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100027/",
-      "pubDate": "2026-07-31T09:45:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "熊本県で最大震度7を観測した地震後、爆発が発生した熊本県嘉島町のイオンモール熊本。テラドローンは要請を受けてドローンで撮影した内部の状況を31日、公開した。天井が崩れ落ちた様子などが確認でき、被害の大きさが改めて明らかとなった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100027/",
-      "fingerprint": "8507f77e9a1c3e679c0306105bdc27e4e1ff9b0c9effdb926c07e8b12e87c1a0"
+      "title": "1位は「36度の急斜面を“直滑降”で生コン運搬、清水建設JVがダム堤体打設を高速化」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
+      "pubDate": "2026-08-02T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月3～9日に読まれた記事の1～10位を26年8月3～9日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
+      "fingerprint": "ea4b4e6f793f9b595439d529a219d5266da89eed1ed3f7514b65341b348a1e23"
     },
     {
-      "title": "イオンモール熊本爆発なぜ　専門家「焦点はガス遮断装置」　問われる管理体制",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000016/",
-      "pubDate": "2026-07-31T09:35:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "熊本県嘉島町のイオンモール熊本。建物の2階部分は原形をとどめず、内側から大きくえぐり取られたように損壊していた。未曽有の爆発はなぜ起きたのか。焦点となっているのは液化石油ガス（LPガス）だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000016/",
-      "fingerprint": "910aadfc3b91b04e45c2b65ea284e7d51bd5aed13ca08edf6fe255ef7aa38e18"
-    },
-    {
-      "title": "熊本地震で見えた企業防災の現実、東北大・丸谷特任教授「全国でBCP見直しを」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000015/",
-      "pubDate": "2026-07-31T09:30:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "熊本県で最大震度7の揺れを観測した地震は、県内の企業に大きな被害をもたらした。企業防災が専門の東北大学災害科学国際研究所の丸谷浩明特任教授に課題を聞いた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000015/",
-      "fingerprint": "dc280c989cde7425152af6f6a0ccbdc15397d4efe1309aa74e82b877e20b0720"
-    },
-    {
-      "title": "熊本地震で橋桁が落ちた南九州道の高架橋、耐震設計の専門家の視点",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100026/",
-      "pubDate": "2026-07-31T08:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年7月28日の熊本地震で橋桁がずり落ち、橋脚にめり込む被害が生じた南九州自動車道「妙見第一橋」（熊本県八代市）。損傷箇所の下では「日奈久断層」が横切っている。耐震設計に詳しい京都大学大学院工学研究科の高橋良和教授に、損傷の発生メカニズムなどを聞いた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100026/",
-      "fingerprint": "c77f7c1c0f0cf054fed1428536c053e07495747f506c09a63b16b1c73238f7be"
-    },
-    {
-      "title": "熊本城で石垣の被害拡大も「1本石垣」にはならず　熊本地震",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100024/",
-      "pubDate": "2026-07-31T05:30:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年7月28日に発生した熊本県を震源とする地震で、熊本市が7月30日までに把握した熊本城の被害箇所は石垣で40カ所、建造物で8カ所に拡大した。16年の地震で多数の石材が崩落し「1本石垣」と言われる状態になった箇所には、今回の地震では大きな被害は生じていないと見られる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100024/",
-      "fingerprint": "4530e590f1f660563399217e3d23032125c875c63382eb4fe8278a85ab91cfff"
-    },
-    {
-      "title": "わずか10年で再び最大震度7を観測した熊本地震、地震動を専門家が解説",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000022/",
-      "pubDate": "2026-07-31T04:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年7月28日に発生した熊本地震では、宇城市や氷川町で最大震度7を観測した。高速道路の高架橋に被害が発生した八代市では、周期が2秒を超える揺れのやや長周期の成分が多く含まれる地震動も観測されている。地震動の特徴について、京都大学防災研究所の境有紀教授に解説してもらう。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000022/",
-      "fingerprint": "40e026fa59b4d0bb61dc5b97fde97db3d462feb5ca9294490e7d6804721d4aea"
-    },
-    {
-      "title": "八代市の免震庁舎に大きな残留変位、施工者などが地下の装置を調査",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000023/",
-      "pubDate": "2026-07-31T02:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年7月28日の熊本地震で震度6強を観測した熊本県八代市では、免震構造を採用した真新しい市庁舎に被害が生じた。日経クロステック記者が7月30日に現地を取材したところ、免震部のエキスパンションジョイントが複数箇所で破損し、クリアランスに落下している箇所も確認した。地震時に大きな変位が生じた様子がうかがえる。建物には数十センチメートルの残留変位が発生している可能性がある。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073000023/",
-      "fingerprint": "247a3e62ea05f0abc096a11b00a79d7513c3625d3bcfcd05eafd4ded6544b1bc"
-    },
-    {
-      "title": "アイシン、熊本の工場で順次生産再開　近藤副社長「10年前の対策生きる」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/",
-      "pubDate": "2026-07-31T11:30:00.000Z",
+      "title": "天井吹き込み用のグラスウール断熱材",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01045/",
+      "pubDate": "2026-08-02T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 0,
-      "contentSnippet": "アイシン子会社のアイシン九州（熊本市）は、2026年7月28日に発生した「令和8年熊本地震」の影響で稼働を停止していた工場のラインの一部を試験的に稼働し始めた。品質や安全性に問題がなければ順次生産を再開する。10年前の熊本県の地震で被災した経験を生かし、迅速な再開を目指す。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/",
-      "fingerprint": "ae13550bfebe93367c0c52c83869c5a824ff04d1953cc0849e3bf3add572dd72"
-    },
-    {
-      "title": "ファミマ小谷社長、地震発生翌日に熊本で陣頭指揮　水・運転手不足に緊急対応",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100030/",
-      "pubDate": "2026-07-31T10:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "熊本地震の発災翌日、ファミリーマートの小谷建夫社長は被災地に入り、滞った商品供給の立て直しを陣頭指揮した。「自ら現場に入り、解を導く。それが私の経営だ」。社員も被災店舗へ派遣。熊本で経営者の危機対応を追った。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100030/",
-      "fingerprint": "6d47404b9832fc0f9e50fb1312d52d7181ba0ae50ca3559e08085b7712a50d25"
-    },
-    {
-      "title": "爆発事故発生の「イオンモール熊本」　ドローンが映した衝撃の大きさ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100027/",
-      "pubDate": "2026-07-31T09:45:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "熊本県で最大震度7を観測した地震後、爆発が発生した熊本県嘉島町のイオンモール熊本。テラドローンは要請を受けてドローンで撮影した内部の状況を31日、公開した。天井が崩れ落ちた様子などが確認でき、被害の大きさが改めて明らかとなった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100027/",
-      "fingerprint": "8507f77e9a1c3e679c0306105bdc27e4e1ff9b0c9effdb926c07e8b12e87c1a0"
+      "contentSnippet": "マグ・イゾベールは、天井吹き込み用のグラスウール断熱材「マグブローX（エックス）」を2026年6月に発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01045/",
+      "fingerprint": "c3884dd952c2463999150ba28a66177209d6a521a5fbadd465730abbef842e72"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価（KSB瀬戸内海放送） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6emFOdVBfY0pCSS1fUWl0cXVFM2RORHl4Z3lPWHcwWlZpTnVKcmRpMXBKVmJhT0NlS05tVDlEaGNtLWlOZWI0R25FMXFHb2N3ODFHSmFsUHJ6NTc1MS1Lam14WVlKRXpnY3dDcGtZMGZ3RUtOdVZVZGhOMUZ6c3M?oc=5",
-        "pubDate": "Sat, 01 Aug 2026 06:02:44 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4070077476000002,
-        "contentSnippet": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価（KSB瀬戸内海放送）  Yahoo!ニュース",
-        "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6emFOdVBfY0pCSS1fUWl0cXVFM2RORHl4Z3lPWHcwWlZpTnVKcmRpMXBKVmJhT0NlS05tVDlEaGNtLWlOZWI0R25FMXFHb2N3ODFHSmFsUHJ6NTc1MS1Lam14WVlKRXpnY3dDcGtZMGZ3RUtOdVZVZGhOMUZ6c3M?oc=5",
-        "fingerprint": "f342d2ecbf9b5bcc795a689feb2568474b55ceb4da03aee6d4ae3a924cd58e01"
+        "title": "富岡市庁舎の軒裏腐食、修繕費は隈事務所が全額負担　不燃薬剤で塗料溶解",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/",
+        "pubDate": "2026-08-02T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "軒裏に雨染みが生じた群馬県富岡市の市庁舎で、本格的な修繕工事が始まった。工事費用は、設計者の隈研吾建築都市設計事務所が全額負担する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/",
+        "fingerprint": "11dbeee12159a9521b7c3ed5ecfc75b2d3a121fac4434e35f394a047db7ff949"
       },
-      "xDraft": "【本文】\n香川県の「あなぶきアリーナ香川」が、日本建設業連合会が主催する第65回BCS賞に入選しました。「公園のようなアリーナ」という、周辺環境と一体化した設計思想が高い評価を受けています。\nBCS賞はデザイン性だけでなく、施工の質や維持管理、地域社会への貢献を総合的に評価する非常に名誉ある賞です。瀬戸内の景観を活かしたこの場所が、これから地域の新たな顔としてどう育っていくのか、僕もとても楽しみです。\n\n出典：KSB瀬戸内海放送\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTFB6emFOdVBfY0pCSS1fUWl0cXVFM2RORHl4Z3lPWHcwWlZpTnVKcmRpMXBKVmJhT0NlS05tVDlEaGNtLWlOZWI0R25FMXFHb2N3ODFHSmFsUHJ6NTc1MS1Lam14WVlKRXpnY3dDcGtZMGZ3RUtOdVZVZGhOMUZ6c3M?oc=5\n\n【抜粋元】\nKSB瀬戸内海放送の記事から、あなぶきアリーナ香川がBCS賞に入選し「公園のようなアリーナ」と評された事実、およびその背景にある設計の評価点を踏まえて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n群馬県富岡市の市庁舎で軒裏に雨染みが生じ、本格的な修繕工事が始まりました。その工事費用は、設計者の隈研吾建築都市設計事務所が全額負担するとのことです。\n\n設計者の責任の重さを改めて感じるニュースですね。見出しには不燃薬剤が原因とありますが、材料の選定や組み合わせ一つでこうした問題に繋がりかねません。建築における初期段階での検証がいかに大切か、考えさせられます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/\n\n【抜粋元】\n日経クロステック 建築・住宅に掲載された『富岡市庁舎の軒裏腐食、修繕費は隈事務所が全額負担　不燃薬剤で塗料溶解』の記事から、富岡市庁舎の軒裏修繕工事が開始され、その費用を設計者の隈研吾建築都市設計事務所が全額負担するという点を抜粋しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
+      "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "KSB瀬戸内海放送の記事から、あなぶきアリーナ香川がBCS賞に入選し「公園のようなアリーナ」と評された事実、およびその背景にある設計の評価点を踏まえて作成しました。",
+      "xDraftExcerptSummary": "日経クロステック 建築・住宅に掲載された『富岡市庁舎の軒裏腐食、修繕費は隈事務所が全額負担　不燃薬剤で塗料溶解』の記事から、富岡市庁舎の軒裏修繕工事が開始され、その費用を設計者の隈研吾建築都市設計事務所が全額負担するという点を抜粋しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価 - au Webポータル",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96ZjBRNU54ek0yTFhnV3BhTXlYVVQwemNGb3F0bGhIY0RZU2tiaHR5ODdjLTNwVE9xYl9lUlVwMDcxS0VzeDV1S2d5dTVMT0ZkcnoxU1NoRF9adVBGcmdxWnZmX0stUUlGa3hYVWRJNkV6Mzd3eUJsWlM2MA?oc=5",
-        "pubDate": "Sat, 01 Aug 2026 06:02:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.407007708,
-        "contentSnippet": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価  au Webポータル",
-        "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96ZjBRNU54ek0yTFhnV3BhTXlYVVQwemNGb3F0bGhIY0RZU2tiaHR5ODdjLTNwVE9xYl9lUlVwMDcxS0VzeDV1S2d5dTVMT0ZkcnoxU1NoRF9adVBGcmdxWnZmX0stUUlGa3hYVWRJNkV6Mzd3eUJsWlM2MA?oc=5",
-        "fingerprint": "c7a20d010cc3ad63a3f8d686bdf7147fbd81addb350450e5d0bf7fcca3b578fb"
-      },
-      "xDraft": "【本文】\n香川県高松市で整備が進む「あなぶきアリーナ香川」が、第65回BCS賞に入選したそうです。日本建設業連合会が主催するこの賞において、周囲と調和する「公園のようなアリーナ」というコンセプトが評価されました。\n\n建築主、設計者、施工者の三者が一体となって良質な建築を追求するBCS賞の理念は、僕も深く共感するところです。こうした優れた公共建築が、地域の風景をより豊かにしてくれるのは嬉しいことですね。\n\n出典：au Webポータル\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE96ZjBRNU54ek0yTFhnV3BhTXlYVVQwemNGb3F0bGhIY0RZU2tiaHR5ODdjLTNwVE9xYl9lUlVwMDcxS0VzeDV1S2d5dTVMT0ZkcnoxU1NoRF9adVBGcmdxWnZmX0stUUlGa3hYVWRJNkV6Mzd3eUJsWlM2MA?oc=5\n\n【抜粋元】\nあなぶきアリーナ香川が日本建設業連合会のBCS賞に入選したというニュースに基づいています。「公園のようなアリーナ」という具体的な評価点に触れつつ、業界への敬意を込めて構成しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "あなぶきアリーナ香川が日本建設業連合会のBCS賞に入選したというニュースに基づいています。「公園のようなアリーナ」という具体的な評価点に触れつつ、業界への敬意を込めて構成しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "アイシン、熊本の工場で順次生産再開　近藤副社長「10年前の対策生きる」",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/",
-        "pubDate": "2026-07-31T11:30:00.000Z",
+        "title": "1位は「36度の急斜面を“直滑降”で生コン運搬、清水建設JVがダム堤体打設を高速化」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
+        "pubDate": "2026-08-02T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 0,
-        "contentSnippet": "アイシン子会社のアイシン九州（熊本市）は、2026年7月28日に発生した「令和8年熊本地震」の影響で稼働を停止していた工場のラインの一部を試験的に稼働し始めた。品質や安全性に問題がなければ順次生産を再開する。10年前の熊本県の地震で被災した経験を生かし、迅速な再開を目指す。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/",
-        "fingerprint": "ae13550bfebe93367c0c52c83869c5a824ff04d1953cc0849e3bf3add572dd72"
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月3～9日に読まれた記事の1～10位を26年8月3～9日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
+        "fingerprint": "ea4b4e6f793f9b595439d529a219d5266da89eed1ed3f7514b65341b348a1e23"
       },
-      "xDraft": "【本文】\nアイシン九州が、令和8年熊本地震の影響で停止していた工場ラインの試験稼働を開始しました。10年前の熊本地震での被災経験を活かした対策が、今回の迅速な復旧に結びついているそうです。\n\n過去の教訓を風化させず、具体的なBCP対策として現場に根付かせてきた姿勢に、ものづくりを支える人たちの強い意志を感じます。有事の際、いかに早く「動く」ための準備ができているかが、産業のレジリエンスそのものですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/073100029/\n\n【抜粋元】\n令和8年熊本地震により稼働停止したアイシン九州の工場が、10年前の震災の経験を活かして試験稼働を始めたという事実に基づき、現場の対策と復旧への姿勢に注目して執筆しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n清水建設JVが、ダムの堤体打設を高速化するために36度の急斜面を「直滑降」で生コンを運搬する手法を採用したそうです。地形の制約を逆手に取り、運搬時間を短縮する非常にダイナミックな試みですね。\nダム建設において打設のスピードは工期に直結する重要な要素ですが、こうした現場の知恵が効率化を支えていることに驚かされます。品質を維持しながら高速化に挑む技術者の皆さんの執念に、深い敬意を抱きます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/\n\n【抜粋元】\n日経クロステック土木の週間ランキング1位の記事から、清水建設JVがダム堤体打設を高速化するために導入した「36度の急斜面を直滑降で生コン運搬する」という技術的特徴を抽出して執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "令和8年熊本地震により稼働停止したアイシン九州の工場が、10年前の震災の経験を活かして試験稼働を始めたという事実に基づき、現場の対策と復旧への姿勢に注目して執筆しました。",
+      "xDraftExcerptSummary": "日経クロステック土木の週間ランキング1位の記事から、清水建設JVがダム堤体打設を高速化するために導入した「36度の急斜面を直滑降で生コン運搬する」という技術的特徴を抽出して執筆しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "大阪の路面陥没は人為ミス、事故の掘削機は地中に埋めてトンネル掘り直し",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02726/",
+        "pubDate": "2026-08-02T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "大阪市淀川区東三国で2023年12月に起こった路面の陥没事故は、地下で進めていたトンネル工事の人為的なミスが主な原因だったことが分かった。施工者の真柄建設・松村組JV（共同企業体）が本来と異なる方法で掘削機を操作したため、陥没原因となった機内への土砂流入を招いた。市は当初の位置での掘削継続を断念。直径2mを超える掘削機は地中に埋め、たて坑とトンネルを新たに掘り直す。26年8月17日に工事を再開する予定だ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02726/",
+        "fingerprint": "1eb612cd4ce170241fbe35c62cdc447d0ed2602931121651a74d895fa867c108"
+      },
+      "xDraft": "【本文】\n2023年12月に大阪市淀川区で起きた路面陥没は、施工JVによる掘削機の操作ミスが原因だったことが分かりました。機内への土砂流入により元の位置での継続を断念し、直径2m超の機体は地中に埋めてトンネルを掘り直すとのこと。再開は2026年8月17日の予定です。\n\n掘削機を回収せず埋没させてルートを変えるという判断に、事故の規模と現場の苦渋の決断が滲みます。都市部の地下工事がいかに繊細で、手順の遵守が安全の要であることを改めて考えさせられる事例ですね。再開後の無事な竣工を願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02726/\n\n【抜粋元】\n大阪市淀川区で発生した陥没事故の原因が人為ミスであった事実と、掘削機を埋設して工事をやり直すという異例の事後対応、および今後の再開スケジュールについてまとめた記事です。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "大阪市淀川区で発生した陥没事故の原因が人為ミスであった事実と、掘削機を埋設して工事をやり直すという異例の事後対応、および今後の再開スケジュールについてまとめた記事です。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価（KSB瀬戸内海放送） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6emFOdVBfY0pCSS1fUWl0cXVFM2RORHl4Z3lPWHcwWlZpTnVKcmRpMXBKVmJhT0NlS05tVDlEaGNtLWlOZWI0R25FMXFHb2N3ODFHSmFsUHJ6NTc1MS1Lam14WVlKRXpnY3dDcGtZMGZ3RUtOdVZVZGhOMUZ6c3M?oc=5",
-    "pubDate": "Sat, 01 Aug 2026 06:02:44 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 3.4070077476000002,
-    "contentSnippet": "あなぶきアリーナ香川 日本建設業連合会のBCS賞に入選 「公園のようなアリーナ」と評価（KSB瀬戸内海放送）  Yahoo!ニュース",
-    "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6emFOdVBfY0pCSS1fUWl0cXVFM2RORHl4Z3lPWHcwWlZpTnVKcmRpMXBKVmJhT0NlS05tVDlEaGNtLWlOZWI0R25FMXFHb2N3ODFHSmFsUHJ6NTc1MS1Lam14WVlKRXpnY3dDcGtZMGZ3RUtOdVZVZGhOMUZ6c3M?oc=5",
-    "fingerprint": "f342d2ecbf9b5bcc795a689feb2568474b55ceb4da03aee6d4ae3a924cd58e01"
+    "title": "富岡市庁舎の軒裏腐食、修繕費は隈事務所が全額負担　不燃薬剤で塗料溶解",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/",
+    "pubDate": "2026-08-02T20:00:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 4,
+    "contentSnippet": "軒裏に雨染みが生じた群馬県富岡市の市庁舎で、本格的な修繕工事が始まった。工事費用は、設計者の隈研吾建築都市設計事務所が全額負担する。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/",
+    "fingerprint": "11dbeee12159a9521b7c3ed5ecfc75b2d3a121fac4434e35f394a047db7ff949"
   },
-  "xDraft": "【本文】\n香川県の「あなぶきアリーナ香川」が、日本建設業連合会が主催する第65回BCS賞に入選しました。「公園のようなアリーナ」という、周辺環境と一体化した設計思想が高い評価を受けています。\nBCS賞はデザイン性だけでなく、施工の質や維持管理、地域社会への貢献を総合的に評価する非常に名誉ある賞です。瀬戸内の景観を活かしたこの場所が、これから地域の新たな顔としてどう育っていくのか、僕もとても楽しみです。\n\n出典：KSB瀬戸内海放送\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTFB6emFOdVBfY0pCSS1fUWl0cXVFM2RORHl4Z3lPWHcwWlZpTnVKcmRpMXBKVmJhT0NlS05tVDlEaGNtLWlOZWI0R25FMXFHb2N3ODFHSmFsUHJ6NTc1MS1Lam14WVlKRXpnY3dDcGtZMGZ3RUtOdVZVZGhOMUZ6c3M?oc=5\n\n【抜粋元】\nKSB瀬戸内海放送の記事から、あなぶきアリーナ香川がBCS賞に入選し「公園のようなアリーナ」と評された事実、およびその背景にある設計の評価点を踏まえて作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n群馬県富岡市の市庁舎で軒裏に雨染みが生じ、本格的な修繕工事が始まりました。その工事費用は、設計者の隈研吾建築都市設計事務所が全額負担するとのことです。\n\n設計者の責任の重さを改めて感じるニュースですね。見出しには不燃薬剤が原因とありますが、材料の選定や組み合わせ一つでこうした問題に繋がりかねません。建築における初期段階での検証がいかに大切か、考えさせられます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/\n\n【抜粋元】\n日経クロステック 建築・住宅に掲載された『富岡市庁舎の軒裏腐食、修繕費は隈事務所が全額負担　不燃薬剤で塗料溶解』の記事から、富岡市庁舎の軒裏修繕工事が開始され、その費用を設計者の隈研吾建築都市設計事務所が全額負担するという点を抜粋しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
+  "xDraftModel": "models/gemini-2.5-flash",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "KSB瀬戸内海放送の記事から、あなぶきアリーナ香川がBCS賞に入選し「公園のようなアリーナ」と評された事実、およびその背景にある設計の評価点を踏まえて作成しました。",
+  "xDraftExcerptSummary": "日経クロステック 建築・住宅に掲載された『富岡市庁舎の軒裏腐食、修繕費は隈事務所が全額負担　不燃薬剤で塗料溶解』の記事から、富岡市庁舎の軒裏修繕工事が開始され、その費用を設計者の隈研吾建築都市設計事務所が全額負担するという点を抜粋しました。",
   "xDraftAlternates": [],
   "errors": []
 }
