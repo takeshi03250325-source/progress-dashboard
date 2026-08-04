@@ -1,50 +1,30 @@
 {
-  "generatedAt": "2026-08-03T22:33:43.353Z",
+  "generatedAt": "2026-08-04T22:35:16.805Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 4,
+  "skippedDuplicates": 1,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "富岡市庁舎の軒裏腐食、修繕費は隈事務所が全額負担　不燃薬剤で塗料溶解",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/",
-      "pubDate": "2026-08-02T20:00:00.000Z",
+      "title": "建築士法改正、資格の早期取得を後押し　1級・2級受験の要件緩和",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/",
+      "pubDate": "2026-08-04T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 4,
-      "contentSnippet": "軒裏に雨染みが生じた群馬県富岡市の市庁舎で、本格的な修繕工事が始まった。工事費用は、設計者の隈研吾建築都市設計事務所が全額負担する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02892/",
-      "fingerprint": "11dbeee12159a9521b7c3ed5ecfc75b2d3a121fac4434e35f394a047db7ff949"
+      "contentSnippet": "建築士の受験要件の緩和を盛り込んだ改正建築士法が成立した。大学在学中に1級建築士試験を受験できるようになる。建築士の高齢化を背景に、受験機会を拡大して建築設計や工事監理などの担い手の確保につなげる。公布から3年以内に施行する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/",
+      "fingerprint": "e473440195e32fab7413e5ea75bb0a333882a587d237a7578a14deba724641f8"
     },
     {
-      "title": "1位は「36度の急斜面を“直滑降”で生コン運搬、清水建設JVがダム堤体打設を高速化」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
-      "pubDate": "2026-08-02T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月3～9日に読まれた記事の1～10位を26年8月3～9日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
-      "fingerprint": "ea4b4e6f793f9b595439d529a219d5266da89eed1ed3f7514b65341b348a1e23"
-    },
-    {
-      "title": "大阪の路面陥没は人為ミス、事故の掘削機は地中に埋めてトンネル掘り直し",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02726/",
-      "pubDate": "2026-08-02T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "大阪市淀川区東三国で2023年12月に起こった路面の陥没事故は、地下で進めていたトンネル工事の人為的なミスが主な原因だったことが分かった。施工者の真柄建設・松村組JV（共同企業体）が本来と異なる方法で掘削機を操作したため、陥没原因となった機内への土砂流入を招いた。市は当初の位置での掘削継続を断念。直径2mを超える掘削機は地中に埋め、たて坑とトンネルを新たに掘り直す。26年8月17日に工事を再開する予定だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02726/",
-      "fingerprint": "1eb612cd4ce170241fbe35c62cdc447d0ed2602931121651a74d895fa867c108"
-    },
-    {
-      "title": "1位は「36度の急斜面を“直滑降”で生コン運搬、清水建設JVがダム堤体打設を高速化」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
-      "pubDate": "2026-08-02T20:00:00.000Z",
+      "title": "マンション修繕工事談合疑惑　東海に波及、コンサルなど20社超に立ち入り",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02897/",
+      "pubDate": "2026-08-04T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月3～9日に読まれた記事の1～10位を26年8月3～9日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300376/",
-      "fingerprint": "ea4b4e6f793f9b595439d529a219d5266da89eed1ed3f7514b65341b348a1e23"
+      "contentSnippet": "独占禁止法違反の疑いで公正取引委員会が進める分譲マンションの大規模修繕工事の調査が、関東地方から東海地方にも広がった。公取委は2026年7月28日、愛知県と岐阜県、三重県で実施された工事について、談合の疑いがあるとして、20社超の関係会社に立ち入り検査を実施した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02897/",
+      "fingerprint": "1aed6f955a20410d701c0bca470e9862244de495fcecbdee38f8111099722f9b"
     },
     {
       "title": "新日本建設、株主優待を拡充して、配当＋優待利回り＝5％超に！ 従来の｢リフォーム代金3％割引｣などに加え、300株で｢QUOカード｣1万円分がもらえることに - ダイヤモンド・オンライン",
@@ -55,6 +35,26 @@
       "contentSnippet": "新日本建設、株主優待を拡充して、配当＋優待利回り＝5％超に！ 従来の｢リフォーム代金3％割引｣などに加え、300株で｢QUOカード｣1万円分がもらえることに  ダイヤモンド・オンライン",
       "urlNorm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTWt2WjZ4Uk9DanRpRjRFTHVrUnBmVUMtTEpzbWtmaWVBdmxyY0d0TVJ0LVlHWkFudlNtcHhfWV9rRnVTSGFobFhHNzFkUnVIdUtj?oc=5",
       "fingerprint": "bcb36ae80f33ee1a5e8b227f5a98e7131a649c44cb701deb9cbacc2a241c4e59"
+    },
+    {
+      "title": "橋桁ずれて路面に1.5mの段差、写真で追う南九州道の高架橋被害　熊本地震",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/",
+      "pubDate": "2026-08-04T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "熊本地震で橋桁が上下にずれた南九州自動車道の「妙見第一橋」。橋桁のずれによって路面には約1.5mの段差が生じた。損傷箇所の足元には「日奈久断層」が分布しており、耐震設計の専門家などは橋梁被害と断層運動の関連を指摘する。現地で撮影した写真から、橋桁や橋脚の損傷状況と周辺に広がる地盤変状を追う。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/",
+      "fingerprint": "f953ef09d60e46ac3ff611667b113146eebbfca3da72a15c8a7775907ce6e475"
+    },
+    {
+      "title": "熊本地震の教訓、防災庁設置でも解決できない「つぎはぎ」の危機管理",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400037/",
+      "pubDate": "2026-08-04T10:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "熊本地震の教訓。災害だけに焦点を充てた対策では不十分だ。戦争を含むすべての危機を対象にする必要がある。さらに、危機発生後の対策に加えて、発生前の平時から情報を収集・分析するインテリジェンス体制が求められる。今の日本にできているか。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400037/",
+      "fingerprint": "807eaba990fd7ed77b5cdef221e3e09867f56f491bdf9fe5303c04ee20796b9d"
     },
     {
       "title": "Q．山奥で稼動する無人建機、50km離れた本社から遠隔操作しているのは誰？",
@@ -85,6 +85,36 @@
       "contentSnippet": "最大震度7を観測した熊本県宇城市では、多数の建物被害が発生した。熊本南病院では、鉄筋コンクリート（RC）柱や外壁が激しく損傷。内部では機器や建材が散乱し、停電や断水にも見舞われた。現地や職員を取材し、深刻な被害の実態に迫った。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080100031/",
       "fingerprint": "7f09a6663c64b931bdd0981542b6968308acb5d4df0f3b45b81b5a6e1e465c57"
+    },
+    {
+      "title": "微細な泡で汚れを流して入浴介助の負担を減らせる浴槽",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01051/",
+      "pubDate": "2026-08-04T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "積水ホームテクノは、微細な泡で汚れを洗い流し、入浴介助の負担を軽減する介護施設向けの浴槽「wells マイクロバブル浴槽」の販売を2026年7月に開始した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01051/",
+      "fingerprint": "3a6c707d28610ecb1b2b94344c98d0dc6f1730e60d7ca459d802841f57e1b8ec"
+    },
+    {
+      "title": "橋桁ずれて路面に1.5mの段差、写真で追う南九州道の高架橋被害　熊本地震",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/",
+      "pubDate": "2026-08-04T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "熊本地震で橋桁が上下にずれた南九州自動車道の「妙見第一橋」。橋桁のずれによって路面には約1.5mの段差が生じた。損傷箇所の足元には「日奈久断層」が分布しており、耐震設計の専門家などは橋梁被害と断層運動の関連を指摘する。現地で撮影した写真から、橋桁や橋脚の損傷状況と周辺に広がる地盤変状を追う。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/",
+      "fingerprint": "f953ef09d60e46ac3ff611667b113146eebbfca3da72a15c8a7775907ce6e475"
+    },
+    {
+      "title": "熊本地震の教訓、防災庁設置でも解決できない「つぎはぎ」の危機管理",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400037/",
+      "pubDate": "2026-08-04T10:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "熊本地震の教訓。災害だけに焦点を充てた対策では不十分だ。戦争を含むすべての危機を対象にする必要がある。さらに、危機発生後の対策に加えて、発生前の平時から情報を収集・分析するインテリジェンス体制が求められる。今の日本にできているか。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400037/",
+      "fingerprint": "807eaba990fd7ed77b5cdef221e3e09867f56f491bdf9fe5303c04ee20796b9d"
     },
     {
       "title": "太陽光パネルをガラスの間に組み込んだ「発電する手すり」",
@@ -125,109 +155,79 @@
       "contentSnippet": "住宅などの被害が激しい集落と、橋桁がずれ落ちるなど橋の損壊が激しい箇所は必ずしも一致していない。2026年熊本地震の被災地を縦断する幹線道路の国道3号沿いを見て回った印象だ。橋の損壊は、地震による揺れよりも、地表に現れた断層のずれ（変位）が引き起こした可能性が高い。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080100032/",
       "fingerprint": "e5d5a9341b3caa4708c885f8548924b720d8f86c4fb6a5c129b7bb1ad74485cf"
-    },
-    {
-      "title": "サンケイビルの木造混構造ビル「KiGi秋葉原」、熊谷組の木質技術を採用",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02893/",
-      "pubDate": "2026-08-03T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "サンケイビルが都市木造の開発に乗り出した。第1弾は、東京・秋葉原の神田川沿いに立つ9階建ての賃貸オフィスビル「KiGi AKIHABARA」だ。同社初の、木造と鉄骨造の混構造ビルになる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02893/",
-      "fingerprint": "66016fd9089e5118aacebe6b82f0952b58f9cc8cdc4835c90248063f3d575857"
-    },
-    {
-      "title": "「野戦病院」と化した熊本南病院　柱や外壁に多数の損傷、漏水も",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080100031/",
-      "pubDate": "2026-08-03T03:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "最大震度7を観測した熊本県宇城市では、多数の建物被害が発生した。熊本南病院では、鉄筋コンクリート（RC）柱や外壁が激しく損傷。内部では機器や建材が散乱し、停電や断水にも見舞われた。現地や職員を取材し、深刻な被害の実態に迫った。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080100031/",
-      "fingerprint": "7f09a6663c64b931bdd0981542b6968308acb5d4df0f3b45b81b5a6e1e465c57"
-    },
-    {
-      "title": "天井吹き込み用のグラスウール断熱材",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01045/",
-      "pubDate": "2026-08-02T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "マグ・イゾベールは、天井吹き込み用のグラスウール断熱材「マグブローX（エックス）」を2026年6月に発売した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01045/",
-      "fingerprint": "c3884dd952c2463999150ba28a66177209d6a521a5fbadd465730abbef842e72"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "新日本建設、株主優待を拡充して、配当＋優待利回り＝5％超に！ 従来の｢リフォーム代金3％割引｣などに加え、300株で｢QUOカード｣1万円分がもらえることに - ダイヤモンド・オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTWt2WjZ4Uk9DanRpRjRFTHVrUnBmVUMtTEpzbWtmaWVBdmxyY0d0TVJ0LVlHWkFudlNtcHhfWV9rRnVTSGFobFhHNzFkUnVIdUtj?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 12:23:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 1.607183802,
-        "contentSnippet": "新日本建設、株主優待を拡充して、配当＋優待利回り＝5％超に！ 従来の｢リフォーム代金3％割引｣などに加え、300株で｢QUOカード｣1万円分がもらえることに  ダイヤモンド・オンライン",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTWt2WjZ4Uk9DanRpRjRFTHVrUnBmVUMtTEpzbWtmaWVBdmxyY0d0TVJ0LVlHWkFudlNtcHhfWV9rRnVTSGFobFhHNzFkUnVIdUtj?oc=5",
-        "fingerprint": "bcb36ae80f33ee1a5e8b227f5a98e7131a649c44cb701deb9cbacc2a241c4e59"
+        "title": "建築士法改正、資格の早期取得を後押し　1級・2級受験の要件緩和",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/",
+        "pubDate": "2026-08-04T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "建築士の受験要件の緩和を盛り込んだ改正建築士法が成立した。大学在学中に1級建築士試験を受験できるようになる。建築士の高齢化を背景に、受験機会を拡大して建築設計や工事監理などの担い手の確保につなげる。公布から3年以内に施行する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/",
+        "fingerprint": "e473440195e32fab7413e5ea75bb0a333882a587d237a7578a14deba724641f8"
       },
-      "xDraft": "【本文】\n新日本建設が株主優待の拡充を発表しました。300株以上の保有で1万円分のQUOカードが新たに贈呈され、配当と合わせた利回りは5％を超える水準となります。\n同社は千葉を拠点に、建設と不動産開発を自社で一貫して手がける独自のビジネスモデルを持っています。建設業界全体で株主還元を強化する流れがありますが、この利回りの高さは市場でも存在感を示しそうです。地道な施工管理の積み重ねが、こうした形で投資家にも評価されるのは良いことですね。\n\n出典：ダイヤモンド・オンライン\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTWt2WjZ4Uk9DanRpRjRFTHVrUnBmVUMtTEpzbWtmaWVBdmxyY0d0TVJ0LVlHWkFudlNtcHhfWV9rRnVTSGFobFhHNzFkUnVIdUtj?oc=5\n\n【抜粋元】\nダイヤモンド・オンラインの記事から、新日本建設の株主優待拡充の内容と利回りの変化、特に300株保有時のQUOカード贈呈について要約しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n改正建築士法が成立し、大学在学中に1級建築士試験の受験が可能になります。建築士の高齢化が進むなかで、受験機会を早期に提供することで、建築設計や工事監理の担い手を確保する狙いがあります。公布から3年以内に施行される予定です。\n\nこれまでは卒業後の実務経験が必要でしたが、在学中から挑戦できるのは大きな変化ですね。知識が一番新鮮な時期に試験に臨めることで、若手の皆さんが自信を持って現場に出られるようになることを僕も期待しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事より、建築士法改正による受験要件の緩和、特に「大学在学中の1級受験」が可能になる点と、施行時期、制度改正の背景にある担い手不足について抜粋しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ダイヤモンド・オンラインの記事から、新日本建設の株主優待拡充の内容と利回りの変化、特に300株保有時のQUOカード贈呈について要約しました。",
+      "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事より、建築士法改正による受験要件の緩和、特に「大学在学中の1級受験」が可能になる点と、施行時期、制度改正の背景にある担い手不足について抜粋しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "Q．山奥で稼動する無人建機、50km離れた本社から遠隔操作しているのは誰？",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00647/072900158/",
-        "pubDate": "2026-08-03T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 0,
-        "contentSnippet": "宮崎空港から車を走らせること約3時間。森林の面積が94％を占める宮崎県椎葉村のなかでも奥深い場所に位置する不土野天包（ふどのあまつつみ）地区で、バックホーの遠隔操作やクローラーダンプの自律搬送を“普段使い”している建設現場がある。無人のバックホーは、直線距離で50km以上離れた日向市内から操作している。遠隔操作しているのはどんな社員か。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00647/072900158/",
-        "fingerprint": "445f7300809a43442de630051c012e398ea920fae988f1390a47d2555efdd4bb"
+        "title": "マンション修繕工事談合疑惑　東海に波及、コンサルなど20社超に立ち入り",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02897/",
+        "pubDate": "2026-08-04T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 2,
+        "contentSnippet": "独占禁止法違反の疑いで公正取引委員会が進める分譲マンションの大規模修繕工事の調査が、関東地方から東海地方にも広がった。公取委は2026年7月28日、愛知県と岐阜県、三重県で実施された工事について、談合の疑いがあるとして、20社超の関係会社に立ち入り検査を実施した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02897/",
+        "fingerprint": "1aed6f955a20410d701c0bca470e9862244de495fcecbdee38f8111099722f9b"
       },
-      "xDraft": "【本文】\n宮崎県椎葉村の深い山奥にある建設現場では、バックホーの遠隔操作やダンプの自律搬送が日常的に活用されています。操作拠点は現場から50km以上離れた日向市内にあり、物理的な距離を越えた施工が「普段使い」されているそうです。\n先端技術が特別なものではなく、現場を支える道具として溶け込んでいる姿に土木の進化を感じます。こうした環境でどんな方々が操作を担っているのか、担い手の多様化という面でも非常に興味深い事例ですね。現場の制約を技術で乗り越える挑戦に、僕は心からの敬意を表したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00647/072900158/\n\n【抜粋元】\n宮崎県椎葉村の不土野天包地区で行われている、50km離れた日向市内からのバックホー遠隔操作や、クローラーダンプの自律搬送という最新の施工事例に基づいています。\n\n【判定】OK",
+      "xDraft": "【本文】\n公正取引委員会が、分譲マンションの大規模修繕工事を巡る談合の疑いで、愛知県、岐阜県、三重県の20社超に立ち入り検査を行いました。関東地方で進められていた調査が東海地方にも波及した形です。\n\n修繕工事は居住者の皆さんが長年積み立ててきた大切な資産で賄われるものです。コンサルタントを含めた多岐にわたる企業が対象となっている点は、業界の信頼に関わる重い事実だと受け止めています。透明性のある健全な競争環境が守られることを切に願います。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02897/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事から、公取委によるマンション大規模修繕工事の談合調査が東海3県の20社超に拡大した事実と、コンサルタントも立ち入り対象に含まれている点を抽出しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "宮崎県椎葉村の不土野天包地区で行われている、50km離れた日向市内からのバックホー遠隔操作や、クローラーダンプの自律搬送という最新の施工事例に基づいています。",
+      "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事から、公取委によるマンション大規模修繕工事の談合調査が東海3県の20社超に拡大した事実と、コンサルタントも立ち入り対象に含まれている点を抽出しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "断層上の橋に被害集中、10年前の阿蘇大橋崩落との共通点",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080100032/",
-        "pubDate": "2026-08-03T20:00:00.000Z",
+        "title": "橋桁ずれて路面に1.5mの段差、写真で追う南九州道の高架橋被害　熊本地震",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/",
+        "pubDate": "2026-08-04T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 0,
-        "contentSnippet": "住宅などの被害が激しい集落と、橋桁がずれ落ちるなど橋の損壊が激しい箇所は必ずしも一致していない。2026年熊本地震の被災地を縦断する幹線道路の国道3号沿いを見て回った印象だ。橋の損壊は、地震による揺れよりも、地表に現れた断層のずれ（変位）が引き起こした可能性が高い。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080100032/",
-        "fingerprint": "e5d5a9341b3caa4708c885f8548924b720d8f86c4fb6a5c129b7bb1ad74485cf"
+        "contentSnippet": "熊本地震で橋桁が上下にずれた南九州自動車道の「妙見第一橋」。橋桁のずれによって路面には約1.5mの段差が生じた。損傷箇所の足元には「日奈久断層」が分布しており、耐震設計の専門家などは橋梁被害と断層運動の関連を指摘する。現地で撮影した写真から、橋桁や橋脚の損傷状況と周辺に広がる地盤変状を追う。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/",
+        "fingerprint": "f953ef09d60e46ac3ff611667b113146eebbfca3da72a15c8a7775907ce6e475"
       },
-      "xDraft": "【本文】\n2026年熊本地震の被災地における国道3号沿いの調査で、住宅被害の大きい集落と橋梁の損壊箇所が必ずしも一致しないことが分かりました。橋桁のずれなどの被害は揺れそのものよりも、地表に現れた断層のずれ（変位）が直接的な原因となった可能性が高いと分析されています。\n\n10年前の阿蘇大橋崩落との共通点も指摘されており、自然の力の大きさを改めて痛感します。構造物をどれだけ強固にしても、足元の地盤そのものが動く事象への対応は、土木技術における非常に難しい課題ですね。現場を歩いて得られた知見が、これからのインフラ設計や防災計画にどう活かされていくのか注視したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080100032/\n\n【抜粋元】\n国道3号沿いの橋梁損壊が揺れではなく断層の変位に起因する可能性が高いこと、および過去の阿蘇大橋の事例との共通点について報じた記事に基づき作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n熊本地震により甚大な被害を受けた南九州自動車道の妙見第一橋を、当時の写真で振り返る記事です。日奈久断層の真上に位置していたこの橋では、橋桁が上下にずれ、路面には1.5mもの段差が生じました。\n断層運動が構造物にこれほど直接的な影響を及ぼす事実に、自然の力の大きさを改めて実感します。こうした過酷な被災状況を克明に記録し、後世への知見として蓄積していくことは、これからの土木技術の進歩に欠かせないプロセスだと僕は思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/\n\n【抜粋元】\n日経クロステック 土木の記事から、南九州道・妙見第一橋における1.5mの段差発生、日奈久断層との関連、そして現地写真による損傷記録という点を整理して作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国道3号沿いの橋梁損壊が揺れではなく断層の変位に起因する可能性が高いこと、および過去の阿蘇大橋の事例との共通点について報じた記事に基づき作成しました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から、南九州道・妙見第一橋における1.5mの段差発生、日奈久断層との関連、そして現地写真による損傷記録という点を整理して作成しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "新日本建設、株主優待を拡充して、配当＋優待利回り＝5％超に！ 従来の｢リフォーム代金3％割引｣などに加え、300株で｢QUOカード｣1万円分がもらえることに - ダイヤモンド・オンライン",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTWt2WjZ4Uk9DanRpRjRFTHVrUnBmVUMtTEpzbWtmaWVBdmxyY0d0TVJ0LVlHWkFudlNtcHhfWV9rRnVTSGFobFhHNzFkUnVIdUtj?oc=5",
-    "pubDate": "Mon, 03 Aug 2026 12:23:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 1.607183802,
-    "contentSnippet": "新日本建設、株主優待を拡充して、配当＋優待利回り＝5％超に！ 従来の｢リフォーム代金3％割引｣などに加え、300株で｢QUOカード｣1万円分がもらえることに  ダイヤモンド・オンライン",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTWt2WjZ4Uk9DanRpRjRFTHVrUnBmVUMtTEpzbWtmaWVBdmxyY0d0TVJ0LVlHWkFudlNtcHhfWV9rRnVTSGFobFhHNzFkUnVIdUtj?oc=5",
-    "fingerprint": "bcb36ae80f33ee1a5e8b227f5a98e7131a649c44cb701deb9cbacc2a241c4e59"
+    "title": "建築士法改正、資格の早期取得を後押し　1級・2級受験の要件緩和",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/",
+    "pubDate": "2026-08-04T20:00:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 4,
+    "contentSnippet": "建築士の受験要件の緩和を盛り込んだ改正建築士法が成立した。大学在学中に1級建築士試験を受験できるようになる。建築士の高齢化を背景に、受験機会を拡大して建築設計や工事監理などの担い手の確保につなげる。公布から3年以内に施行する。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/",
+    "fingerprint": "e473440195e32fab7413e5ea75bb0a333882a587d237a7578a14deba724641f8"
   },
-  "xDraft": "【本文】\n新日本建設が株主優待の拡充を発表しました。300株以上の保有で1万円分のQUOカードが新たに贈呈され、配当と合わせた利回りは5％を超える水準となります。\n同社は千葉を拠点に、建設と不動産開発を自社で一貫して手がける独自のビジネスモデルを持っています。建設業界全体で株主還元を強化する流れがありますが、この利回りの高さは市場でも存在感を示しそうです。地道な施工管理の積み重ねが、こうした形で投資家にも評価されるのは良いことですね。\n\n出典：ダイヤモンド・オンライン\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTWt2WjZ4Uk9DanRpRjRFTHVrUnBmVUMtTEpzbWtmaWVBdmxyY0d0TVJ0LVlHWkFudlNtcHhfWV9rRnVTSGFobFhHNzFkUnVIdUtj?oc=5\n\n【抜粋元】\nダイヤモンド・オンラインの記事から、新日本建設の株主優待拡充の内容と利回りの変化、特に300株保有時のQUOカード贈呈について要約しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n改正建築士法が成立し、大学在学中に1級建築士試験の受験が可能になります。建築士の高齢化が進むなかで、受験機会を早期に提供することで、建築設計や工事監理の担い手を確保する狙いがあります。公布から3年以内に施行される予定です。\n\nこれまでは卒業後の実務経験が必要でしたが、在学中から挑戦できるのは大きな変化ですね。知識が一番新鮮な時期に試験に臨めることで、若手の皆さんが自信を持って現場に出られるようになることを僕も期待しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事より、建築士法改正による受験要件の緩和、特に「大学在学中の1級受験」が可能になる点と、施行時期、制度改正の背景にある担い手不足について抜粋しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "ダイヤモンド・オンラインの記事から、新日本建設の株主優待拡充の内容と利回りの変化、特に300株保有時のQUOカード贈呈について要約しました。",
+  "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事より、建築士法改正による受験要件の緩和、特に「大学在学中の1級受験」が可能になる点と、施行時期、制度改正の背景にある担い手不足について抜粋しました。",
   "xDraftAlternates": [],
   "errors": []
 }
