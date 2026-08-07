@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-07T01:03:32.604Z",
+  "generatedAt": "2026-08-07T22:04:28.079Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
+  "skippedDuplicates": 4,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
@@ -57,26 +57,6 @@
       "fingerprint": "0fe6dc9d612ad9a626ee5533be20260ff43ab73355c3a8842bd2dfe0d6df9b61"
     },
     {
-      "title": "史上初、不動産業界と建設業界が「協議会」設置 両団体トップに聞く - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSmhNLXM5eXVCRlJhcjFVbW5ZRGx4MW92Y2xxelhyYzVsYURwaGFvcmI1ZkV0cGMwMHZPclZoUDJzMmFCV3h6M3BlTzBCSnpuSVMtdWVNTWRMdjF3LWJyOU4yVDJrN1BLWDVFVQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4073640000000003,
-      "contentSnippet": "史上初、不動産業界と建設業界が「協議会」設置 両団体トップに聞く  日本経済新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSmhNLXM5eXVCRlJhcjFVbW5ZRGx4MW92Y2xxelhyYzVsYURwaGFvcmI1ZkV0cGMwMHZPclZoUDJzMmFCV3h6M3BlTzBCSnpuSVMtdWVNTWRMdjF3LWJyOU4yVDJrN1BLWDVFVQ?oc=5",
-      "fingerprint": "0e7402431d1c104249999400bfddb78cb98882c32acb8936d38f1d6e43c7b8df"
-    },
-    {
-      "title": "隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」 - 日経ビジネス電子版",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 08:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.40732512,
-      "contentSnippet": "隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」  日経ビジネス電子版",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5",
-      "fingerprint": "17a36c2dcc01923d22c3dc050cbc35974dd8b63ca45ac31738aea4079bf09c65"
-    },
-    {
       "title": "コンクリート1m3にCO2を最大110kg固定、大成建設などが公共工事で実証",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
       "pubDate": "2026-08-06T20:00:00.000Z",
@@ -95,26 +75,6 @@
       "contentSnippet": "2026年7月28日に発生した熊本地震による被害の全体像が、徐々に明らかとなってきた。熊本県は県内の住家被害を、26年8月5日時点で約1万4600棟、うち全壊は約700棟と推計。日本建築学会の災害委員会は、鉄筋コンクリート造の建物を中心とした構造被害などを報告している。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
       "fingerprint": "56d2b720f01b813fed9b35c1fc572029cdfa8254766d29e3ab3088796791fa35"
-    },
-    {
-      "title": "1位は「憧れの旅館『加賀屋』が公費解体の衝撃、新旅館に日本一のサービスが残ることを期待」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300427/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月3～9日に読まれた記事の1～10位を26年8月6～12日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300427/",
-      "fingerprint": "a68d96d5ee3e461f21d4388a6f19bd3cfc58a1fc87bd6fb2c692844623267a04"
-    },
-    {
-      "title": "カシューナッツの油で道路舗装、天然樹脂と混ぜてアスファルト100％代替",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02728/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日本道路は、カシューナッツの殻から採れる油と天然由来の樹脂粉末を用いて、原油から作る通常の「石油アスファルト」を100%代替する舗装技術を開発した。石油アスファルトを使用する場合と比較し、舗装工事で排出する二酸化炭素（CO2）の量を7割以上削減できる。アスファルト混合物に相当する舗装材は既存の工場で製造でき、施工方法も従来と変わらない。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02728/",
-      "fingerprint": "c83ef10c1b2ec26f0b60705dbdf0f257723c858e6f81175379f2aedc9acaa561"
     },
     {
       "title": "コンクリート1m3にCO2を最大110kg固定、大成建設などが公共工事で実証",
@@ -137,14 +97,14 @@
       "fingerprint": "56d2b720f01b813fed9b35c1fc572029cdfa8254766d29e3ab3088796791fa35"
     },
     {
-      "title": "1位は「憧れの旅館『加賀屋』が公費解体の衝撃、新旅館に日本一のサービスが残ることを期待」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300427/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月3～9日に読まれた記事の1～10位を26年8月6～12日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300427/",
-      "fingerprint": "a68d96d5ee3e461f21d4388a6f19bd3cfc58a1fc87bd6fb2c692844623267a04"
+      "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+      "pubDate": "2026-08-07T06:30:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+      "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
     },
     {
       "title": "「地震と闘う」熊本城、その歴史は江戸時代に遡る",
@@ -155,79 +115,119 @@
       "contentSnippet": "熊本城については2026年4月、日経クロステックのコラム「不撓不屈」で「熊本城復旧、2052年への難路」として取り上げたばかりだった。わずか約4カ月後、「難路」がより険しくなると報じることになろうとは。同城は26年7月28日に発生した熊本県を震源とする地震のため、建造物で8カ所、石垣で40カ所に上る被害を受けた。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/072602074/",
       "fingerprint": "bc0ad015121df4fc20dbde4481ea907e7b984bdef9605cffb2ccf46eb1c23a48"
+    },
+    {
+      "title": "福岡で「天神ビジネスセンターII」開業、外部空間を引き込む巨大吹き抜け",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02899/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "福岡市中央区天神1丁目で大型複合ビル「天神ビジネスセンターII」が2026年8月4日に開業した。地下2階から地上5階までの7層を貫く巨大な吹き抜け空間「アクセラリウム」を設け、公共性が高い垂直公園のような都市空間を建物の中に引き込んだのが特徴だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02899/",
+      "fingerprint": "34875c7c4686eb07d15f8d7073314ff4c2a392fc45836717563c3255a9b7200f"
+    },
+    {
+      "title": "日本製紙の折れた煙突が象徴　G7で最も老朽化した日本の製造基盤",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080600043/",
+      "pubDate": "2026-08-06T08:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日本製紙・八代工場で1970年建設の鉄筋コンクリート造煙突が倒壊し、9人が死亡した。専門家はかなり古い耐震設計基準で造られた可能性や、長周期の揺れによって大きく変形した可能性を指摘する。生産設備の平均使用年数がG7で最も長い日本に、老朽設備を使い続けるリスクを突き付けた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080600043/",
+      "fingerprint": "3edc4cde1010c4fc41ab2b4bdaad8045ce978eb4f115204f4e1883b31e69f30e"
+    },
+    {
+      "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+      "pubDate": "2026-08-07T06:30:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+      "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
+    },
+    {
+      "title": "福岡で「天神ビジネスセンターII」開業、外部空間を引き込む巨大吹き抜け",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02899/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "福岡市中央区天神1丁目で大型複合ビル「天神ビジネスセンターII」が2026年8月4日に開業した。地下2階から地上5階までの7層を貫く巨大な吹き抜け空間「アクセラリウム」を設け、公共性が高い垂直公園のような都市空間を建物の中に引き込んだのが特徴だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02899/",
+      "fingerprint": "34875c7c4686eb07d15f8d7073314ff4c2a392fc45836717563c3255a9b7200f"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-        "pubDate": "2026-08-06T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-        "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
+        "title": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善 - ニューズウィーク日本版",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
+        "pubDate": "Thu, 06 Aug 2026 09:17:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.407407038,
+        "contentSnippet": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善  ニューズウィーク日本版",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
+        "fingerprint": "0fe6dc9d612ad9a626ee5533be20260ff43ab73355c3a8842bd2dfe0d6df9b61"
       },
-      "xDraft": "【本文】\n「令和8年熊本地震」では、発生から1週間で38人の方が亡くなり、8000人超が避難所生活を余儀なくされていると、日経クロステック土木の記者が伝えています。地震発生翌日の現地で実感されたという「断層変位がインフラに打撃を与える恐ろしさ」は、土木に携わる僕にとって、改めてその脅威を深く認識させられる内容です。\n\n地盤が直接ずれる断層変位は、既存の土木構造物にとって極めて過酷な試練となります。強固に設計されたインフラが、この大地の力にどう向き合うか、そしていかに被害を軽減していくか。「土木構造物への対応なお課題」という見出しの通り、今後も技術的な挑戦が続く重要なテーマだと僕は考えています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/\n\n【抜粋元】\n日経クロステック 土木の「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事を参考にしました。令和8年熊本地震での断層変位によるインフラへの甚大な被害と、それに伴う土木構造物への対応の難しさに焦点を当てています。\n\n【判定】OK",
+      "xDraft": "【本文】\nイギリスの7月の建設業PMI（購買担当者景気指数）が44.7へと大幅に上昇しました。依然として景況判断の境目である50は下回っているものの、商業用不動産や住宅建設の分野で改善が見られたとのことです。\n\n金利高止まりの影響を受けやすい建設セクターにおいて、こうした回復の兆しが見えるのは心強いニュースですね。現地の現場の空気感がどのように変化していくのか、僕も注目しています。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5\n\n【抜粋元】\nニューズウィーク日本版の「英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善」という記事から、PMIの数値の変化と改善した具体的な部門（商業・住宅）を抽出し、石男くんとしての所感を加えて作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事を参考にしました。令和8年熊本地震での断層変位によるインフラへの甚大な被害と、それに伴う土木構造物への対応の難しさに焦点を当てています。",
+      "xDraftExcerptSummary": "ニューズウィーク日本版の「英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善」という記事から、PMIの数値の変化と改善した具体的な部門（商業・住宅）を抽出し、石男くんとしての所感を加えて作成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
+        "title": "コンクリート1m3にCO2を最大110kg固定、大成建設などが公共工事で実証",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
         "pubDate": "2026-08-06T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "熊本県内のインフラを再び襲った「令和8年熊本地震」は、横ずれ断層型の地震で、主に宇城・八代地域に被害が集中した。日奈久断層帯付近で複数の橋が損傷し、道路や鉄道が寸断された。日経クロステックは現地取材を基に、土木被害マップを作成した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
-        "fingerprint": "2d321295570dd0017c4ac4fc9aa02f28e032f4ef086a2fac73e271de201a865d"
+        "score": 2.4,
+        "contentSnippet": "住友大阪セメントと大成建設は、二酸化炭素（CO2）などを原料にした人工石灰石（炭酸カルシウム）をコンクリートに添加することで、コンクリート1m3当たり最大で約110kgのCO2を固定できることを確認した。国土交通省の直轄工事2現場で導入し、約3年間にわたる現地モニタリングと各種試験によって生産性や品質の面で実用性があると実証した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
+        "fingerprint": "ffab2a81f5ec3883cefcc011b13d74b22bc2c9a13ac9a3950a21497d4b90225f"
       },
-      "xDraft": "【本文】\n令和8年熊本地震の土木被害について、日経クロステックが現地取材を基に独自の被害マップを作成したそうです。横ずれ断層型だったこの地震では、宇城・八代地域を中心に日奈久断層帯付近で多くの橋が損傷し、道路や鉄道が寸断されるなど甚大な被害が確認されました。\n\n僕としては、こうした詳細な被害マップが災害の特性理解と、次なる災害への備えに大いに役立つと考えています。どのような構造物が、なぜ損傷したのか。その詳細を分析することで、これからのインフラ強靭化のヒントが得られるはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/\n\n【抜粋元】\n日経クロステックの「熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中」という記事から、令和8年熊本地震によるインフラ被害状況と、日経クロステックが作成した独自の被害マップに関する情報を抜粋しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n大成建設と住友大阪セメントが、人工石灰石を添加してコンクリート1m3あたり最大約110kgのCO2を固定する技術を実証しました。国交省の直轄工事で3年間のモニタリングを行い、生産性や品質でも実用性が確認されたそうです。\n\n研究室の成果に留まらず、実際の現場で長期的に安定性を示したことに、技術者の皆さんの執念を感じて僕も胸が熱くなります。低炭素なインフラが当たり前になる未来へ、着実に前進していますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/\n\n【抜粋元】\nコンクリート1m3あたり最大約110kgのCO2を固定する人工石灰石添加技術が、3年間の公共工事実証を経て実用性を証明したというニュースを抜粋。現場での品質確認を重視した内容にしました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックの「熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中」という記事から、令和8年熊本地震によるインフラ被害状況と、日経クロステックが作成した独自の被害マップに関する情報を抜粋しました。",
+      "xDraftExcerptSummary": "コンクリート1m3あたり最大約110kgのCO2を固定する人工石灰石添加技術が、3年間の公共工事実証を経て実用性を証明したというニュースを抜粋。現場での品質確認を重視した内容にしました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+        "title": "熊本地震で築古住宅が多数倒壊、層崩壊のRC建築も　専門家に聞く傾向",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
         "pubDate": "2026-08-06T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-        "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "2026年7月28日に発生した熊本地震による被害の全体像が、徐々に明らかとなってきた。熊本県は県内の住家被害を、26年8月5日時点で約1万4600棟、うち全壊は約700棟と推計。日本建築学会の災害委員会は、鉄筋コンクリート造の建物を中心とした構造被害などを報告している。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
+        "fingerprint": "56d2b720f01b813fed9b35c1fc572029cdfa8254766d29e3ab3088796791fa35"
       },
-      "xDraft": "【本文】\n令和8年熊本地震では、発生から1週間で38人が亡くなり、8000人以上が避難生活を送っているとのこと。現地に入った記者は、断層変位がインフラに甚大な打撃を与える恐ろしさを改めて実感したそうです。\n活断層による直接的な地盤変位は、既存の土木構造物にとって極めて大きな脅威です。過去の教訓から技術は進化していますが、このような大規模な断層変位に対して、構造物がどのように耐え、そして復旧していくか、業界全体でさらに深く考えるべき課題だと僕も思います。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/\n\n【抜粋元】\n日経クロステック 建築・住宅に掲載された、「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事の要約・抜粋を参照しました。令和8年熊本地震における断層変位によるインフラへの影響と、土木構造物への対応が課題である点について触れられています。\n\n【判定】OK",
+      "xDraft": "【本文】\n2026年7月28日に発生した熊本地震の被害状況が報告されています。8月5日時点の推計では、住家被害が約1万4600棟、全壊は約700棟に上ります。日本建築学会からは、RC造の層崩壊などの構造被害も指摘されています。\n\n築古住宅の倒壊に加え、RC造の建物に深刻な被害が出ている事実は重く受け止めるべきですね。被害の傾向を正しく把握し、既存建築物の耐震対策をどう進めていくか、僕も専門家の議論を注視したいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/\n\n【抜粋元】\n日経クロステックの記事から、2026年発生の熊本地震における具体的な住家被害数と、日本建築学会が報告したRC造の構造被害（層崩壊）に関する記述をまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 建築・住宅に掲載された、「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事の要約・抜粋を参照しました。令和8年熊本地震における断層変位によるインフラへの影響と、土木構造物への対応が課題である点について触れられています。",
+      "xDraftExcerptSummary": "日経クロステックの記事から、2026年発生の熊本地震における具体的な住家被害数と、日本建築学会が報告したRC造の構造被害（層崩壊）に関する記述をまとめました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-    "pubDate": "2026-08-06T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-    "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
+    "title": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善 - ニューズウィーク日本版",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
+    "pubDate": "Thu, 06 Aug 2026 09:17:00 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 3.407407038,
+    "contentSnippet": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善  ニューズウィーク日本版",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
+    "fingerprint": "0fe6dc9d612ad9a626ee5533be20260ff43ab73355c3a8842bd2dfe0d6df9b61"
   },
-  "xDraft": "【本文】\n「令和8年熊本地震」では、発生から1週間で38人の方が亡くなり、8000人超が避難所生活を余儀なくされていると、日経クロステック土木の記者が伝えています。地震発生翌日の現地で実感されたという「断層変位がインフラに打撃を与える恐ろしさ」は、土木に携わる僕にとって、改めてその脅威を深く認識させられる内容です。\n\n地盤が直接ずれる断層変位は、既存の土木構造物にとって極めて過酷な試練となります。強固に設計されたインフラが、この大地の力にどう向き合うか、そしていかに被害を軽減していくか。「土木構造物への対応なお課題」という見出しの通り、今後も技術的な挑戦が続く重要なテーマだと僕は考えています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/\n\n【抜粋元】\n日経クロステック 土木の「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事を参考にしました。令和8年熊本地震での断層変位によるインフラへの甚大な被害と、それに伴う土木構造物への対応の難しさに焦点を当てています。\n\n【判定】OK",
+  "xDraft": "【本文】\nイギリスの7月の建設業PMI（購買担当者景気指数）が44.7へと大幅に上昇しました。依然として景況判断の境目である50は下回っているものの、商業用不動産や住宅建設の分野で改善が見られたとのことです。\n\n金利高止まりの影響を受けやすい建設セクターにおいて、こうした回復の兆しが見えるのは心強いニュースですね。現地の現場の空気感がどのように変化していくのか、僕も注目しています。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5\n\n【抜粋元】\nニューズウィーク日本版の「英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善」という記事から、PMIの数値の変化と改善した具体的な部門（商業・住宅）を抽出し、石男くんとしての所感を加えて作成しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-2.5-flash",
+  "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経クロステック 土木の「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事を参考にしました。令和8年熊本地震での断層変位によるインフラへの甚大な被害と、それに伴う土木構造物への対応の難しさに焦点を当てています。",
+  "xDraftExcerptSummary": "ニューズウィーク日本版の「英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善」という記事から、PMIの数値の変化と改善した具体的な部門（商業・住宅）を抽出し、石男くんとしての所感を加えて作成しました。",
   "xDraftAlternates": [],
   "errors": []
 }
