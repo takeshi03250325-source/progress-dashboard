@@ -1,20 +1,70 @@
 {
-  "generatedAt": "2026-08-05T22:36:46.203Z",
+  "generatedAt": "2026-08-07T01:03:32.604Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
+  "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "建築士法改正、資格の早期取得を後押し　1級・2級受験の要件緩和",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/",
-      "pubDate": "2026-08-04T20:00:00.000Z",
+      "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+      "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
+    },
+    {
+      "title": "熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "熊本県内のインフラを再び襲った「令和8年熊本地震」は、横ずれ断層型の地震で、主に宇城・八代地域に被害が集中した。日奈久断層帯付近で複数の橋が損傷し、道路や鉄道が寸断された。日経クロステックは現地取材を基に、土木被害マップを作成した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
+      "fingerprint": "2d321295570dd0017c4ac4fc9aa02f28e032f4ef086a2fac73e271de201a865d"
+    },
+    {
+      "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 4,
-      "contentSnippet": "建築士の受験要件の緩和を盛り込んだ改正建築士法が成立した。大学在学中に1級建築士試験を受験できるようになる。建築士の高齢化を背景に、受験機会を拡大して建築設計や工事監理などの担い手の確保につなげる。公布から3年以内に施行する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02895/",
-      "fingerprint": "e473440195e32fab7413e5ea75bb0a333882a587d237a7578a14deba724641f8"
+      "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+      "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
+    },
+    {
+      "title": "熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "熊本県内のインフラを再び襲った「令和8年熊本地震」は、横ずれ断層型の地震で、主に宇城・八代地域に被害が集中した。日奈久断層帯付近で複数の橋が損傷し、道路や鉄道が寸断された。日経クロステックは現地取材を基に、土木被害マップを作成した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
+      "fingerprint": "2d321295570dd0017c4ac4fc9aa02f28e032f4ef086a2fac73e271de201a865d"
+    },
+    {
+      "title": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善 - ニューズウィーク日本版",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 09:17:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.407407038,
+      "contentSnippet": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善  ニューズウィーク日本版",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
+      "fingerprint": "0fe6dc9d612ad9a626ee5533be20260ff43ab73355c3a8842bd2dfe0d6df9b61"
+    },
+    {
+      "title": "史上初、不動産業界と建設業界が「協議会」設置 両団体トップに聞く - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSmhNLXM5eXVCRlJhcjFVbW5ZRGx4MW92Y2xxelhyYzVsYURwaGFvcmI1ZkV0cGMwMHZPclZoUDJzMmFCV3h6M3BlTzBCSnpuSVMtdWVNTWRMdjF3LWJyOU4yVDJrN1BLWDVFVQ?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 20:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4073640000000003,
+      "contentSnippet": "史上初、不動産業界と建設業界が「協議会」設置 両団体トップに聞く  日本経済新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSmhNLXM5eXVCRlJhcjFVbW5ZRGx4MW92Y2xxelhyYzVsYURwaGFvcmI1ZkV0cGMwMHZPclZoUDJzMmFCV3h6M3BlTzBCSnpuSVMtdWVNTWRMdjF3LWJyOU4yVDJrN1BLWDVFVQ?oc=5",
+      "fingerprint": "0e7402431d1c104249999400bfddb78cb98882c32acb8936d38f1d6e43c7b8df"
     },
     {
       "title": "隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」 - 日経ビジネス電子版",
@@ -25,6 +75,26 @@
       "contentSnippet": "隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」  日経ビジネス電子版",
       "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5",
       "fingerprint": "17a36c2dcc01923d22c3dc050cbc35974dd8b63ca45ac31738aea4079bf09c65"
+    },
+    {
+      "title": "コンクリート1m3にCO2を最大110kg固定、大成建設などが公共工事で実証",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "住友大阪セメントと大成建設は、二酸化炭素（CO2）などを原料にした人工石灰石（炭酸カルシウム）をコンクリートに添加することで、コンクリート1m3当たり最大で約110kgのCO2を固定できることを確認した。国土交通省の直轄工事2現場で導入し、約3年間にわたる現地モニタリングと各種試験によって生産性や品質の面で実用性があると実証した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
+      "fingerprint": "ffab2a81f5ec3883cefcc011b13d74b22bc2c9a13ac9a3950a21497d4b90225f"
+    },
+    {
+      "title": "熊本地震で築古住宅が多数倒壊、層崩壊のRC建築も　専門家に聞く傾向",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "2026年7月28日に発生した熊本地震による被害の全体像が、徐々に明らかとなってきた。熊本県は県内の住家被害を、26年8月5日時点で約1万4600棟、うち全壊は約700棟と推計。日本建築学会の災害委員会は、鉄筋コンクリート造の建物を中心とした構造被害などを報告している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
+      "fingerprint": "56d2b720f01b813fed9b35c1fc572029cdfa8254766d29e3ab3088796791fa35"
     },
     {
       "title": "1位は「憧れの旅館『加賀屋』が公費解体の衝撃、新旅館に日本一のサービスが残ることを期待」",
@@ -42,9 +112,29 @@
       "pubDate": "2026-08-05T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "日本道路は、カシューナッツの殻から採れる油と植物由来の樹脂粉末を用いて、原油から作る通常の「石油アスファルト」を100%代替する舗装技術を開発した。石油アスファルトを使用する場合と比較し、舗装工事で排出する二酸化炭素（CO2）の量を7割以上削減できる。アスファルト混合物に相当する舗装材は既存の工場で製造でき、施工方法も従来と変わらない。",
+      "contentSnippet": "日本道路は、カシューナッツの殻から採れる油と天然由来の樹脂粉末を用いて、原油から作る通常の「石油アスファルト」を100%代替する舗装技術を開発した。石油アスファルトを使用する場合と比較し、舗装工事で排出する二酸化炭素（CO2）の量を7割以上削減できる。アスファルト混合物に相当する舗装材は既存の工場で製造でき、施工方法も従来と変わらない。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02728/",
-      "fingerprint": "a7324d590222b3aa5a2dd8c734317030bf89f4b4757c78ad2be7181d05a35f50"
+      "fingerprint": "c83ef10c1b2ec26f0b60705dbdf0f257723c858e6f81175379f2aedc9acaa561"
+    },
+    {
+      "title": "コンクリート1m3にCO2を最大110kg固定、大成建設などが公共工事で実証",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "住友大阪セメントと大成建設は、二酸化炭素（CO2）などを原料にした人工石灰石（炭酸カルシウム）をコンクリートに添加することで、コンクリート1m3当たり最大で約110kgのCO2を固定できることを確認した。国土交通省の直轄工事2現場で導入し、約3年間にわたる現地モニタリングと各種試験によって生産性や品質の面で実用性があると実証した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
+      "fingerprint": "ffab2a81f5ec3883cefcc011b13d74b22bc2c9a13ac9a3950a21497d4b90225f"
+    },
+    {
+      "title": "熊本地震で築古住宅が多数倒壊、層崩壊のRC建築も　専門家に聞く傾向",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年7月28日に発生した熊本地震による被害の全体像が、徐々に明らかとなってきた。熊本県は県内の住家被害を、26年8月5日時点で約1万4600棟、うち全壊は約700棟と推計。日本建築学会の災害委員会は、鉄筋コンクリート造の建物を中心とした構造被害などを報告している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
+      "fingerprint": "56d2b720f01b813fed9b35c1fc572029cdfa8254766d29e3ab3088796791fa35"
     },
     {
       "title": "1位は「憧れの旅館『加賀屋』が公費解体の衝撃、新旅館に日本一のサービスが残ることを期待」",
@@ -57,177 +147,87 @@
       "fingerprint": "a68d96d5ee3e461f21d4388a6f19bd3cfc58a1fc87bd6fb2c692844623267a04"
     },
     {
-      "title": "マンション修繕工事談合疑惑　東海に波及、コンサルなど20社超に立ち入り",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02897/",
-      "pubDate": "2026-08-04T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "独占禁止法違反の疑いで公正取引委員会が進める分譲マンションの大規模修繕工事の調査が、関東地方から東海地方にも広がった。公取委は2026年7月28日、愛知県と岐阜県、三重県で実施された工事について、談合の疑いがあるとして、20社超の関係会社に立ち入り検査を実施した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02897/",
-      "fingerprint": "1aed6f955a20410d701c0bca470e9862244de495fcecbdee38f8111099722f9b"
-    },
-    {
-      "title": "爆発後「イオンモール熊本」をドローン撮影で記録、外壁が吹き飛び天井崩落",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400036/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
+      "title": "「地震と闘う」熊本城、その歴史は江戸時代に遡る",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/072602074/",
+      "pubDate": "2026-08-06T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 0,
-      "contentSnippet": "熊本県で最大震度7を観測した地震により、同県嘉島町内にある「イオンモール熊本」で大規模な爆発事故が発生した。ドローンシステムの開発を手掛けるブルーイノベーションは2026年7月31日、同施設の屋内外をドローンで撮影した映像を公開した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400036/",
-      "fingerprint": "7df647d1b3de2f5ef15eb201ea181eef0cfe06e6b75fc9243372186fade53838"
-    },
-    {
-      "title": "ずり落ちた妙見第一橋、復旧検討委員会を設置　九州道は8月後半通行再開へ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400038/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年7月28日に発生した熊本地震で被災した南九州自動車道の妙見第一橋について、西日本高速道路（NEXCO西日本）は復旧に関する検討委員会を設置し、26年8月6日午後、熊本県八代市内のホテルで初会合を開く。この橋に近接し、同様に橋が損壊した九州自動車道については8月後半に通行を再開する見通しを示した。政府は被災地の道路の復旧に予備費206億円の活用を閣議決定した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400038/",
-      "fingerprint": "4f1cc574ed0588f1ca3c1f6f31b0ed2f6b4912f60c6259c920661df74f6e84d8"
-    },
-    {
-      "title": "ソニーのHDD用レーザー、東日本大震災からの復活　勇気をくれた1枚の写真",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/080400034/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "今から約16年前。ソニーの半導体事業部は、熱アシスト磁気記録と呼ばれるハードディスクの新技術に向けた半導体レーザーの開発を2010年に始めた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/080400034/",
-      "fingerprint": "562628fec0f5fd9513450055a5768496868d4f1630b384aa7da24ffa1908459e"
-    },
-    {
-      "title": "積水化学とパナソニックの雨どい特許侵害訴訟、パナに製販差し止め仮処分",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02898/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "サイホン現象を利用して高い排水能力を実現する「雨どい」を巡る特許紛争で、東京地方裁判所は訴えを起こした積水化学工業の申し立てを認め、パナソニックハウジングソリューションズと建材会社のケイミューに仮処分を命じる決定を下した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02898/",
-      "fingerprint": "186dcf0d721836e606f69d184b510ad5ceae22012a44afa885ae8cae7cfbfe5b"
-    },
-    {
-      "title": "熊本大教授「震災復旧の壁は建設人材、半導体の後工程や装置に遅れも」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500041/",
-      "pubDate": "2026-08-05T08:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "熊本地震後、熊本大の鹿嶋教授は「TSMC誘致失敗論は時期尚早」と指摘。大手工場は早期復旧が見込まれる一方、一部の地場企業の操業再開は見通せず、建設人材の奪い合いが復旧を遅らせる恐れもある。集積の利点を残しつつ、重要な機能は分散すべきだと説く。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500041/",
-      "fingerprint": "bc350a45d2857b96b260ec7488654b00235d3c26ac2089e8152302f08edea259"
-    },
-    {
-      "title": "橋桁ずれて路面に1.5mの段差、写真で追う南九州道の高架橋被害　熊本地震",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/",
-      "pubDate": "2026-08-04T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "熊本地震で橋桁が上下にずれた南九州自動車道の「妙見第一橋」。橋桁のずれによって路面には約1.5mの段差が生じた。損傷箇所の足元には「日奈久断層」が分布しており、耐震設計の専門家などは橋梁被害と断層運動の関連を指摘する。現地で撮影した写真から、橋桁や橋脚の損傷状況と周辺に広がる地盤変状を追う。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080300033/",
-      "fingerprint": "f953ef09d60e46ac3ff611667b113146eebbfca3da72a15c8a7775907ce6e475"
-    },
-    {
-      "title": "熊本地震の教訓、防災庁設置でも解決できない「つぎはぎ」の危機管理",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400037/",
-      "pubDate": "2026-08-04T10:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "熊本地震の教訓。災害だけに焦点を充てた対策では不十分だ。戦争を含むすべての危機を対象にする必要がある。さらに、危機発生後の対策に加えて、発生前の平時から情報を収集・分析するインテリジェンス体制が求められる。今の日本にできているか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400037/",
-      "fingerprint": "807eaba990fd7ed77b5cdef221e3e09867f56f491bdf9fe5303c04ee20796b9d"
-    },
-    {
-      "title": "ずり落ちた妙見第一橋、復旧検討委員会を設置　九州道は8月後半通行再開へ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400038/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "2026年7月28日に発生した熊本地震で被災した南九州自動車道の妙見第一橋について、西日本高速道路（NEXCO西日本）は復旧に関する検討委員会を設置し、26年8月6日午後、熊本県八代市内のホテルで初会合を開く。この橋に近接し、同様に橋が損壊した九州自動車道については8月後半に通行を再開する見通しを示した。政府は被災地の道路の復旧に予備費206億円の活用を閣議決定した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400038/",
-      "fingerprint": "4f1cc574ed0588f1ca3c1f6f31b0ed2f6b4912f60c6259c920661df74f6e84d8"
-    },
-    {
-      "title": "「都市の魅力」評価で大阪が6年連続1位、森記念財団が全国都市の特性分析",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02896/",
-      "pubDate": "2026-08-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "森記念財団が運営する都市戦略研究所が、都市の魅力を経済性や住環境などの観点から多角的に調査・分析した「日本の都市特性評価」の2026年版を発表した。東京23区を除いた全国の主要な136都市の評価では、大阪市が6年連続で首位にランクインした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02896/",
-      "fingerprint": "6edc7356886d2268e6536c07780688abda0512a7921f97706c3535938c1685df"
+      "contentSnippet": "熊本城については2026年4月、日経クロステックのコラム「不撓不屈」で「熊本城復旧、2052年への難路」として取り上げたばかりだった。わずか約4カ月後、「難路」がより険しくなると報じることになろうとは。同城は26年7月28日に発生した熊本県を震源とする地震のため、建造物で8カ所、石垣で40カ所に上る被害を受けた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/072602074/",
+      "fingerprint": "bc0ad015121df4fc20dbde4481ea907e7b984bdef9605cffb2ccf46eb1c23a48"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」 - 日経ビジネス電子版",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5",
-        "pubDate": "Wed, 05 Aug 2026 08:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.40732512,
-        "contentSnippet": "隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」  日経ビジネス電子版",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5",
-        "fingerprint": "17a36c2dcc01923d22c3dc050cbc35974dd8b63ca45ac31738aea4079bf09c65"
+        "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+        "pubDate": "2026-08-06T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+        "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
       },
-      "xDraft": "【本文】\n建築家の隈研吾さんが、日経ビジネス電子版の記事で日本社会に根付く「建築ぎらい」について語られたそうです。建築への絶え間ないバッシングの根底に、この意識があると指摘されています。\n\n「建築ぎらい」という言葉は、建設業に携わる僕にとっても重く響きます。建物が単なる構造物ではなく、人々の生活や文化、そしてまちづくりに深く関わるものであることを、もっと社会全体に理解してもらう努力が必要だと感じます。僕たち建設産業が果たす役割の重要性を、改めて問い直すきっかけになる記事ですね。\n\n出典：日経ビジネス電子版\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5\n\n【抜粋元】\n日経ビジネス電子版の「隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」」という見出しの記事を参考に、隈研吾氏が指摘する「建築ぎらい」という日本の社会課題について、僕なりの意見を付け加えて投稿文を作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n「令和8年熊本地震」では、発生から1週間で38人の方が亡くなり、8000人超が避難所生活を余儀なくされていると、日経クロステック土木の記者が伝えています。地震発生翌日の現地で実感されたという「断層変位がインフラに打撃を与える恐ろしさ」は、土木に携わる僕にとって、改めてその脅威を深く認識させられる内容です。\n\n地盤が直接ずれる断層変位は、既存の土木構造物にとって極めて過酷な試練となります。強固に設計されたインフラが、この大地の力にどう向き合うか、そしていかに被害を軽減していくか。「土木構造物への対応なお課題」という見出しの通り、今後も技術的な挑戦が続く重要なテーマだと僕は考えています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/\n\n【抜粋元】\n日経クロステック 土木の「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事を参考にしました。令和8年熊本地震での断層変位によるインフラへの甚大な被害と、それに伴う土木構造物への対応の難しさに焦点を当てています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経ビジネス電子版の「隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」」という見出しの記事を参考に、隈研吾氏が指摘する「建築ぎらい」という日本の社会課題について、僕なりの意見を付け加えて投稿文を作成しました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事を参考にしました。令和8年熊本地震での断層変位によるインフラへの甚大な被害と、それに伴う土木構造物への対応の難しさに焦点を当てています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "1位は「憧れの旅館『加賀屋』が公費解体の衝撃、新旅館に日本一のサービスが残ることを期待」",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300427/",
-        "pubDate": "2026-08-05T20:00:00.000Z",
+        "title": "熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
+        "pubDate": "2026-08-06T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月3～9日に読まれた記事の1～10位を26年8月6～12日に無料で読めるようにしました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300427/",
-        "fingerprint": "a68d96d5ee3e461f21d4388a6f19bd3cfc58a1fc87bd6fb2c692844623267a04"
+        "score": 4.8,
+        "contentSnippet": "熊本県内のインフラを再び襲った「令和8年熊本地震」は、横ずれ断層型の地震で、主に宇城・八代地域に被害が集中した。日奈久断層帯付近で複数の橋が損傷し、道路や鉄道が寸断された。日経クロステックは現地取材を基に、土木被害マップを作成した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
+        "fingerprint": "2d321295570dd0017c4ac4fc9aa02f28e032f4ef086a2fac73e271de201a865d"
       },
-      "xDraft": "【本文】\n日経クロステックにて、過去に公開されたニュースのランキングが発表されています。2025年8月3日から9日に多く読まれた記事が、2026年8月6日から12日まで無料で読めるとのことです。\nそのランキングで1位だったのは、「憧れの旅館『加賀屋』が公費解体の衝撃、新旅館に日本一のサービスが残ることを期待」という見出しでした。僕も一度は訪れたいと憧れる名旅館が、公費で解体されるという事実に衝撃を受けました。新しい施設に生まれ変わっても、そこで育まれた日本トップクラスのサービスが受け継がれていくことを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00241/072300427/\n\n【抜粋元】\n日経クロステック 土木のRSSフィードから、過去記事ランキングについての情報を抜粋し、特に1位の記事である『憧れの旅館「加賀屋」が公費解体の衝撃、新旅館に日本一のサービスが残ることを期待』に焦点を当てて投稿文を作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n令和8年熊本地震の土木被害について、日経クロステックが現地取材を基に独自の被害マップを作成したそうです。横ずれ断層型だったこの地震では、宇城・八代地域を中心に日奈久断層帯付近で多くの橋が損傷し、道路や鉄道が寸断されるなど甚大な被害が確認されました。\n\n僕としては、こうした詳細な被害マップが災害の特性理解と、次なる災害への備えに大いに役立つと考えています。どのような構造物が、なぜ損傷したのか。その詳細を分析することで、これからのインフラ強靭化のヒントが得られるはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/\n\n【抜粋元】\n日経クロステックの「熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中」という記事から、令和8年熊本地震によるインフラ被害状況と、日経クロステックが作成した独自の被害マップに関する情報を抜粋しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木のRSSフィードから、過去記事ランキングについての情報を抜粋し、特に1位の記事である『憧れの旅館「加賀屋」が公費解体の衝撃、新旅館に日本一のサービスが残ることを期待』に焦点を当てて投稿文を作成しました。",
+      "xDraftExcerptSummary": "日経クロステックの「熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中」という記事から、令和8年熊本地震によるインフラ被害状況と、日経クロステックが作成した独自の被害マップに関する情報を抜粋しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "カシューナッツの油で道路舗装、天然樹脂と混ぜてアスファルト100％代替",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02728/",
-        "pubDate": "2026-08-05T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "日本道路は、カシューナッツの殻から採れる油と植物由来の樹脂粉末を用いて、原油から作る通常の「石油アスファルト」を100%代替する舗装技術を開発した。石油アスファルトを使用する場合と比較し、舗装工事で排出する二酸化炭素（CO2）の量を7割以上削減できる。アスファルト混合物に相当する舗装材は既存の工場で製造でき、施工方法も従来と変わらない。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02728/",
-        "fingerprint": "a7324d590222b3aa5a2dd8c734317030bf89f4b4757c78ad2be7181d05a35f50"
+        "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+        "pubDate": "2026-08-06T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+        "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
       },
-      "xDraft": "【本文】\nカシューナッツの殻油で道路舗装とは驚きです。日本道路さんが開発したこの新技術は、石油アスファルトの100%代替が可能で、工事中の二酸化炭素排出量を7割以上削減できるそうです。\n既存設備で製造でき、施工方法も従来通りという点が、現場へのスムーズな導入を後押しするでしょう。サステナブルな素材活用が土木分野で進むのは本当に頼もしい限りです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02728/\n\n【抜粋元】\n日本道路がカシューナッツの殻から採れる油と植物由来の樹脂粉末を用いて、原油から作る通常の「石油アスファルト」を100%代替する舗装技術を開発し、CO2排出量を7割以上削減できるという日経クロステック 土木の記事内容を抜粋しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n令和8年熊本地震では、発生から1週間で38人が亡くなり、8000人以上が避難生活を送っているとのこと。現地に入った記者は、断層変位がインフラに甚大な打撃を与える恐ろしさを改めて実感したそうです。\n活断層による直接的な地盤変位は、既存の土木構造物にとって極めて大きな脅威です。過去の教訓から技術は進化していますが、このような大規模な断層変位に対して、構造物がどのように耐え、そして復旧していくか、業界全体でさらに深く考えるべき課題だと僕も思います。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/\n\n【抜粋元】\n日経クロステック 建築・住宅に掲載された、「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事の要約・抜粋を参照しました。令和8年熊本地震における断層変位によるインフラへの影響と、土木構造物への対応が課題である点について触れられています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本道路がカシューナッツの殻から採れる油と植物由来の樹脂粉末を用いて、原油から作る通常の「石油アスファルト」を100%代替する舗装技術を開発し、CO2排出量を7割以上削減できるという日経クロステック 土木の記事内容を抜粋しました。",
+      "xDraftExcerptSummary": "日経クロステック 建築・住宅に掲載された、「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事の要約・抜粋を参照しました。令和8年熊本地震における断層変位によるインフラへの影響と、土木構造物への対応が課題である点について触れられています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」 - 日経ビジネス電子版",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5",
-    "pubDate": "Wed, 05 Aug 2026 08:00:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 3.40732512,
-    "contentSnippet": "隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」  日経ビジネス電子版",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5",
-    "fingerprint": "17a36c2dcc01923d22c3dc050cbc35974dd8b63ca45ac31738aea4079bf09c65"
+    "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+    "pubDate": "2026-08-06T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 4.8,
+    "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
+    "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
   },
-  "xDraft": "【本文】\n建築家の隈研吾さんが、日経ビジネス電子版の記事で日本社会に根付く「建築ぎらい」について語られたそうです。建築への絶え間ないバッシングの根底に、この意識があると指摘されています。\n\n「建築ぎらい」という言葉は、建設業に携わる僕にとっても重く響きます。建物が単なる構造物ではなく、人々の生活や文化、そしてまちづくりに深く関わるものであることを、もっと社会全体に理解してもらう努力が必要だと感じます。僕たち建設産業が果たす役割の重要性を、改めて問い直すきっかけになる記事ですね。\n\n出典：日経ビジネス電子版\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMzFfQjNGMVdGSDdTQWp2RTRFd0RtcktESFo0WDNkaV82RFF2Uk43QnpSOWR3WGZ6a05SYkVTUTVLLWZlSWJDS0NfY0UyNEVhRzN3blNIUmpPS2ZkUVVldmhKSHctT1E?oc=5\n\n【抜粋元】\n日経ビジネス電子版の「隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」」という見出しの記事を参考に、隈研吾氏が指摘する「建築ぎらい」という日本の社会課題について、僕なりの意見を付け加えて投稿文を作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n「令和8年熊本地震」では、発生から1週間で38人の方が亡くなり、8000人超が避難所生活を余儀なくされていると、日経クロステック土木の記者が伝えています。地震発生翌日の現地で実感されたという「断層変位がインフラに打撃を与える恐ろしさ」は、土木に携わる僕にとって、改めてその脅威を深く認識させられる内容です。\n\n地盤が直接ずれる断層変位は、既存の土木構造物にとって極めて過酷な試練となります。強固に設計されたインフラが、この大地の力にどう向き合うか、そしていかに被害を軽減していくか。「土木構造物への対応なお課題」という見出しの通り、今後も技術的な挑戦が続く重要なテーマだと僕は考えています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/\n\n【抜粋元】\n日経クロステック 土木の「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事を参考にしました。令和8年熊本地震での断層変位によるインフラへの甚大な被害と、それに伴う土木構造物への対応の難しさに焦点を当てています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-2.5-flash",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経ビジネス電子版の「隈研吾が見た日本社会 絶え間ないバッシングの根底にある「建築ぎらい」」という見出しの記事を参考に、隈研吾氏が指摘する「建築ぎらい」という日本の社会課題について、僕なりの意見を付け加えて投稿文を作成しました。",
+  "xDraftExcerptSummary": "日経クロステック 土木の「熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題」という記事を参考にしました。令和8年熊本地震での断層変位によるインフラへの甚大な被害と、それに伴う土木構造物への対応の難しさに焦点を当てています。",
   "xDraftAlternates": [],
   "errors": []
 }
