@@ -1,102 +1,12 @@
 {
-  "generatedAt": "2026-08-07T22:04:28.079Z",
+  "generatedAt": "2026-08-08T21:54:25.951Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 4,
+  "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 2,
   "candidates": [
     {
-      "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-      "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
-    },
-    {
-      "title": "熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "熊本県内のインフラを再び襲った「令和8年熊本地震」は、横ずれ断層型の地震で、主に宇城・八代地域に被害が集中した。日奈久断層帯付近で複数の橋が損傷し、道路や鉄道が寸断された。日経クロステックは現地取材を基に、土木被害マップを作成した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
-      "fingerprint": "2d321295570dd0017c4ac4fc9aa02f28e032f4ef086a2fac73e271de201a865d"
-    },
-    {
-      "title": "熊本の被災地で見た「断層変位の脅威」、土木構造物への対応なお課題",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "発生から1週間で38人が死亡し、8000人超が避難所での生活を余儀なくされている「令和8年熊本地震」。記者が地震発生翌日の2026年7月29日に現地入りして実感したのは、断層変位がインフラに打撃を与える恐ろしさだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500040/",
-      "fingerprint": "25e00228c629e98179a248271ffb3227580acf6d527fa38bd7580741676d47af"
-    },
-    {
-      "title": "熊本地震の土木被害マップを独自作成、宇城・八代地域に被害集中",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "熊本県内のインフラを再び襲った「令和8年熊本地震」は、横ずれ断層型の地震で、主に宇城・八代地域に被害が集中した。日奈久断層帯付近で複数の橋が損傷し、道路や鉄道が寸断された。日経クロステックは現地取材を基に、土木被害マップを作成した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080400039/",
-      "fingerprint": "2d321295570dd0017c4ac4fc9aa02f28e032f4ef086a2fac73e271de201a865d"
-    },
-    {
-      "title": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善 - ニューズウィーク日本版",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 09:17:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.407407038,
-      "contentSnippet": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善  ニューズウィーク日本版",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
-      "fingerprint": "0fe6dc9d612ad9a626ee5533be20260ff43ab73355c3a8842bd2dfe0d6df9b61"
-    },
-    {
-      "title": "コンクリート1m3にCO2を最大110kg固定、大成建設などが公共工事で実証",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "住友大阪セメントと大成建設は、二酸化炭素（CO2）などを原料にした人工石灰石（炭酸カルシウム）をコンクリートに添加することで、コンクリート1m3当たり最大で約110kgのCO2を固定できることを確認した。国土交通省の直轄工事2現場で導入し、約3年間にわたる現地モニタリングと各種試験によって生産性や品質の面で実用性があると実証した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
-      "fingerprint": "ffab2a81f5ec3883cefcc011b13d74b22bc2c9a13ac9a3950a21497d4b90225f"
-    },
-    {
-      "title": "熊本地震で築古住宅が多数倒壊、層崩壊のRC建築も　専門家に聞く傾向",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "2026年7月28日に発生した熊本地震による被害の全体像が、徐々に明らかとなってきた。熊本県は県内の住家被害を、26年8月5日時点で約1万4600棟、うち全壊は約700棟と推計。日本建築学会の災害委員会は、鉄筋コンクリート造の建物を中心とした構造被害などを報告している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
-      "fingerprint": "56d2b720f01b813fed9b35c1fc572029cdfa8254766d29e3ab3088796791fa35"
-    },
-    {
-      "title": "コンクリート1m3にCO2を最大110kg固定、大成建設などが公共工事で実証",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "住友大阪セメントと大成建設は、二酸化炭素（CO2）などを原料にした人工石灰石（炭酸カルシウム）をコンクリートに添加することで、コンクリート1m3当たり最大で約110kgのCO2を固定できることを確認した。国土交通省の直轄工事2現場で導入し、約3年間にわたる現地モニタリングと各種試験によって生産性や品質の面で実用性があると実証した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
-      "fingerprint": "ffab2a81f5ec3883cefcc011b13d74b22bc2c9a13ac9a3950a21497d4b90225f"
-    },
-    {
-      "title": "熊本地震で築古住宅が多数倒壊、層崩壊のRC建築も　専門家に聞く傾向",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年7月28日に発生した熊本地震による被害の全体像が、徐々に明らかとなってきた。熊本県は県内の住家被害を、26年8月5日時点で約1万4600棟、うち全壊は約700棟と推計。日本建築学会の災害委員会は、鉄筋コンクリート造の建物を中心とした構造被害などを報告している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
-      "fingerprint": "56d2b720f01b813fed9b35c1fc572029cdfa8254766d29e3ab3088796791fa35"
-    },
-    {
       "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
       "pubDate": "2026-08-07T06:30:00.000Z",
@@ -107,36 +17,6 @@
       "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
     },
     {
-      "title": "「地震と闘う」熊本城、その歴史は江戸時代に遡る",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/072602074/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "熊本城については2026年4月、日経クロステックのコラム「不撓不屈」で「熊本城復旧、2052年への難路」として取り上げたばかりだった。わずか約4カ月後、「難路」がより険しくなると報じることになろうとは。同城は26年7月28日に発生した熊本県を震源とする地震のため、建造物で8カ所、石垣で40カ所に上る被害を受けた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/072602074/",
-      "fingerprint": "bc0ad015121df4fc20dbde4481ea907e7b984bdef9605cffb2ccf46eb1c23a48"
-    },
-    {
-      "title": "福岡で「天神ビジネスセンターII」開業、外部空間を引き込む巨大吹き抜け",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02899/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "福岡市中央区天神1丁目で大型複合ビル「天神ビジネスセンターII」が2026年8月4日に開業した。地下2階から地上5階までの7層を貫く巨大な吹き抜け空間「アクセラリウム」を設け、公共性が高い垂直公園のような都市空間を建物の中に引き込んだのが特徴だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02899/",
-      "fingerprint": "34875c7c4686eb07d15f8d7073314ff4c2a392fc45836717563c3255a9b7200f"
-    },
-    {
-      "title": "日本製紙の折れた煙突が象徴　G7で最も老朽化した日本の製造基盤",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080600043/",
-      "pubDate": "2026-08-06T08:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日本製紙・八代工場で1970年建設の鉄筋コンクリート造煙突が倒壊し、9人が死亡した。専門家はかなり古い耐震設計基準で造られた可能性や、長周期の揺れによって大きく変形した可能性を指摘する。生産設備の平均使用年数がG7で最も長い日本に、老朽設備を使い続けるリスクを突き付けた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080600043/",
-      "fingerprint": "3edc4cde1010c4fc41ab2b4bdaad8045ce978eb4f115204f4e1883b31e69f30e"
-    },
-    {
       "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
       "pubDate": "2026-08-07T06:30:00.000Z",
@@ -145,89 +25,67 @@
       "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
       "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
-    },
-    {
-      "title": "福岡で「天神ビジネスセンターII」開業、外部空間を引き込む巨大吹き抜け",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02899/",
-      "pubDate": "2026-08-06T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "福岡市中央区天神1丁目で大型複合ビル「天神ビジネスセンターII」が2026年8月4日に開業した。地下2階から地上5階までの7層を貫く巨大な吹き抜け空間「アクセラリウム」を設け、公共性が高い垂直公園のような都市空間を建物の中に引き込んだのが特徴だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02899/",
-      "fingerprint": "34875c7c4686eb07d15f8d7073314ff4c2a392fc45836717563c3255a9b7200f"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善 - ニューズウィーク日本版",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
-        "pubDate": "Thu, 06 Aug 2026 09:17:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.407407038,
-        "contentSnippet": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善  ニューズウィーク日本版",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
-        "fingerprint": "0fe6dc9d612ad9a626ee5533be20260ff43ab73355c3a8842bd2dfe0d6df9b61"
+        "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+        "pubDate": "2026-08-07T06:30:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 0,
+        "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+        "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
       },
-      "xDraft": "【本文】\nイギリスの7月の建設業PMI（購買担当者景気指数）が44.7へと大幅に上昇しました。依然として景況判断の境目である50は下回っているものの、商業用不動産や住宅建設の分野で改善が見られたとのことです。\n\n金利高止まりの影響を受けやすい建設セクターにおいて、こうした回復の兆しが見えるのは心強いニュースですね。現地の現場の空気感がどのように変化していくのか、僕も注目しています。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5\n\n【抜粋元】\nニューズウィーク日本版の「英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善」という記事から、PMIの数値の変化と改善した具体的な部門（商業・住宅）を抽出し、石男くんとしての所感を加えて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n南九州自動車道の妙見第一橋で、断層のずれによると見られる地盤変状により、橋桁がずり落ちるなどの詳細な被害状況が判明しました。測量結果では沈下と隆起で1mを超える高低差が確認されており、復旧には半年以上を要する見通しです。\n地盤そのものが大きく動いてしまう断層直上のインフラ被害の厳しさを改めて感じます。地形が変容した状況下でどのような復旧工法が採られるのか、今後の技術的な検討の行方を注視したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/\n\n【抜粋元】\n南九州自動車道・妙見第一橋の被害状況とNEXCO西日本の復旧検討委員会での報告内容に基づいています。1m超の地盤変状という数字と、半年以上という復旧の見通しを軸に構成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ニューズウィーク日本版の「英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善」という記事から、PMIの数値の変化と改善した具体的な部門（商業・住宅）を抽出し、石男くんとしての所感を加えて作成しました。",
+      "xDraftExcerptSummary": "南九州自動車道・妙見第一橋の被害状況とNEXCO西日本の復旧検討委員会での報告内容に基づいています。1m超の地盤変状という数字と、半年以上という復旧の見通しを軸に構成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "コンクリート1m3にCO2を最大110kg固定、大成建設などが公共工事で実証",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
-        "pubDate": "2026-08-06T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "住友大阪セメントと大成建設は、二酸化炭素（CO2）などを原料にした人工石灰石（炭酸カルシウム）をコンクリートに添加することで、コンクリート1m3当たり最大で約110kgのCO2を固定できることを確認した。国土交通省の直轄工事2現場で導入し、約3年間にわたる現地モニタリングと各種試験によって生産性や品質の面で実用性があると実証した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/",
-        "fingerprint": "ffab2a81f5ec3883cefcc011b13d74b22bc2c9a13ac9a3950a21497d4b90225f"
+        "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+        "pubDate": "2026-08-07T06:30:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 0,
+        "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+        "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
       },
-      "xDraft": "【本文】\n大成建設と住友大阪セメントが、人工石灰石を添加してコンクリート1m3あたり最大約110kgのCO2を固定する技術を実証しました。国交省の直轄工事で3年間のモニタリングを行い、生産性や品質でも実用性が確認されたそうです。\n\n研究室の成果に留まらず、実際の現場で長期的に安定性を示したことに、技術者の皆さんの執念を感じて僕も胸が熱くなります。低炭素なインフラが当たり前になる未来へ、着実に前進していますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02727/\n\n【抜粋元】\nコンクリート1m3あたり最大約110kgのCO2を固定する人工石灰石添加技術が、3年間の公共工事実証を経て実用性を証明したというニュースを抜粋。現場での品質確認を重視した内容にしました。\n\n【判定】OK",
+      "xDraft": "【本文】\n南九州自動車道の妙見第一橋で、断層のずれによると見られる地盤変状の被害状況が判明しました。NEXCO西日本の報告によると、測量の結果、沈下と隆起により1m超の高低差や橋脚の水平変位が確認されています。復旧には半年以上を要する見通しとのことです。\n\n1mもの変位は橋梁構造にとって極めて過酷な条件ですが、自然の力の大きさを改めて実感します。ここからどのような工法で損傷を修復し、再び道をつなぎ直していくのか、技術的な検討プロセスをしっかり追っていきたいですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/\n\n【抜粋元】\n日経クロステックの記事から、南九州自動車道・妙見第一橋の復旧検討委員会の内容を抜粋しました。断層ずれによる「1m超の高低差」という具体的な被害数値と、復旧に半年以上かかるという見通しについて触れています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "コンクリート1m3あたり最大約110kgのCO2を固定する人工石灰石添加技術が、3年間の公共工事実証を経て実用性を証明したというニュースを抜粋。現場での品質確認を重視した内容にしました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "熊本地震で築古住宅が多数倒壊、層崩壊のRC建築も　専門家に聞く傾向",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
-        "pubDate": "2026-08-06T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "2026年7月28日に発生した熊本地震による被害の全体像が、徐々に明らかとなってきた。熊本県は県内の住家被害を、26年8月5日時点で約1万4600棟、うち全壊は約700棟と推計。日本建築学会の災害委員会は、鉄筋コンクリート造の建物を中心とした構造被害などを報告している。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/",
-        "fingerprint": "56d2b720f01b813fed9b35c1fc572029cdfa8254766d29e3ab3088796791fa35"
-      },
-      "xDraft": "【本文】\n2026年7月28日に発生した熊本地震の被害状況が報告されています。8月5日時点の推計では、住家被害が約1万4600棟、全壊は約700棟に上ります。日本建築学会からは、RC造の層崩壊などの構造被害も指摘されています。\n\n築古住宅の倒壊に加え、RC造の建物に深刻な被害が出ている事実は重く受け止めるべきですね。被害の傾向を正しく把握し、既存建築物の耐震対策をどう進めていくか、僕も専門家の議論を注視したいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080500042/\n\n【抜粋元】\n日経クロステックの記事から、2026年発生の熊本地震における具体的な住家被害数と、日本建築学会が報告したRC造の構造被害（層崩壊）に関する記述をまとめました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックの記事から、2026年発生の熊本地震における具体的な住家被害数と、日本建築学会が報告したRC造の構造被害（層崩壊）に関する記述をまとめました。",
+      "xDraftExcerptSummary": "日経クロステックの記事から、南九州自動車道・妙見第一橋の復旧検討委員会の内容を抜粋しました。断層ずれによる「1m超の高低差」という具体的な被害数値と、復旧に半年以上かかるという見通しについて触れています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善 - ニューズウィーク日本版",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
-    "pubDate": "Thu, 06 Aug 2026 09:17:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 3.407407038,
-    "contentSnippet": "英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善  ニューズウィーク日本版",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5",
-    "fingerprint": "0fe6dc9d612ad9a626ee5533be20260ff43ab73355c3a8842bd2dfe0d6df9b61"
+    "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+    "pubDate": "2026-08-07T06:30:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 0,
+    "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
+    "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
   },
-  "xDraft": "【本文】\nイギリスの7月の建設業PMI（購買担当者景気指数）が44.7へと大幅に上昇しました。依然として景況判断の境目である50は下回っているものの、商業用不動産や住宅建設の分野で改善が見られたとのことです。\n\n金利高止まりの影響を受けやすい建設セクターにおいて、こうした回復の兆しが見えるのは心強いニュースですね。現地の現場の空気感がどのように変化していくのか、僕も注目しています。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MUnJ2X1dxOXM5VlJRODFKSkliSkdjM1c1NUVyd2xkWm1qTjBvb3NYNEFrM0JCdmZZc21vQzltaGxNNjlCOEdlMmdFdmhyeUpRYzZsT3RQamtuSE5zRTFwR1djTWlLUFU?oc=5\n\n【抜粋元】\nニューズウィーク日本版の「英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善」という記事から、PMIの数値の変化と改善した具体的な部門（商業・住宅）を抽出し、石男くんとしての所感を加えて作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n南九州自動車道の妙見第一橋で、断層のずれによると見られる地盤変状により、橋桁がずり落ちるなどの詳細な被害状況が判明しました。測量結果では沈下と隆起で1mを超える高低差が確認されており、復旧には半年以上を要する見通しです。\n地盤そのものが大きく動いてしまう断層直上のインフラ被害の厳しさを改めて感じます。地形が変容した状況下でどのような復旧工法が採られるのか、今後の技術的な検討の行方を注視したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/\n\n【抜粋元】\n南九州自動車道・妙見第一橋の被害状況とNEXCO西日本の復旧検討委員会での報告内容に基づいています。1m超の地盤変状という数字と、半年以上という復旧の見通しを軸に構成しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "ニューズウィーク日本版の「英建設業ＰＭＩ、7月は44.7へ大幅上昇 商業・住宅建設改善」という記事から、PMIの数値の変化と改善した具体的な部門（商業・住宅）を抽出し、石男くんとしての所感を加えて作成しました。",
+  "xDraftExcerptSummary": "南九州自動車道・妙見第一橋の被害状況とNEXCO西日本の復旧検討委員会での報告内容に基づいています。1m超の地盤変状という数字と、半年以上という復旧の見通しを軸に構成しました。",
   "xDraftAlternates": [],
-  "errors": []
+  "errors": [
+    {
+      "feed": "Googleニュース 建設業",
+      "url": "https://news.google.com/rss/search?q=%E5%BB%BA%E8%A8%AD%E6%A5%AD+%E6%97%A5%E6%9C%AC&hl=ja&gl=JP&ceid=JP:ja",
+      "message": "Status code 503"
+    }
+  ]
 }
