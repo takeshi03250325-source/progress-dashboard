@@ -1,91 +1,17 @@
 {
-  "generatedAt": "2026-08-08T21:54:25.951Z",
+  "generatedAt": "2026-08-09T21:56:35.510Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 2,
-  "candidates": [
-    {
-      "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-      "pubDate": "2026-08-07T06:30:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-      "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
-    },
-    {
-      "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-      "pubDate": "2026-08-07T06:30:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-      "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
-    }
-  ],
-  "picks": [
-    {
-      "picked": {
-        "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-        "pubDate": "2026-08-07T06:30:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 0,
-        "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-        "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
-      },
-      "xDraft": "【本文】\n南九州自動車道の妙見第一橋で、断層のずれによると見られる地盤変状により、橋桁がずり落ちるなどの詳細な被害状況が判明しました。測量結果では沈下と隆起で1mを超える高低差が確認されており、復旧には半年以上を要する見通しです。\n地盤そのものが大きく動いてしまう断層直上のインフラ被害の厳しさを改めて感じます。地形が変容した状況下でどのような復旧工法が採られるのか、今後の技術的な検討の行方を注視したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/\n\n【抜粋元】\n南九州自動車道・妙見第一橋の被害状況とNEXCO西日本の復旧検討委員会での報告内容に基づいています。1m超の地盤変状という数字と、半年以上という復旧の見通しを軸に構成しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "南九州自動車道・妙見第一橋の被害状況とNEXCO西日本の復旧検討委員会での報告内容に基づいています。1m超の地盤変状という数字と、半年以上という復旧の見通しを軸に構成しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-        "pubDate": "2026-08-07T06:30:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 0,
-        "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-        "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
-      },
-      "xDraft": "【本文】\n南九州自動車道の妙見第一橋で、断層のずれによると見られる地盤変状の被害状況が判明しました。NEXCO西日本の報告によると、測量の結果、沈下と隆起により1m超の高低差や橋脚の水平変位が確認されています。復旧には半年以上を要する見通しとのことです。\n\n1mもの変位は橋梁構造にとって極めて過酷な条件ですが、自然の力の大きさを改めて実感します。ここからどのような工法で損傷を修復し、再び道をつなぎ直していくのか、技術的な検討プロセスをしっかり追っていきたいですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/\n\n【抜粋元】\n日経クロステックの記事から、南九州自動車道・妙見第一橋の復旧検討委員会の内容を抜粋しました。断層ずれによる「1m超の高低差」という具体的な被害数値と、復旧に半年以上かかるという見通しについて触れています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックの記事から、南九州自動車道・妙見第一橋の復旧検討委員会の内容を抜粋しました。断層ずれによる「1m超の高低差」という具体的な被害数値と、復旧に半年以上かかるという見通しについて触れています。",
-      "xDraftAlternates": []
-    }
-  ],
-  "picked": {
-    "title": "沈下と隆起で1m超の高低差、妙見第一橋の被害状況判明　復旧には半年以上か",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-    "pubDate": "2026-08-07T06:30:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 0,
-    "contentSnippet": "断層のずれと見られる地盤変状で橋桁がずり落ちた南九州自動車道の妙見第一橋の詳しい被害状況が判明した。西日本高速道路（NEXCO西日本）は2026年8月6日、同橋の復旧検討委員会の初会合を開き、測量結果に基づいた各橋脚の水平変位や上下変位、損傷状況などを報告した。今後追加の調査を進め、復旧工法を検討する。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/",
-    "fingerprint": "6b7f536116f66744b80f1f2a029baa563b55845bcca6a98677d45c3944435415"
-  },
-  "xDraft": "【本文】\n南九州自動車道の妙見第一橋で、断層のずれによると見られる地盤変状により、橋桁がずり落ちるなどの詳細な被害状況が判明しました。測量結果では沈下と隆起で1mを超える高低差が確認されており、復旧には半年以上を要する見通しです。\n地盤そのものが大きく動いてしまう断層直上のインフラ被害の厳しさを改めて感じます。地形が変容した状況下でどのような復旧工法が採られるのか、今後の技術的な検討の行方を注視したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/080700044/\n\n【抜粋元】\n南九州自動車道・妙見第一橋の被害状況とNEXCO西日本の復旧検討委員会での報告内容に基づいています。1m超の地盤変状という数字と、半年以上という復旧の見通しを軸に構成しました。\n\n【判定】OK",
-  "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "南九州自動車道・妙見第一橋の被害状況とNEXCO西日本の復旧検討委員会での報告内容に基づいています。1m超の地盤変状という数字と、半年以上という復旧の見通しを軸に構成しました。",
+  "pickCountActual": 0,
+  "candidates": [],
+  "picks": [],
+  "picked": null,
+  "xDraft": "",
+  "xDraftModel": null,
+  "xPostVerdict": null,
+  "xDraftExcerptSummary": null,
   "xDraftAlternates": [],
-  "errors": [
-    {
-      "feed": "Googleニュース 建設業",
-      "url": "https://news.google.com/rss/search?q=%E5%BB%BA%E8%A8%AD%E6%A5%AD+%E6%97%A5%E6%9C%AC&hl=ja&gl=JP&ceid=JP:ja",
-      "message": "Status code 503"
-    }
-  ]
+  "errors": []
 }
