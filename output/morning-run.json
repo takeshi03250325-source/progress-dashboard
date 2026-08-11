@@ -1,17 +1,57 @@
 {
-  "generatedAt": "2026-08-10T22:05:27.858Z",
+  "generatedAt": "2026-08-11T22:10:10.688Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
-  "candidates": [],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "pickCountActual": 1,
+  "candidates": [
+    {
+      "title": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 07:57:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 5.207791518,
+      "contentSnippet": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ  風傳媒",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
+      "fingerprint": "68c4b7caaacdaf6db4055da75ac5745dfe79f475bfc0fd2824ce1e6f753ee36b"
+    }
+  ],
+  "picks": [
+    {
+      "picked": {
+        "title": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ - 風傳媒",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 07:57:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 5.207791518,
+        "contentSnippet": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ  風傳媒",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
+        "fingerprint": "68c4b7caaacdaf6db4055da75ac5745dfe79f475bfc0fd2824ce1e6f753ee36b"
+      },
+      "xDraft": "【本文】\n8月26日から、西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が開催されます。DXやGX、次世代の建材など、業界の未来を左右する最新技術が一堂に会する大規模な展示会です。\n\n今回で10回目を迎えるとのことで、関西圏の建設・不動産テックがどこまで深化しているのか僕も非常に興味があります。現場の生産性向上に繋がる具体的なヒントが、こうした場所から一つでも多く生まれてほしいですね。\n\n出典：風傳媒\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5\n\n【抜粋元】\n8月26日から開催される「第10回 JAPAN BUILD OSAKA」の開催概要を伝えている記事です。西日本最大級の規模であること、建築・土木・不動産の先端技術が集結する点に触れています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "8月26日から開催される「第10回 JAPAN BUILD OSAKA」の開催概要を伝えている記事です。西日本最大級の規模であること、建築・土木・不動産の先端技術が集結する点に触れています。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ - 風傳媒",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
+    "pubDate": "Tue, 11 Aug 2026 07:57:00 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 5.207791518,
+    "contentSnippet": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ  風傳媒",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
+    "fingerprint": "68c4b7caaacdaf6db4055da75ac5745dfe79f475bfc0fd2824ce1e6f753ee36b"
+  },
+  "xDraft": "【本文】\n8月26日から、西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が開催されます。DXやGX、次世代の建材など、業界の未来を左右する最新技術が一堂に会する大規模な展示会です。\n\n今回で10回目を迎えるとのことで、関西圏の建設・不動産テックがどこまで深化しているのか僕も非常に興味があります。現場の生産性向上に繋がる具体的なヒントが、こうした場所から一つでも多く生まれてほしいですね。\n\n出典：風傳媒\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5\n\n【抜粋元】\n8月26日から開催される「第10回 JAPAN BUILD OSAKA」の開催概要を伝えている記事です。西日本最大級の規模であること、建築・土木・不動産の先端技術が集結する点に触れています。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "8月26日から開催される「第10回 JAPAN BUILD OSAKA」の開催概要を伝えている記事です。西日本最大級の規模であること、建築・土木・不動産の先端技術が集結する点に触れています。",
   "xDraftAlternates": [],
   "errors": []
 }
