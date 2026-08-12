@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T22:10:10.688Z",
+  "generatedAt": "2026-08-12T22:09:07.065Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
+  "skippedDuplicates": 1,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 1,
+  "pickCountActual": 3,
   "candidates": [
     {
       "title": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ - 風傳媒",
@@ -15,43 +15,219 @@
       "contentSnippet": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ  風傳媒",
       "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
       "fingerprint": "68c4b7caaacdaf6db4055da75ac5745dfe79f475bfc0fd2824ce1e6f753ee36b"
+    },
+    {
+      "title": "蓄電池の数量規制緩和でデータセンター立地促進へ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/",
+      "pubDate": "2026-08-12T17:02:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "AI（人工知能）データセンターの立地促進に向けて、規制改革が進みそうだ。政府の規制改革推進会議は2026年6月に取りまとめた答申で、施設に不可欠なリチウムイオン蓄電池について、消防法や建築基準法における数量規制を緩和するよう、総務省消防庁や国土交通省に求めた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/",
+      "fingerprint": "2b57f31c58828bdb597611fe33d20a4aae45b867b3ed188035c774e726b3a83a"
+    },
+    {
+      "title": "「暑いときは働かない」が一番、大林組や鴻池組がサマータイム",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300006/",
+      "pubDate": "2026-08-12T17:06:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守るため、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300006/",
+      "fingerprint": "3bd3dd5b209eec431ddefa66dfc688ef003421a5e68e830c09e6463c91e03cb2"
+    },
+    {
+      "title": "現場クールプロジェクト全国展開、好評「ひんやりBOX」100現場へ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300003/",
+      "pubDate": "2026-08-12T17:03:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300003/",
+      "fingerprint": "48dbb91244227f2c6cc49688d36897ffa7379a270e1c8d0078e8938ba2b32b49"
+    },
+    {
+      "title": "体温超えの「酷暑日」に要警戒、熱中症対策強化で労働者を守れ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300001/",
+      "pubDate": "2026-08-12T17:01:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "最高気温が40度以上の日を「酷暑日」と呼ぶことになって、最初の夏が到来した。2025年6月に施行された罰則付きの熱中症対策義務化は2年目に突入。建設業界では労働者を熱中症から守る仕組みづくりが進む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300001/",
+      "fingerprint": "b8b05bc1a8c8d3dc1e9a70d95e9969e844072c8bfd78b97b66a910a27e189fb6"
+    },
+    {
+      "title": "「暑いときは働かない」が一番、大林組や鴻池組がサマータイム",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300006/",
+      "pubDate": "2026-08-12T17:06:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守るため、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300006/",
+      "fingerprint": "3bd3dd5b209eec431ddefa66dfc688ef003421a5e68e830c09e6463c91e03cb2"
+    },
+    {
+      "title": "現場クールプロジェクト全国展開、好評「ひんやりBOX」100現場へ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300003/",
+      "pubDate": "2026-08-12T17:03:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300003/",
+      "fingerprint": "48dbb91244227f2c6cc49688d36897ffa7379a270e1c8d0078e8938ba2b32b49"
+    },
+    {
+      "title": "体温より高い酷暑日が到来",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00016/080400548/",
+      "pubDate": "2026-08-12T17:02:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "気象庁が2026年4月に気温40度以上の日を「酷暑日」と定めました。体温より高い気温下で屋外作業せざるを得ない建設業界では、水・塩分補給やこまめな休憩の他、暑い時間帯に働かない「変形労働時間制」に注目が集まっています。今号では、最新の熱中症対策を特集しました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00016/080400548/",
+      "fingerprint": "e97fd8f7acce372de5f713e69603d094c24d515d6db63bcfc8caa1de7e6dba67"
+    },
+    {
+      "title": "3Dプリンター建築、新告示で規制緩和",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400726/",
+      "pubDate": "2026-08-12T17:01:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "国土交通省が、建設3Dプリンターの規制緩和に動いた。小規模建築物において、3Dプリンターで製造した部材を構造体として用いる場合の仕様規定を設け、従来よりも建設しやすくした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400726/",
+      "fingerprint": "6776651aafd8a1aa8d3be55a636a9f118f3f8235d5c6ea3f678e5ec4a5abeda6"
+    },
+    {
+      "title": "体温超えの「酷暑日」に要警戒、熱中症対策強化で労働者を守れ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300001/",
+      "pubDate": "2026-08-12T17:01:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "最高気温が40度以上の日を「酷暑日」と呼ぶことになって、最初の夏が到来した。2025年6月に施行された罰則付きの熱中症対策義務化は2年目に突入。建設業界では労働者を熱中症から守る仕組みづくりが進む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300001/",
+      "fingerprint": "b8b05bc1a8c8d3dc1e9a70d95e9969e844072c8bfd78b97b66a910a27e189fb6"
+    },
+    {
+      "title": "屋上に森を載せたファミマの旗艦店",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/080400299/",
+      "pubDate": "2026-08-12T17:01:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "ファミリーマートが、東京都港区に同社の次世代コンビニエンスストアと位置付ける初の旗艦店「FAMIMA PARK AZABUDAI（ファミマパーク麻布台）」を出店した。アパレル専用の売り場や試着室を備えるなど、これまでにない店舗体験を提供し、他店との差異化を図る。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/080400299/",
+      "fingerprint": "87898bf40c8945230b68503860d94660ac300f6ba93cc6afe668c4660b83c189"
+    },
+    {
+      "title": "酷暑到来で冷却ウエア商戦過熱、電池不要の効果持続型が新潮流",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300005/",
+      "pubDate": "2026-08-12T17:05:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "気温が40度を超えたニュースが珍しくなくなり、熱中症対策の切り札になる冷却ウエア商戦が過熱している。建設現場では水循環式や保冷剤付きのベストなど、電力を使わずに冷たさが持続する製品に関心が集まる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300005/",
+      "fingerprint": "692916ea411532e7114375868b5e9daf0dc85dedb99efc2a287768f75371b512"
+    },
+    {
+      "title": "熱中症対策費を1.5億円に拡大、延べ6000現場でトイレを快適に",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300004/",
+      "pubDate": "2026-08-12T17:04:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "冷却ベストの独自開発などで熱中症対策に力を入れる大東建託は、2026年の対策費を1億5000万円に増額。ミストファン付き仮設トイレの試行を始めた。年間で延べ約6000カ所の建設現場を「快適」にする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300004/",
+      "fingerprint": "e7fe6ff4dcc155fe275400a9cc82ac6df38cca84f3872f4f7719f258527f5762"
+    },
+    {
+      "title": "主要建設会社の8割超が費用増、現場の熱中症対策を独自調査",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300002/",
+      "pubDate": "2026-08-12T17:02:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年度の熱中症対策費を25年度より増やす会社は84％──。日経クロステックが主な建設会社を対象に実施した熱中症対策に関する調査で判明した。日よけ設備やスポットクーラーはもはや、建設現場に必須だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300002/",
+      "fingerprint": "fa10aea501ddd9932e94e71c016c5d2ea0d4d5cc0dd844e3371c6054e95028fb"
+    },
+    {
+      "title": "古代オリエントの建物を模型で体験",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00159/080300129/",
+      "pubDate": "2026-08-12T17:01:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "大きな文明が始まる前から、人類は様々な建物をつくってきた。古代オリエント博物館で数千年前の建物や街づくりにフォーカスした模型の展示会が開催中だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00159/080300129/",
+      "fingerprint": "f2ffd559554c8d29a59c3a27a6d9ed8689ceb9a11257ef157015695e8a9b8f78"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ - 風傳媒",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:57:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 5.207791518,
-        "contentSnippet": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ  風傳媒",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
-        "fingerprint": "68c4b7caaacdaf6db4055da75ac5745dfe79f475bfc0fd2824ce1e6f753ee36b"
+        "title": "蓄電池の数量規制緩和でデータセンター立地促進へ",
+        "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/",
+        "pubDate": "2026-08-12T17:02:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "AI（人工知能）データセンターの立地促進に向けて、規制改革が進みそうだ。政府の規制改革推進会議は2026年6月に取りまとめた答申で、施設に不可欠なリチウムイオン蓄電池について、消防法や建築基準法における数量規制を緩和するよう、総務省消防庁や国土交通省に求めた。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/",
+        "fingerprint": "2b57f31c58828bdb597611fe33d20a4aae45b867b3ed188035c774e726b3a83a"
       },
-      "xDraft": "【本文】\n8月26日から、西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が開催されます。DXやGX、次世代の建材など、業界の未来を左右する最新技術が一堂に会する大規模な展示会です。\n\n今回で10回目を迎えるとのことで、関西圏の建設・不動産テックがどこまで深化しているのか僕も非常に興味があります。現場の生産性向上に繋がる具体的なヒントが、こうした場所から一つでも多く生まれてほしいですね。\n\n出典：風傳媒\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5\n\n【抜粋元】\n8月26日から開催される「第10回 JAPAN BUILD OSAKA」の開催概要を伝えている記事です。西日本最大級の規模であること、建築・土木・不動産の先端技術が集結する点に触れています。\n\n【判定】OK",
+      "xDraft": "【本文】\n政府の規制改革推進会議が、AIデータセンターの立地を促すため、リチウムイオン蓄電池の数量規制を緩和するよう総務省消防庁や国土交通省に求めました。\n大規模な施設に不可欠な蓄電池ですが、現行の消防法や建築基準法が設計上の壁となっていた面があります。安全性をしっかり担保しながら、デジタルインフラを支える建物の形が変わっていくのは、まちづくりの観点からも興味深いですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/\n\n【抜粋元】\n政府の規制改革推進会議の答申において、AIデータセンターに不可欠なリチウムイオン蓄電池の規制緩和を関係省庁に求めたことを報じる記事です。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "8月26日から開催される「第10回 JAPAN BUILD OSAKA」の開催概要を伝えている記事です。西日本最大級の規模であること、建築・土木・不動産の先端技術が集結する点に触れています。",
+      "xDraftExcerptSummary": "政府の規制改革推進会議の答申において、AIデータセンターに不可欠なリチウムイオン蓄電池の規制緩和を関係省庁に求めたことを報じる記事です。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "「暑いときは働かない」が一番、大林組や鴻池組がサマータイム",
+        "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300006/",
+        "pubDate": "2026-08-12T17:06:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守るため、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300006/",
+        "fingerprint": "3bd3dd5b209eec431ddefa66dfc688ef003421a5e68e830c09e6463c91e03cb2"
+      },
+      "xDraft": "【本文】\n建設業界で熱中症から作業者を守るため、変形労働時間制やサマータイムの導入が広がっています。大林組や鴻池組などは、最も暑い時間帯の作業を避けるよう勤務時間を柔軟に調整し、労働災害の防止を図っています。\n\n近年の夏の暑さは、これまでの常識が通用しないレベルに達しています。こうした制度の導入は、現場で働く人たちの健康を最優先に考えた、非常に意義のある決断だと感じます。僕たちが守るべきは構造物だけでなく、それを作る「人」なのだと改めて認識させられますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300006/\n\n【抜粋元】\n熱中症対策として建設各社が導入を開始した「変形労働時間制」や「サマータイム」の事例を挙げ、過酷な夏季の屋外作業から作業者を守るための業界の動きについて。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "熱中症対策として建設各社が導入を開始した「変形労働時間制」や「サマータイム」の事例を挙げ、過酷な夏季の屋外作業から作業者を守るための業界の動きについて。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "現場クールプロジェクト全国展開、好評「ひんやりBOX」100現場へ",
+        "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300003/",
+        "pubDate": "2026-08-12T17:03:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300003/",
+        "fingerprint": "48dbb91244227f2c6cc49688d36897ffa7379a270e1c8d0078e8938ba2b32b49"
+      },
+      "xDraft": "【本文】\n積水ハウスが、仮設トイレの筐体を冷房休憩室に転用した「ひんやりBOX」の本格導入を始めます。設備工事が不要で、狭い現場でも設置できるのが強みです。2025年の試験導入を経て、26年には全国約100カ所の現場へ拡大される予定です。\n\n限られた敷地でいかに働く人の環境を守るか、という課題に対する柔軟な解決策ですね。トイレの形をそのまま使うという発想の転換に、現場を支える知恵と敬意を感じて、僕も嬉しくなりました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/mag/na/18/00323/080300003/\n\n【抜粋元】\n積水ハウスの「現場クールプロジェクト」に関する記事。仮設トイレ用ボックスを転用するアイデアや、設置の容易さ、2026年に100現場へ拡大するという具体的な数字に基づき作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "積水ハウスの「現場クールプロジェクト」に関する記事。仮設トイレ用ボックスを転用するアイデアや、設置の容易さ、2026年に100現場へ拡大するという具体的な数字に基づき作成しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ - 風傳媒",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
-    "pubDate": "Tue, 11 Aug 2026 07:57:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 5.207791518,
-    "contentSnippet": "西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が8月26 日から開催へ  風傳媒",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5",
-    "fingerprint": "68c4b7caaacdaf6db4055da75ac5745dfe79f475bfc0fd2824ce1e6f753ee36b"
+    "title": "蓄電池の数量規制緩和でデータセンター立地促進へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/",
+    "pubDate": "2026-08-12T17:02:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 4,
+    "contentSnippet": "AI（人工知能）データセンターの立地促進に向けて、規制改革が進みそうだ。政府の規制改革推進会議は2026年6月に取りまとめた答申で、施設に不可欠なリチウムイオン蓄電池について、消防法や建築基準法における数量規制を緩和するよう、総務省消防庁や国土交通省に求めた。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/",
+    "fingerprint": "2b57f31c58828bdb597611fe33d20a4aae45b867b3ed188035c774e726b3a83a"
   },
-  "xDraft": "【本文】\n8月26日から、西日本最大級の建築・土木・不動産先端技術展「第10回 JAPAN BUILD OSAKA」が開催されます。DXやGX、次世代の建材など、業界の未来を左右する最新技術が一堂に会する大規模な展示会です。\n\n今回で10回目を迎えるとのことで、関西圏の建設・不動産テックがどこまで深化しているのか僕も非常に興味があります。現場の生産性向上に繋がる具体的なヒントが、こうした場所から一つでも多く生まれてほしいですね。\n\n出典：風傳媒\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTFBUYTN2alNMY2I3dTFxYXZUVmNNZUxZNWQ3b3RTVDAxaXl2VC1iN3czTjRTZHRrbnMtZzlIQUpHUTNDcE9sYkRQcXk0ak54SklJ?oc=5\n\n【抜粋元】\n8月26日から開催される「第10回 JAPAN BUILD OSAKA」の開催概要を伝えている記事です。西日本最大級の規模であること、建築・土木・不動産の先端技術が集結する点に触れています。\n\n【判定】OK",
+  "xDraft": "【本文】\n政府の規制改革推進会議が、AIデータセンターの立地を促すため、リチウムイオン蓄電池の数量規制を緩和するよう総務省消防庁や国土交通省に求めました。\n大規模な施設に不可欠な蓄電池ですが、現行の消防法や建築基準法が設計上の壁となっていた面があります。安全性をしっかり担保しながら、デジタルインフラを支える建物の形が変わっていくのは、まちづくりの観点からも興味深いですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/\n\n【抜粋元】\n政府の規制改革推進会議の答申において、AIデータセンターに不可欠なリチウムイオン蓄電池の規制緩和を関係省庁に求めたことを報じる記事です。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "8月26日から開催される「第10回 JAPAN BUILD OSAKA」の開催概要を伝えている記事です。西日本最大級の規模であること、建築・土木・不動産の先端技術が集結する点に触れています。",
+  "xDraftExcerptSummary": "政府の規制改革推進会議の答申において、AIデータセンターに不可欠なリチウムイオン蓄電池の規制緩和を関係省庁に求めたことを報じる記事です。",
   "xDraftAlternates": [],
   "errors": []
 }
