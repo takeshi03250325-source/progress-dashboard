@@ -1,22 +1,11 @@
 {
-  "generatedAt": "2026-08-14T21:47:40.446Z",
+  "generatedAt": "2026-08-15T21:42:45.077Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 0,
-  "candidates": [
-    {
-      "title": "日本の建設機械市場、インフラ整備と設備の近代化を背景に2034年までに225億2,000万米ドルに達する見通し - Newscast.jp",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfT2NWWXVqNW5DMl9VdEM4cExHZXp5VVR6WmdTOVg0VnhDY3UyU2g0dDRkYnBfdlNOWHFwZUJOMDFtMS02Sk13?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 22:30:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4079164200000003,
-      "contentSnippet": "日本の建設機械市場、インフラ整備と設備の近代化を背景に2034年までに225億2,000万米ドルに達する見通し  Newscast.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfT2NWWXVqNW5DMl9VdEM4cExHZXp5VVR6WmdTOVg0VnhDY3UyU2g0dDRkYnBfdlNOWHFwZUJOMDFtMS02Sk13?oc=5",
-      "fingerprint": "77f8c10796d34a9151da417c94273723f5cb9b93aaf490aa0bf845b5e4e0a105"
-    }
-  ],
+  "candidates": [],
   "picks": [],
   "picked": null,
   "xDraft": "",
