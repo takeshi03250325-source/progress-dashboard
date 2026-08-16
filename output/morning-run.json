@@ -1,17 +1,193 @@
 {
-  "generatedAt": "2026-08-15T21:42:45.077Z",
+  "generatedAt": "2026-08-16T21:42:46.095Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
-  "candidates": [],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "pickCountActual": 3,
+  "candidates": [
+    {
+      "title": "1位は「監理技術者縛りの苦悩、大成建設はやむなく交代で違約金1.4億円」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月17～23日に読まれた記事の1～10位を26年8月17～23日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
+      "fingerprint": "8c8e713666a68cb3ad7fe811ff4603bd35501ce0aa872de09483d876229629b1"
+    },
+    {
+      "title": "3位は「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」経営層の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステックで2026年7月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。3位に「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
+      "fingerprint": "6ab318c1046e2dc11faff7eb00078a5c5579865f829bf6802fdfdba7b1132563"
+    },
+    {
+      "title": "八潮道路陥没事故の復旧、工程別のリスク対応表　埼玉県が作成",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02729/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "埼玉県は2025年1月に八潮市で発生した下水道管の破損が原因と見られる道路陥没事故の復旧工事を、306億円の事業費を投じて進めている。復旧に当たって各工程で懸念されるリスクへの対応を記した表を作成した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02729/",
+      "fingerprint": "933e95ce4658882fc7de98db5b32dddefa8ec998f9d574cb348b7156e93463d8"
+    },
+    {
+      "title": "1位は「監理技術者縛りの苦悩、大成建設はやむなく交代で違約金1.4億円」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月17～23日に読まれた記事の1～10位を26年8月17～23日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
+      "fingerprint": "8c8e713666a68cb3ad7fe811ff4603bd35501ce0aa872de09483d876229629b1"
+    },
+    {
+      "title": "3位は「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」経営層の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステックで2026年7月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。3位に「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
+      "fingerprint": "6ab318c1046e2dc11faff7eb00078a5c5579865f829bf6802fdfdba7b1132563"
+    },
+    {
+      "title": "AIで顔認証や玄関先の見守りができるテレビドアホン",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01055/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "パナソニックは、AI（人工知能）を搭載したモニター付きテレビドアホン「外でもドアホン」VL-X70シリーズを2026年6月に発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01055/",
+      "fingerprint": "9c13ccb39c910899989d1fa84b0c011735f3b06feb7c1b56e828893a1e50e944"
+    },
+    {
+      "title": "橋の「終活」始まる　50年で118億円の維持費、払えない町が出した答え",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100001/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "最新の2025年の国勢調査によると、20年からの5年間で日本の総人口は約310万人減った。その間、長さ2m以上の道路橋は全国でおよそ3800カ所増えた。橋は利用者が1人でもいる限り、簡単にはなくせない。人口や財政が縮む自治体にとって、点検や修繕の負担は増える一方だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100001/",
+      "fingerprint": "889a500ba923bac56482e5892566739149bbd51213be7d0c238001361646c81a"
+    },
+    {
+      "title": "ソニーのHDD用レーザー、奇抜な構造でコンペに挑む　年末の逆転劇",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/080700035/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "ソニーの半導体事業部の白石蔵王テクノロジーセンターでは、熱アシスト磁気記録と呼ばれる新技術に向けた半導体レーザーの開発に取り組んでいた。ところが2011年3月11日の東日本大震災で被災してしまう。そんな苦況の中、依頼元のシーゲイトの米国拠点に向かう。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/080700035/",
+      "fingerprint": "943a0bf8882518b2beb88471c087e2c3d322a4da62bb32957a52406c20d4baa1"
+    },
+    {
+      "title": "デジタルデザインの拡張に必要な3つの階層、万博「静けさの森」にも導入",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03653/072900002/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "日建設計の社内組織、Digital Design Lab（デジタルデザインラボ、DDL）は、2025年大阪・関西万博の注目プロジェクトにも参画した。連載第2回は、同社執行役員テックデザイングループ代表兼DDL部長の角田大輔氏が、実際にプロジェクトに携わった経験を踏まえ、デジタルデザインをいかに発展していくかを解説する。（以上、編集部）",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03653/072900002/",
+      "fingerprint": "0134e03d5afcdc01f3a76475afb355a03c85e61f32decb8496ccd2318a9b6110"
+    },
+    {
+      "title": "橋の「終活」始まる　50年で118億円の維持費、払えない町が出した答え",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100001/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "最新の2025年の国勢調査によると、20年からの5年間で日本の総人口は約310万人減った。その間、長さ2m以上の道路橋は全国でおよそ3800カ所増えた。橋は利用者が1人でもいる限り、簡単にはなくせない。人口や財政が縮む自治体にとって、点検や修繕の負担は増える一方だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100001/",
+      "fingerprint": "889a500ba923bac56482e5892566739149bbd51213be7d0c238001361646c81a"
+    },
+    {
+      "title": "ソニーのHDD用レーザー、奇抜な構造でコンペに挑む　年末の逆転劇",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/080700035/",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "ソニーの半導体事業部の白石蔵王テクノロジーセンターでは、熱アシスト磁気記録と呼ばれる新技術に向けた半導体レーザーの開発に取り組んでいた。ところが2011年3月11日の東日本大震災で被災してしまう。そんな苦況の中、依頼元のシーゲイトの米国拠点に向かう。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/080700035/",
+      "fingerprint": "943a0bf8882518b2beb88471c087e2c3d322a4da62bb32957a52406c20d4baa1"
+    }
+  ],
+  "picks": [
+    {
+      "picked": {
+        "title": "1位は「監理技術者縛りの苦悩、大成建設はやむなく交代で違約金1.4億円」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
+        "pubDate": "2026-08-16T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月17～23日に読まれた記事の1～10位を26年8月17～23日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
+        "fingerprint": "8c8e713666a68cb3ad7fe811ff4603bd35501ce0aa872de09483d876229629b1"
+      },
+      "xDraft": "【本文】\n大成建設が監理技術者の交代に伴い、約1.4億円の違約金を支払うことになった事例が注目を集めています。公共工事における「監理技術者の専任義務」という、建設業界の厳しいルールが現場運営に与える影響の大きさが浮き彫りになりました。\n\n僕はこのニュースを見て、1.4億円という金額の重さに、技術者を配置し続けることの責任と難しさを改めて痛感しました。制度の遵守と、予期せぬ事態への柔軟な対応をどう両立させるべきか、業界全体にとって非常に示唆に富む内容だと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/\n\n【抜粋元】\n日経クロステック 土木の週間ランキング1位の記事です。大成建設が監理技術者の専任義務に抵触する恐れから配置転換を行い、結果として多額の違約金を支払った経緯と、制度の課題について取り上げています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 土木の週間ランキング1位の記事です。大成建設が監理技術者の専任義務に抵触する恐れから配置転換を行い、結果として多額の違約金を支払った経緯と、制度の課題について取り上げています。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "3位は「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」経営層の注目トップ10",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
+        "pubDate": "2026-08-16T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステックで2026年7月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。3位に「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」が入りました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
+        "fingerprint": "6ab318c1046e2dc11faff7eb00078a5c5579865f829bf6802fdfdba7b1132563"
+      },
+      "xDraft": "【本文】\n日経クロステックの2026年7月期における経営層の注目記事ランキングで、北海道新幹線工事での生コン品質試験の不正発覚を報じる記事が3位に入りました。監督員の立ち会い中に不正が行われ「現行犯」で発覚したという、現場の規律が問われる内容です。\n\n僕たちが向き合うインフラの品質は、誠実な試験の積み重ねによって保証されるものです。経営層がこれほど高い関心を寄せているのは、一つの不正が業界全体の信頼を揺るがす重大なリスクであることを物語っています。再発防止に向けた、より透明性の高い現場運営が求められます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/\n\n【抜粋元】\n日経クロステックの経営層向け記事ランキングに基づき、北海道新幹線工事で生コン品質試験の不正が監督員の立ち会いのもと発覚したという事実と、その注目度の高さを踏まえて執筆しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステックの経営層向け記事ランキングに基づき、北海道新幹線工事で生コン品質試験の不正が監督員の立ち会いのもと発覚したという事実と、その注目度の高さを踏まえて執筆しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "八潮道路陥没事故の復旧、工程別のリスク対応表　埼玉県が作成",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02729/",
+        "pubDate": "2026-08-16T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "埼玉県は2025年1月に八潮市で発生した下水道管の破損が原因と見られる道路陥没事故の復旧工事を、306億円の事業費を投じて進めている。復旧に当たって各工程で懸念されるリスクへの対応を記した表を作成した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02729/",
+        "fingerprint": "933e95ce4658882fc7de98db5b32dddefa8ec998f9d574cb348b7156e93463d8"
+      },
+      "xDraft": "【本文】\n埼玉県は、2025年1月に八潮市で発生した下水道管の破損が原因とされる道路陥没事故の復旧に向けて、306億円の事業費を投じて工事を進めています。各工程で懸念されるリスクへの対応を詳細にまとめた表も作成されました。\n復旧現場は常に不確実性との戦いですが、こうしてリスクを事前に可視化する姿勢は非常に大切だと感じます。現場の知見を整理して共有することは、円滑な施工だけでなく、地域の皆さんの安心にもつながるはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02729/\n\n【抜粋元】\n埼玉県が八潮市の陥没事故復旧に向け、306億円の予算規模と工程別のリスク対応表を策定したという記事の内容を、事実に忠実にまとめました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "埼玉県が八潮市の陥没事故復旧に向け、306億円の予算規模と工程別のリスク対応表を策定したという記事の内容を、事実に忠実にまとめました。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "1位は「監理技術者縛りの苦悩、大成建設はやむなく交代で違約金1.4億円」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
+    "pubDate": "2026-08-16T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 2.4,
+    "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月17～23日に読まれた記事の1～10位を26年8月17～23日に無料で読めるようにしました。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
+    "fingerprint": "8c8e713666a68cb3ad7fe811ff4603bd35501ce0aa872de09483d876229629b1"
+  },
+  "xDraft": "【本文】\n大成建設が監理技術者の交代に伴い、約1.4億円の違約金を支払うことになった事例が注目を集めています。公共工事における「監理技術者の専任義務」という、建設業界の厳しいルールが現場運営に与える影響の大きさが浮き彫りになりました。\n\n僕はこのニュースを見て、1.4億円という金額の重さに、技術者を配置し続けることの責任と難しさを改めて痛感しました。制度の遵守と、予期せぬ事態への柔軟な対応をどう両立させるべきか、業界全体にとって非常に示唆に富む内容だと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/\n\n【抜粋元】\n日経クロステック 土木の週間ランキング1位の記事です。大成建設が監理技術者の専任義務に抵触する恐れから配置転換を行い、結果として多額の違約金を支払った経緯と、制度の課題について取り上げています。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "日経クロステック 土木の週間ランキング1位の記事です。大成建設が監理技術者の専任義務に抵触する恐れから配置転換を行い、結果として多額の違約金を支払った経緯と、制度の課題について取り上げています。",
   "xDraftAlternates": [],
   "errors": []
 }
