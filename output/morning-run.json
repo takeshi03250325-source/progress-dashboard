@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-08-17T21:48:41.575Z",
+  "generatedAt": "2026-08-18T21:45:59.135Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 5,
-  "skippedJapanFocus": 0,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
+    {
+      "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 19:22:30 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 5.208295095,
+      "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  山陽新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
+      "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
+    },
     {
       "title": "国交省が直轄工事で「グリーン鉄」導入、順次現場追加　鋼材の脱炭素推進",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02733/",
@@ -17,74 +27,74 @@
       "fingerprint": "cc84f8660c4dd9772db58de137f6e74ec5c8cfb32f66013cb1ab9fb3786dc65c"
     },
     {
-      "title": "1位は「監理技術者縛りの苦悩、大成建設はやむなく交代で違約金1.4億円」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
-      "pubDate": "2026-08-16T20:00:00.000Z",
+      "title": "「塩」の備えなく書類送検、熱中症で死亡した作業者が勤める建設会社",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700001/",
+      "pubDate": "2026-08-18T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月17～23日に読まれた記事の1～10位を26年8月17～23日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
-      "fingerprint": "8c8e713666a68cb3ad7fe811ff4603bd35501ce0aa872de09483d876229629b1"
+      "contentSnippet": "最高気温が40度以上の日を「酷暑日」と呼ぶことになって、最初の夏が到来した。2025年6月に施行された罰則付きの熱中症対策義務化は2年目に突入。建設業界では労働者を熱中症から守る仕組みづくりが進む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700001/",
+      "fingerprint": "9bc3418adfa60b777a4e22313f00c6b08806f65c74a33a8102e43bec82378d94"
     },
     {
-      "title": "3位は「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」経営層の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
-      "pubDate": "2026-08-16T20:00:00.000Z",
+      "title": "大阪の巨大鋼管せり上がり、充填材使わず摩擦力低下　施工者の検討不十分",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02732/",
+      "pubDate": "2026-08-18T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "日経クロステックで2026年7月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。3位に「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
-      "fingerprint": "6ab318c1046e2dc11faff7eb00078a5c5579865f829bf6802fdfdba7b1132563"
+      "contentSnippet": "JR大阪駅付近の交差点で2026年3月、下水道工事中に巨大な鋼管が地中から約13mせり上がった事故は、鋼管と地盤との間に充填材を注入せず、鋼管周囲の摩擦力が想定以下だったことが原因だと分かった。地下水による浮力を摩擦力で押さえられなかった。適用した工法は、同様の地盤条件での施工実績がなく、施工者による事前検討が不十分だったことも判明。発注者の大阪市は、事故に伴う費用の負担を、施工者の大豊建設・森本組JV（共同企業体）に求める考えだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02732/",
+      "fingerprint": "5fd7d6a54a7af23ad24c8eb55840b89634fbf375c0bfe1af807374fafb43c990"
     },
     {
-      "title": "八潮道路陥没事故の復旧、工程別のリスク対応表　埼玉県が作成",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02729/",
-      "pubDate": "2026-08-16T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "埼玉県は2025年1月に八潮市で発生した下水道管の破損が原因と見られる道路陥没事故の復旧工事を、306億円の事業費を投じて進めている。復旧に当たって各工程で懸念されるリスクへの対応を記した表を作成した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02729/",
-      "fingerprint": "933e95ce4658882fc7de98db5b32dddefa8ec998f9d574cb348b7156e93463d8"
-    },
-    {
-      "title": "3位は「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」経営層の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
-      "pubDate": "2026-08-16T20:00:00.000Z",
+      "title": "「塩」の備えなく書類送検、熱中症で死亡した作業者が勤める建設会社",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700001/",
+      "pubDate": "2026-08-18T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "日経クロステックで2026年7月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。3位に「生コン品質試験で不正発覚、監督員立ち会いで『現行犯』　北海道新幹線工事」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400397/",
-      "fingerprint": "6ab318c1046e2dc11faff7eb00078a5c5579865f829bf6802fdfdba7b1132563"
+      "contentSnippet": "最高気温が40度以上の日を「酷暑日」と呼ぶことになって、最初の夏が到来した。2025年6月に施行された罰則付きの熱中症対策義務化は2年目に突入。建設業界では労働者を熱中症から守る仕組みづくりが進む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700001/",
+      "fingerprint": "9bc3418adfa60b777a4e22313f00c6b08806f65c74a33a8102e43bec82378d94"
     },
     {
-      "title": "1位は「監理技術者縛りの苦悩、大成建設はやむなく交代で違約金1.4億円」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
-      "pubDate": "2026-08-16T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月17～23日に読まれた記事の1～10位を26年8月17～23日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300377/",
-      "fingerprint": "8c8e713666a68cb3ad7fe811ff4603bd35501ce0aa872de09483d876229629b1"
-    },
-    {
-      "title": "AIで顔認証や玄関先の見守りができるテレビドアホン",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01055/",
-      "pubDate": "2026-08-16T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "パナソニックは、AI（人工知能）を搭載したモニター付きテレビドアホン「外でもドアホン」VL-X70シリーズを2026年6月に発売した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01055/",
-      "fingerprint": "9c13ccb39c910899989d1fa84b0c011735f3b06feb7c1b56e828893a1e50e944"
-    },
-    {
-      "title": "建設論評・日本のかたちの継承/未来の建設人と共に - kensetsunews.com",
+      "title": "建設論評・日本のかたちの継承/未来の建設人と共に - 建設通信新聞Digital",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NSEZFdzk4eFg3OS0tVWRFZDFVdVJ6ckZGNGQyazBpTGJyTjRnUUlfWExQUlFQUy0wdENHSENTWHZNelQzRTlacTBldzNld1FkM2xGS1c1Q1g?oc=5",
       "pubDate": "Mon, 17 Aug 2026 20:22:56 GMT",
       "feedName": "Googleニュース 建設業",
       "score": 1.6082983584000001,
-      "contentSnippet": "建設論評・日本のかたちの継承/未来の建設人と共に  kensetsunews.com",
+      "contentSnippet": "建設論評・日本のかたちの継承/未来の建設人と共に  建設通信新聞Digital",
       "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NSEZFdzk4eFg3OS0tVWRFZDFVdVJ6ckZGNGQyazBpTGJyTjRnUUlfWExQUlFQUy0wdENHSENTWHZNelQzRTlacTBldzNld1FkM2xGS1c1Q1g?oc=5",
-      "fingerprint": "c89b91df5237d3aeba03d704eb838b10e573af655594e1ed2c45a481d0f310a3"
+      "fingerprint": "f3ddea4d0f40d35f405100e59370808d96b3b3db39460b66e912e9b6adde1c7d"
+    },
+    {
+      "title": "道路300km超の「縮小」議論へ、秋田県が先べん　除草・除雪の頻度見直しも",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100003/",
+      "pubDate": "2026-08-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "秋田県は、少子高齢化の「課題先進県」だ。2020年から25年にかけての人口減少率は47都道府県で最も高い。社会保障・人口問題研究所の推計によると、50年の人口は20年比で4割減の約56万人になる。その秋田県が全国に先駆けて県管理の道路の「スマートシュリンク（賢い縮小）」に向けた議論を始めた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100003/",
+      "fingerprint": "207dc94baef9ffa6fb035cfb7cc1345f8a8c0956b7d221af73056fb270d2d42a"
+    },
+    {
+      "title": "3位は「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」一般社員層の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400399/",
+      "pubDate": "2026-08-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年7月、一般社員層の会員が読んだ記事をランキング形式で紹介します。3位に「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400399/",
+      "fingerprint": "64030aadf522eb009d873d5cf0f1cc710c4481efe3da6823693a871fff24999c"
+    },
+    {
+      "title": "水道「民営化」の是非、「再公営化」掲げる英バーナム新首相が問う",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01445/00048/",
+      "pubDate": "2026-08-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "英国で新たに誕生したバーナム政権は、経営危機に陥っている水道会社、テムズ・ウオーターを再び公的管理下に置くのか。もしそうなれば、英国を一つのお手本に水道事業の民間活用を進めてきた日本の政策にも影響が出るかもしれない。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01445/00048/",
+      "fingerprint": "7f89e960fd93691cd21d91a70b52d06657194ac5722949764135dc7843d49b27"
     },
     {
       "title": "1位は「庁舎が暑い原因は設計ミス、窓を壁と間違い計算　梓設計が1800万円負担」部課長層の注目トップ10",
@@ -107,16 +117,6 @@
       "fingerprint": "58263b306d690a4d1700a2d0f1d2b5d36b9686909e004c015e17c9b9f3f6ebb8"
     },
     {
-      "title": "博多「明治公園」の全貌、見どころは藤本壮介氏が監修した立体園路",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02900/",
-      "pubDate": "2026-08-17T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "福岡市の博多駅至近の「明治公園」は、都市公園を回遊する立体園路と店舗棟が特徴だ。総合デザイン監修を藤本壮介氏が手掛けた。事業者である東京建物が開催した、オープニングセレモニーや現地の様子をリポートする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02900/",
-      "fingerprint": "b2232975e5b9132f42f3daed9cb73001669c2dd823801508633cff2ae8b65e41"
-    },
-    {
       "title": "メリハリ管理を続ける新潟市が「要修繕の橋面積」1位、全国一律目標の功罪",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100002/",
       "pubDate": "2026-08-17T20:00:00.000Z",
@@ -125,6 +125,16 @@
       "contentSnippet": "「点検の結果、各部材の痛みがひどいことから、橋を渡っている方々の利用状況を調査しています」。新潟県長岡市で、ある小規模橋に掲げられた看板の一文だ。同市には建設年度が古い橋が多く、老朽化が深刻な問題になっている。看板には、「ご意見を参考に、修繕や集約化を考えさせていただきます」と続く。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100002/",
       "fingerprint": "eb369296b7989d615764deef5ec9ca82bc1e2d5209bcf9dd4c1428dcb6d4e1e8"
+    },
+    {
+      "title": "博多「明治公園」の全貌、見どころは藤本壮介氏が監修した立体園路",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02900/",
+      "pubDate": "2026-08-17T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "福岡市の博多駅至近の「明治公園」は、都市公園を回遊する立体園路と店舗棟が特徴だ。総合デザイン監修を藤本壮介氏が手掛けた。事業者である東京建物が開催した、オープニングセレモニーや現地の様子をリポートする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02900/",
+      "fingerprint": "b2232975e5b9132f42f3daed9cb73001669c2dd823801508633cff2ae8b65e41"
     },
     {
       "title": "Q．隈研吾氏設計の福井県立大学「恐竜学部」の拠点、外観はどんな形？",
@@ -137,97 +147,87 @@
       "fingerprint": "6ea1acdea450ba854f39a7c5ce31ead99c7515621d599fd93f2318af0e92d969"
     },
     {
-      "title": "ソニーのHDD用レーザー、奇抜な構造でコンペに挑む　年末の逆転劇",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/080700035/",
-      "pubDate": "2026-08-16T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
+      "title": "3位は「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」一般社員層の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400399/",
+      "pubDate": "2026-08-18T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
       "score": 0,
-      "contentSnippet": "ソニーの半導体事業部の白石蔵王テクノロジーセンターでは、熱アシスト磁気記録と呼ばれる新技術に向けた半導体レーザーの開発に取り組んでいた。ところが2011年3月11日の東日本大震災で被災してしまう。そんな苦況の中、依頼元のシーゲイトの米国拠点に向かう。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/080700035/",
-      "fingerprint": "943a0bf8882518b2beb88471c087e2c3d322a4da62bb32957a52406c20d4baa1"
-    },
-    {
-      "title": "橋の「終活」始まる　50年で118億円の維持費、払えない町が出した答え",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100001/",
-      "pubDate": "2026-08-16T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "最新の2025年の国勢調査によると、20年からの5年間で日本の総人口は約310万人減った。その間、長さ2m以上の道路橋は全国でおよそ3800カ所増えた。橋は利用者が1人でもいる限り、簡単にはなくせない。人口や財政が縮む自治体にとって、点検や修繕の負担は増える一方だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100001/",
-      "fingerprint": "889a500ba923bac56482e5892566739149bbd51213be7d0c238001361646c81a"
+      "contentSnippet": "日経クロステックで2026年7月、一般社員層の会員が読んだ記事をランキング形式で紹介します。3位に「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400399/",
+      "fingerprint": "64030aadf522eb009d873d5cf0f1cc710c4481efe3da6823693a871fff24999c"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "国交省が直轄工事で「グリーン鉄」導入、順次現場追加　鋼材の脱炭素推進",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02733/",
-        "pubDate": "2026-08-17T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "国土交通省は直轄工事で、製造時の二酸化炭素（CO2）排出量を大幅に削減した鋼材「グリーン鉄」を活用した試行工事を実施する。2030年度以降の公共工事での本格活用に向け、26年度に10以上の現場で試行する予定だ。経済産業省と連携し、グリーン鉄の流通スキームの確立や、建設現場での製造段階を含めたCO2排出量の算定などを目指す。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02733/",
-        "fingerprint": "cc84f8660c4dd9772db58de137f6e74ec5c8cfb32f66013cb1ab9fb3786dc65c"
-      },
-      "xDraft": "【本文】\n国土交通省は直轄工事において、製造時のCO2排出量を大幅に削減した鋼材「グリーン鉄」の試行工事を実施します。2026年度には10以上の現場で試行し、2030年度以降の公共工事での本格活用を目指す方針です。経済産業省と連携し、排出量の算定方法や流通スキームの確立も進めるとのことです。\n\n建設産業にとって鋼材の脱炭素化は極めて大きなテーマですね。コストや供給安定性など課題は少なくありませんが、まずは公共工事が先行して市場を牽引しようとする姿勢に期待しています。僕たち現場側にとっても、資材選定の基準が変わる大きな転換点になりそうです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02733/\n\n【抜粋元】\n国交省が2026年度までに10カ所以上の直轄工事で「グリーン鉄」を試行導入し、2030年度以降の本格活用を目指すという記事です。経産省との連携による算定基準の整備についても触れています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国交省が2026年度までに10カ所以上の直轄工事で「グリーン鉄」を試行導入し、2030年度以降の本格活用を目指すという記事です。経産省との連携による算定基準の整備についても触れています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "AIで顔認証や玄関先の見守りができるテレビドアホン",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01055/",
-        "pubDate": "2026-08-16T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "パナソニックは、AI（人工知能）を搭載したモニター付きテレビドアホン「外でもドアホン」VL-X70シリーズを2026年6月に発売した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01055/",
-        "fingerprint": "9c13ccb39c910899989d1fa84b0c011735f3b06feb7c1b56e828893a1e50e944"
-      },
-      "xDraft": "【本文】\nパナソニックが、AIを搭載したモニター付きテレビドアホン「外でもドアホン」VL-X70シリーズを2026年6月に発売するそうです。AIによる顔認証や、玄関先の状況を判断する見守り機能を備えています。\n住宅設備に高度な解析機能が統合されることで、住まいのセキュリティはさらに一歩進みそうですね。単に映像を映すだけでなく、デバイス自らが状況を判断する進化の過程に、技術的な興味を惹かれます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00120/01055/\n\n【抜粋元】\nパナソニックが2026年6月に発売を予定している、AI搭載のテレビドアホンに関するニュースです。顔認証や見守りといったAI活用の具体例を挙げて書きました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "パナソニックが2026年6月に発売を予定している、AI搭載のテレビドアホンに関するニュースです。顔認証や見守りといったAI活用の具体例を挙げて書きました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "建設論評・日本のかたちの継承/未来の建設人と共に - kensetsunews.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NSEZFdzk4eFg3OS0tVWRFZDFVdVJ6ckZGNGQyazBpTGJyTjRnUUlfWExQUlFQUy0wdENHSENTWHZNelQzRTlacTBldzNld1FkM2xGS1c1Q1g?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 20:22:56 GMT",
+        "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 19:22:30 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 1.6082983584000001,
-        "contentSnippet": "建設論評・日本のかたちの継承/未来の建設人と共に  kensetsunews.com",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NSEZFdzk4eFg3OS0tVWRFZDFVdVJ6ckZGNGQyazBpTGJyTjRnUUlfWExQUlFQUy0wdENHSENTWHZNelQzRTlacTBldzNld1FkM2xGS1c1Q1g?oc=5",
-        "fingerprint": "c89b91df5237d3aeba03d704eb838b10e573af655594e1ed2c45a481d0f310a3"
+        "score": 5.208295095,
+        "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  山陽新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
+        "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
       },
-      "xDraft": "【本文】\n建設業界の役割として「日本のかたちの継承」を論じ、未来の担い手と共に歩む姿勢が示されています。伝統的なものづくりと、これからの時代に合わせた変化の両立が重要なテーマです。\n僕たちが日々向き合うインフラや建築物は、数十年後の風景そのものになります。先人が築いた技術や文化を大切に継承しながら、今の僕たちにしかできない「かたち」を、次世代と一緒に積み上げていきたいですね。\n\n出典：建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE5NSEZFdzk4eFg3OS0tVWRFZDFVdVJ6ckZGNGQyazBpTGJyTjRnUUlfWExQUlFQUy0wdENHSENTWHZNelQzRTlacTBldzNld1FkM2xGS1c1Q1g?oc=5\n\n【抜粋元】\n建設通信新聞の「建設論評」より、日本のかたちを次世代へ引き継ぎ、若手建設人と共に未来を築くことの重要性を説いた記事の内容を踏まえています。\n\n【判定】OK",
+      "xDraft": "【本文】\n建設業のデータ活用を促進するため、日本語で体系的に学べるopenBIMの解説記事100本が公開されました。特定のソフトに依存せずデータを共有できるopenBIMは、多くの関係者が関わる建設現場において非常に重要な役割を果たします。これほどまとまった学習リソースが日本語で提供されるのは、業界全体のデジタル化を底上げする素晴らしい取り組みだと感じます。僕もこれを機に、改めて学び直してみたいです。\n\n出典：山陽新聞\nhttps://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5\n\n【抜粋元】\n山陽新聞が報じた、建設業界のデータ活用を推進するための「openBIM解説記事100本」が日本語で公開されたというニュースに基づき、その意義と期待をまとめています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建設通信新聞の「建設論評」より、日本のかたちを次世代へ引き継ぎ、若手建設人と共に未来を築くことの重要性を説いた記事の内容を踏まえています。",
+      "xDraftExcerptSummary": "山陽新聞が報じた、建設業界のデータ活用を推進するための「openBIM解説記事100本」が日本語で公開されたというニュースに基づき、その意義と期待をまとめています。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "「塩」の備えなく書類送検、熱中症で死亡した作業者が勤める建設会社",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700001/",
+        "pubDate": "2026-08-18T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "最高気温が40度以上の日を「酷暑日」と呼ぶことになって、最初の夏が到来した。2025年6月に施行された罰則付きの熱中症対策義務化は2年目に突入。建設業界では労働者を熱中症から守る仕組みづくりが進む。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700001/",
+        "fingerprint": "9bc3418adfa60b777a4e22313f00c6b08806f65c74a33a8102e43bec82378d94"
+      },
+      "xDraft": "【本文】\n2025年6月から始まった罰則付きの熱中症対策義務化が2年目を迎え、現場の管理体制が厳しく問われています。実際に「塩」の備えを怠ったとして書類送検される事例も出ており、対策の有無が生死と法的な責任を分ける状況です。\n僕としては、こうした厳しい事例が共有されることで、現場の安全水準が着実に向上することを願っています。過酷な酷暑日が増えるなか、働く人を守る仕組みづくりは産業の持続可能性に直結する大切な課題ですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03717/080700001/\n\n【抜粋元】\n熱中症対策の義務化2年目の現状と、必要な備品（塩）を欠いたことで書類送検に至った建設会社の事例について。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "熱中症対策の義務化2年目の現状と、必要な備品（塩）を欠いたことで書類送検に至った建設会社の事例について。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "大阪の巨大鋼管せり上がり、充填材使わず摩擦力低下　施工者の検討不十分",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02732/",
+        "pubDate": "2026-08-18T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "JR大阪駅付近の交差点で2026年3月、下水道工事中に巨大な鋼管が地中から約13mせり上がった事故は、鋼管と地盤との間に充填材を注入せず、鋼管周囲の摩擦力が想定以下だったことが原因だと分かった。地下水による浮力を摩擦力で押さえられなかった。適用した工法は、同様の地盤条件での施工実績がなく、施工者による事前検討が不十分だったことも判明。発注者の大阪市は、事故に伴う費用の負担を、施工者の大豊建設・森本組JV（共同企業体）に求める考えだ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02732/",
+        "fingerprint": "5fd7d6a54a7af23ad24c8eb55840b89634fbf375c0bfe1af807374fafb43c990"
+      },
+      "xDraft": "【本文】\nJR大阪駅付近の下水道工事で、巨大な鋼管が約13mもせり上がった事故の調査結果が公表されました。原因は充填材の注入を省いたことで鋼管周囲の摩擦力が低下し、地下水の浮力を抑えられなかったことだそうです。同様の地盤条件での実績がなく、事前の検討が不十分だったと判明しました。\n\n地下から構造物を押し上げる浮力のエネルギーには、あらためて自然の力の大きさを思い知らされます。実績の乏しい条件下で「不確実性」をどう評価し、対策を講じるべきだったのか、技術者として非常に考えさせられる事例です。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02732/\n\n【抜粋元】\n日経クロステック 土木の記事「大阪の巨大鋼管せり上がり、充填材使わず摩擦力低下　施工者の検討不十分」に基づき、事故の直接的な物理要因と、施工JVによる検討不足の背景を整理して執筆しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事「大阪の巨大鋼管せり上がり、充填材使わず摩擦力低下　施工者の検討不十分」に基づき、事故の直接的な物理要因と、施工JVによる検討不足の背景を整理して執筆しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "国交省が直轄工事で「グリーン鉄」導入、順次現場追加　鋼材の脱炭素推進",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02733/",
-    "pubDate": "2026-08-17T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "国土交通省は直轄工事で、製造時の二酸化炭素（CO2）排出量を大幅に削減した鋼材「グリーン鉄」を活用した試行工事を実施する。2030年度以降の公共工事での本格活用に向け、26年度に10以上の現場で試行する予定だ。経済産業省と連携し、グリーン鉄の流通スキームの確立や、建設現場での製造段階を含めたCO2排出量の算定などを目指す。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02733/",
-    "fingerprint": "cc84f8660c4dd9772db58de137f6e74ec5c8cfb32f66013cb1ab9fb3786dc65c"
+    "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
+    "pubDate": "Mon, 17 Aug 2026 19:22:30 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 5.208295095,
+    "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  山陽新聞",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
+    "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
   },
-  "xDraft": "【本文】\n国土交通省は直轄工事において、製造時のCO2排出量を大幅に削減した鋼材「グリーン鉄」の試行工事を実施します。2026年度には10以上の現場で試行し、2030年度以降の公共工事での本格活用を目指す方針です。経済産業省と連携し、排出量の算定方法や流通スキームの確立も進めるとのことです。\n\n建設産業にとって鋼材の脱炭素化は極めて大きなテーマですね。コストや供給安定性など課題は少なくありませんが、まずは公共工事が先行して市場を牽引しようとする姿勢に期待しています。僕たち現場側にとっても、資材選定の基準が変わる大きな転換点になりそうです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02733/\n\n【抜粋元】\n国交省が2026年度までに10カ所以上の直轄工事で「グリーン鉄」を試行導入し、2030年度以降の本格活用を目指すという記事です。経産省との連携による算定基準の整備についても触れています。\n\n【判定】OK",
+  "xDraft": "【本文】\n建設業のデータ活用を促進するため、日本語で体系的に学べるopenBIMの解説記事100本が公開されました。特定のソフトに依存せずデータを共有できるopenBIMは、多くの関係者が関わる建設現場において非常に重要な役割を果たします。これほどまとまった学習リソースが日本語で提供されるのは、業界全体のデジタル化を底上げする素晴らしい取り組みだと感じます。僕もこれを機に、改めて学び直してみたいです。\n\n出典：山陽新聞\nhttps://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5\n\n【抜粋元】\n山陽新聞が報じた、建設業界のデータ活用を推進するための「openBIM解説記事100本」が日本語で公開されたというニュースに基づき、その意義と期待をまとめています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "国交省が2026年度までに10カ所以上の直轄工事で「グリーン鉄」を試行導入し、2030年度以降の本格活用を目指すという記事です。経産省との連携による算定基準の整備についても触れています。",
+  "xDraftExcerptSummary": "山陽新聞が報じた、建設業界のデータ活用を推進するための「openBIM解説記事100本」が日本語で公開されたというニュースに基づき、その意義と期待をまとめています。",
   "xDraftAlternates": [],
   "errors": []
 }
