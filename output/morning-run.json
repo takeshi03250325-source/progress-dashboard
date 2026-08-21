@@ -1,91 +1,11 @@
 {
-  "generatedAt": "2026-08-20T21:52:27.214Z",
+  "generatedAt": "2026-08-21T21:47:33.879Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 5,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
-    {
-      "title": "建設業1人当たり道路延長、27kmから4200kmまで　担い手に自治体格差",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100004/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "人口減少が進む自治体で、道路インフラの縮小・廃止が徐々に議論されるようになってきた。一方、道路インフラの維持・補修を担う地域の建設業は一足早く縮小傾向にある。2024年の建設業就業者数はピーク時の1997年に比べて約3割減った。このままでは、担い手不足で道路を適切に維持できなくなり得る。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100004/",
-      "fingerprint": "10d12ae318757fccccd3c80429f95cd5254d414cf49387446dc8ac777f40a066"
-    },
-    {
-      "title": "取適法施行も価格転嫁率は横ばい、土木上位で最高評価は東亜建設工業のみ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02735/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "中小企業庁が実施した価格交渉・転嫁に関する最新の取引先調査で、土木売上高上位の建設会社に、「価格交渉」の最高評価が相次いだ。一方、「価格転嫁」では最高評価が東亜建設工業の1社にとどまり、建設業全体で前回調査から目立った改善が見られなかった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02735/",
-      "fingerprint": "f397a6ea09b036becd304bfabd95dff7575caa919f65534c9841264c5771b962"
-    },
-    {
-      "title": "「サマータイム」に「快適休憩所」、大林組が建設現場の待遇改善",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02736/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "猛暑の時間帯を避けて作業する「サマータイム」や、利用者の体を丸ごと冷却する「急速冷凍車」、Wi-Fi設備やシャワールームを備えた「快適休憩所」。建設現場の待遇改善を進める大林組は、建設業界に人を呼び込み、仕事を続けてもらうため、江戸川の工事現場で様々な工夫を重ねている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02736/",
-      "fingerprint": "1085be54a2ba780f8824ebce7ef84dad365fdc027be52a520c9432ebff22a947"
-    },
-    {
-      "title": "NEXCO西日本が入札価格に相対評価、平均の92％で満点",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "西日本高速道路（NEXCO西日本）は、同社が発注する一部の工事で総合評価落札方式の入札に相対評価を導入する。各参加者の入札価格を基に算出する価格評価点を、平均入札価格の92％で満点と設定。ただし、92％から100％までの間では、価格評価点にほとんど差がつかないようにする。この区間から入札価格が離れるほど急激に点数が下がる仕組みだ。この価格評価点に技術評価点を加えた評価値が最も高い参加者を落札者とする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-      "fingerprint": "9ca660110703a44abb6d00e363b2f52290be79463acc9a7ece577cdaafe0a1fe"
-    },
-    {
-      "title": "取適法施行も価格転嫁率は横ばい、土木上位で最高評価は東亜建設工業のみ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02735/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "中小企業庁が実施した価格交渉・転嫁に関する最新の取引先調査で、土木売上高上位の建設会社に、「価格交渉」の最高評価が相次いだ。一方、「価格転嫁」では最高評価が東亜建設工業の1社にとどまり、建設業全体で前回調査から目立った改善が見られなかった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02735/",
-      "fingerprint": "f397a6ea09b036becd304bfabd95dff7575caa919f65534c9841264c5771b962"
-    },
-    {
-      "title": "建設業1人当たり道路延長、27kmから4200kmまで　担い手に自治体格差",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100004/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "人口減少が進む自治体で、道路インフラの縮小・廃止が徐々に議論されるようになってきた。一方、道路インフラの維持・補修を担う地域の建設業は一足早く縮小傾向にある。2024年の建設業就業者数はピーク時の1997年に比べて約3割減った。このままでは、担い手不足で道路を適切に維持できなくなり得る。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/073100004/",
-      "fingerprint": "10d12ae318757fccccd3c80429f95cd5254d414cf49387446dc8ac777f40a066"
-    },
-    {
-      "title": "NEXCO西日本が入札価格に相対評価、平均の92％で満点",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "西日本高速道路（NEXCO西日本）は、同社が発注する一部の工事で総合評価落札方式の入札に相対評価を導入する。各参加者の入札価格を基に算出する価格評価点を、平均入札価格の92％で満点と設定。ただし、92％から100％までの間では、価格評価点にほとんど差がつかないようにする。この区間から入札価格が離れるほど急激に点数が下がる仕組みだ。この価格評価点に技術評価点を加えた評価値が最も高い参加者を落札者とする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-      "fingerprint": "9ca660110703a44abb6d00e363b2f52290be79463acc9a7ece577cdaafe0a1fe"
-    },
-    {
-      "title": "2026年熊本地震・土木被害マップ　道路や鉄道が寸断、石垣また崩れる",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00269/080600003/",
-      "pubDate": "2026-08-19T17:03:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "2026年7月、熊本地震が熊本県内のインフラを再び襲った。横ずれ断層型の地震で、主に宇城・八代地域に被害が集中。日奈久断層帯付近で複数の橋が損傷し、道路や鉄道が寸断された。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00269/080600003/",
-      "fingerprint": "baae93ece3bb8b24224bf198e6de8a3075ff82f178e11d738524812a41286afd"
-    },
     {
       "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
@@ -117,36 +37,6 @@
       "fingerprint": "b4eef8d324d997636558f69fd82c8ecfab95e714366775b2033f4a4c87f31770"
     },
     {
-      "title": "1位は「住宅の引き渡しを建て主が拒否、夏場に多い基礎のレベラー剥離に要注意」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300428/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月17～23日に読まれた記事の1～10位を26年8月20～26日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300428/",
-      "fingerprint": "7db4af42577f9945c5bb4637ad3247e059e933ad817b623ff367acc17e20ebad"
-    },
-    {
-      "title": "竹中工務店社員を逮捕、万博「大屋根リング」元作業所長に背任容疑",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02903/",
-      "pubDate": "2026-08-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "大阪府警は2026年8月19日、大阪・関西万博の「大屋根リング」建設工事で現場の総括作業所長を務めた竹中工務店の社員を背任の容疑で逮捕した。逮捕された社員は下請け会社と共謀し、水増しした費用を竹中工務店に支払わせて会社に損害を与えた疑いが持たれている。水増し金額は1000万円以上と見られる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02903/",
-      "fingerprint": "e781898df70613cd3652b0dc17c819232c2dd4922ddafbffaa6c57c5a28b5173"
-    },
-    {
-      "title": "逆止弁を省略した注入孔から土砂流入",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/080701045/",
-      "pubDate": "2026-08-19T17:06:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "東京都の水道工事で2026年4月に発生したシールドトンネル内への土砂流入事故について、流入経路となった裏込め注入孔に逆流を防ぐ「逆止弁」を設置していなかったことが分かった。注入孔の蓋を開けた作業員は、逆止弁の有無を把握していなかった。さらに、掘削で生じたトンネル外周の空間では下方に土砂が堆積し、流入箇所付近に裏込め材が十分に行き渡っていなかったと見られることも判明した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/080701045/",
-      "fingerprint": "e9a89b1865cdbd82d6dce17f4559b3d3b268755057c5348b36d001fa5e1fbcc2"
-    },
-    {
       "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
       "pubDate": "2026-08-20T20:00:00.000Z",
@@ -155,79 +45,189 @@
       "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
       "fingerprint": "78e9d9b51e23c2038aeb461fdc477e662f2d72f1babae8e98d655b9beee5f2d6"
+    },
+    {
+      "title": "熊本地震の全半壊建物、解体より修復の支援を",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年熊本地震で住家被害を受けた被災者にとって必要なのは解体費の支援だけではなく、住み慣れた住宅で暮らし続けるための支援ではないか。被災建物の修復を後押しするため、建築関係者から3つの施策を求める声が上がっている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
+      "fingerprint": "b4eef8d324d997636558f69fd82c8ecfab95e714366775b2033f4a4c87f31770"
+    },
+    {
+      "title": "建設の日本市場（2026年-2035年）、市場規模・分析レポートを発表 - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE11bGx2Sy16OXhac3RnbjczcTQ2RTNPVHpJZ3pDaHpBRmY1RkU3RDJFeEszU3RXSGNVY2NDdjVGb0lUSmE0SDFV?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 02:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.60847208,
+      "contentSnippet": "建設の日本市場（2026年-2035年）、市場規模・分析レポートを発表  Newscast.jp",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE11bGx2Sy16OXhac3RnbjczcTQ2RTNPVHpJZ3pDaHpBRmY1RkU3RDJFeEszU3RXSGNVY2NDdjVGb0lUSmE0SDFV?oc=5",
+      "fingerprint": "e43ee986c1a89b51634a9ae668a758c661af19af876896a65c105f62015e3776"
+    },
+    {
+      "title": "エリアでメリハリ付けた道路メンテナンスへ　オープンデータが開く次の一手",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/080500006/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "自治体が抱える道路メンテナンスの課題は複雑さを増している。劣化度や橋長など橋の情報だけでは持続可能な維持・補修が難しい。環境情報や周辺施設などエリア全体のオープンデータを活用する取り組みが進む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/080500006/",
+      "fingerprint": "d7d5cbc5a374a65791640ed09d1d230c15eebfa36faf075d3f296ac26b0b5228"
+    },
+    {
+      "title": "4位は「大量退職で戦略転換　職位『飛び級』道筋も」30代の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400401/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年7月、30代の会員が読んだ記事をランキング形式で紹介します。4位に「大量退職で戦略転換　職位『飛び級』道筋も」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400401/",
+      "fingerprint": "9975f6b5e77101a8bee815d25592d756d70003a7d8c6ac06f0d92fb403388841"
+    },
+    {
+      "title": "熊本地震で特徴的だった「断層変位」、取材映像で追う損傷の現場",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/081900017/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月28日、熊本地方を震源とする「令和8年熊本地震」が発生した。今回の地震で特徴的だったのが、断層が地表まで達してズレが生じる「断層変位」だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/081900017/",
+      "fingerprint": "faf31d25b43851eec4cc81f87e4f46ce8b170dec063c57e1dd65d9618d5bee28"
+    },
+    {
+      "title": "千葉豪雨、アンダーパス冠水の死亡事故　専門家「ハード対策不足は酷」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02738/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "千葉豪雨で、アンダーパスが冠水して車が水没し、乗っていた人が死亡する事故が相次いだ。道路を管理する国や自治体は、近年の気候変動による豪雨災害の激甚化を踏まえ、アンダーパスの冠水対策や利用者への注意喚起を進めていたが、被害を防げなかった。専門家に対策は十分だったのかを聞いた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02738/",
+      "fingerprint": "235555e3f926418fb908be230896e7b846e54e7de59c9af5cb8346c86b3c3497"
+    },
+    {
+      "title": "枠を見せない収納建具",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01059/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "ウッドワンは、内装建具シリーズ「ドレタス」に扉の内側に枠が付く構造の「アウトセット枠（収納建具）」を加え、2026年7月に受注を開始した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01059/",
+      "fingerprint": "dd61d67f092248deba2edce8e7cca748aa0e71f429dcd6ca16da649be9359bf7"
+    },
+    {
+      "title": "エリアでメリハリ付けた道路メンテナンスへ　オープンデータが開く次の一手",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/080500006/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "自治体が抱える道路メンテナンスの課題は複雑さを増している。劣化度や橋長など橋の情報だけでは持続可能な維持・補修が難しい。環境情報や周辺施設などエリア全体のオープンデータを活用する取り組みが進む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/080500006/",
+      "fingerprint": "d7d5cbc5a374a65791640ed09d1d230c15eebfa36faf075d3f296ac26b0b5228"
+    },
+    {
+      "title": "4位は「大量退職で戦略転換　職位『飛び級』道筋も」30代の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400401/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年7月、30代の会員が読んだ記事をランキング形式で紹介します。4位に「大量退職で戦略転換　職位『飛び級』道筋も」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400401/",
+      "fingerprint": "9975f6b5e77101a8bee815d25592d756d70003a7d8c6ac06f0d92fb403388841"
+    },
+    {
+      "title": "熊本地震で特徴的だった「断層変位」、取材映像で追う損傷の現場",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/081900017/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "2026年7月28日、熊本地方を震源とする「令和8年熊本地震」が発生した。今回の地震で特徴的だったのが、断層が地表まで達してズレが生じる「断層変位」だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/081900017/",
+      "fingerprint": "faf31d25b43851eec4cc81f87e4f46ce8b170dec063c57e1dd65d9618d5bee28"
+    },
+    {
+      "title": "千葉豪雨、アンダーパス冠水の死亡事故　専門家「ハード対策不足は酷」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02738/",
+      "pubDate": "2026-08-20T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "千葉豪雨で、アンダーパスが冠水して車が水没し、乗っていた人が死亡する事故が相次いだ。道路を管理する国や自治体は、近年の気候変動による豪雨災害の激甚化を踏まえ、アンダーパスの冠水対策や利用者への注意喚起を進めていたが、被害を防げなかった。専門家に対策は十分だったのかを聞いた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02738/",
+      "fingerprint": "235555e3f926418fb908be230896e7b846e54e7de59c9af5cb8346c86b3c3497"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "NEXCO西日本が入札価格に相対評価、平均の92％で満点",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-        "pubDate": "2026-08-19T20:00:00.000Z",
+        "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
+        "pubDate": "2026-08-20T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "西日本高速道路（NEXCO西日本）は、同社が発注する一部の工事で総合評価落札方式の入札に相対評価を導入する。各参加者の入札価格を基に算出する価格評価点を、平均入札価格の92％で満点と設定。ただし、92％から100％までの間では、価格評価点にほとんど差がつかないようにする。この区間から入札価格が離れるほど急激に点数が下がる仕組みだ。この価格評価点に技術評価点を加えた評価値が最も高い参加者を落札者とする。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-        "fingerprint": "9ca660110703a44abb6d00e363b2f52290be79463acc9a7ece577cdaafe0a1fe"
+        "score": 2.4,
+        "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
+        "fingerprint": "78e9d9b51e23c2038aeb461fdc477e662f2d72f1babae8e98d655b9beee5f2d6"
       },
-      "xDraft": "【本文】\nNEXCO西日本が一部の工事入札で、参加者の平均入札価格を基準とする「相対評価」を導入します。平均の92％で価格点が満点となり、そこから100％までの間は点数差がほとんどつかない設計です。この範囲を外れると点数が急落する仕組みで、最終的にはこれに技術評価点を加算して落札者を決定します。\n\n過度な安値競争を抑制しつつ、技術力でしっかり競い合える環境を整える試みだと感じます。平均値が評価の軸になることで、他社の動向をどう読むかといった戦略も重要になりそうですね。こうした制度の工夫が、業界の健全な持続につながることを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/\n\n【抜粋元】\nNEXCO西日本が導入する、平均価格の92％を評価のピークに設定した新しい相対評価制度の具体的な仕組みと、点数差が生じにくい価格帯の設定に関する内容を抽出しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n積水ハウスが、仮設トイレの筐体を転用した冷房休憩室「ひんやりBOX」を2026年夏に約100カ所へ本格導入します。設備工事が不要で、都市部の狭い建設現場にも設置できるのが大きな特徴です。\n既存の資材をうまく活用して現場の環境改善に繋げる視点が素晴らしいですね。スペースの限られた現場では休憩所の確保も一苦労なので、この縦長の形状は非常に理にかなっていると感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/\n\n【抜粋元】\n積水ハウスが仮設トイレ用のボックスを冷房休憩室に転用し、2026年に100カ所へ展開するという記事です。省スペースで設置可能な点と、現場環境の向上に着目して執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "NEXCO西日本が導入する、平均価格の92％を評価のピークに設定した新しい相対評価制度の具体的な仕組みと、点数差が生じにくい価格帯の設定に関する内容を抽出しました。",
+      "xDraftExcerptSummary": "積水ハウスが仮設トイレ用のボックスを冷房休憩室に転用し、2026年に100カ所へ展開するという記事です。省スペースで設置可能な点と、現場環境の向上に着目して執筆しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "NEXCO西日本が入札価格に相対評価、平均の92％で満点",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-        "pubDate": "2026-08-19T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "西日本高速道路（NEXCO西日本）は、同社が発注する一部の工事で総合評価落札方式の入札に相対評価を導入する。各参加者の入札価格を基に算出する価格評価点を、平均入札価格の92％で満点と設定。ただし、92％から100％までの間では、価格評価点にほとんど差がつかないようにする。この区間から入札価格が離れるほど急激に点数が下がる仕組みだ。この価格評価点に技術評価点を加えた評価値が最も高い参加者を落札者とする。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-        "fingerprint": "9ca660110703a44abb6d00e363b2f52290be79463acc9a7ece577cdaafe0a1fe"
+        "title": "使い終えたシールド機を実習施設に転用、トンネル内測量の技術継承の場に",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02737/",
+        "pubDate": "2026-08-20T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "大豊建設はトンネル工事で使い終えたシールド機を転用した実習施設「MOGLABO（もぐらぼ）」を、茨城県阿見町の自社技術研究所内に整備した。シールドトンネル工事の坑内測量を実践的に学ぶ施設として、若手技術者の技能習得を後押しする。大豊建設によると、実寸大のシールド機を使った常設の実習施設は国内初だ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02737/",
+        "fingerprint": "8837842060582e1a8a59963c129d5e9378ada624ac08275d3b535fed8a590287"
       },
-      "xDraft": "【本文】\nNEXCO西日本が、一部工事の総合評価落札方式に「相対評価」を導入します。平均入札価格の92％を価格評価の満点とし、92％から100％の間は点数差をほとんど設けない一方、そこから離れると点数が急落する仕組みです。\n\n過度な安値受注を抑制し、適切なコストでの施工を促す狙いを感じます。価格で差がつかないとなれば、これまで以上に技術提案の質が落札を左右することになりそうですね。健全な競争環境の構築に向けた、大きな一歩だと僕は思います。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/\n\n【抜粋元】\nNEXCO西日本が導入する新たな価格評価体系について、日経クロステックの記事から具体的な計算ルールと制度の狙いを整理しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n大豊建設が、役割を終えた実物大のシールド機を転用した実習施設「MOGLABO（もぐらぼ）」を茨城県に整備しました。国内初の常設施設として、若手技術者がシールドトンネルの坑内測量を実践的に学べる場になるそうです。\n\n一度使われた重機が、そのまま技術継承の舞台として生まれ変わるのは素敵な取り組みですね。特殊な環境下での測量技術は経験がものを言う世界ですから、こうした実寸大の練習場があることは現場の力に直結すると思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02737/\n\n【抜粋元】\n大豊建設が茨城県阿見町に整備した、国内初の実物大シールド機転用施設「MOGLABO」に関するニュースです。若手技術者の技能習得を目的とした、坑内測量の実習の場である点を紹介しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "NEXCO西日本が導入する新たな価格評価体系について、日経クロステックの記事から具体的な計算ルールと制度の狙いを整理しました。",
+      "xDraftExcerptSummary": "大豊建設が茨城県阿見町に整備した、国内初の実物大シールド機転用施設「MOGLABO」に関するニュースです。若手技術者の技能習得を目的とした、坑内測量の実習の場である点を紹介しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "2026年熊本地震・土木被害マップ　道路や鉄道が寸断、石垣また崩れる",
-        "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00269/080600003/",
-        "pubDate": "2026-08-19T17:03:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "2026年7月、熊本地震が熊本県内のインフラを再び襲った。横ずれ断層型の地震で、主に宇城・八代地域に被害が集中。日奈久断層帯付近で複数の橋が損傷し、道路や鉄道が寸断された。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00269/080600003/",
-        "fingerprint": "baae93ece3bb8b24224bf198e6de8a3075ff82f178e11d738524812a41286afd"
+        "title": "熊本地震の全半壊建物、解体より修復の支援を",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
+        "pubDate": "2026-08-20T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "2026年熊本地震で住家被害を受けた被災者にとって必要なのは解体費の支援だけではなく、住み慣れた住宅で暮らし続けるための支援ではないか。被災建物の修復を後押しするため、建築関係者から3つの施策を求める声が上がっている。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
+        "fingerprint": "b4eef8d324d997636558f69fd82c8ecfab95e714366775b2033f4a4c87f31770"
       },
-      "xDraft": "【本文】\n2026年7月の熊本地震は、宇城・八代地域を中心に道路や鉄道、橋梁といった重要インフラを寸断させました。日奈久断層帯付近での横ずれ断層型地震が主な要因で、過去に修復された石垣が再び崩れる被害も確認されています。\n一度直した場所が再度被災するのは、維持管理に携わる方々にとって非常に重い現実だと思います。被害マップで可視化された断層の影響を直視し、強靭なインフラをどう築くべきか、僕も深く考えさせられました。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00269/080600003/\n\n【抜粋元】\n2026年7月の地震による熊本県内のインフラ被害を詳細に伝えた記事です。日奈久断層帯付近での橋梁損傷や交通網の寸断、石垣の再崩落といった具体的な被害地点と地質的背景を踏まえて書きました。\n\n【判定】OK",
+      "xDraft": "【本文】\n熊本地震で被災した建物への支援を巡り、公費による解体だけでなく、修復して住み続けるための後押しを求める声が建築関係者から上がっています。記事では、被災した住居での生活再建を支えるための3つの具体的な施策が提言されています。\n\n建物は単なる構造物ではなく、そこに住む方の暮らしや地域の風景そのものだと僕は思います。被災した家を壊して更地にするだけでなく、専門的な技術によって再び住める状態を目指す支援は、まちの継続性という観点からも非常に意義深いですね。住み慣れた場所で再出発したいと願う方々にとって、こうした提言が大きな助けになることを願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/\n\n【抜粋元】\n日経クロステック 土木の記事から。熊本地震の被災住宅において、解体支援に偏った現状の課題と、建築関係者が求める「修復して住み続けるための3つの支援施策」の必要性について。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "2026年7月の地震による熊本県内のインフラ被害を詳細に伝えた記事です。日奈久断層帯付近での橋梁損傷や交通網の寸断、石垣の再崩落といった具体的な被害地点と地質的背景を踏まえて書きました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から。熊本地震の被災住宅において、解体支援に偏った現状の課題と、建築関係者が求める「修復して住み続けるための3つの支援施策」の必要性について。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "NEXCO西日本が入札価格に相対評価、平均の92％で満点",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-    "pubDate": "2026-08-19T20:00:00.000Z",
+    "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
+    "pubDate": "2026-08-20T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "西日本高速道路（NEXCO西日本）は、同社が発注する一部の工事で総合評価落札方式の入札に相対評価を導入する。各参加者の入札価格を基に算出する価格評価点を、平均入札価格の92％で満点と設定。ただし、92％から100％までの間では、価格評価点にほとんど差がつかないようにする。この区間から入札価格が離れるほど急激に点数が下がる仕組みだ。この価格評価点に技術評価点を加えた評価値が最も高い参加者を落札者とする。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/",
-    "fingerprint": "9ca660110703a44abb6d00e363b2f52290be79463acc9a7ece577cdaafe0a1fe"
+    "score": 2.4,
+    "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
+    "fingerprint": "78e9d9b51e23c2038aeb461fdc477e662f2d72f1babae8e98d655b9beee5f2d6"
   },
-  "xDraft": "【本文】\nNEXCO西日本が一部の工事入札で、参加者の平均入札価格を基準とする「相対評価」を導入します。平均の92％で価格点が満点となり、そこから100％までの間は点数差がほとんどつかない設計です。この範囲を外れると点数が急落する仕組みで、最終的にはこれに技術評価点を加算して落札者を決定します。\n\n過度な安値競争を抑制しつつ、技術力でしっかり競い合える環境を整える試みだと感じます。平均値が評価の軸になることで、他社の動向をどう読むかといった戦略も重要になりそうですね。こうした制度の工夫が、業界の健全な持続につながることを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02734/\n\n【抜粋元】\nNEXCO西日本が導入する、平均価格の92％を評価のピークに設定した新しい相対評価制度の具体的な仕組みと、点数差が生じにくい価格帯の設定に関する内容を抽出しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n積水ハウスが、仮設トイレの筐体を転用した冷房休憩室「ひんやりBOX」を2026年夏に約100カ所へ本格導入します。設備工事が不要で、都市部の狭い建設現場にも設置できるのが大きな特徴です。\n既存の資材をうまく活用して現場の環境改善に繋げる視点が素晴らしいですね。スペースの限られた現場では休憩所の確保も一苦労なので、この縦長の形状は非常に理にかなっていると感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/\n\n【抜粋元】\n積水ハウスが仮設トイレ用のボックスを冷房休憩室に転用し、2026年に100カ所へ展開するという記事です。省スペースで設置可能な点と、現場環境の向上に着目して執筆しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "NEXCO西日本が導入する、平均価格の92％を評価のピークに設定した新しい相対評価制度の具体的な仕組みと、点数差が生じにくい価格帯の設定に関する内容を抽出しました。",
+  "xDraftExcerptSummary": "積水ハウスが仮設トイレ用のボックスを冷房休憩室に転用し、2026年に100カ所へ展開するという記事です。省スペースで設置可能な点と、現場環境の向上に着目して執筆しました。",
   "xDraftAlternates": [],
   "errors": []
 }
