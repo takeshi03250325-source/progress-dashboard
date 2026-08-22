@@ -1,233 +1,38 @@
 {
-  "generatedAt": "2026-08-21T21:47:33.879Z",
+  "generatedAt": "2026-08-22T21:43:57.755Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
+  "skippedDuplicates": 2,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 0,
   "candidates": [
     {
-      "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
-      "fingerprint": "78e9d9b51e23c2038aeb461fdc477e662f2d72f1babae8e98d655b9beee5f2d6"
-    },
-    {
-      "title": "使い終えたシールド機を実習施設に転用、トンネル内測量の技術継承の場に",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02737/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "大豊建設はトンネル工事で使い終えたシールド機を転用した実習施設「MOGLABO（もぐらぼ）」を、茨城県阿見町の自社技術研究所内に整備した。シールドトンネル工事の坑内測量を実践的に学ぶ施設として、若手技術者の技能習得を後押しする。大豊建設によると、実寸大のシールド機を使った常設の実習施設は国内初だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02737/",
-      "fingerprint": "8837842060582e1a8a59963c129d5e9378ada624ac08275d3b535fed8a590287"
-    },
-    {
-      "title": "熊本地震の全半壊建物、解体より修復の支援を",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "2026年熊本地震で住家被害を受けた被災者にとって必要なのは解体費の支援だけではなく、住み慣れた住宅で暮らし続けるための支援ではないか。被災建物の修復を後押しするため、建築関係者から3つの施策を求める声が上がっている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
-      "fingerprint": "b4eef8d324d997636558f69fd82c8ecfab95e714366775b2033f4a4c87f31770"
-    },
-    {
-      "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
-      "fingerprint": "78e9d9b51e23c2038aeb461fdc477e662f2d72f1babae8e98d655b9beee5f2d6"
-    },
-    {
-      "title": "熊本地震の全半壊建物、解体より修復の支援を",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年熊本地震で住家被害を受けた被災者にとって必要なのは解体費の支援だけではなく、住み慣れた住宅で暮らし続けるための支援ではないか。被災建物の修復を後押しするため、建築関係者から3つの施策を求める声が上がっている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
-      "fingerprint": "b4eef8d324d997636558f69fd82c8ecfab95e714366775b2033f4a4c87f31770"
-    },
-    {
-      "title": "建設の日本市場（2026年-2035年）、市場規模・分析レポートを発表 - Newscast.jp",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE11bGx2Sy16OXhac3RnbjczcTQ2RTNPVHpJZ3pDaHpBRmY1RkU3RDJFeEszU3RXSGNVY2NDdjVGb0lUSmE0SDFV?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 02:00:00 GMT",
+      "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
+      "pubDate": "Sat, 22 Aug 2026 07:40:53 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 1.60847208,
-      "contentSnippet": "建設の日本市場（2026年-2035年）、市場規模・分析レポートを発表  Newscast.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE11bGx2Sy16OXhac3RnbjczcTQ2RTNPVHpJZ3pDaHpBRmY1RkU3RDJFeEszU3RXSGNVY2NDdjVGb0lUSmE0SDFV?oc=5",
-      "fingerprint": "e43ee986c1a89b51634a9ae668a758c661af19af876896a65c105f62015e3776"
+      "score": 5.2086460077,
+      "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  山陽新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
+      "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
     },
     {
-      "title": "エリアでメリハリ付けた道路メンテナンスへ　オープンデータが開く次の一手",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/080500006/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "自治体が抱える道路メンテナンスの課題は複雑さを増している。劣化度や橋長など橋の情報だけでは持続可能な維持・補修が難しい。環境情報や周辺施設などエリア全体のオープンデータを活用する取り組みが進む。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/080500006/",
-      "fingerprint": "d7d5cbc5a374a65791640ed09d1d230c15eebfa36faf075d3f296ac26b0b5228"
-    },
-    {
-      "title": "4位は「大量退職で戦略転換　職位『飛び級』道筋も」30代の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400401/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年7月、30代の会員が読んだ記事をランキング形式で紹介します。4位に「大量退職で戦略転換　職位『飛び級』道筋も」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400401/",
-      "fingerprint": "9975f6b5e77101a8bee815d25592d756d70003a7d8c6ac06f0d92fb403388841"
-    },
-    {
-      "title": "熊本地震で特徴的だった「断層変位」、取材映像で追う損傷の現場",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/081900017/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年7月28日、熊本地方を震源とする「令和8年熊本地震」が発生した。今回の地震で特徴的だったのが、断層が地表まで達してズレが生じる「断層変位」だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/081900017/",
-      "fingerprint": "faf31d25b43851eec4cc81f87e4f46ce8b170dec063c57e1dd65d9618d5bee28"
-    },
-    {
-      "title": "千葉豪雨、アンダーパス冠水の死亡事故　専門家「ハード対策不足は酷」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02738/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "千葉豪雨で、アンダーパスが冠水して車が水没し、乗っていた人が死亡する事故が相次いだ。道路を管理する国や自治体は、近年の気候変動による豪雨災害の激甚化を踏まえ、アンダーパスの冠水対策や利用者への注意喚起を進めていたが、被害を防げなかった。専門家に対策は十分だったのかを聞いた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02738/",
-      "fingerprint": "235555e3f926418fb908be230896e7b846e54e7de59c9af5cb8346c86b3c3497"
-    },
-    {
-      "title": "枠を見せない収納建具",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01059/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "ウッドワンは、内装建具シリーズ「ドレタス」に扉の内側に枠が付く構造の「アウトセット枠（収納建具）」を加え、2026年7月に受注を開始した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01059/",
-      "fingerprint": "dd61d67f092248deba2edce8e7cca748aa0e71f429dcd6ca16da649be9359bf7"
-    },
-    {
-      "title": "エリアでメリハリ付けた道路メンテナンスへ　オープンデータが開く次の一手",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/080500006/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "自治体が抱える道路メンテナンスの課題は複雑さを増している。劣化度や橋長など橋の情報だけでは持続可能な維持・補修が難しい。環境情報や周辺施設などエリア全体のオープンデータを活用する取り組みが進む。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03689/080500006/",
-      "fingerprint": "d7d5cbc5a374a65791640ed09d1d230c15eebfa36faf075d3f296ac26b0b5228"
-    },
-    {
-      "title": "4位は「大量退職で戦略転換　職位『飛び級』道筋も」30代の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400401/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年7月、30代の会員が読んだ記事をランキング形式で紹介します。4位に「大量退職で戦略転換　職位『飛び級』道筋も」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400401/",
-      "fingerprint": "9975f6b5e77101a8bee815d25592d756d70003a7d8c6ac06f0d92fb403388841"
-    },
-    {
-      "title": "熊本地震で特徴的だった「断層変位」、取材映像で追う損傷の現場",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/081900017/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "2026年7月28日、熊本地方を震源とする「令和8年熊本地震」が発生した。今回の地震で特徴的だったのが、断層が地表まで達してズレが生じる「断層変位」だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/081900017/",
-      "fingerprint": "faf31d25b43851eec4cc81f87e4f46ce8b170dec063c57e1dd65d9618d5bee28"
-    },
-    {
-      "title": "千葉豪雨、アンダーパス冠水の死亡事故　専門家「ハード対策不足は酷」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02738/",
-      "pubDate": "2026-08-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "千葉豪雨で、アンダーパスが冠水して車が水没し、乗っていた人が死亡する事故が相次いだ。道路を管理する国や自治体は、近年の気候変動による豪雨災害の激甚化を踏まえ、アンダーパスの冠水対策や利用者への注意喚起を進めていたが、被害を防げなかった。専門家に対策は十分だったのかを聞いた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02738/",
-      "fingerprint": "235555e3f926418fb908be230896e7b846e54e7de59c9af5cb8346c86b3c3497"
+      "title": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」 - 日刊工業新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V2M5Uy1oeWNSWUxxWVJuMmw3LXpLN1NETnlvV0VHd3RNWnBmTjFxOVpJa2hhUlRfRy1wUHRYT0pWZktpLUlaYjFlLWJqdmY3WlFsSHZ6amxDZ0dhVktRZ3ZuX3hyT1JFSGlmNXlKcw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 08:17:35 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4085702295,
+      "contentSnippet": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」  日刊工業新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V2M5Uy1oeWNSWUxxWVJuMmw3LXpLN1NETnlvV0VHd3RNWnBmTjFxOVpJa2hhUlRfRy1wUHRYT0pWZktpLUlaYjFlLWJqdmY3WlFsSHZ6amxDZ0dhVktRZ3ZuX3hyT1JFSGlmNXlKcw?oc=5",
+      "fingerprint": "150be79523b001fff9a248c3a621ff36f8ea385592e5cdc3c497d9032559af9f"
     }
   ],
-  "picks": [
-    {
-      "picked": {
-        "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
-        "pubDate": "2026-08-20T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
-        "fingerprint": "78e9d9b51e23c2038aeb461fdc477e662f2d72f1babae8e98d655b9beee5f2d6"
-      },
-      "xDraft": "【本文】\n積水ハウスが、仮設トイレの筐体を転用した冷房休憩室「ひんやりBOX」を2026年夏に約100カ所へ本格導入します。設備工事が不要で、都市部の狭い建設現場にも設置できるのが大きな特徴です。\n既存の資材をうまく活用して現場の環境改善に繋げる視点が素晴らしいですね。スペースの限られた現場では休憩所の確保も一苦労なので、この縦長の形状は非常に理にかなっていると感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/\n\n【抜粋元】\n積水ハウスが仮設トイレ用のボックスを冷房休憩室に転用し、2026年に100カ所へ展開するという記事です。省スペースで設置可能な点と、現場環境の向上に着目して執筆しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "積水ハウスが仮設トイレ用のボックスを冷房休憩室に転用し、2026年に100カ所へ展開するという記事です。省スペースで設置可能な点と、現場環境の向上に着目して執筆しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "使い終えたシールド機を実習施設に転用、トンネル内測量の技術継承の場に",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02737/",
-        "pubDate": "2026-08-20T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "大豊建設はトンネル工事で使い終えたシールド機を転用した実習施設「MOGLABO（もぐらぼ）」を、茨城県阿見町の自社技術研究所内に整備した。シールドトンネル工事の坑内測量を実践的に学ぶ施設として、若手技術者の技能習得を後押しする。大豊建設によると、実寸大のシールド機を使った常設の実習施設は国内初だ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02737/",
-        "fingerprint": "8837842060582e1a8a59963c129d5e9378ada624ac08275d3b535fed8a590287"
-      },
-      "xDraft": "【本文】\n大豊建設が、役割を終えた実物大のシールド機を転用した実習施設「MOGLABO（もぐらぼ）」を茨城県に整備しました。国内初の常設施設として、若手技術者がシールドトンネルの坑内測量を実践的に学べる場になるそうです。\n\n一度使われた重機が、そのまま技術継承の舞台として生まれ変わるのは素敵な取り組みですね。特殊な環境下での測量技術は経験がものを言う世界ですから、こうした実寸大の練習場があることは現場の力に直結すると思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02737/\n\n【抜粋元】\n大豊建設が茨城県阿見町に整備した、国内初の実物大シールド機転用施設「MOGLABO」に関するニュースです。若手技術者の技能習得を目的とした、坑内測量の実習の場である点を紹介しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "大豊建設が茨城県阿見町に整備した、国内初の実物大シールド機転用施設「MOGLABO」に関するニュースです。若手技術者の技能習得を目的とした、坑内測量の実習の場である点を紹介しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "熊本地震の全半壊建物、解体より修復の支援を",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
-        "pubDate": "2026-08-20T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "2026年熊本地震で住家被害を受けた被災者にとって必要なのは解体費の支援だけではなく、住み慣れた住宅で暮らし続けるための支援ではないか。被災建物の修復を後押しするため、建築関係者から3つの施策を求める声が上がっている。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/",
-        "fingerprint": "b4eef8d324d997636558f69fd82c8ecfab95e714366775b2033f4a4c87f31770"
-      },
-      "xDraft": "【本文】\n熊本地震で被災した建物への支援を巡り、公費による解体だけでなく、修復して住み続けるための後押しを求める声が建築関係者から上がっています。記事では、被災した住居での生活再建を支えるための3つの具体的な施策が提言されています。\n\n建物は単なる構造物ではなく、そこに住む方の暮らしや地域の風景そのものだと僕は思います。被災した家を壊して更地にするだけでなく、専門的な技術によって再び住める状態を目指す支援は、まちの継続性という観点からも非常に意義深いですね。住み慣れた場所で再出発したいと願う方々にとって、こうした提言が大きな助けになることを願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/081902084/\n\n【抜粋元】\n日経クロステック 土木の記事から。熊本地震の被災住宅において、解体支援に偏った現状の課題と、建築関係者が求める「修復して住み続けるための3つの支援施策」の必要性について。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事から。熊本地震の被災住宅において、解体支援に偏った現状の課題と、建築関係者が求める「修復して住み続けるための3つの支援施策」の必要性について。",
-      "xDraftAlternates": []
-    }
-  ],
-  "picked": {
-    "title": "仮設トイレ転用の「ひんやりBOX」好評、積水ハウスが100カ所に導入",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
-    "pubDate": "2026-08-20T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 2.4,
-    "contentSnippet": "積水ハウスは縦長の仮設トイレ用ボックスを転用した冷房休憩室「ひんやりBOX」の本格導入を始めた。設備工事が不要で、狭い建設現場にも置ける。2025年夏の試験導入が好評で、26年は約100カ所に拡大展開する。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/",
-    "fingerprint": "78e9d9b51e23c2038aeb461fdc477e662f2d72f1babae8e98d655b9beee5f2d6"
-  },
-  "xDraft": "【本文】\n積水ハウスが、仮設トイレの筐体を転用した冷房休憩室「ひんやりBOX」を2026年夏に約100カ所へ本格導入します。設備工事が不要で、都市部の狭い建設現場にも設置できるのが大きな特徴です。\n既存の資材をうまく活用して現場の環境改善に繋げる視点が素晴らしいですね。スペースの限られた現場では休憩所の確保も一苦労なので、この縦長の形状は非常に理にかなっていると感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03717/080700003/\n\n【抜粋元】\n積水ハウスが仮設トイレ用のボックスを冷房休憩室に転用し、2026年に100カ所へ展開するという記事です。省スペースで設置可能な点と、現場環境の向上に着目して執筆しました。\n\n【判定】OK",
-  "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "積水ハウスが仮設トイレ用のボックスを冷房休憩室に転用し、2026年に100カ所へ展開するという記事です。省スペースで設置可能な点と、現場環境の向上に着目して執筆しました。",
+  "picks": [],
+  "picked": null,
+  "xDraft": "",
+  "xDraftModel": null,
+  "xPostVerdict": null,
+  "xDraftExcerptSummary": null,
   "xDraftAlternates": [],
   "errors": []
 }
