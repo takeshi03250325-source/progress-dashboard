@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T21:43:57.755Z",
+  "generatedAt": "2026-08-23T21:44:16.766Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
+  "skippedDuplicates": 1,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
+  "pickCountActual": 3,
   "candidates": [
     {
       "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
@@ -17,22 +17,207 @@
       "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
     },
     {
-      "title": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」 - 日刊工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V2M5Uy1oeWNSWUxxWVJuMmw3LXpLN1NETnlvV0VHd3RNWnBmTjFxOVpJa2hhUlRfRy1wUHRYT0pWZktpLUlaYjFlLWJqdmY3WlFsSHZ6amxDZ0dhVktRZ3ZuX3hyT1JFSGlmNXlKcw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 08:17:35 GMT",
+      "title": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス - 日刊建設工業新聞",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 21:05:54 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4085702295,
-      "contentSnippet": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」  日刊工業新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V2M5Uy1oeWNSWUxxWVJuMmw3LXpLN1NETnlvV0VHd3RNWnBmTjFxOVpJa2hhUlRfRy1wUHRYT0pWZktpLUlaYjFlLWJqdmY3WlFsSHZ6amxDZ0dhVktRZ3ZuX3hyT1JFSGlmNXlKcw?oc=5",
-      "fingerprint": "150be79523b001fff9a248c3a621ff36f8ea385592e5cdc3c497d9032559af9f"
+      "score": 3.4087672386,
+      "contentSnippet": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス  日刊建設工業新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
+      "fingerprint": "5e9a05d400ab1e80a0795b2ba5c68aeed3010a0f5f8663e32e228ba6346b9725"
+    },
+    {
+      "title": "1位は「買い手から転換した東洋建設　売り手に回るM＆A、西松建設や西武建設も」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月24～30日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
+      "fingerprint": "bb0d98d9c0c6d056d87111a89a808dd9c179b87ef0547fcc039ae44b49abc64b"
+    },
+    {
+      "title": "鉄道新線「なにわ筋線」事業費、倍増の6425億円、さらに増大の可能性も",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "大阪市中心部を縦断する鉄道新線「なにわ筋線」の総事業費が、当初計画の3291億円から約2倍の6425億円に増える見通しだと分かった。資材・労務費や用地費などの上昇に加え、地中障害物の撤去やシールド工事の仕様変更などで費用が膨れ上がった。大阪市は、今後も物価上昇が続くと、工事費がさらに1000億円以上増える恐れがあると想定している。2031年とする開業目標は変えていない。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/",
+      "fingerprint": "807da7cd982ebe43fa1abe7df561176284ae8f35ed4ded65d18957c0f859174e"
+    },
+    {
+      "title": "首都高の荒川湾岸橋、トラス下につり足場　盛り替えながら大規模修繕",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "東京都江東区と江戸川区の間の荒川及び中川の河口部に架かる首都高速湾岸線の荒川湾岸橋で、大規模修繕工事が進んでいる。工事の現場が公開された。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
+      "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
+    },
+    {
+      "title": "1位は「買い手から転換した東洋建設　売り手に回るM＆A、西松建設や西武建設も」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月24～30日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
+      "fingerprint": "bb0d98d9c0c6d056d87111a89a808dd9c179b87ef0547fcc039ae44b49abc64b"
+    },
+    {
+      "title": "首都高の荒川湾岸橋、トラス下につり足場　盛り替えながら大規模修繕",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "東京都江東区と江戸川区の間の荒川及び中川の河口部に架かる首都高速湾岸線の荒川湾岸橋で、大規模修繕工事が進んでいる。工事の現場が公開された。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
+      "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
+    },
+    {
+      "title": "5位は「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」40代の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年7月、40代の会員が読んだ記事をランキング形式で紹介します。5位に「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
+      "fingerprint": "9069332928dea68283709bf11bf7e30dd0e21a9c5143a330b3465372d616dc95"
+    },
+    {
+      "title": "地盤調査報告書816件に不正、大和ハウス子会社で常態化した改ざんの手口",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02901/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "大和ハウス工業の子会社で、地盤調査を手掛ける大和ランテック（大阪市）が、816件の調査報告書を不適切に作成していたことが明らかになり波紋を広げている。12年超もの間、調査データを加工したり、他現場のデータを転用したりしていた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02901/",
+      "fingerprint": "9ea710d2c6b8b53c5ccfb0f2d55b7a8930e1d711733ff51e9b493c6bfc368d0f"
+    },
+    {
+      "title": "大東建託が涼しい「快適トイレ」導入、熱中症対策費は1億5000万円",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700004/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "冷却ベストの独自開発などで熱中症対策に力を入れる大東建託は、2026年の対策費を1億5000万円に増額。ミストファン付き仮設トイレの試行を始めた。年間で延べ約6000カ所の建設現場を「快適」にする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700004/",
+      "fingerprint": "04a1e2005e07f8cec03c49b0d9baebbcd94d4e0d9929f6e6c0f77521ba8f3118"
+    },
+    {
+      "title": "大東建託が涼しい「快適トイレ」導入、熱中症対策費は1億5000万円",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700004/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "冷却ベストの独自開発などで熱中症対策に力を入れる大東建託は、2026年の対策費を1億5000万円に増額。ミストファン付き仮設トイレの試行を始めた。年間で延べ約6000カ所の建設現場を「快適」にする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700004/",
+      "fingerprint": "04a1e2005e07f8cec03c49b0d9baebbcd94d4e0d9929f6e6c0f77521ba8f3118"
+    },
+    {
+      "title": "瞬時にお湯を沸かして使えるホテルの客室トイレ向け洗浄便座",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01060/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "TOTOは、瞬間式の給湯方式を採用したホテルの客室トイレ向け洗浄便座「ウォシュレットHX」と「ホテル向けウォシュレット一体形便器」を2026年8月に発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01060/",
+      "fingerprint": "84ffc49e492c2e08f21514748e003b01ec54ff8c0e6dbe2d97842632153033ec"
+    },
+    {
+      "title": "5位は「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」40代の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年7月、40代の会員が読んだ記事をランキング形式で紹介します。5位に「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
+      "fingerprint": "9069332928dea68283709bf11bf7e30dd0e21a9c5143a330b3465372d616dc95"
+    },
+    {
+      "title": "地盤調査報告書816件に不正、大和ハウス子会社で常態化した改ざんの手口",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02901/",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "大和ハウス工業の子会社で、地盤調査を手掛ける大和ランテック（大阪市）が、816件の調査報告書を不適切に作成していたことが明らかになり波紋を広げている。12年超もの間、調査データを加工したり、他現場のデータを転用したりしていた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02901/",
+      "fingerprint": "9ea710d2c6b8b53c5ccfb0f2d55b7a8930e1d711733ff51e9b493c6bfc368d0f"
     }
   ],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "picks": [
+    {
+      "picked": {
+        "title": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス - 日刊建設工業新聞",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
+        "pubDate": "Sun, 23 Aug 2026 21:05:54 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4087672386,
+        "contentSnippet": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス  日刊建設工業新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
+        "fingerprint": "5e9a05d400ab1e80a0795b2ba5c68aeed3010a0f5f8663e32e228ba6346b9725"
+      },
+      "xDraft": "【本文】\n国土交通省が「第8回JAPANコンストラクション国際賞」の受賞17件を発表しました。最優秀賞には、オーストラリアでのまちづくり事業などが評価された積水ハウスが選ばれています。\n日本の優れた施工品質やプロジェクト管理能力が、海外の現場でも着実に信頼を築いていることがわかりますね。技術だけでなく、現地の環境に寄り添う姿勢が国際的に認められるのは、僕も同じ業界の一員として非常に誇らしく感じます。\n\n出典：日刊建設工業新聞\nhttps://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5\n\n【抜粋元】\n国土交通省が発表した「第8回JAPANコンストラクション国際賞」の選考結果に基づき、計17件の受賞と積水ハウスの最優秀賞受賞を報じる記事から作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "国土交通省が発表した「第8回JAPANコンストラクション国際賞」の選考結果に基づき、計17件の受賞と積水ハウスの最優秀賞受賞を報じる記事から作成しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「買い手から転換した東洋建設　売り手に回るM＆A、西松建設や西武建設も」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
+        "pubDate": "2026-08-23T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月24～30日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
+        "fingerprint": "bb0d98d9c0c6d056d87111a89a808dd9c179b87ef0547fcc039ae44b49abc64b"
+      },
+      "xDraft": "【本文】\n日経クロステック土木にて、過去の人気記事ランキングが期間限定で無料公開されています。1位は東洋建設のM&A戦略の転換や、西松建設、西武建設などの動きを追った記事でした。\nかつての「買い手」から「売り手」へと立場を変える動きは、建設業界の構造が大きく変化している証左だと感じます。各社がどのような未来を描いて資本の再配置を行っているのか、非常に興味深い論点ですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/\n\n【抜粋元】\n日経クロステック土木が公開した人気記事ランキングから、M&A戦略の変遷を扱った1位の記事を紹介。ゼネコン各社の経営判断の背景に触れている点に注目して記述しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木が公開した人気記事ランキングから、M&A戦略の変遷を扱った1位の記事を紹介。ゼネコン各社の経営判断の背景に触れている点に注目して記述しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "鉄道新線「なにわ筋線」事業費、倍増の6425億円、さらに増大の可能性も",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/",
+        "pubDate": "2026-08-23T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "大阪市中心部を縦断する鉄道新線「なにわ筋線」の総事業費が、当初計画の3291億円から約2倍の6425億円に増える見通しだと分かった。資材・労務費や用地費などの上昇に加え、地中障害物の撤去やシールド工事の仕様変更などで費用が膨れ上がった。大阪市は、今後も物価上昇が続くと、工事費がさらに1000億円以上増える恐れがあると想定している。2031年とする開業目標は変えていない。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/",
+        "fingerprint": "807da7cd982ebe43fa1abe7df561176284ae8f35ed4ded65d18957c0f859174e"
+      },
+      "xDraft": "【本文】\n大阪市中心部を縦断する「なにわ筋線」の総事業費が、当初計画の3291億円から約2倍の6425億円に増える見通しです。資材・労務費の上昇に加え、地中障害物の撤去やシールド工事の仕様変更が主な要因とのこと。今後も物価上昇が続けば、さらに1000億円以上増える恐れも想定されています。\n\n都心部での大規模な地下工事には、常に予期せぬリスクが伴いますね。これほどのコスト増は非常に厳しい課題ですが、2031年の開業が関西の鉄道網を大きく変えることは間違いありません。難しい局面が続きますが、着実な進捗を応援したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/\n\n【抜粋元】\n日経クロステック 土木の記事。なにわ筋線の事業費が倍増した具体的要因（資材・労務費、地中障害物、工法の仕様変更）と、将来の増額懸念、開業目標について。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事。なにわ筋線の事業費が倍増した具体的要因（資材・労務費、地中障害物、工法の仕様変更）と、将来の増額懸念、開業目標について。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス - 日刊建設工業新聞",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
+    "pubDate": "Sun, 23 Aug 2026 21:05:54 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 3.4087672386,
+    "contentSnippet": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス  日刊建設工業新聞",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
+    "fingerprint": "5e9a05d400ab1e80a0795b2ba5c68aeed3010a0f5f8663e32e228ba6346b9725"
+  },
+  "xDraft": "【本文】\n国土交通省が「第8回JAPANコンストラクション国際賞」の受賞17件を発表しました。最優秀賞には、オーストラリアでのまちづくり事業などが評価された積水ハウスが選ばれています。\n日本の優れた施工品質やプロジェクト管理能力が、海外の現場でも着実に信頼を築いていることがわかりますね。技術だけでなく、現地の環境に寄り添う姿勢が国際的に認められるのは、僕も同じ業界の一員として非常に誇らしく感じます。\n\n出典：日刊建設工業新聞\nhttps://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5\n\n【抜粋元】\n国土交通省が発表した「第8回JAPANコンストラクション国際賞」の選考結果に基づき、計17件の受賞と積水ハウスの最優秀賞受賞を報じる記事から作成しました。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "国土交通省が発表した「第8回JAPANコンストラクション国際賞」の選考結果に基づき、計17件の受賞と積水ハウスの最優秀賞受賞を報じる記事から作成しました。",
   "xDraftAlternates": [],
   "errors": []
 }
