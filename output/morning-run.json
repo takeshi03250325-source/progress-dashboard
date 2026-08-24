@@ -1,21 +1,11 @@
 {
-  "generatedAt": "2026-08-23T21:44:16.766Z",
+  "generatedAt": "2026-08-24T21:53:09.143Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
+  "skippedDuplicates": 4,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
-    {
-      "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
-      "pubDate": "Sat, 22 Aug 2026 07:40:53 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.2086460077,
-      "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  山陽新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNlBmZWI1U2VILUVsU0hoUkZoSUE3cFBhY1g3S1AxYjQxX0dxbmRPdURaTm1oYkp1WUY0Nm1JRm9HUDhRWVJTYmdoOTd2TjNoR2c?oc=5",
-      "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
-    },
     {
       "title": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス - 日刊建設工業新聞",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
@@ -25,6 +15,16 @@
       "contentSnippet": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス  日刊建設工業新聞",
       "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
       "fingerprint": "5e9a05d400ab1e80a0795b2ba5c68aeed3010a0f5f8663e32e228ba6346b9725"
+    },
+    {
+      "title": "外環道シールド機の大ギア損傷、発端は22年の地中壁との接触事故と推定",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
+      "pubDate": "2026-08-24T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "東日本高速道路（NEXCO東日本）が発注した東京外かく環状道路（外環道）トンネル工事で2026年1月に見つかったシールド機内部の部材の損傷は、22年に起こった鋼製地中壁との接触事故が発端となって発生したことが分かった。接触事故で生じたベアリングの一部の微細な損傷が、掘進の再開後も放置されたため別のベアリングやギアに広がった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
+      "fingerprint": "3113eecbf91976720006ae9a7637ef1585277ff254a6ffa6aa4314cdb6d95114"
     },
     {
       "title": "1位は「買い手から転換した東洋建設　売り手に回るM＆A、西松建設や西武建設も」",
@@ -77,6 +77,46 @@
       "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
     },
     {
+      "title": "日本の重機部品市場規模、シェア、成長、トレンド＆予測：アフターマーケット部品、コンポーネント再生、設備稼働率、インテリ - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MazVZZXFGN2dhYXd6TFNaX0I5TUJOSTh2Yy1HZnZudnJfZ0xFSDlmTEs2QTdpbWIyT0Q3dFNJSDFhRFFrUmF4U3FYNXkxdWtxUjRHdVpZUzZmdHh4WVhjQUVlTjdfVHNSUm56ZVZtQWc1VHlFczBpUnE1UQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 00:03:39 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6087768371,
+      "contentSnippet": "日本の重機部品市場規模、シェア、成長、トレンド＆予測：アフターマーケット部品、コンポーネント再生、設備稼働率、インテリ  ニコニコニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MazVZZXFGN2dhYXd6TFNaX0I5TUJOSTh2Yy1HZnZudnJfZ0xFSDlmTEs2QTdpbWIyT0Q3dFNJSDFhRFFrUmF4U3FYNXkxdWtxUjRHdVpZUzZmdHh4WVhjQUVlTjdfVHNSUm56ZVZtQWc1VHlFczBpUnE1UQ?oc=5",
+      "fingerprint": "0866dd1cd015d1757b3081433308f368d8e2ed8cb512e0ac1299d13d838f08c6"
+    },
+    {
+      "title": "1位は「庁舎が暑い原因は設計ミス、窓を壁と間違い計算　梓設計が1800万円負担」50代の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400403/",
+      "pubDate": "2026-08-24T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年7月、50代の会員が読んだ記事をランキング形式で紹介します。1位は「庁舎が暑い原因は設計ミス、窓を壁と間違い計算　梓設計が1800万円負担」でした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400403/",
+      "fingerprint": "acf3b05150037ef6a675d0b86eab97c664fcc2b8f2d0ccb94eb9aafb1eee35cb"
+    },
+    {
+      "title": "電池不要の冷却ウエアで涼しさ持続、気化熱冷却や特殊保冷剤のベスト",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700005/",
+      "pubDate": "2026-08-24T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "気温が40度を超えたニュースが珍しくなくなり、熱中症対策の切り札になる冷却ウエア商戦が過熱している。建設現場では水循環式や保冷剤付きのベストなど、電力を使わずに冷たさが持続する製品に関心が集まる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700005/",
+      "fingerprint": "4b17ab4f4b208de8e300682f5be7f69e190418a81b60fd619f687942c8131954"
+    },
+    {
+      "title": "札幌駅直近の丘珠空港、滑走路を300m延長　ジェット機の運航拡大へ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02741/",
+      "pubDate": "2026-08-24T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "国土交通省は、札幌駅から約6kmの位置にある丘珠空港で、滑走路を1500mから1800mに延長する。現在は滑走路が短いため、プロペラ機中心の運用で、凍結などで制動距離が長くなる冬季は小型ジェット機の運航ができない。滑走路の延長によって小型ジェット機の通年運航が可能になる。事業期間は3～4年で、約160億円の事業費を見込んでいる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02741/",
+      "fingerprint": "32f780676c5145d70dfa83547aac618522115ce47fe4857f4ac005f2adc3a0bb"
+    },
+    {
       "title": "5位は「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」40代の注目トップ10",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
       "pubDate": "2026-08-23T20:00:00.000Z",
@@ -107,117 +147,87 @@
       "fingerprint": "04a1e2005e07f8cec03c49b0d9baebbcd94d4e0d9929f6e6c0f77521ba8f3118"
     },
     {
-      "title": "大東建託が涼しい「快適トイレ」導入、熱中症対策費は1億5000万円",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700004/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
+      "title": "電池不要の冷却ウエアで涼しさ持続、気化熱冷却や特殊保冷剤のベスト",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700005/",
+      "pubDate": "2026-08-24T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 0,
-      "contentSnippet": "冷却ベストの独自開発などで熱中症対策に力を入れる大東建託は、2026年の対策費を1億5000万円に増額。ミストファン付き仮設トイレの試行を始めた。年間で延べ約6000カ所の建設現場を「快適」にする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700004/",
-      "fingerprint": "04a1e2005e07f8cec03c49b0d9baebbcd94d4e0d9929f6e6c0f77521ba8f3118"
-    },
-    {
-      "title": "瞬時にお湯を沸かして使えるホテルの客室トイレ向け洗浄便座",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01060/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "TOTOは、瞬間式の給湯方式を採用したホテルの客室トイレ向け洗浄便座「ウォシュレットHX」と「ホテル向けウォシュレット一体形便器」を2026年8月に発売した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01060/",
-      "fingerprint": "84ffc49e492c2e08f21514748e003b01ec54ff8c0e6dbe2d97842632153033ec"
-    },
-    {
-      "title": "5位は「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」40代の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年7月、40代の会員が読んだ記事をランキング形式で紹介します。5位に「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
-      "fingerprint": "9069332928dea68283709bf11bf7e30dd0e21a9c5143a330b3465372d616dc95"
-    },
-    {
-      "title": "地盤調査報告書816件に不正、大和ハウス子会社で常態化した改ざんの手口",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02901/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "大和ハウス工業の子会社で、地盤調査を手掛ける大和ランテック（大阪市）が、816件の調査報告書を不適切に作成していたことが明らかになり波紋を広げている。12年超もの間、調査データを加工したり、他現場のデータを転用したりしていた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02901/",
-      "fingerprint": "9ea710d2c6b8b53c5ccfb0f2d55b7a8930e1d711733ff51e9b493c6bfc368d0f"
+      "contentSnippet": "気温が40度を超えたニュースが珍しくなくなり、熱中症対策の切り札になる冷却ウエア商戦が過熱している。建設現場では水循環式や保冷剤付きのベストなど、電力を使わずに冷たさが持続する製品に関心が集まる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700005/",
+      "fingerprint": "4b17ab4f4b208de8e300682f5be7f69e190418a81b60fd619f687942c8131954"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス - 日刊建設工業新聞",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
-        "pubDate": "Sun, 23 Aug 2026 21:05:54 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4087672386,
-        "contentSnippet": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス  日刊建設工業新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
-        "fingerprint": "5e9a05d400ab1e80a0795b2ba5c68aeed3010a0f5f8663e32e228ba6346b9725"
+        "title": "外環道シールド機の大ギア損傷、発端は22年の地中壁との接触事故と推定",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
+        "pubDate": "2026-08-24T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "東日本高速道路（NEXCO東日本）が発注した東京外かく環状道路（外環道）トンネル工事で2026年1月に見つかったシールド機内部の部材の損傷は、22年に起こった鋼製地中壁との接触事故が発端となって発生したことが分かった。接触事故で生じたベアリングの一部の微細な損傷が、掘進の再開後も放置されたため別のベアリングやギアに広がった。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
+        "fingerprint": "3113eecbf91976720006ae9a7637ef1585277ff254a6ffa6aa4314cdb6d95114"
       },
-      "xDraft": "【本文】\n国土交通省が「第8回JAPANコンストラクション国際賞」の受賞17件を発表しました。最優秀賞には、オーストラリアでのまちづくり事業などが評価された積水ハウスが選ばれています。\n日本の優れた施工品質やプロジェクト管理能力が、海外の現場でも着実に信頼を築いていることがわかりますね。技術だけでなく、現地の環境に寄り添う姿勢が国際的に認められるのは、僕も同じ業界の一員として非常に誇らしく感じます。\n\n出典：日刊建設工業新聞\nhttps://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5\n\n【抜粋元】\n国土交通省が発表した「第8回JAPANコンストラクション国際賞」の選考結果に基づき、計17件の受賞と積水ハウスの最優秀賞受賞を報じる記事から作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n外環道のシールド工事で起きたギア損傷は、2022年の地中壁との接触事故が発端だったようです。当時のベアリングの微細な傷が、掘進再開後に他の部品へ波及したと推定されています。\n巨大なシールド機であっても、わずかな損傷が連鎖して大きな故障に繋がる怖さを感じます。地下でのトラブル対応の難しさを改めて考えさせられました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/\n\n【抜粋元】\n日経クロステック 土木の記事より、外環道のシールド機損傷が2022年の接触事故によるベアリングの微細な傷の放置に起因することを説明した箇所を抜粋しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国土交通省が発表した「第8回JAPANコンストラクション国際賞」の選考結果に基づき、計17件の受賞と積水ハウスの最優秀賞受賞を報じる記事から作成しました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事より、外環道のシールド機損傷が2022年の接触事故によるベアリングの微細な傷の放置に起因することを説明した箇所を抜粋しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "1位は「買い手から転換した東洋建設　売り手に回るM＆A、西松建設や西武建設も」",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
+        "title": "首都高の荒川湾岸橋、トラス下につり足場　盛り替えながら大規模修繕",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
         "pubDate": "2026-08-23T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 2.4,
-        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月24～30日に無料で読めるようにしました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
-        "fingerprint": "bb0d98d9c0c6d056d87111a89a808dd9c179b87ef0547fcc039ae44b49abc64b"
+        "contentSnippet": "東京都江東区と江戸川区の間の荒川及び中川の河口部に架かる首都高速湾岸線の荒川湾岸橋で、大規模修繕工事が進んでいる。工事の現場が公開された。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
+        "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
       },
-      "xDraft": "【本文】\n日経クロステック土木にて、過去の人気記事ランキングが期間限定で無料公開されています。1位は東洋建設のM&A戦略の転換や、西松建設、西武建設などの動きを追った記事でした。\nかつての「買い手」から「売り手」へと立場を変える動きは、建設業界の構造が大きく変化している証左だと感じます。各社がどのような未来を描いて資本の再配置を行っているのか、非常に興味深い論点ですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/\n\n【抜粋元】\n日経クロステック土木が公開した人気記事ランキングから、M&A戦略の変遷を扱った1位の記事を紹介。ゼネコン各社の経営判断の背景に触れている点に注目して記述しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n首都高速湾岸線の荒川湾岸橋で進む、大規模修繕工事の現場が公開されました。東京都の江東区と江戸川区を繋ぐこの橋はトラス構造になっており、その下につり足場を設営し、盛り替えながら作業を進めているそうです。\n海風の影響を受ける河口部での維持管理は、想像以上に過酷な仕事だと思います。物流の要所を守り続ける技術者の皆さんの工夫や、インフラへの敬意を感じるニュースですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/\n\n【抜粋元】\n日経クロステック 土木の記事から、首都高速湾岸線・荒川湾岸橋の大規模修繕工事の内容を引用。トラス橋の下部につり足場を設置し、盛り替えながら進める具体的な工法と現場公開の様子を伝えています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック土木が公開した人気記事ランキングから、M&A戦略の変遷を扱った1位の記事を紹介。ゼネコン各社の経営判断の背景に触れている点に注目して記述しました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から、首都高速湾岸線・荒川湾岸橋の大規模修繕工事の内容を引用。トラス橋の下部につり足場を設置し、盛り替えながら進める具体的な工法と現場公開の様子を伝えています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "鉄道新線「なにわ筋線」事業費、倍増の6425億円、さらに増大の可能性も",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/",
+        "title": "首都高の荒川湾岸橋、トラス下につり足場　盛り替えながら大規模修繕",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
         "pubDate": "2026-08-23T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "大阪市中心部を縦断する鉄道新線「なにわ筋線」の総事業費が、当初計画の3291億円から約2倍の6425億円に増える見通しだと分かった。資材・労務費や用地費などの上昇に加え、地中障害物の撤去やシールド工事の仕様変更などで費用が膨れ上がった。大阪市は、今後も物価上昇が続くと、工事費がさらに1000億円以上増える恐れがあると想定している。2031年とする開業目標は変えていない。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/",
-        "fingerprint": "807da7cd982ebe43fa1abe7df561176284ae8f35ed4ded65d18957c0f859174e"
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 2,
+        "contentSnippet": "東京都江東区と江戸川区の間の荒川及び中川の河口部に架かる首都高速湾岸線の荒川湾岸橋で、大規模修繕工事が進んでいる。工事の現場が公開された。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
+        "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
       },
-      "xDraft": "【本文】\n大阪市中心部を縦断する「なにわ筋線」の総事業費が、当初計画の3291億円から約2倍の6425億円に増える見通しです。資材・労務費の上昇に加え、地中障害物の撤去やシールド工事の仕様変更が主な要因とのこと。今後も物価上昇が続けば、さらに1000億円以上増える恐れも想定されています。\n\n都心部での大規模な地下工事には、常に予期せぬリスクが伴いますね。これほどのコスト増は非常に厳しい課題ですが、2031年の開業が関西の鉄道網を大きく変えることは間違いありません。難しい局面が続きますが、着実な進捗を応援したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/\n\n【抜粋元】\n日経クロステック 土木の記事。なにわ筋線の事業費が倍増した具体的要因（資材・労務費、地中障害物、工法の仕様変更）と、将来の増額懸念、開業目標について。\n\n【判定】OK",
+      "xDraft": "【本文】\n東京都江東区と江戸川区の境、荒川・中川の河口部に架かる首都高速湾岸線の「荒川湾岸橋」にて、大規模修繕の現場が公開されました。トラス構造の下につり足場を設置し、それを盛り替えながら作業を進めるという、非常に精緻な工程が採られています。\n海風の影響を受けやすい過酷な環境下で、巨大なインフラの長寿命化を図るこの取り組みは、都市の活力を維持するために欠かせません。トラスの複雑な形状に合わせて足場を組み直していく技術者の皆さんの手腕に、深い敬意を感じます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/\n\n【抜粋元】\n首都高速湾岸線の荒川湾岸橋で進む大規模修繕工事の現場公開に関する記事。トラス下につり足場を設置し、盛り替えながら施工するという工事の具体的な特徴を抽出して構成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事。なにわ筋線の事業費が倍増した具体的要因（資材・労務費、地中障害物、工法の仕様変更）と、将来の増額懸念、開業目標について。",
+      "xDraftExcerptSummary": "首都高速湾岸線の荒川湾岸橋で進む大規模修繕工事の現場公開に関する記事。トラス下につり足場を設置し、盛り替えながら施工するという工事の具体的な特徴を抽出して構成しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス - 日刊建設工業新聞",
-    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
-    "pubDate": "Sun, 23 Aug 2026 21:05:54 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 3.4087672386,
-    "contentSnippet": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス  日刊建設工業新聞",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
-    "fingerprint": "5e9a05d400ab1e80a0795b2ba5c68aeed3010a0f5f8663e32e228ba6346b9725"
+    "title": "外環道シールド機の大ギア損傷、発端は22年の地中壁との接触事故と推定",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
+    "pubDate": "2026-08-24T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 2.4,
+    "contentSnippet": "東日本高速道路（NEXCO東日本）が発注した東京外かく環状道路（外環道）トンネル工事で2026年1月に見つかったシールド機内部の部材の損傷は、22年に起こった鋼製地中壁との接触事故が発端となって発生したことが分かった。接触事故で生じたベアリングの一部の微細な損傷が、掘進の再開後も放置されたため別のベアリングやギアに広がった。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
+    "fingerprint": "3113eecbf91976720006ae9a7637ef1585277ff254a6ffa6aa4314cdb6d95114"
   },
-  "xDraft": "【本文】\n国土交通省が「第8回JAPANコンストラクション国際賞」の受賞17件を発表しました。最優秀賞には、オーストラリアでのまちづくり事業などが評価された積水ハウスが選ばれています。\n日本の優れた施工品質やプロジェクト管理能力が、海外の現場でも着実に信頼を築いていることがわかりますね。技術だけでなく、現地の環境に寄り添う姿勢が国際的に認められるのは、僕も同じ業界の一員として非常に誇らしく感じます。\n\n出典：日刊建設工業新聞\nhttps://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5\n\n【抜粋元】\n国土交通省が発表した「第8回JAPANコンストラクション国際賞」の選考結果に基づき、計17件の受賞と積水ハウスの最優秀賞受賞を報じる記事から作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n外環道のシールド工事で起きたギア損傷は、2022年の地中壁との接触事故が発端だったようです。当時のベアリングの微細な傷が、掘進再開後に他の部品へ波及したと推定されています。\n巨大なシールド機であっても、わずかな損傷が連鎖して大きな故障に繋がる怖さを感じます。地下でのトラブル対応の難しさを改めて考えさせられました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/\n\n【抜粋元】\n日経クロステック 土木の記事より、外環道のシールド機損傷が2022年の接触事故によるベアリングの微細な傷の放置に起因することを説明した箇所を抜粋しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "国土交通省が発表した「第8回JAPANコンストラクション国際賞」の選考結果に基づき、計17件の受賞と積水ハウスの最優秀賞受賞を報じる記事から作成しました。",
+  "xDraftExcerptSummary": "日経クロステック 土木の記事より、外環道のシールド機損傷が2022年の接触事故によるベアリングの微細な傷の放置に起因することを説明した箇所を抜粋しました。",
   "xDraftAlternates": [],
   "errors": []
 }
