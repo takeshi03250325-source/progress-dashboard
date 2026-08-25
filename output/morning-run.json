@@ -1,20 +1,50 @@
 {
-  "generatedAt": "2026-08-24T21:53:09.143Z",
+  "generatedAt": "2026-08-25T21:51:53.905Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 4,
-  "skippedJapanFocus": 0,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス - 日刊建設工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 21:05:54 GMT",
+      "title": "国発注工事で猛暑対策の技術提案を評価、屋外作業人数の「縮減率」で加点",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "国土交通省関東地方整備局は、猛暑対策に関する技術提案を入札で評価する試行工事を現場打ちボックスカルバート工で発注する。総合評価落札方式の技術提案評価型S型を活用し、屋外作業人数をどれだけ削減できるかを評価する。猛暑対策を入札評価に使う取り組みは、関東地整では初だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
+      "fingerprint": "37b0b7013c202dbcdb588fc8062b7bb7a79241c2d33f60727941a23ca93b1c6e"
+    },
+    {
+      "title": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん - 建設通信新聞Digital",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 20:06:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4087672386,
-      "contentSnippet": "国交省／ＪＡＰＡＮコンストラクション国際賞１７件を発表、最優秀は積水ハウス  日刊建設工業新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRmFYYWtZMHhjd19zbE10MnhSbTN0WGFtOHJJSGJZTWVlSndOZFRNN2owS2NVUmlRWGRFdktOTWlVRVZJNk5J?oc=5",
-      "fingerprint": "5e9a05d400ab1e80a0795b2ba5c68aeed3010a0f5f8663e32e228ba6346b9725"
+      "score": 3.408919524,
+      "contentSnippet": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん  建設通信新聞Digital",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
+      "fingerprint": "7dd6ba0e63df409696585dcbe484bb31d1bf98dba15b59b67fa95e2860435f40"
+    },
+    {
+      "title": "2位は「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」60代以上の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステックで2026年7月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
+      "fingerprint": "19200eb2a88a8cc96c0e34150323719cf44247c348780b5d57a892d47274d0ab"
+    },
+    {
+      "title": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守ろうと、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
+      "fingerprint": "3ea716805b1508fac69ca177ea3e86f82cf88d9b2cd13327f0d0830a8a09be34"
     },
     {
       "title": "外環道シールド機の大ギア損傷、発端は22年の地中壁との接触事故と推定",
@@ -27,64 +57,44 @@
       "fingerprint": "3113eecbf91976720006ae9a7637ef1585277ff254a6ffa6aa4314cdb6d95114"
     },
     {
-      "title": "1位は「買い手から転換した東洋建設　売り手に回るM＆A、西松建設や西武建設も」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月24～30日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
-      "fingerprint": "bb0d98d9c0c6d056d87111a89a808dd9c179b87ef0547fcc039ae44b49abc64b"
-    },
-    {
-      "title": "鉄道新線「なにわ筋線」事業費、倍増の6425億円、さらに増大の可能性も",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "大阪市中心部を縦断する鉄道新線「なにわ筋線」の総事業費が、当初計画の3291億円から約2倍の6425億円に増える見通しだと分かった。資材・労務費や用地費などの上昇に加え、地中障害物の撤去やシールド工事の仕様変更などで費用が膨れ上がった。大阪市は、今後も物価上昇が続くと、工事費がさらに1000億円以上増える恐れがあると想定している。2031年とする開業目標は変えていない。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02739/",
-      "fingerprint": "807da7cd982ebe43fa1abe7df561176284ae8f35ed4ded65d18957c0f859174e"
-    },
-    {
-      "title": "首都高の荒川湾岸橋、トラス下につり足場　盛り替えながら大規模修繕",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "東京都江東区と江戸川区の間の荒川及び中川の河口部に架かる首都高速湾岸線の荒川湾岸橋で、大規模修繕工事が進んでいる。工事の現場が公開された。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
-      "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
-    },
-    {
-      "title": "1位は「買い手から転換した東洋建設　売り手に回るM＆A、西松建設や西武建設も」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
+      "title": "2位は「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」60代以上の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月24～30日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300378/",
-      "fingerprint": "bb0d98d9c0c6d056d87111a89a808dd9c179b87ef0547fcc039ae44b49abc64b"
+      "contentSnippet": "日経クロステックで2026年7月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
+      "fingerprint": "19200eb2a88a8cc96c0e34150323719cf44247c348780b5d57a892d47274d0ab"
     },
     {
-      "title": "首都高の荒川湾岸橋、トラス下につり足場　盛り替えながら大規模修繕",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
+      "title": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "東京都江東区と江戸川区の間の荒川及び中川の河口部に架かる首都高速湾岸線の荒川湾岸橋で、大規模修繕工事が進んでいる。工事の現場が公開された。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
-      "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
+      "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守ろうと、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
+      "fingerprint": "3ea716805b1508fac69ca177ea3e86f82cf88d9b2cd13327f0d0830a8a09be34"
     },
     {
-      "title": "日本の重機部品市場規模、シェア、成長、トレンド＆予測：アフターマーケット部品、コンポーネント再生、設備稼働率、インテリ - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MazVZZXFGN2dhYXd6TFNaX0I5TUJOSTh2Yy1HZnZudnJfZ0xFSDlmTEs2QTdpbWIyT0Q3dFNJSDFhRFFrUmF4U3FYNXkxdWtxUjRHdVpZUzZmdHh4WVhjQUVlTjdfVHNSUm56ZVZtQWc1VHlFczBpUnE1UQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 00:03:39 GMT",
+      "title": "TCJ日本語総合研究所「外国人材と働く日本人に聞く、日本語の実態調査2026」 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxbXM3cDNWV19mcjZualNYVVNReXVpLWtHb3RMRDM4SHoxX2VUVEt6VThsQUxBZ0lrdnRMQTNQMzJlNWtwYWpzd1o5SHUwQW9oQUJHS1dfc3FYMVZ2dThqTjZaU1VIb1VtWFBxNkY0ZzNGek0?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 06:00:22 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 1.6087768371,
-      "contentSnippet": "日本の重機部品市場規模、シェア、成長、トレンド＆予測：アフターマーケット部品、コンポーネント再生、設備稼働率、インテリ  ニコニコニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MazVZZXFGN2dhYXd6TFNaX0I5TUJOSTh2Yy1HZnZudnJfZ0xFSDlmTEs2QTdpbWIyT0Q3dFNJSDFhRFFrUmF4U3FYNXkxdWtxUjRHdVpZUzZmdHh4WVhjQUVlTjdfVHNSUm56ZVZtQWc1VHlFczBpUnE1UQ?oc=5",
-      "fingerprint": "0866dd1cd015d1757b3081433308f368d8e2ed8cb512e0ac1299d13d838f08c6"
+      "score": 1.6088738598,
+      "contentSnippet": "TCJ日本語総合研究所「外国人材と働く日本人に聞く、日本語の実態調査2026」  ニコニコニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxbXM3cDNWV19mcjZualNYVVNReXVpLWtHb3RMRDM4SHoxX2VUVEt6VThsQUxBZ0lrdnRMQTNQMzJlNWtwYWpzd1o5SHUwQW9oQUJHS1dfc3FYMVZ2dThqTjZaU1VIb1VtWFBxNkY0ZzNGek0?oc=5",
+      "fingerprint": "f59c085cca234abc2ce736cff9cc0fcdffc621b5135f19f2ee8f67ee2b0ab644"
+    },
+    {
+      "title": "千葉豪雨で死亡事故のアンダーパス、進入部から300m　地下まで見通せない",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02740/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "千葉豪雨により冠水し、水没した車に乗っていた男性が死亡した国道16号「村田町アンダーパス」（千葉市）を、記者が車で訪れた。現地の様子からは冠水対策設備の機能不全だけでなく、運転手が危険を認識しにくい道路構造上の課題も見えた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02740/",
+      "fingerprint": "ab5997d9694cce25a2ed2c726e41516792faf74a9b425c0f2e4fb2ff6a83b9dc"
     },
     {
       "title": "1位は「庁舎が暑い原因は設計ミス、窓を壁と間違い計算　梓設計が1800万円負担」50代の注目トップ10",
@@ -117,117 +127,107 @@
       "fingerprint": "32f780676c5145d70dfa83547aac618522115ce47fe4857f4ac005f2adc3a0bb"
     },
     {
-      "title": "5位は「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」40代の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年7月、40代の会員が読んだ記事をランキング形式で紹介します。5位に「災害調査にサイボーグ昆虫、潜水スーツ着たゴキブリが水中で3時間活動」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400402/",
-      "fingerprint": "9069332928dea68283709bf11bf7e30dd0e21a9c5143a330b3465372d616dc95"
-    },
-    {
-      "title": "地盤調査報告書816件に不正、大和ハウス子会社で常態化した改ざんの手口",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02901/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "大和ハウス工業の子会社で、地盤調査を手掛ける大和ランテック（大阪市）が、816件の調査報告書を不適切に作成していたことが明らかになり波紋を広げている。12年超もの間、調査データを加工したり、他現場のデータを転用したりしていた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02901/",
-      "fingerprint": "9ea710d2c6b8b53c5ccfb0f2d55b7a8930e1d711733ff51e9b493c6bfc368d0f"
-    },
-    {
-      "title": "大東建託が涼しい「快適トイレ」導入、熱中症対策費は1億5000万円",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700004/",
-      "pubDate": "2026-08-23T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "冷却ベストの独自開発などで熱中症対策に力を入れる大東建託は、2026年の対策費を1億5000万円に増額。ミストファン付き仮設トイレの試行を始めた。年間で延べ約6000カ所の建設現場を「快適」にする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700004/",
-      "fingerprint": "04a1e2005e07f8cec03c49b0d9baebbcd94d4e0d9929f6e6c0f77521ba8f3118"
-    },
-    {
-      "title": "電池不要の冷却ウエアで涼しさ持続、気化熱冷却や特殊保冷剤のベスト",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700005/",
-      "pubDate": "2026-08-24T20:00:00.000Z",
+      "title": "銀閣寺の近くに立つ柱や壁が傾めの家、塗装や設備は住みながらDIY",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03142/081400016/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 0,
-      "contentSnippet": "気温が40度を超えたニュースが珍しくなくなり、熱中症対策の切り札になる冷却ウエア商戦が過熱している。建設現場では水循環式や保冷剤付きのベストなど、電力を使わずに冷たさが持続する製品に関心が集まる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700005/",
-      "fingerprint": "4b17ab4f4b208de8e300682f5be7f69e190418a81b60fd619f687942c8131954"
+      "contentSnippet": "京都の名所・銀閣寺に近い斜面地に立つ、全ての部屋の柱や壁が傾斜した住宅だ。必要な居室の面積を立体的に積み上げ、眺望など外部との関係性も考えた結果、多面体の空間が生まれた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03142/081400016/",
+      "fingerprint": "ad224de3b94f79da855cb534db07002f4c2931ea5d07b5b16006f2ae5c2d867d"
+    },
+    {
+      "title": "シート単体で不燃認定を取得した内装用化粧シート",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01056/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "TOPPANは、シート単体で不燃認定を取得した粘着剤付き化粧シート「LOVAL FLANOA（ローバル フレノア）」の販売を2026年6月に開始した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01056/",
+      "fingerprint": "56c48ef331c00ec75a372637a26981a62491c934bb3426b40dca57bbbcebe31c"
+    },
+    {
+      "title": "千葉豪雨で死亡事故のアンダーパス、進入部から300m　地下まで見通せない",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02740/",
+      "pubDate": "2026-08-25T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "千葉豪雨により冠水し、水没した車に乗っていた男性が死亡した国道16号「村田町アンダーパス」（千葉市）を、記者が車で訪れた。現地の様子からは冠水対策設備の機能不全だけでなく、運転手が危険を認識しにくい道路構造上の課題も見えた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02740/",
+      "fingerprint": "ab5997d9694cce25a2ed2c726e41516792faf74a9b425c0f2e4fb2ff6a83b9dc"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "外環道シールド機の大ギア損傷、発端は22年の地中壁との接触事故と推定",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
-        "pubDate": "2026-08-24T20:00:00.000Z",
+        "title": "国発注工事で猛暑対策の技術提案を評価、屋外作業人数の「縮減率」で加点",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
+        "pubDate": "2026-08-25T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "東日本高速道路（NEXCO東日本）が発注した東京外かく環状道路（外環道）トンネル工事で2026年1月に見つかったシールド機内部の部材の損傷は、22年に起こった鋼製地中壁との接触事故が発端となって発生したことが分かった。接触事故で生じたベアリングの一部の微細な損傷が、掘進の再開後も放置されたため別のベアリングやギアに広がった。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
-        "fingerprint": "3113eecbf91976720006ae9a7637ef1585277ff254a6ffa6aa4314cdb6d95114"
+        "score": 4.8,
+        "contentSnippet": "国土交通省関東地方整備局は、猛暑対策に関する技術提案を入札で評価する試行工事を現場打ちボックスカルバート工で発注する。総合評価落札方式の技術提案評価型S型を活用し、屋外作業人数をどれだけ削減できるかを評価する。猛暑対策を入札評価に使う取り組みは、関東地整では初だ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
+        "fingerprint": "37b0b7013c202dbcdb588fc8062b7bb7a79241c2d33f60727941a23ca93b1c6e"
       },
-      "xDraft": "【本文】\n外環道のシールド工事で起きたギア損傷は、2022年の地中壁との接触事故が発端だったようです。当時のベアリングの微細な傷が、掘進再開後に他の部品へ波及したと推定されています。\n巨大なシールド機であっても、わずかな損傷が連鎖して大きな故障に繋がる怖さを感じます。地下でのトラブル対応の難しさを改めて考えさせられました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/\n\n【抜粋元】\n日経クロステック 土木の記事より、外環道のシールド機損傷が2022年の接触事故によるベアリングの微細な傷の放置に起因することを説明した箇所を抜粋しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n国土交通省関東地方整備局が、猛暑対策の技術提案を入札で評価する試行工事を、現場打ちボックスカルバート工で発注します。屋外作業の人数をどれだけ削減できるかという「縮減率」を、総合評価落札方式で加点評価する仕組みです。\nこれまでの暑さ対策は設備面が主流でしたが、工法の工夫で「屋外にいる人数を減らす」という本質的なアプローチを評価する点が非常に興味深いです。現場作業の負担を技術で解決しようとする、建設業界らしい前向きな動きだと感じています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/\n\n【抜粋元】\n関東地方整備局が猛暑対策を入札評価に活用する試行工事を開始するという記事から、屋外作業人数の「縮減率」を評価対象とする具体的な仕組みを抽出して構成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事より、外環道のシールド機損傷が2022年の接触事故によるベアリングの微細な傷の放置に起因することを説明した箇所を抜粋しました。",
+      "xDraftExcerptSummary": "関東地方整備局が猛暑対策を入札評価に活用する試行工事を開始するという記事から、屋外作業人数の「縮減率」を評価対象とする具体的な仕組みを抽出して構成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "首都高の荒川湾岸橋、トラス下につり足場　盛り替えながら大規模修繕",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
-        "pubDate": "2026-08-23T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "東京都江東区と江戸川区の間の荒川及び中川の河口部に架かる首都高速湾岸線の荒川湾岸橋で、大規模修繕工事が進んでいる。工事の現場が公開された。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
-        "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
+        "title": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん - 建設通信新聞Digital",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 20:06:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.408919524,
+        "contentSnippet": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん  建設通信新聞Digital",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
+        "fingerprint": "7dd6ba0e63df409696585dcbe484bb31d1bf98dba15b59b67fa95e2860435f40"
       },
-      "xDraft": "【本文】\n首都高速湾岸線の荒川湾岸橋で進む、大規模修繕工事の現場が公開されました。東京都の江東区と江戸川区を繋ぐこの橋はトラス構造になっており、その下につり足場を設営し、盛り替えながら作業を進めているそうです。\n海風の影響を受ける河口部での維持管理は、想像以上に過酷な仕事だと思います。物流の要所を守り続ける技術者の皆さんの工夫や、インフラへの敬意を感じるニュースですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/\n\n【抜粋元】\n日経クロステック 土木の記事から、首都高速湾岸線・荒川湾岸橋の大規模修繕工事の内容を引用。トラス橋の下部につり足場を設置し、盛り替えながら進める具体的な工法と現場公開の様子を伝えています。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本道路建設業協会の四国支部長に就任した、日比野忠臣さんのインタビュー記事です。道路建設業界はインフラの整備だけでなく、維持管理や災害時の迅速な対応においても地域を支える極めて重要な役割を担っています。\n\n四国は山間部が険しく、道路の利便性が暮らしや経済に直結する地域だと僕は感じています。新支部長のもとで、技術の継承や担い手不足といった共通の課題にどう向き合っていくのか、これからの活動に注目したいですね。\n\n出典：この人・日本道路建設業協会四国支部長/日比野 忠臣さん - 建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5\n\n【抜粋元】\n日本道路建設業協会の四国支部長に新しく就任した日比野忠臣氏を紹介する、建設通信新聞の「この人」欄の記事に基づいています。業界団体のリーダーとしての立場から、地域貢献への姿勢を伝えています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事から、首都高速湾岸線・荒川湾岸橋の大規模修繕工事の内容を引用。トラス橋の下部につり足場を設置し、盛り替えながら進める具体的な工法と現場公開の様子を伝えています。",
+      "xDraftExcerptSummary": "日本道路建設業協会の四国支部長に新しく就任した日比野忠臣氏を紹介する、建設通信新聞の「この人」欄の記事に基づいています。業界団体のリーダーとしての立場から、地域貢献への姿勢を伝えています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "首都高の荒川湾岸橋、トラス下につり足場　盛り替えながら大規模修繕",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
-        "pubDate": "2026-08-23T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "東京都江東区と江戸川区の間の荒川及び中川の河口部に架かる首都高速湾岸線の荒川湾岸橋で、大規模修繕工事が進んでいる。工事の現場が公開された。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/",
-        "fingerprint": "d9c1c67451347d7a9065e7eddcaf9bb960d21c121bd40e263ddb3fcc5a0c3979"
+        "title": "2位は「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」60代以上の注目トップ10",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
+        "pubDate": "2026-08-25T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステックで2026年7月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」が入りました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
+        "fingerprint": "19200eb2a88a8cc96c0e34150323719cf44247c348780b5d57a892d47274d0ab"
       },
-      "xDraft": "【本文】\n東京都江東区と江戸川区の境、荒川・中川の河口部に架かる首都高速湾岸線の「荒川湾岸橋」にて、大規模修繕の現場が公開されました。トラス構造の下につり足場を設置し、それを盛り替えながら作業を進めるという、非常に精緻な工程が採られています。\n海風の影響を受けやすい過酷な環境下で、巨大なインフラの長寿命化を図るこの取り組みは、都市の活力を維持するために欠かせません。トラスの複雑な形状に合わせて足場を組み直していく技術者の皆さんの手腕に、深い敬意を感じます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00110/00530/\n\n【抜粋元】\n首都高速湾岸線の荒川湾岸橋で進む大規模修繕工事の現場公開に関する記事。トラス下につり足場を設置し、盛り替えながら施工するという工事の具体的な特徴を抽出して構成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n東京都が発注した下水道工事で、施工を担う鹿島建設の社員が自らの判断により、トンネル部材を無断で切削していたことが明らかになりました。日経クロステックの読者ランキングによれば、この記事は特に60代以上のベテラン層から高い関心を集めたそうです。\n現場での臨機応変な対応と、本来守るべきルールの線引きは非常に難しい問題ですね。なぜ正規の手続きを踏まずに現場判断で進めてしまったのか、その背景にある要因についても深く考えさせられます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/\n\n【抜粋元】\n日経クロステックの会員ランキング記事から、2位にランクインした都発注下水道工事における不適切事案を引用しました。大手ゼネコン社員の判断による部材切削の経緯と、それがシニア層の注目を浴びている事実に基づいています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "首都高速湾岸線の荒川湾岸橋で進む大規模修繕工事の現場公開に関する記事。トラス下につり足場を設置し、盛り替えながら施工するという工事の具体的な特徴を抽出して構成しました。",
+      "xDraftExcerptSummary": "日経クロステックの会員ランキング記事から、2位にランクインした都発注下水道工事における不適切事案を引用しました。大手ゼネコン社員の判断による部材切削の経緯と、それがシニア層の注目を浴びている事実に基づいています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "外環道シールド機の大ギア損傷、発端は22年の地中壁との接触事故と推定",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
-    "pubDate": "2026-08-24T20:00:00.000Z",
+    "title": "国発注工事で猛暑対策の技術提案を評価、屋外作業人数の「縮減率」で加点",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
+    "pubDate": "2026-08-25T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
-    "score": 2.4,
-    "contentSnippet": "東日本高速道路（NEXCO東日本）が発注した東京外かく環状道路（外環道）トンネル工事で2026年1月に見つかったシールド機内部の部材の損傷は、22年に起こった鋼製地中壁との接触事故が発端となって発生したことが分かった。接触事故で生じたベアリングの一部の微細な損傷が、掘進の再開後も放置されたため別のベアリングやギアに広がった。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
-    "fingerprint": "3113eecbf91976720006ae9a7637ef1585277ff254a6ffa6aa4314cdb6d95114"
+    "score": 4.8,
+    "contentSnippet": "国土交通省関東地方整備局は、猛暑対策に関する技術提案を入札で評価する試行工事を現場打ちボックスカルバート工で発注する。総合評価落札方式の技術提案評価型S型を活用し、屋外作業人数をどれだけ削減できるかを評価する。猛暑対策を入札評価に使う取り組みは、関東地整では初だ。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
+    "fingerprint": "37b0b7013c202dbcdb588fc8062b7bb7a79241c2d33f60727941a23ca93b1c6e"
   },
-  "xDraft": "【本文】\n外環道のシールド工事で起きたギア損傷は、2022年の地中壁との接触事故が発端だったようです。当時のベアリングの微細な傷が、掘進再開後に他の部品へ波及したと推定されています。\n巨大なシールド機であっても、わずかな損傷が連鎖して大きな故障に繋がる怖さを感じます。地下でのトラブル対応の難しさを改めて考えさせられました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/\n\n【抜粋元】\n日経クロステック 土木の記事より、外環道のシールド機損傷が2022年の接触事故によるベアリングの微細な傷の放置に起因することを説明した箇所を抜粋しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n国土交通省関東地方整備局が、猛暑対策の技術提案を入札で評価する試行工事を、現場打ちボックスカルバート工で発注します。屋外作業の人数をどれだけ削減できるかという「縮減率」を、総合評価落札方式で加点評価する仕組みです。\nこれまでの暑さ対策は設備面が主流でしたが、工法の工夫で「屋外にいる人数を減らす」という本質的なアプローチを評価する点が非常に興味深いです。現場作業の負担を技術で解決しようとする、建設業界らしい前向きな動きだと感じています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/\n\n【抜粋元】\n関東地方整備局が猛暑対策を入札評価に活用する試行工事を開始するという記事から、屋外作業人数の「縮減率」を評価対象とする具体的な仕組みを抽出して構成しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経クロステック 土木の記事より、外環道のシールド機損傷が2022年の接触事故によるベアリングの微細な傷の放置に起因することを説明した箇所を抜粋しました。",
+  "xDraftExcerptSummary": "関東地方整備局が猛暑対策を入札評価に活用する試行工事を開始するという記事から、屋外作業人数の「縮減率」を評価対象とする具体的な仕組みを抽出して構成しました。",
   "xDraftAlternates": [],
   "errors": []
 }
