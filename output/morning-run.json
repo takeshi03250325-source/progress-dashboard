@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-25T21:51:53.905Z",
+  "generatedAt": "2026-08-27T00:57:53.024Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
+  "skippedDuplicates": 1,
   "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
@@ -17,6 +17,46 @@
       "fingerprint": "37b0b7013c202dbcdb588fc8062b7bb7a79241c2d33f60727941a23ca93b1c6e"
     },
     {
+      "title": "成田修造氏が挑む「住宅の再定義」、我が家の家事はロボットにお任せ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
+      "pubDate": "2026-08-26T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "100社のベンチャーを紹介する本特集のトップバッターは、成田修造氏が率いるMW（東京・港）。大学在学中に起業を経験し、人材事業を手掛けるクラウドワークスの上場に携わるなど、連続起業家として実績を上げてきた成田氏の次なる挑戦は「住宅の在り方の再定義」だ。建築設計や施工、人工知能（AI）、ロボットなどの専門家が集結し、フィジカルAIで動くロボットが家事を代行する未来の住宅の実現に挑む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
+      "fingerprint": "80e4b94b537b8c09e2f720798a8f21d00724f463cef1bac79596bb98bbd5cc0a"
+    },
+    {
+      "title": "竹中工務店が仕上げ材加工に新システム、手書き図面からCADデータ生成",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/",
+      "pubDate": "2026-08-26T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "竹中工務店と爽美（大阪市）は共同で、手書きの図面から建築内装仕上げ材の加工に使うCADデータを自動で作成するシステムを開発した。技能者が描いた図を撮影するだけで、人工知能（AI）が仕上げ材加工用のCADデータへ変換する。部材を加工する際などに、技能者がCADデータを作成する手間が省ける。26年9月から新システムを含めた加工機のレンタルを近畿地方で開始する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/",
+      "fingerprint": "831868a83a87a00d1529fb55e8a7780966a1529ed0d62b29d177d348e12cb5d7"
+    },
+    {
+      "title": "【JPIセミナー】国土交通省「インフラシステム海外展開政策と本邦企業支援の最新動向」9月9日(水)開催 - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 17:48:28 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4089898572,
+      "contentSnippet": "【JPIセミナー】国土交通省「インフラシステム海外展開政策と本邦企業支援の最新動向」9月9日(水)開催  ニコニコニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5",
+      "fingerprint": "aac1e7497d197951e27d501eda1981ea71d52f5a80fc1786d7b7b13d6d3cbe0a"
+    },
+    {
+      "title": "決算処理時間を半減させた大日本土木、50年稼働の基幹系を刷新した経緯と成果 - 日経クロステック Active",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3Vld0gxbXNDM2I4Q0xfWVpSTjBNT05NY3gxUkNuUW5pZG1YSWdlLVZDM3B1SGl0MjVZNWlpVlUzZTJpZWJveDBvVHVCdEVtUjFCMFBYa1BxdGRMY2FuanBXbUlFdWloOEVoa3ZIVURpYklHSmFMZmdhVHZPaXRHTlhWWFRVNHdhUk1SOFFBOA?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 15:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4089807600000004,
+      "contentSnippet": "決算処理時間を半減させた大日本土木、50年稼働の基幹系を刷新した経緯と成果  日経クロステック Active",
+      "urlNorm": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3Vld0gxbXNDM2I4Q0xfWVpSTjBNT05NY3gxUkNuUW5pZG1YSWdlLVZDM3B1SGl0MjVZNWlpVlUzZTJpZWJveDBvVHVCdEVtUjFCMFBYa1BxdGRMY2FuanBXbUlFdWloOEVoa3ZIVURpYklHSmFMZmdhVHZPaXRHTlhWWFRVNHdhUk1SOFFBOA?oc=5",
+      "fingerprint": "1e0813d8bc1e077779aa2b8ec3f9150ca51106bdad4a2171105f9e8be49a0d8a"
+    },
+    {
       "title": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん - 建設通信新聞Digital",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
       "pubDate": "Tue, 25 Aug 2026 20:06:00 GMT",
@@ -27,207 +67,167 @@
       "fingerprint": "7dd6ba0e63df409696585dcbe484bb31d1bf98dba15b59b67fa95e2860435f40"
     },
     {
-      "title": "2位は「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」60代以上の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステックで2026年7月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
-      "fingerprint": "19200eb2a88a8cc96c0e34150323719cf44247c348780b5d57a892d47274d0ab"
-    },
-    {
-      "title": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守ろうと、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
-      "fingerprint": "3ea716805b1508fac69ca177ea3e86f82cf88d9b2cd13327f0d0830a8a09be34"
-    },
-    {
-      "title": "外環道シールド機の大ギア損傷、発端は22年の地中壁との接触事故と推定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
-      "pubDate": "2026-08-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "東日本高速道路（NEXCO東日本）が発注した東京外かく環状道路（外環道）トンネル工事で2026年1月に見つかったシールド機内部の部材の損傷は、22年に起こった鋼製地中壁との接触事故が発端となって発生したことが分かった。接触事故で生じたベアリングの一部の微細な損傷が、掘進の再開後も放置されたため別のベアリングやギアに広がった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02730/",
-      "fingerprint": "3113eecbf91976720006ae9a7637ef1585277ff254a6ffa6aa4314cdb6d95114"
-    },
-    {
-      "title": "2位は「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」60代以上の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステックで2026年7月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
-      "fingerprint": "19200eb2a88a8cc96c0e34150323719cf44247c348780b5d57a892d47274d0ab"
-    },
-    {
-      "title": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守ろうと、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
-      "fingerprint": "3ea716805b1508fac69ca177ea3e86f82cf88d9b2cd13327f0d0830a8a09be34"
-    },
-    {
-      "title": "TCJ日本語総合研究所「外国人材と働く日本人に聞く、日本語の実態調査2026」 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxbXM3cDNWV19mcjZualNYVVNReXVpLWtHb3RMRDM4SHoxX2VUVEt6VThsQUxBZ0lrdnRMQTNQMzJlNWtwYWpzd1o5SHUwQW9oQUJHS1dfc3FYMVZ2dThqTjZaU1VIb1VtWFBxNkY0ZzNGek0?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 06:00:22 GMT",
+      "title": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」 - 日刊工業新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V2M5Uy1oeWNSWUxxWVJuMmw3LXpLN1NETnlvV0VHd3RNWnBmTjFxOVpJa2hhUlRfRy1wUHRYT0pWZktpLUlaYjFlLWJqdmY3WlFsSHZ6amxDZ0dhVktRZ3ZuX3hyT1JFSGlmNXlKcw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 14:15:07 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 1.6088738598,
-      "contentSnippet": "TCJ日本語総合研究所「外国人材と働く日本人に聞く、日本語の実態調査2026」  ニコニコニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxbXM3cDNWV19mcjZualNYVVNReXVpLWtHb3RMRDM4SHoxX2VUVEt6VThsQUxBZ0lrdnRMQTNQMzJlNWtwYWpzd1o5SHUwQW9oQUJHS1dfc3FYMVZ2dThqTjZaU1VIb1VtWFBxNkY0ZzNGek0?oc=5",
-      "fingerprint": "f59c085cca234abc2ce736cff9cc0fcdffc621b5135f19f2ee8f67ee2b0ab644"
+      "score": 3.4089005763,
+      "contentSnippet": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」  日刊工業新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V2M5Uy1oeWNSWUxxWVJuMmw3LXpLN1NETnlvV0VHd3RNWnBmTjFxOVpJa2hhUlRfRy1wUHRYT0pWZktpLUlaYjFlLWJqdmY3WlFsSHZ6amxDZ0dhVktRZ3ZuX3hyT1JFSGlmNXlKcw?oc=5",
+      "fingerprint": "150be79523b001fff9a248c3a621ff36f8ea385592e5cdc3c497d9032559af9f"
     },
     {
-      "title": "千葉豪雨で死亡事故のアンダーパス、進入部から300m　地下まで見通せない",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02740/",
+      "title": "1位は「『ぬらしたらダメだ』建て主が床合板の交換要求、木材の雨養生に要注意」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300429/",
+      "pubDate": "2026-08-26T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月27日～9月2日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300429/",
+      "fingerprint": "a1634a7c9ae3c64de1e3d00a105cbf84423496c457d9b36c04dd517bb6b72d78"
+    },
+    {
+      "title": "東海でもマンション修繕工事談合疑惑",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/081700730/",
+      "pubDate": "2026-08-26T17:01:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "分譲マンションの大規模修繕工事における独占禁止法違反（不当な取引制限）の疑いで公正取引委員会が進める調査が、関東地方から東海地方にも広がった。関係者によると、公取委は2026年7月28日、愛知県と岐阜県、三重県での工事に談合の疑いがあるとして、20社超の会社に立ち入り検査を実施した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/081700730/",
+      "fingerprint": "29918d09ec55258e750429cecb8139f69cabfc57bfcc0e5c93dad54725a1629c"
+    },
+    {
+      "title": "「住吉の長屋」が国の登録有形文化財へ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/081700300/",
+      "pubDate": "2026-08-26T17:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "国の文化審議会は、建築家の安藤忠雄氏が設計した住宅「住吉の長屋」など163件の建造物を登録有形文化財（建造物）に登録するよう、文部科学大臣に答申した。答申通りに登録されれば、安藤氏が設計を手掛けた建築物で初めて、国の登録有形文化財となる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/081700300/",
+      "fingerprint": "26aa8b06fcde7bc738d091cf87d6b0f62bef7915b7bfc3cd18b75c4215eb1b07"
+    },
+    {
+      "title": "2位は「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」60代以上の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
       "pubDate": "2026-08-25T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "千葉豪雨により冠水し、水没した車に乗っていた男性が死亡した国道16号「村田町アンダーパス」（千葉市）を、記者が車で訪れた。現地の様子からは冠水対策設備の機能不全だけでなく、運転手が危険を認識しにくい道路構造上の課題も見えた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02740/",
-      "fingerprint": "ab5997d9694cce25a2ed2c726e41516792faf74a9b425c0f2e4fb2ff6a83b9dc"
+      "score": 2.4,
+      "contentSnippet": "日経クロステックで2026年7月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
+      "fingerprint": "19200eb2a88a8cc96c0e34150323719cf44247c348780b5d57a892d47274d0ab"
     },
     {
-      "title": "1位は「庁舎が暑い原因は設計ミス、窓を壁と間違い計算　梓設計が1800万円負担」50代の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400403/",
-      "pubDate": "2026-08-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年7月、50代の会員が読んだ記事をランキング形式で紹介します。1位は「庁舎が暑い原因は設計ミス、窓を壁と間違い計算　梓設計が1800万円負担」でした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400403/",
-      "fingerprint": "acf3b05150037ef6a675d0b86eab97c664fcc2b8f2d0ccb94eb9aafb1eee35cb"
-    },
-    {
-      "title": "電池不要の冷却ウエアで涼しさ持続、気化熱冷却や特殊保冷剤のベスト",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700005/",
-      "pubDate": "2026-08-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "気温が40度を超えたニュースが珍しくなくなり、熱中症対策の切り札になる冷却ウエア商戦が過熱している。建設現場では水循環式や保冷剤付きのベストなど、電力を使わずに冷たさが持続する製品に関心が集まる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700005/",
-      "fingerprint": "4b17ab4f4b208de8e300682f5be7f69e190418a81b60fd619f687942c8131954"
-    },
-    {
-      "title": "札幌駅直近の丘珠空港、滑走路を300m延長　ジェット機の運航拡大へ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02741/",
-      "pubDate": "2026-08-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "国土交通省は、札幌駅から約6kmの位置にある丘珠空港で、滑走路を1500mから1800mに延長する。現在は滑走路が短いため、プロペラ機中心の運用で、凍結などで制動距離が長くなる冬季は小型ジェット機の運航ができない。滑走路の延長によって小型ジェット機の通年運航が可能になる。事業期間は3～4年で、約160億円の事業費を見込んでいる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02741/",
-      "fingerprint": "32f780676c5145d70dfa83547aac618522115ce47fe4857f4ac005f2adc3a0bb"
-    },
-    {
-      "title": "銀閣寺の近くに立つ柱や壁が傾めの家、塗装や設備は住みながらDIY",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03142/081400016/",
+      "title": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
       "pubDate": "2026-08-25T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守ろうと、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
+      "fingerprint": "3ea716805b1508fac69ca177ea3e86f82cf88d9b2cd13327f0d0830a8a09be34"
+    },
+    {
+      "title": "1位は「『ぬらしたらダメだ』建て主が床合板の交換要求、木材の雨養生に要注意」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300429/",
+      "pubDate": "2026-08-26T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "京都の名所・銀閣寺に近い斜面地に立つ、全ての部屋の柱や壁が傾斜した住宅だ。必要な居室の面積を立体的に積み上げ、眺望など外部との関係性も考えた結果、多面体の空間が生まれた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03142/081400016/",
-      "fingerprint": "ad224de3b94f79da855cb534db07002f4c2931ea5d07b5b16006f2ae5c2d867d"
+      "score": 2,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月27日～9月2日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300429/",
+      "fingerprint": "a1634a7c9ae3c64de1e3d00a105cbf84423496c457d9b36c04dd517bb6b72d78"
     },
     {
-      "title": "シート単体で不燃認定を取得した内装用化粧シート",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01056/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
+      "title": "被災後の備えも予防もお任せ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800017/",
+      "pubDate": "2026-08-26T17:17:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "TOPPANは、シート単体で不燃認定を取得した粘着剤付き化粧シート「LOVAL FLANOA（ローバル フレノア）」の販売を2026年6月に開始した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01056/",
-      "fingerprint": "56c48ef331c00ec75a372637a26981a62491c934bb3426b40dca57bbbcebe31c"
+      "score": 2,
+      "contentSnippet": "オフグリッドフィールドは、トレーラーハウスのレンタルや販売を手掛ける竹中工務店発のベンチャーだ。同社が開発したトレーラーハウスは、太陽光発電設備や蓄電池、衛星通信設備を備え、電気や通信といったインフラがない地域でも、現地に運び込むだけですぐに滞在拠点を設置できる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800017/",
+      "fingerprint": "016efdbf46eca0f13bf1cc7b6296acce1747116ef791d63772e85c110a0e6140"
     },
     {
-      "title": "千葉豪雨で死亡事故のアンダーパス、進入部から300m　地下まで見通せない",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02740/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
+      "title": "交通・物流・水道に革命を",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800016/",
+      "pubDate": "2026-08-26T17:16:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "千葉豪雨により冠水し、水没した車に乗っていた男性が死亡した国道16号「村田町アンダーパス」（千葉市）を、記者が車で訪れた。現地の様子からは冠水対策設備の機能不全だけでなく、運転手が危険を認識しにくい道路構造上の課題も見えた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02740/",
-      "fingerprint": "ab5997d9694cce25a2ed2c726e41516792faf74a9b425c0f2e4fb2ff6a83b9dc"
+      "score": 2,
+      "contentSnippet": "慶応義塾大学で宇宙エレベーターを研究していた須知高匡代表取締役最高経営責任者（CEO）が設立したZip Infrastructure（ジップインフラストラクチャー）は、自走式ロープウエーの普及を通して「誰でも駅から徒歩圏内」の実現を目指すスタートアップだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800016/",
+      "fingerprint": "cdacf957c2ecf5f89cb0d25b9fdfb58cb091197075a3c5ad9f9761fd791469de"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "国発注工事で猛暑対策の技術提案を評価、屋外作業人数の「縮減率」で加点",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
-        "pubDate": "2026-08-25T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "国土交通省関東地方整備局は、猛暑対策に関する技術提案を入札で評価する試行工事を現場打ちボックスカルバート工で発注する。総合評価落札方式の技術提案評価型S型を活用し、屋外作業人数をどれだけ削減できるかを評価する。猛暑対策を入札評価に使う取り組みは、関東地整では初だ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
-        "fingerprint": "37b0b7013c202dbcdb588fc8062b7bb7a79241c2d33f60727941a23ca93b1c6e"
+        "title": "成田修造氏が挑む「住宅の再定義」、我が家の家事はロボットにお任せ",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
+        "pubDate": "2026-08-26T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "100社のベンチャーを紹介する本特集のトップバッターは、成田修造氏が率いるMW（東京・港）。大学在学中に起業を経験し、人材事業を手掛けるクラウドワークスの上場に携わるなど、連続起業家として実績を上げてきた成田氏の次なる挑戦は「住宅の在り方の再定義」だ。建築設計や施工、人工知能（AI）、ロボットなどの専門家が集結し、フィジカルAIで動くロボットが家事を代行する未来の住宅の実現に挑む。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
+        "fingerprint": "80e4b94b537b8c09e2f720798a8f21d00724f463cef1bac79596bb98bbd5cc0a"
       },
-      "xDraft": "【本文】\n国土交通省関東地方整備局が、猛暑対策の技術提案を入札で評価する試行工事を、現場打ちボックスカルバート工で発注します。屋外作業の人数をどれだけ削減できるかという「縮減率」を、総合評価落札方式で加点評価する仕組みです。\nこれまでの暑さ対策は設備面が主流でしたが、工法の工夫で「屋外にいる人数を減らす」という本質的なアプローチを評価する点が非常に興味深いです。現場作業の負担を技術で解決しようとする、建設業界らしい前向きな動きだと感じています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/\n\n【抜粋元】\n関東地方整備局が猛暑対策を入札評価に活用する試行工事を開始するという記事から、屋外作業人数の「縮減率」を評価対象とする具体的な仕組みを抽出して構成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n連続起業家の成田修造氏が、自ら率いるMWで「住宅の在り方の再定義」に挑んでいます。記事によると、建築設計や施工の専門家と人工知能（AI）、ロボット技術を組み合わせ、家事を代行するロボットが暮らす未来の住宅の実現を目指しているとのことです。\n住まいが単なる箱ではなく、テクノロジーと融合して生活を豊かにしていく姿は、非常に興味深く感じます。建設の現場でもデジタル化が進む中で、住宅の機能や役割が大きく変わっていく可能性を感じますね。僕たちの仕事も、こうした未来の「住」を支えるものとして、一層進化していくべきだと感じました。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/\n\n【抜粋元】\n成田修造氏がMWを率いて「住宅の在り方の再定義」に挑戦しているという記事の要約に基づき、その取り組みの具体的な内容（AI・ロボットによる家事代行）と、それに対する石男くんの感想を書きました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
+      "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "関東地方整備局が猛暑対策を入札評価に活用する試行工事を開始するという記事から、屋外作業人数の「縮減率」を評価対象とする具体的な仕組みを抽出して構成しました。",
+      "xDraftExcerptSummary": "成田修造氏がMWを率いて「住宅の在り方の再定義」に挑戦しているという記事の要約に基づき、その取り組みの具体的な内容（AI・ロボットによる家事代行）と、それに対する石男くんの感想を書きました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん - 建設通信新聞Digital",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 20:06:00 GMT",
+        "title": "竹中工務店が仕上げ材加工に新システム、手書き図面からCADデータ生成",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/",
+        "pubDate": "2026-08-26T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "竹中工務店と爽美（大阪市）は共同で、手書きの図面から建築内装仕上げ材の加工に使うCADデータを自動で作成するシステムを開発した。技能者が描いた図を撮影するだけで、人工知能（AI）が仕上げ材加工用のCADデータへ変換する。部材を加工する際などに、技能者がCADデータを作成する手間が省ける。26年9月から新システムを含めた加工機のレンタルを近畿地方で開始する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/",
+        "fingerprint": "831868a83a87a00d1529fb55e8a7780966a1529ed0d62b29d177d348e12cb5d7"
+      },
+      "xDraft": "【本文】\n竹中工務店と爽美が、手書き図面をAIで解析し、内装仕上げ材の加工用CADデータを自動生成するシステムを開発しました。2026年9月には、このシステムを搭載した加工機のレンタルを近畿地方で開始する予定です。\n\n手書きという直感的な手法を活かしたまま、データ作成の手間を省く。僕はこの「現場のやり方」に寄り添ったDXの形に、とても好感を持ちました。熟練の技能が、よりスムーズに実製作へつながる環境が整っていくのは、産業全体にとって嬉しいことですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/\n\n【抜粋元】\n竹中工務店と爽美による、手書き図面からCADデータを自動生成するAIシステムの共同開発について。技能者の手間を省く仕組みと、2026年9月からのレンタル開始予定という情報を踏まえています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "竹中工務店と爽美による、手書き図面からCADデータを自動生成するAIシステムの共同開発について。技能者の手間を省く仕組みと、2026年9月からのレンタル開始予定という情報を踏まえています。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "【JPIセミナー】国土交通省「インフラシステム海外展開政策と本邦企業支援の最新動向」9月9日(水)開催 - ニコニコニュース",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5",
+        "pubDate": "Wed, 26 Aug 2026 17:48:28 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.408919524,
-        "contentSnippet": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん  建設通信新聞Digital",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
-        "fingerprint": "7dd6ba0e63df409696585dcbe484bb31d1bf98dba15b59b67fa95e2860435f40"
+        "score": 3.4089898572,
+        "contentSnippet": "【JPIセミナー】国土交通省「インフラシステム海外展開政策と本邦企業支援の最新動向」9月9日(水)開催  ニコニコニュース",
+        "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5",
+        "fingerprint": "aac1e7497d197951e27d501eda1981ea71d52f5a80fc1786d7b7b13d6d3cbe0a"
       },
-      "xDraft": "【本文】\n日本道路建設業協会の四国支部長に就任した、日比野忠臣さんのインタビュー記事です。道路建設業界はインフラの整備だけでなく、維持管理や災害時の迅速な対応においても地域を支える極めて重要な役割を担っています。\n\n四国は山間部が険しく、道路の利便性が暮らしや経済に直結する地域だと僕は感じています。新支部長のもとで、技術の継承や担い手不足といった共通の課題にどう向き合っていくのか、これからの活動に注目したいですね。\n\n出典：この人・日本道路建設業協会四国支部長/日比野 忠臣さん - 建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5\n\n【抜粋元】\n日本道路建設業協会の四国支部長に新しく就任した日比野忠臣氏を紹介する、建設通信新聞の「この人」欄の記事に基づいています。業界団体のリーダーとしての立場から、地域貢献への姿勢を伝えています。\n\n【判定】OK",
+      "xDraft": "【本文】\n国土交通省によるインフラシステムの海外展開政策と、日本企業への支援の最新動向を解説するセミナーが9月9日に開催されます。JPI（日本計画研究所）が主催し、官民が連携して取り組む海外プロジェクトの戦略などが共有される場となるようです。\n\n日本の優れた技術をいかにパッケージ化して世界に届けるか、国の具体的な後押しを知ることは非常に有意義ですね。国内の建設需要の変化を見据える上でも、海外市場への挑戦はこれからの産業を支える大きな柱になると僕も注目しています。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5\n\n【抜粋元】\nニコニコニュースに掲載された、JPI主催のセミナー開催告知記事に基づいています。国交省の担当者が登壇し、最新のインフラ輸出政策を解説するという要点を抽出しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本道路建設業協会の四国支部長に新しく就任した日比野忠臣氏を紹介する、建設通信新聞の「この人」欄の記事に基づいています。業界団体のリーダーとしての立場から、地域貢献への姿勢を伝えています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "2位は「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」60代以上の注目トップ10",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
-        "pubDate": "2026-08-25T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "日経クロステックで2026年7月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」が入りました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
-        "fingerprint": "19200eb2a88a8cc96c0e34150323719cf44247c348780b5d57a892d47274d0ab"
-      },
-      "xDraft": "【本文】\n東京都が発注した下水道工事で、施工を担う鹿島建設の社員が自らの判断により、トンネル部材を無断で切削していたことが明らかになりました。日経クロステックの読者ランキングによれば、この記事は特に60代以上のベテラン層から高い関心を集めたそうです。\n現場での臨機応変な対応と、本来守るべきルールの線引きは非常に難しい問題ですね。なぜ正規の手続きを踏まずに現場判断で進めてしまったのか、その背景にある要因についても深く考えさせられます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/\n\n【抜粋元】\n日経クロステックの会員ランキング記事から、2位にランクインした都発注下水道工事における不適切事案を引用しました。大手ゼネコン社員の判断による部材切削の経緯と、それがシニア層の注目を浴びている事実に基づいています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックの会員ランキング記事から、2位にランクインした都発注下水道工事における不適切事案を引用しました。大手ゼネコン社員の判断による部材切削の経緯と、それがシニア層の注目を浴びている事実に基づいています。",
+      "xDraftExcerptSummary": "ニコニコニュースに掲載された、JPI主催のセミナー開催告知記事に基づいています。国交省の担当者が登壇し、最新のインフラ輸出政策を解説するという要点を抽出しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "国発注工事で猛暑対策の技術提案を評価、屋外作業人数の「縮減率」で加点",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
-    "pubDate": "2026-08-25T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "国土交通省関東地方整備局は、猛暑対策に関する技術提案を入札で評価する試行工事を現場打ちボックスカルバート工で発注する。総合評価落札方式の技術提案評価型S型を活用し、屋外作業人数をどれだけ削減できるかを評価する。猛暑対策を入札評価に使う取り組みは、関東地整では初だ。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
-    "fingerprint": "37b0b7013c202dbcdb588fc8062b7bb7a79241c2d33f60727941a23ca93b1c6e"
+    "title": "成田修造氏が挑む「住宅の再定義」、我が家の家事はロボットにお任せ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
+    "pubDate": "2026-08-26T20:00:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 4,
+    "contentSnippet": "100社のベンチャーを紹介する本特集のトップバッターは、成田修造氏が率いるMW（東京・港）。大学在学中に起業を経験し、人材事業を手掛けるクラウドワークスの上場に携わるなど、連続起業家として実績を上げてきた成田氏の次なる挑戦は「住宅の在り方の再定義」だ。建築設計や施工、人工知能（AI）、ロボットなどの専門家が集結し、フィジカルAIで動くロボットが家事を代行する未来の住宅の実現に挑む。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
+    "fingerprint": "80e4b94b537b8c09e2f720798a8f21d00724f463cef1bac79596bb98bbd5cc0a"
   },
-  "xDraft": "【本文】\n国土交通省関東地方整備局が、猛暑対策の技術提案を入札で評価する試行工事を、現場打ちボックスカルバート工で発注します。屋外作業の人数をどれだけ削減できるかという「縮減率」を、総合評価落札方式で加点評価する仕組みです。\nこれまでの暑さ対策は設備面が主流でしたが、工法の工夫で「屋外にいる人数を減らす」という本質的なアプローチを評価する点が非常に興味深いです。現場作業の負担を技術で解決しようとする、建設業界らしい前向きな動きだと感じています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/\n\n【抜粋元】\n関東地方整備局が猛暑対策を入札評価に活用する試行工事を開始するという記事から、屋外作業人数の「縮減率」を評価対象とする具体的な仕組みを抽出して構成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n連続起業家の成田修造氏が、自ら率いるMWで「住宅の在り方の再定義」に挑んでいます。記事によると、建築設計や施工の専門家と人工知能（AI）、ロボット技術を組み合わせ、家事を代行するロボットが暮らす未来の住宅の実現を目指しているとのことです。\n住まいが単なる箱ではなく、テクノロジーと融合して生活を豊かにしていく姿は、非常に興味深く感じます。建設の現場でもデジタル化が進む中で、住宅の機能や役割が大きく変わっていく可能性を感じますね。僕たちの仕事も、こうした未来の「住」を支えるものとして、一層進化していくべきだと感じました。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/\n\n【抜粋元】\n成田修造氏がMWを率いて「住宅の在り方の再定義」に挑戦しているという記事の要約に基づき、その取り組みの具体的な内容（AI・ロボットによる家事代行）と、それに対する石男くんの感想を書きました。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
+  "xDraftModel": "models/gemini-2.5-flash",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "関東地方整備局が猛暑対策を入札評価に活用する試行工事を開始するという記事から、屋外作業人数の「縮減率」を評価対象とする具体的な仕組みを抽出して構成しました。",
+  "xDraftExcerptSummary": "成田修造氏がMWを率いて「住宅の在り方の再定義」に挑戦しているという記事の要約に基づき、その取り組みの具体的な内容（AI・ロボットによる家事代行）と、それに対する石男くんの感想を書きました。",
   "xDraftAlternates": [],
   "errors": []
 }
