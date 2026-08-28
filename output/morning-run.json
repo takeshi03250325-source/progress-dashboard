@@ -1,20 +1,30 @@
 {
-  "generatedAt": "2026-08-27T00:57:53.024Z",
+  "generatedAt": "2026-08-28T05:31:39.338Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
+  "skippedDuplicates": 2,
   "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "国発注工事で猛暑対策の技術提案を評価、屋外作業人数の「縮減率」で加点",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
+      "title": "建設現場の人手不足、フィジカルAIやロボットで解決　燈など12社",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 4.8,
-      "contentSnippet": "国土交通省関東地方整備局は、猛暑対策に関する技術提案を入札で評価する試行工事を現場打ちボックスカルバート工で発注する。総合評価落札方式の技術提案評価型S型を活用し、屋外作業人数をどれだけ削減できるかを評価する。猛暑対策を入札評価に使う取り組みは、関東地整では初だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02742/",
-      "fingerprint": "37b0b7013c202dbcdb588fc8062b7bb7a79241c2d33f60727941a23ca93b1c6e"
+      "contentSnippet": "建築分野とその周辺領域で事業を展開するベンチャー・スタートアップが増えてきた。編集部が選定した100社を紹介する本特集の第2回は、ロボットや重機の自動化・遠隔化に挑む12社だ。深刻化する人手不足問題の解決に貢献しようとしのぎを削る。まずは、フィジカルAI（人工知能）による現場作業の効率化に挑む東京大学発ベンチャーの燈（東京・千代田）から、その取り組みを見ていこう。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+      "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
+    },
+    {
+      "title": "建設現場の人手不足、フィジカルAIやロボットで解決　燈など12社",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "建築分野とその周辺領域で事業を展開するベンチャー・スタートアップが増えてきた。編集部が選定した100社を紹介する本特集の第2回は、ロボットや重機の自動化・遠隔化に挑む12社だ。深刻化する人手不足問題の解決に貢献しようとしのぎを削る。まずは、フィジカルAI（人工知能）による現場作業の効率化に挑む東京大学発ベンチャーの燈（東京・千代田）から、その取り組みを見ていこう。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+      "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
     },
     {
       "title": "成田修造氏が挑む「住宅の再定義」、我が家の家事はロボットにお任せ",
@@ -37,44 +47,24 @@
       "fingerprint": "831868a83a87a00d1529fb55e8a7780966a1529ed0d62b29d177d348e12cb5d7"
     },
     {
-      "title": "【JPIセミナー】国土交通省「インフラシステム海外展開政策と本邦企業支援の最新動向」9月9日(水)開催 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:48:28 GMT",
+      "title": "日本道路建設業協会九州支部長・瀬戸山 武氏に聞く - 建設通信新聞Digital",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 20:09:05 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4089898572,
-      "contentSnippet": "【JPIセミナー】国土交通省「インフラシステム海外展開政策と本邦企業支援の最新動向」9月9日(水)開催  ニコニコニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5",
-      "fingerprint": "aac1e7497d197951e27d501eda1981ea71d52f5a80fc1786d7b7b13d6d3cbe0a"
+      "score": 3.4089974505,
+      "contentSnippet": "日本道路建設業協会九州支部長・瀬戸山 武氏に聞く  建設通信新聞Digital",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5",
+      "fingerprint": "f910ef6fe0d00b42b1a8744d0015dca455adb0299a6f2d27ac07bd44f6373690"
     },
     {
-      "title": "決算処理時間を半減させた大日本土木、50年稼働の基幹系を刷新した経緯と成果 - 日経クロステック Active",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3Vld0gxbXNDM2I4Q0xfWVpSTjBNT05NY3gxUkNuUW5pZG1YSWdlLVZDM3B1SGl0MjVZNWlpVlUzZTJpZWJveDBvVHVCdEVtUjFCMFBYa1BxdGRMY2FuanBXbUlFdWloOEVoa3ZIVURpYklHSmFMZmdhVHZPaXRHTlhWWFRVNHdhUk1SOFFBOA?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 15:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4089807600000004,
-      "contentSnippet": "決算処理時間を半減させた大日本土木、50年稼働の基幹系を刷新した経緯と成果  日経クロステック Active",
-      "urlNorm": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3Vld0gxbXNDM2I4Q0xfWVpSTjBNT05NY3gxUkNuUW5pZG1YSWdlLVZDM3B1SGl0MjVZNWlpVlUzZTJpZWJveDBvVHVCdEVtUjFCMFBYa1BxdGRMY2FuanBXbUlFdWloOEVoa3ZIVURpYklHSmFMZmdhVHZPaXRHTlhWWFRVNHdhUk1SOFFBOA?oc=5",
-      "fingerprint": "1e0813d8bc1e077779aa2b8ec3f9150ca51106bdad4a2171105f9e8be49a0d8a"
-    },
-    {
-      "title": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん - 建設通信新聞Digital",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 20:06:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.408919524,
-      "contentSnippet": "この人・日本道路建設業協会四国支部長/日比野 忠臣さん  建設通信新聞Digital",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHlRNl9RUWZlcTdpWUZsRlJaRkxReWliQk55Z3pkT3VRMU1qdG82ZGU2RzB2NlU1M0JPM0NCbUpsZnJ1NWJlOFJVSXlKVlY0QjFWUVZpRWU?oc=5",
-      "fingerprint": "7dd6ba0e63df409696585dcbe484bb31d1bf98dba15b59b67fa95e2860435f40"
-    },
-    {
-      "title": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」 - 日刊工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V2M5Uy1oeWNSWUxxWVJuMmw3LXpLN1NETnlvV0VHd3RNWnBmTjFxOVpJa2hhUlRfRy1wUHRYT0pWZktpLUlaYjFlLWJqdmY3WlFsSHZ6amxDZ0dhVktRZ3ZuX3hyT1JFSGlmNXlKcw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 14:15:07 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4089005763,
-      "contentSnippet": "経営ひと言／日本建設業連合会・蓮輪賢治副会長「酷暑対策を強化」  日刊工業新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V2M5Uy1oeWNSWUxxWVJuMmw3LXpLN1NETnlvV0VHd3RNWnBmTjFxOVpJa2hhUlRfRy1wUHRYT0pWZktpLUlaYjFlLWJqdmY3WlFsSHZ6amxDZ0dhVktRZ3ZuX3hyT1JFSGlmNXlKcw?oc=5",
-      "fingerprint": "150be79523b001fff9a248c3a621ff36f8ea385592e5cdc3c497d9032559af9f"
+      "title": "インフラ網の縮小で建設技術者の仕事は減るのか？",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "あと5年――。日経クロステックで2026年8月に公開したカバーストーリー「道路クライシス、あなたの自治体は大丈夫？」の取材で、住民や建設技術者から何度か耳にした言葉だ。「同年代の知人が毎年何人も亡くなっている。あと5年もすれば地域が一変するのではないか」「インフラ維持の担い手の高齢化が進んでいる。確保できるのはあと5年くらいだろう」",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/",
+      "fingerprint": "92f9c2346de24d205315868b179541b593876b28ff210dd6058a27484209ca9f"
     },
     {
       "title": "1位は「『ぬらしたらダメだ』建て主が床合板の交換要求、木材の雨養生に要注意」",
@@ -107,24 +97,14 @@
       "fingerprint": "26aa8b06fcde7bc738d091cf87d6b0f62bef7915b7bfc3cd18b75c4215eb1b07"
     },
     {
-      "title": "2位は「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」60代以上の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステックで2026年7月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「トンネル部材の無断切削で経緯判明、鹿島社員の判断で　都発注の下水道工事」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/080400404/",
-      "fingerprint": "19200eb2a88a8cc96c0e34150323719cf44247c348780b5d57a892d47274d0ab"
-    },
-    {
-      "title": "大林組や鴻池組が夏の作業時間帯を変更、暑い建設現場に「変形労働時間制」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
-      "pubDate": "2026-08-25T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "熱中症による労働災害を防ぐため、建設会社は対策に抜かりがあってはいけない。過酷な夏季の建設現場で屋外作業に励む作業者を守ろうと、建設業界で「変形労働時間制」や「サマータイム」の導入が始まった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03717/080700006/",
-      "fingerprint": "3ea716805b1508fac69ca177ea3e86f82cf88d9b2cd13327f0d0830a8a09be34"
+      "title": "東大赤門に計12トンの重り、清水建設が挑む重要文化財の耐震改修",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02907/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "国の重要文化財で、耐震性能の不足を理由に長く閉ざされていた東京大学赤門の耐震改修が進行中だ。2027年秋に創建200年を迎えるのを機に、再び開門を目指す。改修工事は清水建設が担当し、重りの設置や屋根の軽量化などを図る。その現場を日経クロステックが取材した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02907/",
+      "fingerprint": "625b0e5516b98fdc0b9be472fe94fb852b62539c85b1ae16c33f92df94d4dab0"
     },
     {
       "title": "1位は「『ぬらしたらダメだ』建て主が床合板の交換要求、木材の雨養生に要注意」",
@@ -155,79 +135,99 @@
       "contentSnippet": "慶応義塾大学で宇宙エレベーターを研究していた須知高匡代表取締役最高経営責任者（CEO）が設立したZip Infrastructure（ジップインフラストラクチャー）は、自走式ロープウエーの普及を通して「誰でも駅から徒歩圏内」の実現を目指すスタートアップだ。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800016/",
       "fingerprint": "cdacf957c2ecf5f89cb0d25b9fdfb58cb091197075a3c5ad9f9761fd791469de"
+    },
+    {
+      "title": "ITで不動産の課題に切り込む",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800014/",
+      "pubDate": "2026-08-26T17:14:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "不動産事業者にオンラインでの住宅内覧用VR（仮想現実）作成ツールなどを提供している。全国賃貸住宅新聞社「賃貸管理戸数ランキング」トップ100企業のうち50社がサービスを導入した。人工知能（AI）で写真から家具を除去したり、逆に家具を配置したりできる機能などを追加し、使い勝手を高めた。大和ハウスグループのファンドが出資している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800014/",
+      "fingerprint": "94ebc2281d4645a8e5f946ce5dd0fc515180b498b7727867246d060411a73e08"
+    },
+    {
+      "title": "BIPVから排出量算出まで",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800012/",
+      "pubDate": "2026-08-26T17:12:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "デジタルメディア「NewsPicks（ニューズピックス）」を運営するユーザベースの創業者である梅田優祐氏が最高経営責任者（CEO）を務めるモノクロームは、デザイン性に優れた建材一体型太陽電池（BIPV：Building Integrated Photovoltaics）を販売する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800012/",
+      "fingerprint": "0b0e86794758dac13cbecb90382301604a02f6e0aca778bd809b40c0d495ebe2"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "成田修造氏が挑む「住宅の再定義」、我が家の家事はロボットにお任せ",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
-        "pubDate": "2026-08-26T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "100社のベンチャーを紹介する本特集のトップバッターは、成田修造氏が率いるMW（東京・港）。大学在学中に起業を経験し、人材事業を手掛けるクラウドワークスの上場に携わるなど、連続起業家として実績を上げてきた成田氏の次なる挑戦は「住宅の在り方の再定義」だ。建築設計や施工、人工知能（AI）、ロボットなどの専門家が集結し、フィジカルAIで動くロボットが家事を代行する未来の住宅の実現に挑む。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
-        "fingerprint": "80e4b94b537b8c09e2f720798a8f21d00724f463cef1bac79596bb98bbd5cc0a"
+        "title": "建設現場の人手不足、フィジカルAIやロボットで解決　燈など12社",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+        "pubDate": "2026-08-27T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "建築分野とその周辺領域で事業を展開するベンチャー・スタートアップが増えてきた。編集部が選定した100社を紹介する本特集の第2回は、ロボットや重機の自動化・遠隔化に挑む12社だ。深刻化する人手不足問題の解決に貢献しようとしのぎを削る。まずは、フィジカルAI（人工知能）による現場作業の効率化に挑む東京大学発ベンチャーの燈（東京・千代田）から、その取り組みを見ていこう。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+        "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
       },
-      "xDraft": "【本文】\n連続起業家の成田修造氏が、自ら率いるMWで「住宅の在り方の再定義」に挑んでいます。記事によると、建築設計や施工の専門家と人工知能（AI）、ロボット技術を組み合わせ、家事を代行するロボットが暮らす未来の住宅の実現を目指しているとのことです。\n住まいが単なる箱ではなく、テクノロジーと融合して生活を豊かにしていく姿は、非常に興味深く感じます。建設の現場でもデジタル化が進む中で、住宅の機能や役割が大きく変わっていく可能性を感じますね。僕たちの仕事も、こうした未来の「住」を支えるものとして、一層進化していくべきだと感じました。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/\n\n【抜粋元】\n成田修造氏がMWを率いて「住宅の在り方の再定義」に挑戦しているという記事の要約に基づき、その取り組みの具体的な内容（AI・ロボットによる家事代行）と、それに対する石男くんの感想を書きました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "成田修造氏がMWを率いて「住宅の在り方の再定義」に挑戦しているという記事の要約に基づき、その取り組みの具体的な内容（AI・ロボットによる家事代行）と、それに対する石男くんの感想を書きました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "竹中工務店が仕上げ材加工に新システム、手書き図面からCADデータ生成",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/",
-        "pubDate": "2026-08-26T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "竹中工務店と爽美（大阪市）は共同で、手書きの図面から建築内装仕上げ材の加工に使うCADデータを自動で作成するシステムを開発した。技能者が描いた図を撮影するだけで、人工知能（AI）が仕上げ材加工用のCADデータへ変換する。部材を加工する際などに、技能者がCADデータを作成する手間が省ける。26年9月から新システムを含めた加工機のレンタルを近畿地方で開始する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/",
-        "fingerprint": "831868a83a87a00d1529fb55e8a7780966a1529ed0d62b29d177d348e12cb5d7"
-      },
-      "xDraft": "【本文】\n竹中工務店と爽美が、手書き図面をAIで解析し、内装仕上げ材の加工用CADデータを自動生成するシステムを開発しました。2026年9月には、このシステムを搭載した加工機のレンタルを近畿地方で開始する予定です。\n\n手書きという直感的な手法を活かしたまま、データ作成の手間を省く。僕はこの「現場のやり方」に寄り添ったDXの形に、とても好感を持ちました。熟練の技能が、よりスムーズに実製作へつながる環境が整っていくのは、産業全体にとって嬉しいことですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/\n\n【抜粋元】\n竹中工務店と爽美による、手書き図面からCADデータを自動生成するAIシステムの共同開発について。技能者の手間を省く仕組みと、2026年9月からのレンタル開始予定という情報を踏まえています。\n\n【判定】OK",
+      "xDraft": "【本文】\n建設分野の課題解決に挑むスタートアップが勢いを増しています。日経クロステックの特集では、重機の自動化や遠隔操作、フィジカルAIを活用した現場作業の効率化に取り組む12社が紹介されています。\n\n深刻な人手不足という現実に対し、先端技術がどう現場に溶け込んでいくのか注目しています。特に「フィジカルAI」という表現には、物理的な現場の難しさを技術で乗り越えようとする力強さを感じて、僕も非常に興味深いです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/\n\n【抜粋元】\n建設・不動産分野のスタートアップ100社特集の中から、ロボットや重機の自動化・遠隔化に挑む12社の動向、特に東大発ベンチャー「燈」のフィジカルAIに関する記述を参考にしました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "竹中工務店と爽美による、手書き図面からCADデータを自動生成するAIシステムの共同開発について。技能者の手間を省く仕組みと、2026年9月からのレンタル開始予定という情報を踏まえています。",
+      "xDraftExcerptSummary": "建設・不動産分野のスタートアップ100社特集の中から、ロボットや重機の自動化・遠隔化に挑む12社の動向、特に東大発ベンチャー「燈」のフィジカルAIに関する記述を参考にしました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "【JPIセミナー】国土交通省「インフラシステム海外展開政策と本邦企業支援の最新動向」9月9日(水)開催 - ニコニコニュース",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5",
-        "pubDate": "Wed, 26 Aug 2026 17:48:28 GMT",
+        "title": "建設現場の人手不足、フィジカルAIやロボットで解決　燈など12社",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+        "pubDate": "2026-08-27T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "建築分野とその周辺領域で事業を展開するベンチャー・スタートアップが増えてきた。編集部が選定した100社を紹介する本特集の第2回は、ロボットや重機の自動化・遠隔化に挑む12社だ。深刻化する人手不足問題の解決に貢献しようとしのぎを削る。まずは、フィジカルAI（人工知能）による現場作業の効率化に挑む東京大学発ベンチャーの燈（東京・千代田）から、その取り組みを見ていこう。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+        "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
+      },
+      "xDraft": "【本文】\n建築分野でロボットや重機の自動化・遠隔化に取り組むスタートアップが台頭しています。日経クロステックの特集では、東大発の「燈（あかり）」をはじめ、フィジカルAIを駆使して現場の人手不足解決に挑む12社が紹介されました。\n\nデジタル空間だけでなく、現実の重機や作業を動かすAIの社会実装が本格化しているのを感じます。こうした技術が現場の負担を減らし、新しい担い手が参入しやすい環境を作る一助になれば嬉しいです。僕も今後の進展を注視していきたいと思います。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/\n\n【抜粋元】\n建築スタートアップ100社を紹介する特集の第2回記事から、特にロボットや重機の自動化、フィジカルAIによる効率化に取り組む12社の動向を抽出しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "建築スタートアップ100社を紹介する特集の第2回記事から、特にロボットや重機の自動化、フィジカルAIによる効率化に取り組む12社の動向を抽出しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "日本道路建設業協会九州支部長・瀬戸山 武氏に聞く - 建設通信新聞Digital",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5",
+        "pubDate": "Wed, 26 Aug 2026 20:09:05 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.4089898572,
-        "contentSnippet": "【JPIセミナー】国土交通省「インフラシステム海外展開政策と本邦企業支援の最新動向」9月9日(水)開催  ニコニコニュース",
-        "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5",
-        "fingerprint": "aac1e7497d197951e27d501eda1981ea71d52f5a80fc1786d7b7b13d6d3cbe0a"
+        "score": 3.4089974505,
+        "contentSnippet": "日本道路建設業協会九州支部長・瀬戸山 武氏に聞く  建設通信新聞Digital",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5",
+        "fingerprint": "f910ef6fe0d00b42b1a8744d0015dca455adb0299a6f2d27ac07bd44f6373690"
       },
-      "xDraft": "【本文】\n国土交通省によるインフラシステムの海外展開政策と、日本企業への支援の最新動向を解説するセミナーが9月9日に開催されます。JPI（日本計画研究所）が主催し、官民が連携して取り組む海外プロジェクトの戦略などが共有される場となるようです。\n\n日本の優れた技術をいかにパッケージ化して世界に届けるか、国の具体的な後押しを知ることは非常に有意義ですね。国内の建設需要の変化を見据える上でも、海外市場への挑戦はこれからの産業を支える大きな柱になると僕も注目しています。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE55ZVZuQi1HSm1qNmhGS1pmNHYyYWVBb3dYQS1nM1cwVVBsUTdQZnlIbkswd0dVRlNRbjBENWZ6YXdPeUZ2dTFNUEZSNkxPTXl3R3c5bkRMcV9qdURqczZIU0NsOFJ2YTkzN3hzRTFCSk8yb0VsRmVtbGtiTQ?oc=5\n\n【抜粋元】\nニコニコニュースに掲載された、JPI主催のセミナー開催告知記事に基づいています。国交省の担当者が登壇し、最新のインフラ輸出政策を解説するという要点を抽出しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本道路建設業協会九州支部長の瀬戸山武氏が、今後の道路建設業のあり方について語っています。建設通信新聞Digitalによるインタビュー記事です。\n僕たちが毎日利用する道路インフラを支えるため、業界のリーダーがどのような課題を感じ、どのような未来を描いているのかは非常に重要です。九州という広大な地域を守る責任感と、技術への敬意が伝わってくる内容だと感じました。\n\n出典：日本道路建設業協会九州支部長・瀬戸山 武氏に聞く - 建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5\n\n【抜粋元】\n建設通信新聞Digitalに掲載された、日本道路建設業協会九州支部長・瀬戸山武氏へのインタビュー記事です。九州における道路建設業界の現状や展望について触れられている点を取り上げました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ニコニコニュースに掲載された、JPI主催のセミナー開催告知記事に基づいています。国交省の担当者が登壇し、最新のインフラ輸出政策を解説するという要点を抽出しました。",
+      "xDraftExcerptSummary": "建設通信新聞Digitalに掲載された、日本道路建設業協会九州支部長・瀬戸山武氏へのインタビュー記事です。九州における道路建設業界の現状や展望について触れられている点を取り上げました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "成田修造氏が挑む「住宅の再定義」、我が家の家事はロボットにお任せ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
-    "pubDate": "2026-08-26T20:00:00.000Z",
-    "feedName": "日経クロステック 建築・住宅",
-    "score": 4,
-    "contentSnippet": "100社のベンチャーを紹介する本特集のトップバッターは、成田修造氏が率いるMW（東京・港）。大学在学中に起業を経験し、人材事業を手掛けるクラウドワークスの上場に携わるなど、連続起業家として実績を上げてきた成田氏の次なる挑戦は「住宅の在り方の再定義」だ。建築設計や施工、人工知能（AI）、ロボットなどの専門家が集結し、フィジカルAIで動くロボットが家事を代行する未来の住宅の実現に挑む。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
-    "fingerprint": "80e4b94b537b8c09e2f720798a8f21d00724f463cef1bac79596bb98bbd5cc0a"
+    "title": "建設現場の人手不足、フィジカルAIやロボットで解決　燈など12社",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+    "pubDate": "2026-08-27T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 4.8,
+    "contentSnippet": "建築分野とその周辺領域で事業を展開するベンチャー・スタートアップが増えてきた。編集部が選定した100社を紹介する本特集の第2回は、ロボットや重機の自動化・遠隔化に挑む12社だ。深刻化する人手不足問題の解決に貢献しようとしのぎを削る。まずは、フィジカルAI（人工知能）による現場作業の効率化に挑む東京大学発ベンチャーの燈（東京・千代田）から、その取り組みを見ていこう。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+    "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
   },
-  "xDraft": "【本文】\n連続起業家の成田修造氏が、自ら率いるMWで「住宅の在り方の再定義」に挑んでいます。記事によると、建築設計や施工の専門家と人工知能（AI）、ロボット技術を組み合わせ、家事を代行するロボットが暮らす未来の住宅の実現を目指しているとのことです。\n住まいが単なる箱ではなく、テクノロジーと融合して生活を豊かにしていく姿は、非常に興味深く感じます。建設の現場でもデジタル化が進む中で、住宅の機能や役割が大きく変わっていく可能性を感じますね。僕たちの仕事も、こうした未来の「住」を支えるものとして、一層進化していくべきだと感じました。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/\n\n【抜粋元】\n成田修造氏がMWを率いて「住宅の在り方の再定義」に挑戦しているという記事の要約に基づき、その取り組みの具体的な内容（AI・ロボットによる家事代行）と、それに対する石男くんの感想を書きました。\n\n【判定】OK",
+  "xDraft": "【本文】\n建設分野の課題解決に挑むスタートアップが勢いを増しています。日経クロステックの特集では、重機の自動化や遠隔操作、フィジカルAIを活用した現場作業の効率化に取り組む12社が紹介されています。\n\n深刻な人手不足という現実に対し、先端技術がどう現場に溶け込んでいくのか注目しています。特に「フィジカルAI」という表現には、物理的な現場の難しさを技術で乗り越えようとする力強さを感じて、僕も非常に興味深いです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/\n\n【抜粋元】\n建設・不動産分野のスタートアップ100社特集の中から、ロボットや重機の自動化・遠隔化に挑む12社の動向、特に東大発ベンチャー「燈」のフィジカルAIに関する記述を参考にしました。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-2.5-flash",
+  "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "成田修造氏がMWを率いて「住宅の在り方の再定義」に挑戦しているという記事の要約に基づき、その取り組みの具体的な内容（AI・ロボットによる家事代行）と、それに対する石男くんの感想を書きました。",
+  "xDraftExcerptSummary": "建設・不動産分野のスタートアップ100社特集の中から、ロボットや重機の自動化・遠隔化に挑む12社の動向、特に東大発ベンチャー「燈」のフィジカルAIに関する記述を参考にしました。",
   "xDraftAlternates": [],
   "errors": []
 }
