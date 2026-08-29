@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-28T05:31:39.338Z",
+  "generatedAt": "2026-08-29T03:14:21.564Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 2,
-  "skippedJapanFocus": 1,
+  "skippedJapanFocus": 3,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
@@ -27,36 +27,6 @@
       "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
     },
     {
-      "title": "成田修造氏が挑む「住宅の再定義」、我が家の家事はロボットにお任せ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
-      "pubDate": "2026-08-26T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "100社のベンチャーを紹介する本特集のトップバッターは、成田修造氏が率いるMW（東京・港）。大学在学中に起業を経験し、人材事業を手掛けるクラウドワークスの上場に携わるなど、連続起業家として実績を上げてきた成田氏の次なる挑戦は「住宅の在り方の再定義」だ。建築設計や施工、人工知能（AI）、ロボットなどの専門家が集結し、フィジカルAIで動くロボットが家事を代行する未来の住宅の実現に挑む。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100001/",
-      "fingerprint": "80e4b94b537b8c09e2f720798a8f21d00724f463cef1bac79596bb98bbd5cc0a"
-    },
-    {
-      "title": "竹中工務店が仕上げ材加工に新システム、手書き図面からCADデータ生成",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/",
-      "pubDate": "2026-08-26T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "竹中工務店と爽美（大阪市）は共同で、手書きの図面から建築内装仕上げ材の加工に使うCADデータを自動で作成するシステムを開発した。技能者が描いた図を撮影するだけで、人工知能（AI）が仕上げ材加工用のCADデータへ変換する。部材を加工する際などに、技能者がCADデータを作成する手間が省ける。26年9月から新システムを含めた加工機のレンタルを近畿地方で開始する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02904/",
-      "fingerprint": "831868a83a87a00d1529fb55e8a7780966a1529ed0d62b29d177d348e12cb5d7"
-    },
-    {
-      "title": "日本道路建設業協会九州支部長・瀬戸山 武氏に聞く - 建設通信新聞Digital",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 20:09:05 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4089974505,
-      "contentSnippet": "日本道路建設業協会九州支部長・瀬戸山 武氏に聞く  建設通信新聞Digital",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5",
-      "fingerprint": "f910ef6fe0d00b42b1a8744d0015dca455adb0299a6f2d27ac07bd44f6373690"
-    },
-    {
       "title": "インフラ網の縮小で建設技術者の仕事は減るのか？",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/",
       "pubDate": "2026-08-27T20:00:00.000Z",
@@ -65,36 +35,6 @@
       "contentSnippet": "あと5年――。日経クロステックで2026年8月に公開したカバーストーリー「道路クライシス、あなたの自治体は大丈夫？」の取材で、住民や建設技術者から何度か耳にした言葉だ。「同年代の知人が毎年何人も亡くなっている。あと5年もすれば地域が一変するのではないか」「インフラ維持の担い手の高齢化が進んでいる。確保できるのはあと5年くらいだろう」",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/",
       "fingerprint": "92f9c2346de24d205315868b179541b593876b28ff210dd6058a27484209ca9f"
-    },
-    {
-      "title": "1位は「『ぬらしたらダメだ』建て主が床合板の交換要求、木材の雨養生に要注意」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300429/",
-      "pubDate": "2026-08-26T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月27日～9月2日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300429/",
-      "fingerprint": "a1634a7c9ae3c64de1e3d00a105cbf84423496c457d9b36c04dd517bb6b72d78"
-    },
-    {
-      "title": "東海でもマンション修繕工事談合疑惑",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/081700730/",
-      "pubDate": "2026-08-26T17:01:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "分譲マンションの大規模修繕工事における独占禁止法違反（不当な取引制限）の疑いで公正取引委員会が進める調査が、関東地方から東海地方にも広がった。関係者によると、公取委は2026年7月28日、愛知県と岐阜県、三重県での工事に談合の疑いがあるとして、20社超の会社に立ち入り検査を実施した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/081700730/",
-      "fingerprint": "29918d09ec55258e750429cecb8139f69cabfc57bfcc0e5c93dad54725a1629c"
-    },
-    {
-      "title": "「住吉の長屋」が国の登録有形文化財へ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/081700300/",
-      "pubDate": "2026-08-26T17:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "国の文化審議会は、建築家の安藤忠雄氏が設計した住宅「住吉の長屋」など163件の建造物を登録有形文化財（建造物）に登録するよう、文部科学大臣に答申した。答申通りに登録されれば、安藤氏が設計を手掛けた建築物で初めて、国の登録有形文化財となる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/081700300/",
-      "fingerprint": "26aa8b06fcde7bc738d091cf87d6b0f62bef7915b7bfc3cd18b75c4215eb1b07"
     },
     {
       "title": "東大赤門に計12トンの重り、清水建設が挑む重要文化財の耐震改修",
@@ -107,127 +47,147 @@
       "fingerprint": "625b0e5516b98fdc0b9be472fe94fb852b62539c85b1ae16c33f92df94d4dab0"
     },
     {
-      "title": "1位は「『ぬらしたらダメだ』建て主が床合板の交換要求、木材の雨養生に要注意」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300429/",
-      "pubDate": "2026-08-26T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月24～30日に読まれた記事の1～10位を26年8月27日～9月2日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300429/",
-      "fingerprint": "a1634a7c9ae3c64de1e3d00a105cbf84423496c457d9b36c04dd517bb6b72d78"
+      "title": "ネパール・チベット洪水、死者165人 1000人以上不明 氷河崩落が原因か",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00335/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "ネパールと中国・チベット自治区の国境付近で26日に発生した鉄砲水と土砂災害により、これまでに165人が死亡、1000人以上が行方不明となっている。救助隊は27日、被災地に駆けつけ、捜索救助活動に臨んでいる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00335/",
+      "fingerprint": "f68f2c2771cca9c464038af41cc1b354db2650f348e61a27cb259c893667cc9c"
     },
     {
-      "title": "被災後の備えも予防もお任せ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800017/",
-      "pubDate": "2026-08-26T17:17:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "オフグリッドフィールドは、トレーラーハウスのレンタルや販売を手掛ける竹中工務店発のベンチャーだ。同社が開発したトレーラーハウスは、太陽光発電設備や蓄電池、衛星通信設備を備え、電気や通信といったインフラがない地域でも、現地に運び込むだけですぐに滞在拠点を設置できる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800017/",
-      "fingerprint": "016efdbf46eca0f13bf1cc7b6296acce1747116ef791d63772e85c110a0e6140"
+      "title": "月45時間以内の一律指導を取りやめ、残業上限規制の運用を緩和",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02744/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "厚生労働省は2026年9月1日から、企業などの残業について月45時間以内に抑えるよう一律に求める労働基準監督署の指導を取りやめる。これまでは、労使間で特別条項付きの「三六協定」を結び、月100時間未満まで残業が可能な企業に対しても、45時間以内に収めるよう求めていた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02744/",
+      "fingerprint": "b6a3ccfe3ced3683866f752b71ab383002780524a77eacb6d78dce768e72627f"
     },
     {
-      "title": "交通・物流・水道に革命を",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800016/",
-      "pubDate": "2026-08-26T17:16:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "慶応義塾大学で宇宙エレベーターを研究していた須知高匡代表取締役最高経営責任者（CEO）が設立したZip Infrastructure（ジップインフラストラクチャー）は、自走式ロープウエーの普及を通して「誰でも駅から徒歩圏内」の実現を目指すスタートアップだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800016/",
-      "fingerprint": "cdacf957c2ecf5f89cb0d25b9fdfb58cb091197075a3c5ad9f9761fd791469de"
+      "title": "羽田空港に「木のターミナル」、サテライト施設など550mの巨大木造空間",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02906/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日本空港ビルデングが整備した羽田空港の「第1ターミナル北側サテライト施設」が2026年9月1日に供用を開始する。羽田空港で初めて、木造ハイブリッド構造を採用したターミナル施設だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02906/",
+      "fingerprint": "7a653721608643d599e0d961d1a62c87244a5560c1aae4a3c317173769b10335"
     },
     {
-      "title": "ITで不動産の課題に切り込む",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800014/",
-      "pubDate": "2026-08-26T17:14:00.000Z",
+      "title": "まさ目だけで統一した天然木フローリング",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01058/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "不動産事業者にオンラインでの住宅内覧用VR（仮想現実）作成ツールなどを提供している。全国賃貸住宅新聞社「賃貸管理戸数ランキング」トップ100企業のうち50社がサービスを導入した。人工知能（AI）で写真から家具を除去したり、逆に家具を配置したりできる機能などを追加し、使い勝手を高めた。大和ハウスグループのファンドが出資している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800014/",
-      "fingerprint": "94ebc2281d4645a8e5f946ce5dd0fc515180b498b7727867246d060411a73e08"
+      "score": 0,
+      "contentSnippet": "ボードは、柾目（まさめ）だけを厳選した天然木フローリング「オークライブラリー柾目」を2026年7月に発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01058/",
+      "fingerprint": "7d2adc7958f8480187c5dbe1ec355cc2d6abb157a5958efa1d53dfcfe056f686"
     },
     {
-      "title": "BIPVから排出量算出まで",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800012/",
-      "pubDate": "2026-08-26T17:12:00.000Z",
+      "title": "ネパール・チベット洪水、死者165人 1000人以上不明 氷河崩落が原因か",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00335/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "デジタルメディア「NewsPicks（ニューズピックス）」を運営するユーザベースの創業者である梅田優祐氏が最高経営責任者（CEO）を務めるモノクロームは、デザイン性に優れた建材一体型太陽電池（BIPV：Building Integrated Photovoltaics）を販売する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800012/",
-      "fingerprint": "0b0e86794758dac13cbecb90382301604a02f6e0aca778bd809b40c0d495ebe2"
+      "score": 0,
+      "contentSnippet": "ネパールと中国・チベット自治区の国境付近で26日に発生した鉄砲水と土砂災害により、これまでに165人が死亡、1000人以上が行方不明となっている。救助隊は27日、被災地に駆けつけ、捜索救助活動に臨んでいる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00335/",
+      "fingerprint": "f68f2c2771cca9c464038af41cc1b354db2650f348e61a27cb259c893667cc9c"
+    },
+    {
+      "title": "月45時間以内の一律指導を取りやめ、残業上限規制の運用を緩和",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02744/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "厚生労働省は2026年9月1日から、企業などの残業について月45時間以内に抑えるよう一律に求める労働基準監督署の指導を取りやめる。これまでは、労使間で特別条項付きの「三六協定」を結び、月100時間未満まで残業が可能な企業に対しても、45時間以内に収めるよう求めていた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02744/",
+      "fingerprint": "b6a3ccfe3ced3683866f752b71ab383002780524a77eacb6d78dce768e72627f"
+    },
+    {
+      "title": "羽田空港に「木のターミナル」、サテライト施設など550mの巨大木造空間",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02906/",
+      "pubDate": "2026-08-27T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "日本空港ビルデングが整備した羽田空港の「第1ターミナル北側サテライト施設」が2026年9月1日に供用を開始する。羽田空港で初めて、木造ハイブリッド構造を採用したターミナル施設だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02906/",
+      "fingerprint": "7a653721608643d599e0d961d1a62c87244a5560c1aae4a3c317173769b10335"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "建設現場の人手不足、フィジカルAIやロボットで解決　燈など12社",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+        "title": "インフラ網の縮小で建設技術者の仕事は減るのか？",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/",
         "pubDate": "2026-08-27T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "建築分野とその周辺領域で事業を展開するベンチャー・スタートアップが増えてきた。編集部が選定した100社を紹介する本特集の第2回は、ロボットや重機の自動化・遠隔化に挑む12社だ。深刻化する人手不足問題の解決に貢献しようとしのぎを削る。まずは、フィジカルAI（人工知能）による現場作業の効率化に挑む東京大学発ベンチャーの燈（東京・千代田）から、その取り組みを見ていこう。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
-        "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
+        "score": 2.4,
+        "contentSnippet": "あと5年――。日経クロステックで2026年8月に公開したカバーストーリー「道路クライシス、あなたの自治体は大丈夫？」の取材で、住民や建設技術者から何度か耳にした言葉だ。「同年代の知人が毎年何人も亡くなっている。あと5年もすれば地域が一変するのではないか」「インフラ維持の担い手の高齢化が進んでいる。確保できるのはあと5年くらいだろう」",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/",
+        "fingerprint": "92f9c2346de24d205315868b179541b593876b28ff210dd6058a27484209ca9f"
       },
-      "xDraft": "【本文】\n建設分野の課題解決に挑むスタートアップが勢いを増しています。日経クロステックの特集では、重機の自動化や遠隔操作、フィジカルAIを活用した現場作業の効率化に取り組む12社が紹介されています。\n\n深刻な人手不足という現実に対し、先端技術がどう現場に溶け込んでいくのか注目しています。特に「フィジカルAI」という表現には、物理的な現場の難しさを技術で乗り越えようとする力強さを感じて、僕も非常に興味深いです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/\n\n【抜粋元】\n建設・不動産分野のスタートアップ100社特集の中から、ロボットや重機の自動化・遠隔化に挑む12社の動向、特に東大発ベンチャー「燈」のフィジカルAIに関する記述を参考にしました。\n\n【判定】OK",
+      "xDraft": "【本文】\nインフラ維持の現場では「あと5年」という言葉が切実な響きを持って語られています。担い手の高齢化が加速し、現在の道路網を維持できる体制の限界がすぐそこまで来ているという指摘です。\n\nたとえ将来的にインフラ網が縮小したとしても、技術者の仕事が単純に減るわけではないと僕は思います。むしろ限られたリソースをどこに投下すべきかを見極め、地域を再編していくための高度な専門性がより重要になるはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/\n\n【抜粋元】\n日経クロステックの特集記事から、インフラ維持の担い手不足による「5年」という時間的限界と、今後のインフラ縮小局面における技術者の役割の変化に焦点を当てました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建設・不動産分野のスタートアップ100社特集の中から、ロボットや重機の自動化・遠隔化に挑む12社の動向、特に東大発ベンチャー「燈」のフィジカルAIに関する記述を参考にしました。",
+      "xDraftExcerptSummary": "日経クロステックの特集記事から、インフラ維持の担い手不足による「5年」という時間的限界と、今後のインフラ縮小局面における技術者の役割の変化に焦点を当てました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "建設現場の人手不足、フィジカルAIやロボットで解決　燈など12社",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+        "title": "東大赤門に計12トンの重り、清水建設が挑む重要文化財の耐震改修",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02907/",
         "pubDate": "2026-08-27T20:00:00.000Z",
         "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "建築分野とその周辺領域で事業を展開するベンチャー・スタートアップが増えてきた。編集部が選定した100社を紹介する本特集の第2回は、ロボットや重機の自動化・遠隔化に挑む12社だ。深刻化する人手不足問題の解決に貢献しようとしのぎを削る。まずは、フィジカルAI（人工知能）による現場作業の効率化に挑む東京大学発ベンチャーの燈（東京・千代田）から、その取り組みを見ていこう。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
-        "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
+        "score": 2,
+        "contentSnippet": "国の重要文化財で、耐震性能の不足を理由に長く閉ざされていた東京大学赤門の耐震改修が進行中だ。2027年秋に創建200年を迎えるのを機に、再び開門を目指す。改修工事は清水建設が担当し、重りの設置や屋根の軽量化などを図る。その現場を日経クロステックが取材した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02907/",
+        "fingerprint": "625b0e5516b98fdc0b9be472fe94fb852b62539c85b1ae16c33f92df94d4dab0"
       },
-      "xDraft": "【本文】\n建築分野でロボットや重機の自動化・遠隔化に取り組むスタートアップが台頭しています。日経クロステックの特集では、東大発の「燈（あかり）」をはじめ、フィジカルAIを駆使して現場の人手不足解決に挑む12社が紹介されました。\n\nデジタル空間だけでなく、現実の重機や作業を動かすAIの社会実装が本格化しているのを感じます。こうした技術が現場の負担を減らし、新しい担い手が参入しやすい環境を作る一助になれば嬉しいです。僕も今後の進展を注視していきたいと思います。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/\n\n【抜粋元】\n建築スタートアップ100社を紹介する特集の第2回記事から、特にロボットや重機の自動化、フィジカルAIによる効率化に取り組む12社の動向を抽出しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n東京大学の赤門で、清水建設による耐震改修工事が進められています。耐震性能不足のため閉鎖されていましたが、屋根の軽量化や計12トンの重りの設置を行い、2027年の創建200周年に合わせた再開を目指しています。\n歴史的な意匠を損なわずに安全性を高めるため、重りを利用して構造を安定させる手法が興味深いですね。重要文化財を守り継ぐための、現場の緻密な工夫と技術に敬意を表したくなります。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02907/\n\n【抜粋元】\n日経クロステックの記事から、東大赤門の耐震改修における清水建設の具体的な工法や、2027年秋の再開予定という事実、12トンの重りという数字を中心に構成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建築スタートアップ100社を紹介する特集の第2回記事から、特にロボットや重機の自動化、フィジカルAIによる効率化に取り組む12社の動向を抽出しました。",
+      "xDraftExcerptSummary": "日経クロステックの記事から、東大赤門の耐震改修における清水建設の具体的な工法や、2027年秋の再開予定という事実、12トンの重りという数字を中心に構成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "日本道路建設業協会九州支部長・瀬戸山 武氏に聞く - 建設通信新聞Digital",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5",
-        "pubDate": "Wed, 26 Aug 2026 20:09:05 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4089974505,
-        "contentSnippet": "日本道路建設業協会九州支部長・瀬戸山 武氏に聞く  建設通信新聞Digital",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5",
-        "fingerprint": "f910ef6fe0d00b42b1a8744d0015dca455adb0299a6f2d27ac07bd44f6373690"
+        "title": "ネパール・チベット洪水、死者165人 1000人以上不明 氷河崩落が原因か",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00335/",
+        "pubDate": "2026-08-27T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 0,
+        "contentSnippet": "ネパールと中国・チベット自治区の国境付近で26日に発生した鉄砲水と土砂災害により、これまでに165人が死亡、1000人以上が行方不明となっている。救助隊は27日、被災地に駆けつけ、捜索救助活動に臨んでいる。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00335/",
+        "fingerprint": "f68f2c2771cca9c464038af41cc1b354db2650f348e61a27cb259c893667cc9c"
       },
-      "xDraft": "【本文】\n日本道路建設業協会九州支部長の瀬戸山武氏が、今後の道路建設業のあり方について語っています。建設通信新聞Digitalによるインタビュー記事です。\n僕たちが毎日利用する道路インフラを支えるため、業界のリーダーがどのような課題を感じ、どのような未来を描いているのかは非常に重要です。九州という広大な地域を守る責任感と、技術への敬意が伝わってくる内容だと感じました。\n\n出典：日本道路建設業協会九州支部長・瀬戸山 武氏に聞く - 建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE93VWpBdEhRUXQxOHA4QmNKeC1pS21nblZ4TWw2c1JwZ3pUaWxXV3dfbndhYTRJb3FmVnlXYUNia2sxNkI5MWpMUnNIY0pEeHpMRXZKQlpNS0o?oc=5\n\n【抜粋元】\n建設通信新聞Digitalに掲載された、日本道路建設業協会九州支部長・瀬戸山武氏へのインタビュー記事です。九州における道路建設業界の現状や展望について触れられている点を取り上げました。\n\n【判定】OK",
+      "xDraft": "【本文】\nネパールと中国チベット自治区の国境付近で26日、大規模な鉄砲水と土砂災害が発生しました。死者165人、行方不明者は1000人以上に上っており、氷河の崩落が原因とみられています。\n\n厳しい山岳地帯での救助活動には大変な困難が伴うと推察します。氷河崩落に起因する災害は、流出する土砂の量や勢いが凄まじく、既存の防波・排水施設では対応しきれない恐ろしさがあります。僕たち技術者としても自然の猛威を改めて深く認識させられるニュースです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/01162/00335/\n\n【抜粋元】\n日経クロステック 土木の記事から、ネパール・チベット国境で発生した氷河崩落が原因とみられる洪水被害の死者数、行方不明者数、および救助の現状について要約しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建設通信新聞Digitalに掲載された、日本道路建設業協会九州支部長・瀬戸山武氏へのインタビュー記事です。九州における道路建設業界の現状や展望について触れられている点を取り上げました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から、ネパール・チベット国境で発生した氷河崩落が原因とみられる洪水被害の死者数、行方不明者数、および救助の現状について要約しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "建設現場の人手不足、フィジカルAIやロボットで解決　燈など12社",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
+    "title": "インフラ網の縮小で建設技術者の仕事は減るのか？",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/",
     "pubDate": "2026-08-27T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "建築分野とその周辺領域で事業を展開するベンチャー・スタートアップが増えてきた。編集部が選定した100社を紹介する本特集の第2回は、ロボットや重機の自動化・遠隔化に挑む12社だ。深刻化する人手不足問題の解決に貢献しようとしのぎを削る。まずは、フィジカルAI（人工知能）による現場作業の効率化に挑む東京大学発ベンチャーの燈（東京・千代田）から、その取り組みを見ていこう。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/",
-    "fingerprint": "9f5d99cb93e5bb1b378707622c126d965626e2282e1c184e6a8ebf937a0da8d1"
+    "score": 2.4,
+    "contentSnippet": "あと5年――。日経クロステックで2026年8月に公開したカバーストーリー「道路クライシス、あなたの自治体は大丈夫？」の取材で、住民や建設技術者から何度か耳にした言葉だ。「同年代の知人が毎年何人も亡くなっている。あと5年もすれば地域が一変するのではないか」「インフラ維持の担い手の高齢化が進んでいる。確保できるのはあと5年くらいだろう」",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/",
+    "fingerprint": "92f9c2346de24d205315868b179541b593876b28ff210dd6058a27484209ca9f"
   },
-  "xDraft": "【本文】\n建設分野の課題解決に挑むスタートアップが勢いを増しています。日経クロステックの特集では、重機の自動化や遠隔操作、フィジカルAIを活用した現場作業の効率化に取り組む12社が紹介されています。\n\n深刻な人手不足という現実に対し、先端技術がどう現場に溶け込んでいくのか注目しています。特に「フィジカルAI」という表現には、物理的な現場の難しさを技術で乗り越えようとする力強さを感じて、僕も非常に興味深いです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100002/\n\n【抜粋元】\n建設・不動産分野のスタートアップ100社特集の中から、ロボットや重機の自動化・遠隔化に挑む12社の動向、特に東大発ベンチャー「燈」のフィジカルAIに関する記述を参考にしました。\n\n【判定】OK",
+  "xDraft": "【本文】\nインフラ維持の現場では「あと5年」という言葉が切実な響きを持って語られています。担い手の高齢化が加速し、現在の道路網を維持できる体制の限界がすぐそこまで来ているという指摘です。\n\nたとえ将来的にインフラ網が縮小したとしても、技術者の仕事が単純に減るわけではないと僕は思います。むしろ限られたリソースをどこに投下すべきかを見極め、地域を再編していくための高度な専門性がより重要になるはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/082502088/\n\n【抜粋元】\n日経クロステックの特集記事から、インフラ維持の担い手不足による「5年」という時間的限界と、今後のインフラ縮小局面における技術者の役割の変化に焦点を当てました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "建設・不動産分野のスタートアップ100社特集の中から、ロボットや重機の自動化・遠隔化に挑む12社の動向、特に東大発ベンチャー「燈」のフィジカルAIに関する記述を参考にしました。",
+  "xDraftExcerptSummary": "日経クロステックの特集記事から、インフラ維持の担い手不足による「5年」という時間的限界と、今後のインフラ縮小局面における技術者の役割の変化に焦点を当てました。",
   "xDraftAlternates": [],
   "errors": []
 }
