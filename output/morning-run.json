@@ -1,17 +1,183 @@
 {
-  "generatedAt": "2026-08-29T23:28:41.784Z",
+  "generatedAt": "2026-08-30T23:40:44.391Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
-  "skippedJapanFocus": 2,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
-  "candidates": [],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "pickCountActual": 3,
+  "candidates": [
+    {
+      "title": "1位は「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年8月31日～9月6日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+      "fingerprint": "d85f6e3967ce139907a988d6f9a6ace8d435501fef6fb1d5364ce2ef06edbffc"
+    },
+    {
+      "title": "1位は「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年8月31日～9月6日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+      "fingerprint": "d85f6e3967ce139907a988d6f9a6ace8d435501fef6fb1d5364ce2ef06edbffc"
+    },
+    {
+      "title": "シールド工事に強い大豊建設、東北4社束ねるUNICONに出資　PPP共同参画狙う",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02746/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "大豊建設が、東北地方の建設会社4社を束ねるUNICONホールディングスに出資し、同社と資本業務提携を締結した。シールドトンネル工事に強みを持つ大豊建設の技術力と、グループ内で技術者を融通する経営戦略で実績を積んできたユニコンHDの事業基盤を掛け合わせ、官民連携事業への共同参画などを狙う。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02746/",
+      "fingerprint": "c835b9232c64227aef84b903e74a8e2dfd7c9f75d207480471bf68e3e88eb320"
+    },
+    {
+      "title": "陥没した路面の下に巨大空洞、地下道工事の埋め戻し土が流出か",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02745/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "仙台市青葉区の国道286号で路面が陥没し、地中に幅約2m、長さ約6m、高さ約1mの空洞が見つかった問題で、市が現場を掘削調査した結果、空洞のほぼ真下にある地下通路の建設が影響した可能性が高いと分かった。約40年前に開削工法で建設した際の埋め戻し土が沈下していた。土砂が流出したと見られるが、流出先は不明。この地下通路は土かぶり約3mの深さにあり、仙台市地下鉄南北線の五橋駅から国道を横断し、「南1」出入り口へとつながっている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02745/",
+      "fingerprint": "fa7703496ad56cf0fca9e7654eafaebfb8f600eed4f317dd577506b0a2de2e71"
+    },
+    {
+      "title": "国交省が税制改正要望でマンション価格の高騰対策、概算要求に防災や脱炭素",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02909/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "国土交通省は2027年度の税制改正要望で、価格高騰が続く新築マンションに対し、投機目的の短期売買を抑制する対策を盛り込んだ。27年度予算の概算要求では、一般会計全体で8兆7694億円（同44％増）を要求した。このうち公共事業関係費では7兆6761億円（同45％増）を求めた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02909/",
+      "fingerprint": "b865731a7209dcac2166612ae600da6065aa44b095ccb43bf181ae0276ec54fe"
+    },
+    {
+      "title": "シールド工事に強い大豊建設、東北4社束ねるUNICONに出資　PPP共同参画狙う",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02746/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "大豊建設が、東北地方の建設会社4社を束ねるUNICONホールディングスに出資し、同社と資本業務提携を締結した。シールドトンネル工事に強みを持つ大豊建設の技術力と、グループ内で技術者を融通する経営戦略で実績を積んできたユニコンHDの事業基盤を掛け合わせ、官民連携事業への共同参画などを狙う。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02746/",
+      "fingerprint": "c835b9232c64227aef84b903e74a8e2dfd7c9f75d207480471bf68e3e88eb320"
+    },
+    {
+      "title": "千葉豪雨で病院やマンションが停電や断水、地下の電気設備やポンプが水没",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02908/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年8月13～14日に千葉県を襲った豪雨ではマンションや病院、公共施設などで設備が浸水する被害が続出した。短時間に大量の雨水が地下に流れ込んだ結果、排水が追い付かず、電気設備やポンプが浸水して機能不全に陥った。内水氾濫における建物の脆弱性が浮き彫りになった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02908/",
+      "fingerprint": "30e3304872c384358884b1f5ed774d08afd41b54ef73ec3d56ff8ae8061874ae"
+    },
+    {
+      "title": "被災地にシャワー室届けた清水建設発ベンチャー、災害関連死ゼロ掲げ起業",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/082500045/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月28日の熊本地震から約1カ月が経過した8月25日時点で、2653人が避難所生活を余儀なくされている。避難所の生活環境を、いかにして改善するか。清水建設発ベンチャーのShelterOne（東京・江東）は、建設現場で培ったノウハウを生かし、この難題の解決に取り組んでいる。今回の熊本地震では熊本市の要請を受け、市内の3つの避難所にシャワー室を計4室設置した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/082500045/",
+      "fingerprint": "6f8649750e2dc01f9f7e730eb34a88a66544219ed518e353123b20da80199ab3"
+    },
+    {
+      "title": "千葉豪雨で病院やマンションが停電や断水、地下の電気設備やポンプが水没",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02908/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "2026年8月13～14日に千葉県を襲った豪雨ではマンションや病院、公共施設などで設備が浸水する被害が続出した。短時間に大量の雨水が地下に流れ込んだ結果、排水が追い付かず、電気設備やポンプが浸水して機能不全に陥った。内水氾濫における建物の脆弱性が浮き彫りになった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02908/",
+      "fingerprint": "30e3304872c384358884b1f5ed774d08afd41b54ef73ec3d56ff8ae8061874ae"
+    },
+    {
+      "title": "被災地にシャワー室届けた清水建設発ベンチャー、災害関連死ゼロ掲げ起業",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/082500045/",
+      "pubDate": "2026-08-30T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "2026年7月28日の熊本地震から約1カ月が経過した8月25日時点で、2653人が避難所生活を余儀なくされている。避難所の生活環境を、いかにして改善するか。清水建設発ベンチャーのShelterOne（東京・江東）は、建設現場で培ったノウハウを生かし、この難題の解決に取り組んでいる。今回の熊本地震では熊本市の要請を受け、市内の3つの避難所にシャワー室を計4室設置した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/082500045/",
+      "fingerprint": "6f8649750e2dc01f9f7e730eb34a88a66544219ed518e353123b20da80199ab3"
+    }
+  ],
+  "picks": [
+    {
+      "picked": {
+        "title": "1位は「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+        "pubDate": "2026-08-30T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年8月31日～9月6日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+        "fingerprint": "d85f6e3967ce139907a988d6f9a6ace8d435501fef6fb1d5364ce2ef06edbffc"
+      },
+      "xDraft": "【本文】\n北海道新幹線のシールドトンネル工事において、再び地表に泥土が漏出したニュースが日経クロステック土木の週間ランキングで1位となっています。施工は大林組JVが担当している区間です。\n\nシールド工事で地下の圧力を制御し、地表への影響を防ぐことの難しさを改めて感じます。こうした事象の報告が、技術的な知見として積み重なり、より安全な施工管理へとつながっていくことを僕は願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/\n\n【抜粋元】\n日経クロステック土木面の週間ランキング記事から、1位となった「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」というニュースの事実に着目して書きました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木面の週間ランキング記事から、1位となった「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」というニュースの事実に着目して書きました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+        "pubDate": "2026-08-30T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年8月31日～9月6日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+        "fingerprint": "d85f6e3967ce139907a988d6f9a6ace8d435501fef6fb1d5364ce2ef06edbffc"
+      },
+      "xDraft": "【本文】\n北海道新幹線のシールドトンネル工事で、地表面に泥土が漏出する事案が発生しました。大林組JVが施工する現場での出来事で、日経クロステックの週間ランキングで1位になるほど高い関心が寄せられています。目に見えない地下での掘進において、地上の安全を完全に守ることの難しさを改めて感じます。僕としては、こうした事例が業界全体で共有され、より精度の高い施工管理につながることを期待しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/\n\n【抜粋元】\n日経クロステック土木面の週間ランキング1位となった、北海道新幹線のシールドトンネル工事（大林組JV施工）での泥土漏出に関する記事に基づき、事象の概要と注目度の高さを記述しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木面の週間ランキング1位となった、北海道新幹線のシールドトンネル工事（大林組JV施工）での泥土漏出に関する記事に基づき、事象の概要と注目度の高さを記述しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "シールド工事に強い大豊建設、東北4社束ねるUNICONに出資　PPP共同参画狙う",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02746/",
+        "pubDate": "2026-08-30T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "大豊建設が、東北地方の建設会社4社を束ねるUNICONホールディングスに出資し、同社と資本業務提携を締結した。シールドトンネル工事に強みを持つ大豊建設の技術力と、グループ内で技術者を融通する経営戦略で実績を積んできたユニコンHDの事業基盤を掛け合わせ、官民連携事業への共同参画などを狙う。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02746/",
+        "fingerprint": "c835b9232c64227aef84b903e74a8e2dfd7c9f75d207480471bf68e3e88eb320"
+      },
+      "xDraft": "【本文】\n大豊建設が、東北の建設4社を傘下に持つUNICONホールディングスへの出資と資本業務提携を発表しました。シールド工事に強みを持つ大豊建設の技術力と、地域密着の事業基盤や技術者融通の仕組みを掛け合わせ、PPP（官民連携）事業への共同参画などを狙う方針です。\n\nゼネコンの持つ高度な技術と、地場企業のネットワークが補完し合う形は非常に合理的だと感じます。特にインフラの維持管理や更新需要が高まる地方において、こうした連携がどう機能していくのか注目したいですね。東北の地で新しい官民連携のモデルが生まれることを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02746/\n\n【抜粋元】\n大豊建設がUNICONホールディングスに出資し、資本業務提携を締結したという記事です。シールド技術と東北の事業基盤を融合させ、PPP（官民連携）への参画を目指すという戦略的な背景を踏まえて作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "大豊建設がUNICONホールディングスに出資し、資本業務提携を締結したという記事です。シールド技術と東北の事業基盤を融合させ、PPP（官民連携）への参画を目指すという戦略的な背景を踏まえて作成しました。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "1位は「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+    "pubDate": "2026-08-30T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 4.8,
+    "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年8月31日～9月6日に無料で読めるようにしました。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/",
+    "fingerprint": "d85f6e3967ce139907a988d6f9a6ace8d435501fef6fb1d5364ce2ef06edbffc"
+  },
+  "xDraft": "【本文】\n北海道新幹線のシールドトンネル工事において、再び地表に泥土が漏出したニュースが日経クロステック土木の週間ランキングで1位となっています。施工は大林組JVが担当している区間です。\n\nシールド工事で地下の圧力を制御し、地表への影響を防ぐことの難しさを改めて感じます。こうした事象の報告が、技術的な知見として積み重なり、より安全な施工管理へとつながっていくことを僕は願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/072300379/\n\n【抜粋元】\n日経クロステック土木面の週間ランキング記事から、1位となった「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」というニュースの事実に着目して書きました。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "日経クロステック土木面の週間ランキング記事から、1位となった「北海道新幹線工事でまた地表に泥土漏出、大林組JVのシールドトンネル」というニュースの事実に着目して書きました。",
   "xDraftAlternates": [],
   "errors": []
 }
