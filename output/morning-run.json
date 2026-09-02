@@ -1,20 +1,50 @@
 {
-  "generatedAt": "2026-09-01T23:27:43.570Z",
+  "generatedAt": "2026-09-02T23:28:26.259Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
+  "skippedDuplicates": 0,
   "skippedJapanFocus": 3,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "公共事業関係費に7.6兆円、国交省の概算要求　インフラ老朽化対策に1兆円超",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02750/",
-      "pubDate": "2026-08-31T20:00:00.000Z",
+      "title": "1位は認知度89％で生成AI、最下位は交通商社機能",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/",
+      "pubDate": "2026-09-02T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "国土交通省は2027年度予算の概算要求で、公共事業関係費に26年度当初予算比45％増の7兆6761億円を計上した。一般会計全体では同44％増の8兆7694億円を求めた。一般会計には、新設した各省庁の要求額に上限を定めない「強く豊かな日本」投資枠の1兆5508億円を含む。インフラの老朽化対策や防災・減災対策といった「危機管理投資」を進めながら、DX（デジタルトランスフォーメーション）やGX（グリーントランスフォーメーション）などに向けた「成長投資」を加速させる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02750/",
-      "fingerprint": "773a510e1b8d19107da8bdaec74b526af41e2ace5b5098de8f51baca54906556"
+      "score": 7.199999999999999,
+      "contentSnippet": "建設業界に関わる新しい用語など40語について、意味を知っているかどうかについて土木専門誌の読者に尋ねたところ、意味を知っていると答えた割合（認知度）が最も高かったのは、今や当たり前に使われる「生成AI（人工知能）」で約9割だった。一方、最下位は「交通商社機能」だ。10％を切る認知度だった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/",
+      "fingerprint": "3d902fd22caa0c48802bfc03d1ee79fec5944c6d3fe08cc3ebab3a1cd3141c1d"
+    },
+    {
+      "title": "日本HP、建築・エンジニアリング・建設業界向けのプロジェクト管理コラボレーションプラットフォーム「HP Build Workspace」日本語版の提供を開始 - テクノエッジ TechnoEdge",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUWZsSlh6bVIxZjh0VlZvbHUxT05Bb3VuZGd2d015UHp1VzNRTjhEbUx6Z1N4NXhhRmV4NGlxVHZVb3Ztb05QMks4Wm9LazAtRUd1eUF2ZlFxMXdycUFlYUJYa19ZM3BMMkVCV0NRU213UQ?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 05:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 5.20949268,
+      "contentSnippet": "日本HP、建築・エンジニアリング・建設業界向けのプロジェクト管理コラボレーションプラットフォーム「HP Build Workspace」日本語版の提供を開始  テクノエッジ TechnoEdge",
+      "urlNorm": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUWZsSlh6bVIxZjh0VlZvbHUxT05Bb3VuZGd2d015UHp1VzNRTjhEbUx6Z1N4NXhhRmV4NGlxVHZVb3Ztb05QMks4Wm9LazAtRUd1eUF2ZlFxMXdycUFlYUJYa19ZM3BMMkVCV0NRU213UQ?oc=5",
+      "fingerprint": "8ef47c303fe105c432c7b5cd3f7e3556a268af31e9a278f12ae769c7cb7c7a31"
+    },
+    {
+      "title": "大林組が法令調査や要件整理にAI活用、設計初期の作業時間を67％短縮",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02910/",
+      "pubDate": "2026-09-02T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "設計業務にAI（人工知能）を用いる試みが続々と登場している。大林組は、設計初期段階の法令調査や要件整理にAIエージェントを試験導入した。設計者の質問に対して確認すべき法令や論点を整理するものだ。2つの建築プロジェクトで使用したところ、設計者1人当たりの作業時間を週平均4.3時間から1.4時間へと約67％短縮した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02910/",
+      "fingerprint": "3a894a50bbab06bfcce9af69a03dab275d9b0ce2f4ce78ce898bf41b040363c6"
+    },
+    {
+      "title": "1位は「大和ハウスが明かした商業施設14cm沈下の真相、複雑な地盤を見抜けず杭到達誤認」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300430/",
+      "pubDate": "2026-09-02T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年9月3～9日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300430/",
+      "fingerprint": "09cb3661608235c29f6a8201b1959267d59bbd0072feaa9b1782a5bce2744768"
     },
     {
       "title": "三菱地所の木造施設「有楽町パーク」27年開業、都心に11棟のCLT建築",
@@ -27,14 +57,24 @@
       "fingerprint": "33d3f91b69101cacbc1148cf5fcdf99b41e9e0ebb934f3173033f63ddf5d1a65"
     },
     {
-      "title": "Q．建設から60年経過の送水路で異常検知の新技術を実証、どんな仕組み？",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00647/082700159/",
-      "pubDate": "2026-08-31T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "兵庫県・六甲山を横断する3期芦部谷送水トンネルで、健全度を監視する新たな技術が実証段階に入っている。更新工事で、既設の馬蹄形コンクリートトンネルの内側に直径2.1mの鋼管を挿入。鋼管と既設との隙間の3カ所に細い鉄管を管軸方向に設置し、グラウトを充填した。新しい監視技術はこの細い管を利用する。どのような仕組みか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00647/082700159/",
-      "fingerprint": "cc1ae163f20ed7b4371c4b6ac2d36075c2a58ef59b5678fc3c35b5ee3001888e"
+      "title": "1位は「大和ハウスが明かした商業施設14cm沈下の真相、複雑な地盤を見抜けず杭到達誤認」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300430/",
+      "pubDate": "2026-09-02T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年9月3～9日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300430/",
+      "fingerprint": "09cb3661608235c29f6a8201b1959267d59bbd0072feaa9b1782a5bce2744768"
+    },
+    {
+      "title": "3Dプリンターで建築生産を刷新、デジファブに存在感　有力ベンチャー7社",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100006/",
+      "pubDate": "2026-09-02T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "人手不足や脱炭素、サーキュラーエコノミー（循環経済）への移行といった文脈に沿う技術として、デジタルを活用したものづくり、いわゆるデジタルファブリケーションが、建築の世界で普及の糸口をつかみつつある。その代表格が、特殊なモルタルなどを積層して構造物を造形する建設3Dプリンターだ。欧米の後塵（こうじん）を拝してきた日本でも2階建ての住宅が実現するなど、進化が加速している。編集部が選定したベンチャー100社を紹介する本特集の第6回は、デジタルファブリケーションに取り組む7社にフォーカスした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100006/",
+      "fingerprint": "08f4a492c5a9cd7f9bbd98cc763489822b8b985172adbf670dbc562f61a31c94"
     },
     {
       "title": "自然由来の原料や食品廃棄物が建材に、循環経済を先導するベンチャー6社",
@@ -57,24 +97,34 @@
       "fingerprint": "33d3f91b69101cacbc1148cf5fcdf99b41e9e0ebb934f3173033f63ddf5d1a65"
     },
     {
-      "title": "Q．建設から60年経過の送水路で異常検知の新技術を実証、どんな仕組み？",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00647/082700159/",
-      "pubDate": "2026-08-31T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "兵庫県・六甲山を横断する3期芦部谷送水トンネルで、健全度を監視する新たな技術が実証段階に入っている。更新工事で、既設の馬蹄形コンクリートトンネルの内側に直径2.1mの鋼管を挿入。鋼管と既設との隙間の3カ所に細い鉄管を管軸方向に設置し、グラウトを充填した。新しい監視技術はこの細い管を利用する。どのような仕組みか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00647/082700159/",
-      "fingerprint": "cc1ae163f20ed7b4371c4b6ac2d36075c2a58ef59b5678fc3c35b5ee3001888e"
+      "title": "浮体式洋上風力の低コスト化へ　NEDO、大手建設会社含む5者の提案採択",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02751/",
+      "pubDate": "2026-09-02T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "新エネルギー・産業技術総合開発機構（NEDO）は浮体式洋上風力発電の低コスト化に向けた実証研究の公募で、5件の研究開発テーマを採択した。そのうち3件に大林組、大成建設、清水建設の大手建設会社が参画する。深い海中での無人化施工の他、浮体製造のコスト低減や接合技術の開発などを進める。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02751/",
+      "fingerprint": "3203f903d4eb1765d7e8a244be4d5fc4d750f39bc5a889b53398efa5de604273"
     },
     {
-      "title": "急増した建設会社の「手持ち工事月数」、受注余力回復は28年末からか",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03212/082100006/",
-      "pubDate": "2026-08-31T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "建設会社の受注余力のバロメーターである「手持ち工事月数」が、この数年で大きく増加している。手持ち工事月数は、建設会社が抱えている工事を消化するのに必要な期間（月数）であり、忙しさを示す指標だ。受注余力が枯渇した背景には、「建設技能者の深刻な減少」と「現場労働日数の減少」がある。では、いつになれば受注余力は回復するのだろうか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03212/082100006/",
-      "fingerprint": "0ef47af3813a0d2608fb4dcd7d9e72725fb63a955fc6135822e4648d8457cbaf"
+      "title": "桁が外れた南九州道の高架橋、上部工一部交換で復旧に2年　熊本地震",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100047/",
+      "pubDate": "2026-09-02T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月に発生した熊本地震による断層変位で、桁が橋脚から脱落した南九州自動車道の「妙見第一橋」について、西日本高速道路（NEXCO西日本）は、通行止め解除まで少なくとも2年かかる見通しを明らかにした。復旧工法を2案検討しており、いずれの案も設計着手から通行止め解除まで約2年を要する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100047/",
+      "fingerprint": "7ab7b8401cf5c533daeb3b9debb20a0277ba880eccb8c542c5c0b6cb5bb81bd4"
+    },
+    {
+      "title": "知っておきたい光電融合の基礎、技術の仕組みから業界構造まで　記者が解説",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/090200019/",
+      "pubDate": "2026-09-02T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "光電融合とはどんな技術で、どのような業界構造をしているのか。有力プレーヤーや日本企業の立ち位置はどうなっているのか。気になる疑問について、光電融合を長らく取材してきた専門記者が徹底的に解説する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/090200019/",
+      "fingerprint": "8a652bda44629ebd1bd204fda076745698c4e390531af6dafa9c8e8afc315668"
     },
     {
       "title": "熊本地震の断水地域に生活用水、能登の教訓で早期集約も「保管場所がない」",
@@ -105,129 +155,79 @@
       "contentSnippet": "ネパール当局が大規模な洪水で水力発電所のトンネル内に閉じ込められたとみられる行方不明者の救助に全力を挙げる中、捜索6日目となった31日（現地時間）、トンネル内から3人の遺体が見つかった。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/090100100/",
       "fingerprint": "e3689d5f1050382695951d317b5b513698ab0dd9f96914133fa5a1fb3c1bf850"
-    },
-    {
-      "title": "2026年の受賞者発表、日経クロステックが選ぶCIO/CDO＆CTOオブ・ザ・イヤー",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03722/082500004/",
-      "pubDate": "2026-09-01T05:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "テクノロジー専門メディア「日経クロステック」（日経BP）は、「日経クロステックが選ぶCIO/CDOオブ・ザ・イヤー2026」、「日経クロステックが選ぶCTOオブ・ザ・イヤー2026」の受賞者を決定した。受賞者は、それぞれ大賞1人、特別賞2人。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03722/082500004/",
-      "fingerprint": "54912693807e5e0acf23176a42c90ac2fce5079d390814461f3c0fd33e8d06db"
-    },
-    {
-      "title": "山岳トンネルで特殊工を5人から3人に、省人化と作業負荷軽減を実現",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02011/072900047/",
-      "pubDate": "2026-08-31T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "大分県の山岳トンネル現場で、ロックボルトの打設や支保の建て込みなど一連の施工サイクルを通してトンネル特殊工の省人化を実現した。自動化・遠隔化技術の導入による度重なるトラブルに、粘り強く対応した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02011/072900047/",
-      "fingerprint": "82661adfb3fb2abdec12411c56893ed814c56791765abfc6e0d60e74e77aa308"
-    },
-    {
-      "title": "キャンプで見抜く入社後のミスマッチ、建設会社の異色インターン",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02747/",
-      "pubDate": "2026-08-31T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "地方の中小建設会社が新入社員の採用競争で苦戦を強いられるなか、北海道の西村組（北海道湧別町）は、4年前からひと味違う採用活動に取り組んでいる。それが「キャンプインターン」だ。学生と社員がたき火を囲み、ざっくばらんに仕事についての本音を交わす。狙いは、採用する側とされる側の認識のミスマッチを減らすことにある。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02747/",
-      "fingerprint": "80b44aee45af5660a8bc0cf99b8da9746abc9acef31e61da5e162a9df5cad37f"
-    },
-    {
-      "title": "熊本地震の断水地域に生活用水、能登の教訓で早期集約も「保管場所がない」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/082800046/",
-      "pubDate": "2026-09-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "断水した被災地で、手洗いやシャワーに使う生活用水をどう確保するか──。「令和8年熊本地震」では、被災した自治体が水道管に接続せずに使える手洗い設備やシャワーキットを避難所などに配備し、衛生環境を確保した。支援を主導したのは、WOTA（ウォータ、東京・中央）だ。能登半島地震で得た教訓を生かし、機材を早期に集約できた。一方、「保管する場所がない」という新たな課題が見えてきた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/082800046/",
-      "fingerprint": "0b9b9722ea0e90da25735004b198b1d1b8f6a5f989ebe707d4b4528ec963862c"
-    },
-    {
-      "title": "前田建設工業の床版架設機「どすこいガントリー」、施工範囲を2倍に",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02749/",
-      "pubDate": "2026-09-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "前田建設工業は、従来の約2倍の範囲をまとめて施工できる床版架設機「どすこいガントリー」を開発した。床版を吊（つ）る装置を支持する桁のスパンを15mと長くし、広範囲を施工できるようにした。その一方で、1車線ずつ床版を交換する半断面施工に対応するため、架設機の幅は4mに抑えた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02749/",
-      "fingerprint": "19da4fa1191cac9aea4ebd78cdbde0e96ddc8060f6aff1c9eb45959b3937579f"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "三菱地所の木造施設「有楽町パーク」27年開業、都心に11棟のCLT建築",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/",
-        "pubDate": "2026-09-01T20:00:00.000Z",
+        "title": "1位は認知度89％で生成AI、最下位は交通商社機能",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/",
+        "pubDate": "2026-09-02T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "三菱地所は「有楽町ビル」と「新有楽町ビル」を解体した跡地に、公園のような木造施設「YURAKUCHO PARK（有楽町パーク）」を建設する。ビルの建て替えを始めるまでの数年間限定で、CLT（直交集成板）現しの施設を11棟つくり、2027年に開業する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/",
-        "fingerprint": "33d3f91b69101cacbc1148cf5fcdf99b41e9e0ebb934f3173033f63ddf5d1a65"
+        "score": 7.199999999999999,
+        "contentSnippet": "建設業界に関わる新しい用語など40語について、意味を知っているかどうかについて土木専門誌の読者に尋ねたところ、意味を知っていると答えた割合（認知度）が最も高かったのは、今や当たり前に使われる「生成AI（人工知能）」で約9割だった。一方、最下位は「交通商社機能」だ。10％を切る認知度だった。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/",
+        "fingerprint": "3d902fd22caa0c48802bfc03d1ee79fec5944c6d3fe08cc3ebab3a1cd3141c1d"
       },
-      "xDraft": "【本文】\n三菱地所が、有楽町ビルと新有楽町ビルの解体跡地に「YURAKUCHO PARK」という木造施設を建設します。2027年に開業し、次のビル建設が始まるまでの数年間限定で、CLT（直交集成板）を用いた11棟の建築物が並ぶ計画です。\n都心の一等地の暫定利用として、これほど大規模に木造建築群を整備する試みには驚きました。CLTの構造をそのまま見せる「現し」の建築が並ぶ風景は、都市の新しい余白のあり方を示してくれそうで楽しみです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/\n\n【抜粋元】\n有楽町ビル・新有楽町ビルの解体跡地を、2027年から数年間限定でCLT現しの施設11棟が並ぶ「YURAKUCHO PARK」として活用する計画について。\n\n【判定】OK",
+      "xDraft": "【本文】\n土木専門誌の読者を対象にした調査で、建設業界に関わる新用語40語の認知度が明らかになりました。生成AIは約9割の人が意味を知っていると回答した一方で、最下位の「交通商社機能」は10％に満たない認知度だったそうです。\n\n生成AIがこれほど当たり前の言葉として定着している事実に、業界の適応力の高さを感じます。一方で、言葉の認知度が低いからといってその課題が重要でないわけではありません。僕たちが向き合う現場や地域の課題にどんな名前がつき、どう共有されていくべきなのか、改めて考えさせられました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/\n\n【抜粋元】\n日経クロステック 土木の記事から、土木専門誌読者を対象にした用語認知度調査の結果を引用しました。生成AIの普及と、それ以外の専門用語の浸透度の差という論点に基づき、石男くんの視点を加えて記述しています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "有楽町ビル・新有楽町ビルの解体跡地を、2027年から数年間限定でCLT現しの施設11棟が並ぶ「YURAKUCHO PARK」として活用する計画について。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から、土木専門誌読者を対象にした用語認知度調査の結果を引用しました。生成AIの普及と、それ以外の専門用語の浸透度の差という論点に基づき、石男くんの視点を加えて記述しています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "自然由来の原料や食品廃棄物が建材に、循環経済を先導するベンチャー6社",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100005/",
-        "pubDate": "2026-09-01T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "脱炭素やサーキュラーエコノミー（循環経済）といったキーワードを軸に、新たな建築材料を生み出したり、建材の再利用に取り組んだりするベンチャーが増えている。自然由来の成分や食品廃棄物などを原料とした新感覚の材料は、建築の可能性を広げてくれそうだ。編集部が選定したベンチャー100社を紹介する本特集の第5回は、脱炭素・循環社会の旗手を目指す6社にフォーカスする。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100005/",
-        "fingerprint": "8ae43d55382c0603dcf179684f1271da0af36c6c4ae4291a6d1062ad6334c060"
+        "title": "日本HP、建築・エンジニアリング・建設業界向けのプロジェクト管理コラボレーションプラットフォーム「HP Build Workspace」日本語版の提供を開始 - テクノエッジ TechnoEdge",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUWZsSlh6bVIxZjh0VlZvbHUxT05Bb3VuZGd2d015UHp1VzNRTjhEbUx6Z1N4NXhhRmV4NGlxVHZVb3Ztb05QMks4Wm9LazAtRUd1eUF2ZlFxMXdycUFlYUJYa19ZM3BMMkVCV0NRU213UQ?oc=5",
+        "pubDate": "Wed, 02 Sep 2026 05:00:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 5.20949268,
+        "contentSnippet": "日本HP、建築・エンジニアリング・建設業界向けのプロジェクト管理コラボレーションプラットフォーム「HP Build Workspace」日本語版の提供を開始  テクノエッジ TechnoEdge",
+        "urlNorm": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUWZsSlh6bVIxZjh0VlZvbHUxT05Bb3VuZGd2d015UHp1VzNRTjhEbUx6Z1N4NXhhRmV4NGlxVHZVb3Ztb05QMks4Wm9LazAtRUd1eUF2ZlFxMXdycUFlYUJYa19ZM3BMMkVCV0NRU213UQ?oc=5",
+        "fingerprint": "8ef47c303fe105c432c7b5cd3f7e3556a268af31e9a278f12ae769c7cb7c7a31"
       },
-      "xDraft": "【本文】\n自然由来の成分や食品廃棄物を原料とした新しい建築材料の開発、また建材の再利用に取り組むベンチャー企業6社が紹介されています。脱炭素や循環型経済（サーキュラーエコノミー）を軸に、建築の可能性を広げる試みが進んでいます。\n\n廃棄されるはずのものが新しい建材に生まれ変わる流れは、現場の景色を大きく変えていきそうですね。単なる環境配慮に留まらず、素材としての新しい質感や機能性が実務でどう評価されていくのか、僕も非常に注目しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100005/\n\n【抜粋元】\n日経クロステック編集部が選定したベンチャー100社のうち、脱炭素や循環社会の旗手を目指す6社にフォーカスした記事です。自然由来の原料や食品廃棄物を活用した新素材、建材の再利用といった具体的な取り組みが紹介されています。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本HPが、建築・エンジニアリング・建設業界向けのプロジェクト管理プラットフォーム「HP Build Workspace」の日本語版を提供開始しました。設計、施工、エンジニアリングに関わる情報を一元化し、コラボレーションを円滑にするツールとのことです。\nHPといえばワークステーションなどのハードのイメージが強いですが、ソフト面でも建設DXを強力に支えてくれそうですね。現場の利便性がどこまで高まるか楽しみです。\n\n出典：テクノエッジ\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE1CUWZsSlh6bVIxZjh0VlZvbHUxT05Bb3VuZGd2d015UHp1VzNRTjhEbUx6Z1N4NXhhRmV4NGlxVHZVb3Ztb05QMks4Wm9LazAtRUd1eUF2ZlFxMXdycUFlYUJYa19ZM3BMMkVCV0NRU213UQ?oc=5\n\n【抜粋元】\n日本HPがAEC（建築・建設・エンジニアリング）業界に特化したコラボレーションプラットフォームの日本語版をリリースしたという記事です。ハードウェアメーカーがソフトウェア領域での提供を強化する点に着目しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック編集部が選定したベンチャー100社のうち、脱炭素や循環社会の旗手を目指す6社にフォーカスした記事です。自然由来の原料や食品廃棄物を活用した新素材、建材の再利用といった具体的な取り組みが紹介されています。",
+      "xDraftExcerptSummary": "日本HPがAEC（建築・建設・エンジニアリング）業界に特化したコラボレーションプラットフォームの日本語版をリリースしたという記事です。ハードウェアメーカーがソフトウェア領域での提供を強化する点に着目しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "三菱地所の木造施設「有楽町パーク」27年開業、都心に11棟のCLT建築",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/",
-        "pubDate": "2026-09-01T20:00:00.000Z",
+        "title": "大林組が法令調査や要件整理にAI活用、設計初期の作業時間を67％短縮",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02910/",
+        "pubDate": "2026-09-02T20:00:00.000Z",
         "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "三菱地所は「有楽町ビル」と「新有楽町ビル」を解体した跡地に、公園のような木造施設「YURAKUCHO PARK（有楽町パーク）」を建設する。ビルの建て替えを始めるまでの数年間限定で、CLT（直交集成板）現しの施設を11棟つくり、2027年に開業する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/",
-        "fingerprint": "33d3f91b69101cacbc1148cf5fcdf99b41e9e0ebb934f3173033f63ddf5d1a65"
+        "score": 4,
+        "contentSnippet": "設計業務にAI（人工知能）を用いる試みが続々と登場している。大林組は、設計初期段階の法令調査や要件整理にAIエージェントを試験導入した。設計者の質問に対して確認すべき法令や論点を整理するものだ。2つの建築プロジェクトで使用したところ、設計者1人当たりの作業時間を週平均4.3時間から1.4時間へと約67％短縮した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02910/",
+        "fingerprint": "3a894a50bbab06bfcce9af69a03dab275d9b0ce2f4ce78ce898bf41b040363c6"
       },
-      "xDraft": "【本文】\n三菱地所が有楽町ビルと新有楽町ビルの跡地に、木造施設「YURAKUCHO PARK」を2027年に開業します。ビル建て替えまでの数年間限定の試みで、CLT（直交集成板）を現しで使った建物が11棟並ぶ公園のような空間になります。\n\n都心の超一等地における暫定利用として、これほど大規模なCLT建築群を計画する点に、木材活用の新たな可能性を感じます。高層ビルに囲まれた場所だからこそ、木の質感あふれる低層の建物が並ぶ景色は、歩行者に安らぎを与えてくれそうですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/\n\n【抜粋元】\n三菱地所が有楽町のビル解体跡地で、CLT建築11棟からなる暫定施設を2027年に開業するという記事。建て替えまでの「空き」を公園化し、木材現しの意匠を取り入れる点に注目して書きました。\n\n【判定】OK",
+      "xDraft": "【本文】\n大林組が設計初期の法令調査や要件整理にAIエージェントを試験導入し、作業時間を約67％短縮したそうです。2つのプロジェクトでの検証では、設計者1人当たりの作業時間が週平均4.3時間から1.4時間に削減されたとのこと。\n\n設計の初期段階は、膨大な法規の確認や条件整理に多くの時間が費やされます。ここが効率化されることで、設計者がより深く検討や対話に時間を使えるようになるのは素晴らしい流れだと感じます。AIが直接答えを出すのではなく、確認すべき論点を整理してくれるという使い方も、技術者の判断を支える良い道具になりそうですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02910/\n\n【抜粋元】\n大林組が設計初期の法令調査や要件整理にAIを導入し、週4.3時間の作業を1.4時間に短縮（約67％減）した実績を紹介する記事です。AIが「確認すべき法令や論点を整理する」役割を担っている点に注目して書きました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "三菱地所が有楽町のビル解体跡地で、CLT建築11棟からなる暫定施設を2027年に開業するという記事。建て替えまでの「空き」を公園化し、木材現しの意匠を取り入れる点に注目して書きました。",
+      "xDraftExcerptSummary": "大林組が設計初期の法令調査や要件整理にAIを導入し、週4.3時間の作業を1.4時間に短縮（約67％減）した実績を紹介する記事です。AIが「確認すべき法令や論点を整理する」役割を担っている点に注目して書きました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "三菱地所の木造施設「有楽町パーク」27年開業、都心に11棟のCLT建築",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/",
-    "pubDate": "2026-09-01T20:00:00.000Z",
+    "title": "1位は認知度89％で生成AI、最下位は交通商社機能",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/",
+    "pubDate": "2026-09-02T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
-    "score": 2.4,
-    "contentSnippet": "三菱地所は「有楽町ビル」と「新有楽町ビル」を解体した跡地に、公園のような木造施設「YURAKUCHO PARK（有楽町パーク）」を建設する。ビルの建て替えを始めるまでの数年間限定で、CLT（直交集成板）現しの施設を11棟つくり、2027年に開業する。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/",
-    "fingerprint": "33d3f91b69101cacbc1148cf5fcdf99b41e9e0ebb934f3173033f63ddf5d1a65"
+    "score": 7.199999999999999,
+    "contentSnippet": "建設業界に関わる新しい用語など40語について、意味を知っているかどうかについて土木専門誌の読者に尋ねたところ、意味を知っていると答えた割合（認知度）が最も高かったのは、今や当たり前に使われる「生成AI（人工知能）」で約9割だった。一方、最下位は「交通商社機能」だ。10％を切る認知度だった。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/",
+    "fingerprint": "3d902fd22caa0c48802bfc03d1ee79fec5944c6d3fe08cc3ebab3a1cd3141c1d"
   },
-  "xDraft": "【本文】\n三菱地所が、有楽町ビルと新有楽町ビルの解体跡地に「YURAKUCHO PARK」という木造施設を建設します。2027年に開業し、次のビル建設が始まるまでの数年間限定で、CLT（直交集成板）を用いた11棟の建築物が並ぶ計画です。\n都心の一等地の暫定利用として、これほど大規模に木造建築群を整備する試みには驚きました。CLTの構造をそのまま見せる「現し」の建築が並ぶ風景は、都市の新しい余白のあり方を示してくれそうで楽しみです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02911/\n\n【抜粋元】\n有楽町ビル・新有楽町ビルの解体跡地を、2027年から数年間限定でCLT現しの施設11棟が並ぶ「YURAKUCHO PARK」として活用する計画について。\n\n【判定】OK",
+  "xDraft": "【本文】\n土木専門誌の読者を対象にした調査で、建設業界に関わる新用語40語の認知度が明らかになりました。生成AIは約9割の人が意味を知っていると回答した一方で、最下位の「交通商社機能」は10％に満たない認知度だったそうです。\n\n生成AIがこれほど当たり前の言葉として定着している事実に、業界の適応力の高さを感じます。一方で、言葉の認知度が低いからといってその課題が重要でないわけではありません。僕たちが向き合う現場や地域の課題にどんな名前がつき、どう共有されていくべきなのか、改めて考えさせられました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/\n\n【抜粋元】\n日経クロステック 土木の記事から、土木専門誌読者を対象にした用語認知度調査の結果を引用しました。生成AIの普及と、それ以外の専門用語の浸透度の差という論点に基づき、石男くんの視点を加えて記述しています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "有楽町ビル・新有楽町ビルの解体跡地を、2027年から数年間限定でCLT現しの施設11棟が並ぶ「YURAKUCHO PARK」として活用する計画について。",
+  "xDraftExcerptSummary": "日経クロステック 土木の記事から、土木専門誌読者を対象にした用語認知度調査の結果を引用しました。生成AIの普及と、それ以外の専門用語の浸透度の差という論点に基づき、石男くんの視点を加えて記述しています。",
   "xDraftAlternates": [],
   "errors": []
 }
