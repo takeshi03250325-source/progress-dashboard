@@ -1,31 +1,11 @@
 {
-  "generatedAt": "2026-09-03T23:24:28.178Z",
+  "generatedAt": "2026-09-04T23:08:52.981Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 3,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
-    {
-      "title": "1位は認知度89％で生成AI、最下位は交通商社機能",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/",
-      "pubDate": "2026-09-02T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 7.199999999999999,
-      "contentSnippet": "建設業界に関わる新しい用語など40語について、意味を知っているかどうかについて土木専門誌の読者に尋ねたところ、意味を知っていると答えた割合（認知度）が最も高かったのは、今や当たり前に使われる「生成AI（人工知能）」で約9割だった。一方、最下位は「交通商社機能」だ。10％を切る認知度だった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800001/",
-      "fingerprint": "3d902fd22caa0c48802bfc03d1ee79fec5944c6d3fe08cc3ebab3a1cd3141c1d"
-    },
-    {
-      "title": "日本国土開発 Research Memo（2）：土木事業と建築事業を展開する中堅ゼネコン。東日本大震災復興などに従事 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVER1aW9zQTRlamJZTkZOVDNLclJTYlB2SkJHZTdFYzF3Qmd2aHM4RXc4VThLdUVldnpFVlBpcWNvMXhMR2lTVVcyMWlIZ3RvdGtKYnRwQlpFSG96dExqQjk0eXo0WHYwYy1lT0g1aUVUMXAzTXBxd1pXOVlwSjQ5aFlhN2RzMUdBSHVtOXlGblFjdC04Rzd0TFUtNlg4ZTQ5TjYwTjBCQ05tY2U0QlU0VF93T21ISjd1dWlSbS10al9JdmpYVV9IQi1PWHNiaGlRRl9TeHk0cGQyREJZRVHSAYwBQVVfeXFMTmpWbXYya1dSMFRneXlUb3lxYmxyME5odVpyRHI2djZnSk1ON2NrOVVUblBiQVprSzZYMmdhVjVPMnlGcV9Sd01MQ09NdE8tbUo3ZjRmTmMzVGNReTB1LVBocV9IcFlxR3FPSTVuM0ZxbXpWR2Q2cnQtZXlwN2w4TDlLWUZfRjJxYy1COGs?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 03:17:31 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 7.0095649059000005,
-      "contentSnippet": "日本国土開発 Research Memo（2）：土木事業と建築事業を展開する中堅ゼネコン。東日本大震災復興などに従事  ｄメニューニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVER1aW9zQTRlamJZTkZOVDNLclJTYlB2SkJHZTdFYzF3Qmd2aHM4RXc4VThLdUVldnpFVlBpcWNvMXhMR2lTVVcyMWlIZ3RvdGtKYnRwQlpFSG96dExqQjk0eXo0WHYwYy1lT0g1aUVUMXAzTXBxd1pXOVlwSjQ5aFlhN2RzMUdBSHVtOXlGblFjdC04Rzd0TFUtNlg4ZTQ5TjYwTjBCQ05tY2U0QlU0VF93T21ISjd1dWlSbS10al9JdmpYVV9IQi1PWHNiaGlRRl9TeHk0cGQyREJZRVHSAYwBQVVfeXFMTmpWbXYya1dSMFRneXlUb3lxYmxyME5odVpyRHI2djZnSk1ON2NrOVVUblBiQVprSzZYMmdhVjVPMnlGcV9Sd01MQ09NdE8tbUo3ZjRmTmMzVGNReTB1LVBocV9IcFlxR3FPSTVuM0ZxbXpWR2Q2cnQtZXlwN2w4TDlLWUZfRjJxYy1COGs?oc=5",
-      "fingerprint": "774c6839b324594a728be9455a4a1b8c9e07a6615f84f77158c0beaad390e0cd"
-    },
     {
       "title": "建設業の人手不足とは 20年間で就業者14%減、工事の制約に - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40OElrTUMxTk9xTjlvajNPeEJMVVBMLUpUY3lpcFI0eDMyVnhYYUR1TmpjNTVwR1piX0Z2aVRRMkVIUHRMZDlMMnNhWXRNRHI5ajRVdWRSb0djRmlGb0xxcjV0c090M1l6NVZOMA?oc=5",
@@ -37,26 +17,6 @@
       "fingerprint": "030fda99312b69c76cb618c7a16f68b06706b7d19d1ef4ee99c1da07d8407d1e"
     },
     {
-      "title": "日本HP、建築・エンジニアリング・建設業界向けのプロジェクト管理コラボレーションプラットフォーム「HP Build Workspace」日本語版の提供を開始 - techno-edge.net",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUWZsSlh6bVIxZjh0VlZvbHUxT05Bb3VuZGd2d015UHp1VzNRTjhEbUx6Z1N4NXhhRmV4NGlxVHZVb3Ztb05QMks4Wm9LazAtRUd1eUF2ZlFxMXdycUFlYUJYa19ZM3BMMkVCV0NRU213UQ?oc=5",
-      "pubDate": "Wed, 02 Sep 2026 05:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.20949268,
-      "contentSnippet": "日本HP、建築・エンジニアリング・建設業界向けのプロジェクト管理コラボレーションプラットフォーム「HP Build Workspace」日本語版の提供を開始  techno-edge.net",
-      "urlNorm": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUWZsSlh6bVIxZjh0VlZvbHUxT05Bb3VuZGd2d015UHp1VzNRTjhEbUx6Z1N4NXhhRmV4NGlxVHZVb3Ztb05QMks4Wm9LazAtRUd1eUF2ZlFxMXdycUFlYUJYa19ZM3BMMkVCV0NRU213UQ?oc=5",
-      "fingerprint": "0827aa477d596672bdcbb61b6a0286716ee40882b93d19cb9c387a76bd095193"
-    },
-    {
-      "title": "大林組が法令調査や要件整理にAI活用、設計初期の作業時間を67％短縮",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02910/",
-      "pubDate": "2026-09-02T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "設計業務にAI（人工知能）を用いる試みが続々と登場している。大林組は、設計初期段階の法令調査や要件整理にAIエージェントを試験導入した。設計者の質問に対して確認すべき法令や論点を整理するものだ。2つの建築プロジェクトで使用したところ、設計者1人当たりの作業時間を週平均4.3時間から1.4時間へと約67％短縮した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02910/",
-      "fingerprint": "3a894a50bbab06bfcce9af69a03dab275d9b0ce2f4ce78ce898bf41b040363c6"
-    },
-    {
       "title": "建築資材の手配や人手確保の非効率を打破、BALLASなどベンチャー8社",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100007/",
       "pubDate": "2026-09-03T20:00:00.000Z",
@@ -77,16 +37,6 @@
       "fingerprint": "282e7f83a2709cd92c8e719741e704824d440b1b9608996c223a5b44c70c0eea"
     },
     {
-      "title": "1位は「大和ハウスが明かした商業施設14cm沈下の真相、複雑な地盤を見抜けず杭到達誤認」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300430/",
-      "pubDate": "2026-09-02T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年9月3～9日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300430/",
-      "fingerprint": "09cb3661608235c29f6a8201b1959267d59bbd0072feaa9b1782a5bce2744768"
-    },
-    {
       "title": "建築資材の手配や人手確保の非効率を打破、BALLASなどベンチャー8社",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100007/",
       "pubDate": "2026-09-03T20:00:00.000Z",
@@ -105,36 +55,6 @@
       "contentSnippet": "2026年熊本地震による建築物構造被害の客観的な状況把握と、被害原因の科学的な検証を国が始めた。国土交通省と建築研究所は、「令和8年熊本地震における建築物構造被害の原因分析を行う委員会」を立ち上げた。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/",
       "fingerprint": "282e7f83a2709cd92c8e719741e704824d440b1b9608996c223a5b44c70c0eea"
-    },
-    {
-      "title": "1位は「大和ハウスが明かした商業施設14cm沈下の真相、複雑な地盤を見抜けず杭到達誤認」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300430/",
-      "pubDate": "2026-09-02T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年8月31日～9月6日に読まれた記事の1～10位を26年9月3～9日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/072300430/",
-      "fingerprint": "09cb3661608235c29f6a8201b1959267d59bbd0072feaa9b1782a5bce2744768"
-    },
-    {
-      "title": "3Dプリンターで建築生産を刷新、デジファブに存在感　有力ベンチャー7社",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100006/",
-      "pubDate": "2026-09-02T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "人手不足や脱炭素、サーキュラーエコノミー（循環経済）への移行といった文脈に沿う技術として、デジタルを活用したものづくり、いわゆるデジタルファブリケーションが、建築の世界で普及の糸口をつかみつつある。その代表格が、特殊なモルタルなどを積層して構造物を造形する建設3Dプリンターだ。欧米の後塵（こうじん）を拝してきた日本でも2階建ての住宅が実現するなど、進化が加速している。編集部が選定したベンチャー100社を紹介する本特集の第6回は、デジタルファブリケーションに取り組む7社にフォーカスした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100006/",
-      "fingerprint": "08f4a492c5a9cd7f9bbd98cc763489822b8b985172adbf670dbc562f61a31c94"
-    },
-    {
-      "title": "インタビュー 日本Ｍ＆Ａセンター東日本地域戦略部長 縄田桂介氏 持続成長のための前向きな戦略としてＭ＆Ａを - 建通新聞",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGh1Y2x2RHE2dzV1VVhpUzFld1M1S3l4NVAza0Foc2xOdFVFRzdvU1JyNjhIRWZ3THlhdGZ1TUFlSFZ6UnI2akpBZUxUWkR3ZXpibDhSMGMzVEdHd2JwX2g3RndxTDUzV0ktR0Zxa0VCWFFMNC1pd3ZvTjlXem53dg?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 20:05:03 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6096193127,
-      "contentSnippet": "インタビュー 日本Ｍ＆Ａセンター東日本地域戦略部長 縄田桂介氏 持続成長のための前向きな戦略としてＭ＆Ａを  建通新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGh1Y2x2RHE2dzV1VVhpUzFld1M1S3l4NVAza0Foc2xOdFVFRzdvU1JyNjhIRWZ3THlhdGZ1TUFlSFZ6UnI2akpBZUxUWkR3ZXpibDhSMGMzVEdHd2JwX2g3RndxTDUzV0ktR0Zxa0VCWFFMNC1pd3ZvTjlXem53dg?oc=5",
-      "fingerprint": "201847dc6476a2fb223c5557f0dbabee2c8fe808881ca7d3df7dda48319a2403"
     },
     {
       "title": "建設3Dプリンターの認知度が83％、i-Con2.0は50％に届かず",
@@ -155,79 +75,109 @@
       "contentSnippet": "2026年7月28日に発生した熊本地震により熊本―新水俣間で運休中の九州新幹線が、26年9月18日に全線で運行を再開する見通しとなった。九州新幹線では新八代―新水俣間に架かる水無川橋りょう（熊本県八代市）で橋桁のずれが生じた他、熊本駅で架線が断線、熊本総合車両所（熊本市）や新八代駅の構内などでレールのゆがみが発生した。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02752/",
       "fingerprint": "2ffce61407be7a791b4bdc17c3da645bf118f10d7cba558bafdb17f8f47b0405"
+    },
+    {
+      "title": "スギを主材とする家具コレクション",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01063/",
+      "pubDate": "2026-09-03T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "カリモク家具は、強度と細さを同時に求められる家具材には不向きとされてきた針葉樹のスギを主材として使う新しいコレクション「MORIWA（モリワ）」の販売を2026年7月に開始した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01063/",
+      "fingerprint": "75fe4d16884ae1ce26091992bccb98016a2d95f4b33a633b6265a3a6d61a1316"
+    },
+    {
+      "title": "「防災拠点」イオンモール熊本の爆発事故、問われる被災後の安全確保策",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/090202096/",
+      "pubDate": "2026-09-03T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "2026年熊本地震で発生した「イオンモール熊本」（熊本県嘉島町）の爆発事故は、避難者の受け入れや救援物資の供給などを担う地域の「防災拠点」が機能を失う事態を招いた。南海トラフ地震のような大規模地震の発生を見据え、自治体や企業は防災拠点そのものの安全確保について、対策の見直しを迫られそうだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/090202096/",
+      "fingerprint": "7b5bc0f57a3bb0af8888e7458dccff6e936ae19289a414030a93af504c1c8ea0"
+    },
+    {
+      "title": "九州新幹線、熊本地震で橋脚が最大36cm沈下　桁をジャッキアップして再開へ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02752/",
+      "pubDate": "2026-09-03T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "2026年7月28日に発生した熊本地震により熊本―新水俣間で運休中の九州新幹線が、26年9月18日に全線で運行を再開する見通しとなった。九州新幹線では新八代―新水俣間に架かる水無川橋りょう（熊本県八代市）で橋桁のずれが生じた他、熊本駅で架線が断線、熊本総合車両所（熊本市）や新八代駅の構内などでレールのゆがみが発生した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02752/",
+      "fingerprint": "2ffce61407be7a791b4bdc17c3da645bf118f10d7cba558bafdb17f8f47b0405"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "日本国土開発 Research Memo（2）：土木事業と建築事業を展開する中堅ゼネコン。東日本大震災復興などに従事 - ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVER1aW9zQTRlamJZTkZOVDNLclJTYlB2SkJHZTdFYzF3Qmd2aHM4RXc4VThLdUVldnpFVlBpcWNvMXhMR2lTVVcyMWlIZ3RvdGtKYnRwQlpFSG96dExqQjk0eXo0WHYwYy1lT0g1aUVUMXAzTXBxd1pXOVlwSjQ5aFlhN2RzMUdBSHVtOXlGblFjdC04Rzd0TFUtNlg4ZTQ5TjYwTjBCQ05tY2U0QlU0VF93T21ISjd1dWlSbS10al9JdmpYVV9IQi1PWHNiaGlRRl9TeHk0cGQyREJZRVHSAYwBQVVfeXFMTmpWbXYya1dSMFRneXlUb3lxYmxyME5odVpyRHI2djZnSk1ON2NrOVVUblBiQVprSzZYMmdhVjVPMnlGcV9Sd01MQ09NdE8tbUo3ZjRmTmMzVGNReTB1LVBocV9IcFlxR3FPSTVuM0ZxbXpWR2Q2cnQtZXlwN2w4TDlLWUZfRjJxYy1COGs?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 03:17:31 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 7.0095649059000005,
-        "contentSnippet": "日本国土開発 Research Memo（2）：土木事業と建築事業を展開する中堅ゼネコン。東日本大震災復興などに従事  ｄメニューニュース",
-        "urlNorm": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVER1aW9zQTRlamJZTkZOVDNLclJTYlB2SkJHZTdFYzF3Qmd2aHM4RXc4VThLdUVldnpFVlBpcWNvMXhMR2lTVVcyMWlIZ3RvdGtKYnRwQlpFSG96dExqQjk0eXo0WHYwYy1lT0g1aUVUMXAzTXBxd1pXOVlwSjQ5aFlhN2RzMUdBSHVtOXlGblFjdC04Rzd0TFUtNlg4ZTQ5TjYwTjBCQ05tY2U0QlU0VF93T21ISjd1dWlSbS10al9JdmpYVV9IQi1PWHNiaGlRRl9TeHk0cGQyREJZRVHSAYwBQVVfeXFMTmpWbXYya1dSMFRneXlUb3lxYmxyME5odVpyRHI2djZnSk1ON2NrOVVUblBiQVprSzZYMmdhVjVPMnlGcV9Sd01MQ09NdE8tbUo3ZjRmTmMzVGNReTB1LVBocV9IcFlxR3FPSTVuM0ZxbXpWR2Q2cnQtZXlwN2w4TDlLWUZfRjJxYy1COGs?oc=5",
-        "fingerprint": "774c6839b324594a728be9455a4a1b8c9e07a6615f84f77158c0beaad390e0cd"
-      },
-      "xDraft": "【本文】\n日本国土開発は、土木と建築の両輪で事業を展開する中堅ゼネコンです。東日本大震災の復興事業にも深く従事してきた実績を持っています。社名に「国土開発」を掲げているところに、戦後復興から続く日本のインフラを支える自負を感じます。機械化施工のパイオニアとしての技術力が、これからの更新需要にどう応えていくのか楽しみです。\n\n出典：ｄメニューニュース\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxNVER1aW9zQTRlamJZTkZOVDNLclJTYlB2SkJHZTdFYzF3Qmd2aHM4RXc4VThLdUVldnpFVlBpcWNvMXhMR2lTVVcyMWlIZ3RvdGtKYnRwQlpFSG96dExqQjk0eXo0WHYwYy1lT0g1aUVUMXAzTXBxd1pXOVlwSjQ5aFlhN2RzMUdBSHVtOXlGblFjdC04Rzd0TFUtNlg4ZTQ5TjYwTjBCQ05tY2U0QlU0VF93T21ISjd1dWlSbS10al9JdmpYVV9IQi1PWHNiaGlRRl9TeHk0cGQyREJZRVHSAYwBQVVfeXFMTmpWbXYya1dSMFRneXlUb3lxYmxyME5odVpyRHI2djZnSk1ON2NrOVVUblBiQVprSzZYMmdhVjVPMnlGcV9Sd01MQ09NdE8tbUo3ZjRmTmMzVGNReTB1LVBo…",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": null,
-      "xDraftExcerptSummary": null,
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "建設業の人手不足とは 20年間で就業者14%減、工事の制約に - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40OElrTUMxTk9xTjlvajNPeEJMVVBMLUpUY3lpcFI0eDMyVnhYYUR1TmpjNTVwR1piX0Z2aVRRMkVIUHRMZDlMMnNhWXRNRHI5ajRVdWRSb0djRmlGb0xxcjV0c090M1l6NVZOMA?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 09:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 5.2095834000000005,
-        "contentSnippet": "建設業の人手不足とは 20年間で就業者14%減、工事の制約に  日本経済新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40OElrTUMxTk9xTjlvajNPeEJMVVBMLUpUY3lpcFI0eDMyVnhYYUR1TmpjNTVwR1piX0Z2aVRRMkVIUHRMZDlMMnNhWXRNRHI5ajRVdWRSb0djRmlGb0xxcjV0c090M1l6NVZOMA?oc=5",
-        "fingerprint": "030fda99312b69c76cb618c7a16f68b06706b7d19d1ef4ee99c1da07d8407d1e"
-      },
-      "xDraft": "【本文】\n建設業の就業者数がこの20年間で14%減少し、人手不足が工事の進捗を制限する事態になっているそうです。現場を支える方々が減ることは、社会インフラの維持管理にも大きな影響を及ぼします。僕はこの「14%」という数字の重みを、技術の継承や安全の確保といった面からも重く受け止めています。産業全体の持続可能性を真剣に考える時期に来ているのかもしれません。\n\n出典：建設業の人手不足とは 20年間で就業者14%減、工事の制約に - 日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE40OElrTUMxTk9xTjlvajNPeEJMVVBMLUpUY3lpcFI0eDMyVnhYYUR1TmpjNTVwR1piX0Z2aVRRMkVIUHRMZDlMMnNhWXRNRHI5ajRVdWRSb0djRmlGb0xxcjV0c090M1l6NVZOMA?oc=5\n\n【抜粋元】\n日本経済新聞の記事から、建設業の就業者が20年間で14%減少したという具体的な数字と、それが工事の制約という実害につながっている点を引用して作成しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本経済新聞の記事から、建設業の就業者が20年間で14%減少したという具体的な数字と、それが工事の制約という実害につながっている点を引用して作成しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "建築資材の手配や人手確保の非効率を打破、BALLASなどベンチャー8社",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100007/",
+        "title": "煙突倒壊や免震ゴム破断、国が被害検証に着手　熊本地震",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/",
         "pubDate": "2026-09-03T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 2.4,
-        "contentSnippet": "デジタルによる効率化が求められているのは、設計や施工だけではない。編集部が選定したベンチャー100社を紹介する本特集の第7回は、積算や資材・人材の手配をデジタルで効率化する8社にフォーカスする。まずは、独自のプラットフォームで特注金物の調達を効率化するBALLAS（東京・中央）から紹介しよう。建築分野のサプライチェーン（供給網）最適化に挑む同社は、累計約43億円の資金を調達した有力ベンチャーだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100007/",
-        "fingerprint": "8c92043aa47a9d54f1b033c87b27e05df463c0f8098aec473251e47184675e0c"
+        "contentSnippet": "2026年熊本地震による建築物構造被害の客観的な状況把握と、被害原因の科学的な検証を国が始めた。国土交通省と建築研究所は、「令和8年熊本地震における建築物構造被害の原因分析を行う委員会」を立ち上げた。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/",
+        "fingerprint": "282e7f83a2709cd92c8e719741e704824d440b1b9608996c223a5b44c70c0eea"
       },
-      "xDraft": "【本文】\n建築現場の積算や資材・人材手配をデジタルで効率化するベンチャー8社が紹介されています。なかでも特注金物の調達プラットフォームを運営するBALLASは、累計約43億円の資金を調達しており、サプライチェーンの最適化に挑んでいます。\n現場では特注品の仕様調整や手配に多くの時間が割かれることが多いので、ここがスムーズになる恩恵は大きいですね。僕も、周辺業務のDXが進むことは、設計や施工そのものの生産性を高めるために不可欠な要素だと考えています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100007/\n\n【抜粋元】\n日経クロステックのベンチャー100社特集から、積算・資材・人材手配の効率化に焦点を当てた第7回の記事です。BALLASによる特注金物調達のデジタル化とその資金調達規模について触れています。\n\n【判定】OK",
+      "xDraft": "【本文】\n国土交通省と建築研究所が、2026年（令和8年）熊本地震による建築物構造被害の科学的な原因分析を開始しました。新たに立ち上げられた委員会では、煙突の倒壊や免震ゴムの破断といった具体的な被害状況を客観的に把握し、検証を進める方針です。\n\n起きてしまった被害の事実を正確に記録し、その原因を科学的に突き止めることは、次の災害から命を守るための最も誠実なアプローチだと僕は思います。技術の限界や課題を直視することで、日本の建築技術はさらに進化していくはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/\n\n【抜粋元】\n日経クロステック 土木の記事から、国が「令和8年熊本地震における建築物構造被害の原因分析を行う委員会」を組織し、煙突倒壊や免震ゴム破断などの具体的な被害検証に着手した事実を抽出しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックのベンチャー100社特集から、積算・資材・人材手配の効率化に焦点を当てた第7回の記事です。BALLASによる特注金物調達のデジタル化とその資金調達規模について触れています。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事から、国が「令和8年熊本地震における建築物構造被害の原因分析を行う委員会」を組織し、煙突倒壊や免震ゴム破断などの具体的な被害検証に着手した事実を抽出しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "煙突倒壊や免震ゴム破断、国が被害検証に着手　熊本地震",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/",
+        "pubDate": "2026-09-03T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 2,
+        "contentSnippet": "2026年熊本地震による建築物構造被害の客観的な状況把握と、被害原因の科学的な検証を国が始めた。国土交通省と建築研究所は、「令和8年熊本地震における建築物構造被害の原因分析を行う委員会」を立ち上げた。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/",
+        "fingerprint": "282e7f83a2709cd92c8e719741e704824d440b1b9608996c223a5b44c70c0eea"
+      },
+      "xDraft": "【本文】\n国が令和8年（2026年）熊本地震における建築物被害の検証に着手しました。国土交通省と建築研究所が委員会を立ち上げ、煙突の倒壊や免震ゴムの破断といった構造被害の原因を科学的に分析するとのことです。\n\n被害状況を客観的に把握し、次の設計基準へ活かそうとする姿勢は非常に大切だと思います。特に免震部材の破断といった事例は、今後の技術発展に向けた貴重な教訓になるはずです。僕も調査の進展を注視していきます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/\n\n【抜粋元】\n令和8年（2026年）熊本地震を受けて国が設置した「建築物構造被害の原因分析を行う委員会」に関する記事です。煙突倒壊や免震部材の被害など、具体的な検証対象に触れている点を中心に構成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "令和8年（2026年）熊本地震を受けて国が設置した「建築物構造被害の原因分析を行う委員会」に関する記事です。煙突倒壊や免震部材の被害など、具体的な検証対象に触れている点を中心に構成しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "建設3Dプリンターの認知度が83％、i-Con2.0は50％に届かず",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800002/",
+        "pubDate": "2026-09-03T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 0,
+        "contentSnippet": "日経クロステックが数年に1回実施する建設用語の認知度調査で、今回初めて対象に加えた建設3Dプリンターの用語が、定着していることが分かった。認知度（意味を知っていると答えた人の割合）は83％、「聞いたことがある」の16％を含めると99％だ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800002/",
+        "fingerprint": "7333e381d99aa7c0b597478aad4a55963e35db733390f87f38e0c7efdc224682"
+      },
+      "xDraft": "【本文】\n日経クロステックの調査によると、建設3Dプリンターの認知度は「意味を知っている」が83％に達し、聞いたことがある人を含めると99％という非常に高い数字になったそうです。一方で、i-Con 2.0の認知度は50％に届かない結果となりました。\n\n僕としては、3Dプリンターという技術そのもののインパクトが、この高い認知度に繋がっていると感じます。施策名であるi-Con 2.0は、まだ実務レベルでの浸透に時間がかかっているのかもしれません。この高い関心が、今後どのような形で実際の現場活用に結びついていくのか注視していきたいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800002/\n\n【抜粋元】\n日経クロステックが実施した建設用語の認知度調査の結果をまとめた記事です。新しく調査対象に加わった建設3Dプリンターの認知度が極めて高い一方で、i-Con 2.0の認知が広がっていないという対比を軸に作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステックが実施した建設用語の認知度調査の結果をまとめた記事です。新しく調査対象に加わった建設3Dプリンターの認知度が極めて高い一方で、i-Con 2.0の認知が広がっていないという対比を軸に作成しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "日本国土開発 Research Memo（2）：土木事業と建築事業を展開する中堅ゼネコン。東日本大震災復興などに従事 - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVER1aW9zQTRlamJZTkZOVDNLclJTYlB2SkJHZTdFYzF3Qmd2aHM4RXc4VThLdUVldnpFVlBpcWNvMXhMR2lTVVcyMWlIZ3RvdGtKYnRwQlpFSG96dExqQjk0eXo0WHYwYy1lT0g1aUVUMXAzTXBxd1pXOVlwSjQ5aFlhN2RzMUdBSHVtOXlGblFjdC04Rzd0TFUtNlg4ZTQ5TjYwTjBCQ05tY2U0QlU0VF93T21ISjd1dWlSbS10al9JdmpYVV9IQi1PWHNiaGlRRl9TeHk0cGQyREJZRVHSAYwBQVVfeXFMTmpWbXYya1dSMFRneXlUb3lxYmxyME5odVpyRHI2djZnSk1ON2NrOVVUblBiQVprSzZYMmdhVjVPMnlGcV9Sd01MQ09NdE8tbUo3ZjRmTmMzVGNReTB1LVBocV9IcFlxR3FPSTVuM0ZxbXpWR2Q2cnQtZXlwN2w4TDlLWUZfRjJxYy1COGs?oc=5",
-    "pubDate": "Thu, 03 Sep 2026 03:17:31 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 7.0095649059000005,
-    "contentSnippet": "日本国土開発 Research Memo（2）：土木事業と建築事業を展開する中堅ゼネコン。東日本大震災復興などに従事  ｄメニューニュース",
-    "urlNorm": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVER1aW9zQTRlamJZTkZOVDNLclJTYlB2SkJHZTdFYzF3Qmd2aHM4RXc4VThLdUVldnpFVlBpcWNvMXhMR2lTVVcyMWlIZ3RvdGtKYnRwQlpFSG96dExqQjk0eXo0WHYwYy1lT0g1aUVUMXAzTXBxd1pXOVlwSjQ5aFlhN2RzMUdBSHVtOXlGblFjdC04Rzd0TFUtNlg4ZTQ5TjYwTjBCQ05tY2U0QlU0VF93T21ISjd1dWlSbS10al9JdmpYVV9IQi1PWHNiaGlRRl9TeHk0cGQyREJZRVHSAYwBQVVfeXFMTmpWbXYya1dSMFRneXlUb3lxYmxyME5odVpyRHI2djZnSk1ON2NrOVVUblBiQVprSzZYMmdhVjVPMnlGcV9Sd01MQ09NdE8tbUo3ZjRmTmMzVGNReTB1LVBocV9IcFlxR3FPSTVuM0ZxbXpWR2Q2cnQtZXlwN2w4TDlLWUZfRjJxYy1COGs?oc=5",
-    "fingerprint": "774c6839b324594a728be9455a4a1b8c9e07a6615f84f77158c0beaad390e0cd"
+    "title": "煙突倒壊や免震ゴム破断、国が被害検証に着手　熊本地震",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/",
+    "pubDate": "2026-09-03T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 2.4,
+    "contentSnippet": "2026年熊本地震による建築物構造被害の客観的な状況把握と、被害原因の科学的な検証を国が始めた。国土交通省と建築研究所は、「令和8年熊本地震における建築物構造被害の原因分析を行う委員会」を立ち上げた。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/",
+    "fingerprint": "282e7f83a2709cd92c8e719741e704824d440b1b9608996c223a5b44c70c0eea"
   },
-  "xDraft": "【本文】\n日本国土開発は、土木と建築の両輪で事業を展開する中堅ゼネコンです。東日本大震災の復興事業にも深く従事してきた実績を持っています。社名に「国土開発」を掲げているところに、戦後復興から続く日本のインフラを支える自負を感じます。機械化施工のパイオニアとしての技術力が、これからの更新需要にどう応えていくのか楽しみです。\n\n出典：ｄメニューニュース\nhttps://news.google.com/rss/articles/CBMi3gFBVV95cUxNVER1aW9zQTRlamJZTkZOVDNLclJTYlB2SkJHZTdFYzF3Qmd2aHM4RXc4VThLdUVldnpFVlBpcWNvMXhMR2lTVVcyMWlIZ3RvdGtKYnRwQlpFSG96dExqQjk0eXo0WHYwYy1lT0g1aUVUMXAzTXBxd1pXOVlwSjQ5aFlhN2RzMUdBSHVtOXlGblFjdC04Rzd0TFUtNlg4ZTQ5TjYwTjBCQ05tY2U0QlU0VF93T21ISjd1dWlSbS10al9JdmpYVV9IQi1PWHNiaGlRRl9TeHk0cGQyREJZRVHSAYwBQVVfeXFMTmpWbXYya1dSMFRneXlUb3lxYmxyME5odVpyRHI2djZnSk1ON2NrOVVUblBiQVprSzZYMmdhVjVPMnlGcV9Sd01MQ09NdE8tbUo3ZjRmTmMzVGNReTB1LVBo…",
+  "xDraft": "【本文】\n国土交通省と建築研究所が、2026年（令和8年）熊本地震による建築物構造被害の科学的な原因分析を開始しました。新たに立ち上げられた委員会では、煙突の倒壊や免震ゴムの破断といった具体的な被害状況を客観的に把握し、検証を進める方針です。\n\n起きてしまった被害の事実を正確に記録し、その原因を科学的に突き止めることは、次の災害から命を守るための最も誠実なアプローチだと僕は思います。技術の限界や課題を直視することで、日本の建築技術はさらに進化していくはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/090100048/\n\n【抜粋元】\n日経クロステック 土木の記事から、国が「令和8年熊本地震における建築物構造被害の原因分析を行う委員会」を組織し、煙突倒壊や免震ゴム破断などの具体的な被害検証に着手した事実を抽出しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "日経クロステック 土木の記事から、国が「令和8年熊本地震における建築物構造被害の原因分析を行う委員会」を組織し、煙突倒壊や免震ゴム破断などの具体的な被害検証に着手した事実を抽出しました。",
   "xDraftAlternates": [],
   "errors": []
 }
