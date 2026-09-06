@@ -1,17 +1,214 @@
 {
-  "generatedAt": "2026-09-05T23:04:30.542Z",
+  "generatedAt": "2026-09-06T23:01:51.319Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
-  "candidates": [],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "pickCountActual": 3,
+  "candidates": [
+    {
+      "title": "「建設SaaS」の戦国時代は第2幕へ、アンドパッドなどベンチャー15社",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "施工管理アプリなどのバーティカルSaaS（ソフトウエア・アズ・ア・サービス）を提供し、建設業のDX（デジタルトランスフォーメーション）を後押ししてきたベンチャーは数多い。もっとも、雨後のタケノコのように立ち上がった建設テックベンチャー自身も、生成AI（人工知能）の台頭などで変化を迫られている。建設SaaS企業の戦国時代は、第2幕へ突入している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
+      "fingerprint": "3eca09d735641c587eea3a59cce661d4ba9626c59792be4614fa61fa59b08ebf"
+    },
+    {
+      "title": "1位は「東京電力系のシールド機が下水道管を破損、50m削り取る　事前調査に不備か」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月7～13日に読まれた記事の1～10位を26年9月7～13日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
+      "fingerprint": "99511879dfa8a18766ac88c5cad098a46ac21502c5ec9b0a27a84be13b99b286"
+    },
+    {
+      "title": "BIM/CIMの認知度、2年前の調査と変わらず8割で頭打ちか",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800003/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "国土交通省が2027年度以降の直轄工事で、3次元（3D）モデルを工事契約図書として本格導入する方針を示し、注目を集めるBIM/CIM。主に計画・設計段階から3Dモデルを作成し、建設プロセス全体で活用して生産性向上を目指す仕組みだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800003/",
+      "fingerprint": "65fc9e697f1af31d470dc8c3922798e078d3141dc0392068bd4d6f9705b90a87"
+    },
+    {
+      "title": "罫書き針が「逸脱」した八代市庁舎、擁壁と建物の接触も　国総研など報告",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300049/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "2026年熊本地震による免震建物の被害調査が進む。国土技術政策総合研究所（国総研）と建築研究所（建研）は、日本免震構造協会と合同で被災地の免震建物の実態を把握するための調査を実施。八代市内の免震建物では免震クリアランスを超える、または達する程度の応答があったと見られる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300049/",
+      "fingerprint": "90746bea1e9c1cb7930330de161b50dc375e7028c5a116a69dbf5a50a907d20e"
+    },
+    {
+      "title": "AI駆動開発の威力を体感せよ、日経クロステックNEXT東京2026　いよいよ開幕",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090300001/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "「未来をつくるテクノロジー展　日経クロステックNEXT東京2026」（2026年9月29～30日開催）は、AIなどの最新テクノロジーが引き起こす変化の「今」と「未来」を一度に見渡せるリアルイベントだ。その内容は多岐にわたるため、日経クロステック編集部は来場者が迷わないようにお勧めの「周回案」をテーマ別に用意した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090300001/",
+      "fingerprint": "c737801b824753c59efc0675a593291ba4508f03dc2824593cd89cb56add8b14"
+    },
+    {
+      "title": "「旧香川県立体育館」の本体解体直前に県が工事1カ月中断、証拠保全要請で",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02913/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "香川県は「旧香川県立体育館」の解体工事を2026年9月15日から10月14日までの1カ月間中断する。9月3日に発表した。解体を巡り住民訴訟で争点となっている耐震性能の現地調査のため、裁判所の要請を受けて県が中断を決めた。ただし、県は中断期間が終了次第、速やかに解体工事を再開する意向を示している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02913/",
+      "fingerprint": "bfb1708362abba453e74ab86da40a80efee6459cdba0ee4d311dfd0234a44118"
+    },
+    {
+      "title": "1位は「東京電力系のシールド機が下水道管を破損、50m削り取る　事前調査に不備か」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月7～13日に読まれた記事の1～10位を26年9月7～13日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
+      "fingerprint": "99511879dfa8a18766ac88c5cad098a46ac21502c5ec9b0a27a84be13b99b286"
+    },
+    {
+      "title": "罫書き針が「逸脱」した八代市庁舎、擁壁と建物の接触も　国総研など報告",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300049/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年熊本地震による免震建物の被害調査が進む。国土技術政策総合研究所（国総研）と建築研究所（建研）は、日本免震構造協会と合同で被災地の免震建物の実態を把握するための調査を実施。八代市内の免震建物では免震クリアランスを超える、または達する程度の応答があったと見られる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300049/",
+      "fingerprint": "90746bea1e9c1cb7930330de161b50dc375e7028c5a116a69dbf5a50a907d20e"
+    },
+    {
+      "title": "AI駆動開発の威力を体感せよ、日経クロステックNEXT東京2026　いよいよ開幕",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090300001/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "「未来をつくるテクノロジー展　日経クロステックNEXT東京2026」（2026年9月29～30日開催）は、AIなどの最新テクノロジーが引き起こす変化の「今」と「未来」を一度に見渡せるリアルイベントだ。その内容は多岐にわたるため、日経クロステック編集部は来場者が迷わないようにお勧めの「周回案」をテーマ別に用意した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090300001/",
+      "fingerprint": "c737801b824753c59efc0675a593291ba4508f03dc2824593cd89cb56add8b14"
+    },
+    {
+      "title": "「旧香川県立体育館」の本体解体直前に県が工事1カ月中断、証拠保全要請で",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02913/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "香川県は「旧香川県立体育館」の解体工事を2026年9月15日から10月14日までの1カ月間中断する。9月3日に発表した。解体を巡り住民訴訟で争点となっている耐震性能の現地調査のため、裁判所の要請を受けて県が中断を決めた。ただし、県は中断期間が終了次第、速やかに解体工事を再開する意向を示している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02913/",
+      "fingerprint": "bfb1708362abba453e74ab86da40a80efee6459cdba0ee4d311dfd0234a44118"
+    },
+    {
+      "title": "桁がぐにゃりと曲がった九州道の橋、架け替えず27年末ごろ本復旧　熊本地震",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300050/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月に発生した熊本地震で、桁が橋台にぶつかりぐにゃりと曲がった九州自動車道「川田橋」について、西日本高速道路（NEXCO西日本）は、上下4車線が通行可能になる本復旧時期を27年末ごろとする見通しを明らかにした。再利用が困難と判断した箇所を部分的に撤去し、再製作した部材に交換する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300050/",
+      "fingerprint": "bb8f4658227a44c8f4334826956fd8fce3abe3a6b4f46ef6354e059ef1068417"
+    },
+    {
+      "title": "3点式と同じスペースでシャワー室とトイレを分離できるユニット",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01061/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "パナソニックAWエンジニアリングは、従来の3点式ユニットと同じスペースでシャワー室とトイレルームを2室に分離できる水回りユニットに、機能性を高めてカラーバリエーションを増やした「S＆P II─monochrome─」を新たに加えて発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01061/",
+      "fingerprint": "02b44fcee1d8364121c41a14fa3c2ce6be09a8c9b468fa69d06c76f4041871e6"
+    },
+    {
+      "title": "桁がぐにゃりと曲がった九州道の橋、架け替えず27年末ごろ本復旧　熊本地震",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300050/",
+      "pubDate": "2026-09-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "2026年7月に発生した熊本地震で、桁が橋台にぶつかりぐにゃりと曲がった九州自動車道「川田橋」について、西日本高速道路（NEXCO西日本）は、上下4車線が通行可能になる本復旧時期を27年末ごろとする見通しを明らかにした。再利用が困難と判断した箇所を部分的に撤去し、再製作した部材に交換する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300050/",
+      "fingerprint": "bb8f4658227a44c8f4334826956fd8fce3abe3a6b4f46ef6354e059ef1068417"
+    }
+  ],
+  "picks": [
+    {
+      "picked": {
+        "title": "「建設SaaS」の戦国時代は第2幕へ、アンドパッドなどベンチャー15社",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
+        "pubDate": "2026-09-06T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "施工管理アプリなどのバーティカルSaaS（ソフトウエア・アズ・ア・サービス）を提供し、建設業のDX（デジタルトランスフォーメーション）を後押ししてきたベンチャーは数多い。もっとも、雨後のタケノコのように立ち上がった建設テックベンチャー自身も、生成AI（人工知能）の台頭などで変化を迫られている。建設SaaS企業の戦国時代は、第2幕へ突入している。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
+        "fingerprint": "3eca09d735641c587eea3a59cce661d4ba9626c59792be4614fa61fa59b08ebf"
+      },
+      "xDraft": "【本文】\n施工管理アプリなどのバーティカルSaaSを提供し、建設業のDXを牽引してきたベンチャー企業が、生成AIの台頭などを受けて新たな変化の局面を迎えています。記事ではアンドパッドをはじめとする15社の動向に触れ、建設テックの戦国時代が「第2幕」へ突入したと報じています。\n\n現場を支えるデジタルツールが、単なる効率化の手段から、技術革新によってどう進化していくのか非常に興味深いです。僕たちが日々現場で蓄積しているデータが、AIと組み合わさることで新しい価値を生む時代がすぐそこまで来ているのを感じます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/\n\n【抜粋元】\n建設SaaSを提供するベンチャー各社が生成AIの影響などで変化を迫られ、業界が「第2幕」の戦国時代に入ったとする日経クロステックの記事から、主要な論点を抽出しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "建設SaaSを提供するベンチャー各社が生成AIの影響などで変化を迫られ、業界が「第2幕」の戦国時代に入ったとする日経クロステックの記事から、主要な論点を抽出しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「東京電力系のシールド機が下水道管を破損、50m削り取る　事前調査に不備か」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
+        "pubDate": "2026-09-06T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月7～13日に読まれた記事の1～10位を26年9月7～13日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
+        "fingerprint": "99511879dfa8a18766ac88c5cad098a46ac21502c5ec9b0a27a84be13b99b286"
+      },
+      "xDraft": "【本文】\n僕、気になるニュースを見つけました。\n\n1位は「東京電力系のシールド機が下水道管を破損、50m削り取る　事前調査に不備か」\n\n日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月7～13日に読まれた記事の1～10位を26年9月7～13日に無料で読めるようにしました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/\n\n【抜粋元】\nRSS の見出し・要約に基づく紹介です（API 未使用の短文フォールバック）。\n\n【判定】OK",
+      "xDraftSource": "fallback",
+      "xDraftModel": null,
+      "xDraftNote": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent: [404 Not Found] This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "RSS の見出し・要約に基づく紹介です（API 未使用の短文フォールバック）。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "BIM/CIMの認知度、2年前の調査と変わらず8割で頭打ちか",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800003/",
+        "pubDate": "2026-09-06T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "国土交通省が2027年度以降の直轄工事で、3次元（3D）モデルを工事契約図書として本格導入する方針を示し、注目を集めるBIM/CIM。主に計画・設計段階から3Dモデルを作成し、建設プロセス全体で活用して生産性向上を目指す仕組みだ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800003/",
+        "fingerprint": "65fc9e697f1af31d470dc8c3922798e078d3141dc0392068bd4d6f9705b90a87"
+      },
+      "xDraft": "【本文】\n国土交通省は2027年度以降の直轄工事において、3次元（3D）モデルを工事契約図書として本格導入する方針を固めました。一方でBIM/CIMの認知度は約8割と、2年前の調査からほぼ横ばいの状況にあります。\n\n広く知られるようになった一方で、普及のスピードが踊り場に来ている印象です。契約図書化という具体的なルールの変更が、活用の機運を再び高める契機になるか注目したいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800003/\n\n【抜粋元】\nBIM/CIMの認知度が2年前から横ばいの約8割に留まっている現状と、国交省が2027年度から3Dモデルを契約図書化して本格導入する方針を示した点。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "BIM/CIMの認知度が2年前から横ばいの約8割に留まっている現状と、国交省が2027年度から3Dモデルを契約図書化して本格導入する方針を示した点。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "「建設SaaS」の戦国時代は第2幕へ、アンドパッドなどベンチャー15社",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
+    "pubDate": "2026-09-06T20:00:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 4,
+    "contentSnippet": "施工管理アプリなどのバーティカルSaaS（ソフトウエア・アズ・ア・サービス）を提供し、建設業のDX（デジタルトランスフォーメーション）を後押ししてきたベンチャーは数多い。もっとも、雨後のタケノコのように立ち上がった建設テックベンチャー自身も、生成AI（人工知能）の台頭などで変化を迫られている。建設SaaS企業の戦国時代は、第2幕へ突入している。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
+    "fingerprint": "3eca09d735641c587eea3a59cce661d4ba9626c59792be4614fa61fa59b08ebf"
+  },
+  "xDraft": "【本文】\n施工管理アプリなどのバーティカルSaaSを提供し、建設業のDXを牽引してきたベンチャー企業が、生成AIの台頭などを受けて新たな変化の局面を迎えています。記事ではアンドパッドをはじめとする15社の動向に触れ、建設テックの戦国時代が「第2幕」へ突入したと報じています。\n\n現場を支えるデジタルツールが、単なる効率化の手段から、技術革新によってどう進化していくのか非常に興味深いです。僕たちが日々現場で蓄積しているデータが、AIと組み合わさることで新しい価値を生む時代がすぐそこまで来ているのを感じます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/\n\n【抜粋元】\n建設SaaSを提供するベンチャー各社が生成AIの影響などで変化を迫られ、業界が「第2幕」の戦国時代に入ったとする日経クロステックの記事から、主要な論点を抽出しました。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "建設SaaSを提供するベンチャー各社が生成AIの影響などで変化を迫られ、業界が「第2幕」の戦国時代に入ったとする日経クロステックの記事から、主要な論点を抽出しました。",
   "xDraftAlternates": [],
   "errors": []
 }
