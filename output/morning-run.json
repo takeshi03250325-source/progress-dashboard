@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:38:37.303Z",
+  "generatedAt": "2026-09-08T23:30:44.361Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 1,
   "skippedJapanFocus": 0,
@@ -17,14 +17,54 @@
       "fingerprint": "a7fc7a64e432e6e3efb87a31d5c980f78822959b60b0b9d060f61146b861e75a"
     },
     {
-      "title": "「建設SaaS」の戦国時代は第2幕へ、アンドパッドなどベンチャー15社",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
-      "pubDate": "2026-09-06T20:00:00.000Z",
+      "title": "商店街の新顔は永山祐子氏設計の高級住宅、曲面RCと水平窓で開放感",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02914/",
+      "pubDate": "2026-09-08T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 4,
-      "contentSnippet": "施工管理アプリなどのバーティカルSaaS（ソフトウエア・アズ・ア・サービス）を提供し、建設業のDX（デジタルトランスフォーメーション）を後押ししてきたベンチャーは数多い。もっとも、雨後のタケノコのように立ち上がった建設テックベンチャー自身も、生成AI（人工知能）の台頭などで変化を迫られている。建設SaaS企業の戦国時代は、第2幕へ突入している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100008/",
-      "fingerprint": "3eca09d735641c587eea3a59cce661d4ba9626c59792be4614fa61fa59b08ebf"
+      "contentSnippet": "永山祐子建築設計が設計を手掛けた集合住宅「THE GRANDUO GAKUGEIDAIGAKU」が、2026年8月7日に竣工した。東急東横線の学芸大学駅から東に歩いて約3分の商店街沿いに立地する。帯状の腰壁が積層した曲面ファサードが特徴だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02914/",
+      "fingerprint": "6d28d28dc1f6d550348173544c47b9bbdcfee7642f9d88ce82b705e09c8036c7"
+    },
+    {
+      "title": "プレスリリース：焼津の地域ゼネコンから、世界で評価される建設企業へ（PR TIMES） - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RU2hnLV9WSmhGUXFJY0ZudXg3aFViY200LW53bjdLNy1OakR3c01MSzlseGZmVkN3VUh3T0dJZmVzaXIzY0JDTmFtYTBmZHo3ZURUbzR0dEVRSXpDeGdfNDBXRXU1WTg1?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:22:38 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4099669422,
+      "contentSnippet": "プレスリリース：焼津の地域ゼネコンから、世界で評価される建設企業へ（PR TIMES）  毎日新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RU2hnLV9WSmhGUXFJY0ZudXg3aFViY200LW53bjdLNy1OakR3c01MSzlseGZmVkN3VUh3T0dJZmVzaXIzY0JDTmFtYTBmZHo3ZURUbzR0dEVRSXpDeGdfNDBXRXU1WTg1?oc=5",
+      "fingerprint": "86d3f80f3fd3e9ac88800d9b4017f71ed0f3c0242984f58fe4ff8478feb70fb6"
+    },
+    {
+      "title": "8月の企業倒産、3%増の830件 飲食業や建設業が増加 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfb2VHMUItczhPeHJIT2ZUbFdmMHpZMDg2RW9xR0s2amtfLVBsWjFFZThtazg5aWUzbENEYTVFWXpvYUJveDBkZ1hvSUVzeVp4SmtOOUd1MHdRa0tSNXAtMjBkREh1elNEWjZiTQ?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 04:30:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.40995762,
+      "contentSnippet": "8月の企業倒産、3%増の830件 飲食業や建設業が増加  日本経済新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfb2VHMUItczhPeHJIT2ZUbFdmMHpZMDg2RW9xR0s2amtfLVBsWjFFZThtazg5aWUzbENEYTVFWXpvYUJveDBkZ1hvSUVzeVp4SmtOOUd1MHdRa0tSNXAtMjBkREh1elNEWjZiTQ?oc=5",
+      "fingerprint": "32681afb3a6c01db4064c48c723c9c09def62bea60d4ff49aa17e72f48907d7c"
+    },
+    {
+      "title": "淡路島と徳島結ぶ自転車道、工事9カ月遅れ　大鳴門橋の「新幹線用」空間活用",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02755/",
+      "pubDate": "2026-09-08T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "淡路島と徳島県を結ぶ大鳴門橋の桁下空間に自転車道を整備する工事が、予定よりも9カ月遅れていることが分かった。この自転車道は、将来の新幹線建設を見込んで用意していた鉄道用の空間に床版などを設置して整備する。隣接する「道の駅うずしお」（兵庫県南あわじ市）のリニューアル工事中に戦争遺構が見つかった影響で、床版設置工事の着手が遅れた。2028年3月の本体工事完了を目指す。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02755/",
+      "fingerprint": "2f5adb1a4c7ccb921fb366c535685a96cd8d03202a59f26ab83350b0052bfdbc"
+    },
+    {
+      "title": "AIによるバックオフィス自動化ツール続々、ユーザーの受け入れ準備が急務に",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800004/",
+      "pubDate": "2026-09-08T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "AI（人工知能）エージェントに業務を任せ、バックオフィス業務をできる限り無人化する――。こんなことが今、現実のものとなりつつある。AI活用のための道具立てがそろうなか、業務自動化のためにはユーザー企業がAIを受け入れる準備が整っているかどうかが重要になりつつある。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800004/",
+      "fingerprint": "0cf7f0f5b1f8971d11337282e3dcea01608d690fcf8f2b59cf11672455f3da6c"
     },
     {
       "title": "群マネ、国のアピールもあり認知度が急上昇",
@@ -57,54 +97,24 @@
       "fingerprint": "1cd45b9dd2b477f66c4259d46b7cf7050dd7a18e52a4ef2e4ae7004065ad4a48"
     },
     {
-      "title": "BIM/CIMの認知度、2年前の調査と変わらず8割で頭打ちか",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800003/",
-      "pubDate": "2026-09-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "国土交通省が2027年度以降の直轄工事で、3次元（3D）モデルを工事契約図書として本格導入する方針を示し、注目を集めるBIM/CIM。主に計画・設計段階から3Dモデルを作成し、建設プロセス全体で活用して生産性向上を目指す仕組みだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800003/",
-      "fingerprint": "65fc9e697f1af31d470dc8c3922798e078d3141dc0392068bd4d6f9705b90a87"
+      "title": "ゼネコンCVCの現在地　東急建設はオフサイトPPA参入、出資先と連携",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100010/",
+      "pubDate": "2026-09-08T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2020年前後に、建設事業の強化や新規事業の立ち上げなどを狙い、ベンチャー企業とのオープンイノベーションに乗り出す建設会社が相次いだ。業務提携やベンチャーキャピタル（VC）を通じた出資にとどまらず、自らファンドを組成してベンチャー投資を行うケースも出てきた。コーポレートベンチャーキャピタル（CVC）によるベンチャー投資が始まって数年が経過し、少しずつ成果が出てきている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100010/",
+      "fingerprint": "2f6040b5cedb6ddb3d7fd7fb0d5fa239f18641ff05d60bdbd1a8ce015d2e8acd"
     },
     {
-      "title": "1位は「東京電力系のシールド機が下水道管を破損、50m削り取る　事前調査に不備か」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
-      "pubDate": "2026-09-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月7～13日に読まれた記事の1～10位を26年9月7～13日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
-      "fingerprint": "99511879dfa8a18766ac88c5cad098a46ac21502c5ec9b0a27a84be13b99b286"
-    },
-    {
-      "title": "罫書き針が「逸脱」した八代市庁舎、擁壁と建物の接触も　国総研など報告",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300049/",
-      "pubDate": "2026-09-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "2026年熊本地震による免震建物の被害調査が進む。国土技術政策総合研究所（国総研）と建築研究所（建研）は、日本免震構造協会と合同で被災地の免震建物の実態を把握するための調査を実施。八代市内の免震建物では免震クリアランスを超える、または達する程度の応答があったと見られる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300049/",
-      "fingerprint": "90746bea1e9c1cb7930330de161b50dc375e7028c5a116a69dbf5a50a907d20e"
-    },
-    {
-      "title": "「旧香川県立体育館」の本体解体直前に県が工事1カ月中断、証拠保全要請で",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02913/",
-      "pubDate": "2026-09-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "香川県は「旧香川県立体育館」の解体工事を2026年9月15日から10月14日までの1カ月間中断する。9月3日に発表した。解体を巡り住民訴訟で争点となっている耐震性能の現地調査のため、裁判所の要請を受けて県が中断を決めた。ただし、県は中断期間が終了次第、速やかに解体工事を再開する意向を示している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02913/",
-      "fingerprint": "bfb1708362abba453e74ab86da40a80efee6459cdba0ee4d311dfd0234a44118"
-    },
-    {
-      "title": "AI駆動開発の威力を体感せよ、日経クロステックNEXT東京2026　いよいよ開幕",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090300001/",
-      "pubDate": "2026-09-06T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "「未来をつくるテクノロジー展　日経クロステックNEXT東京2026」（2026年9月29～30日開催）は、AIなどの最新テクノロジーが引き起こす変化の「今」と「未来」を一度に見渡せるリアルイベントだ。その内容は多岐にわたるため、日経クロステック編集部は来場者が迷わないようにお勧めの「周回案」をテーマ別に用意した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090300001/",
-      "fingerprint": "c737801b824753c59efc0675a593291ba4508f03dc2824593cd89cb56add8b14"
+      "title": "AIによるバックオフィス自動化ツール続々、ユーザーの受け入れ準備が急務に",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800004/",
+      "pubDate": "2026-09-08T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "AI（人工知能）エージェントに業務を任せ、バックオフィス業務をできる限り無人化する――。こんなことが今、現実のものとなりつつある。AI活用のための道具立てがそろうなか、業務自動化のためにはユーザー企業がAIを受け入れる準備が整っているかどうかが重要になりつつある。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800004/",
+      "fingerprint": "0cf7f0f5b1f8971d11337282e3dcea01608d690fcf8f2b59cf11672455f3da6c"
     },
     {
       "title": "マップで見る熊本地震　被害は断層帯沿いに集中、「割れ残り」の指摘も",
@@ -137,97 +147,87 @@
       "fingerprint": "1cd45b9dd2b477f66c4259d46b7cf7050dd7a18e52a4ef2e4ae7004065ad4a48"
     },
     {
-      "title": "1位は「東京電力系のシールド機が下水道管を破損、50m削り取る　事前調査に不備か」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
-      "pubDate": "2026-09-06T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月7～13日に読まれた記事の1～10位を26年9月7～13日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400380/",
-      "fingerprint": "99511879dfa8a18766ac88c5cad098a46ac21502c5ec9b0a27a84be13b99b286"
-    },
-    {
-      "title": "罫書き針が「逸脱」した八代市庁舎、擁壁と建物の接触も　国総研など報告",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300049/",
-      "pubDate": "2026-09-06T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年熊本地震による免震建物の被害調査が進む。国土技術政策総合研究所（国総研）と建築研究所（建研）は、日本免震構造協会と合同で被災地の免震建物の実態を把握するための調査を実施。八代市内の免震建物では免震クリアランスを超える、または達する程度の応答があったと見られる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090300049/",
-      "fingerprint": "90746bea1e9c1cb7930330de161b50dc375e7028c5a116a69dbf5a50a907d20e"
+      "title": "防災庁は認知度58％、設置前から注目集める",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800005/",
+      "pubDate": "2026-09-08T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "防災庁はその設置法が2026年7月に成立したばかりで、実際に設置されるのは26年11月となる見込みだ。設置の動きは24年10月～25年10月の石破茂前首相の時代からあり、同首相の目玉政策として早くから注目を浴びた。そのせいか、設置前にもかかわらず認知度は58％と既に高い。「聞いたことがある」を含めると90％を超える。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800005/",
+      "fingerprint": "0989993dc07c3fb96b60d08485d5707468f75a3bae4fbe619296c93d783f9827"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "インフラはメンテナンスから「マネジメント」に、国交省が中間取りまとめ案",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02754/",
-        "pubDate": "2026-09-07T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "国土交通省は、「今後のインフラのマネジメントのあり方について」の中間取りまとめ案を公表し、一般からの意見を募るパブリックコメントを開始した。2026年9月16日午後3時まで受け付ける。従来の予防保全型のメンテナンスを発展させ、インフラを戦略的・統合的に管理する「インフラマネジメント」への転換に向けた基本的な考え方と重点施策を示した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02754/",
-        "fingerprint": "a7fc7a64e432e6e3efb87a31d5c980f78822959b60b0b9d060f61146b861e75a"
+        "title": "商店街の新顔は永山祐子氏設計の高級住宅、曲面RCと水平窓で開放感",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02914/",
+        "pubDate": "2026-09-08T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "永山祐子建築設計が設計を手掛けた集合住宅「THE GRANDUO GAKUGEIDAIGAKU」が、2026年8月7日に竣工した。東急東横線の学芸大学駅から東に歩いて約3分の商店街沿いに立地する。帯状の腰壁が積層した曲面ファサードが特徴だ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02914/",
+        "fingerprint": "6d28d28dc1f6d550348173544c47b9bbdcfee7642f9d88ce82b705e09c8036c7"
       },
-      "xDraft": "【本文】\n国土交通省が「今後のインフラのマネジメントのあり方について」の中間取りまとめ案を公表しました。従来の予防保全型メンテナンスをさらに発展させ、インフラを戦略的・統合的に管理する「インフラマネジメント」への転換に向けた基本的な考え方が示されています。2026年9月16日までパブリックコメントも募集されています。\n\nこれまでの「直して守る」という視点から、社会資本を一つの資産として捉え、いかに最適に運用するかという経営的な視点へのシフトを感じます。現場の維持管理が、より広域的で長期的な価値の最大化にどう結びついていくのか、僕も議論の行方を注視したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02754/\n\n【抜粋元】\n国土交通省が公表したインフラマネジメントのあり方に関する中間取りまとめ案の記事です。予防保全から戦略的・統合的な管理への転換を目指す方針と、パブリックコメントの受付期限についてまとめています。\n\n【判定】OK",
+      "xDraft": "【本文】\n学芸大学駅から徒歩約3分の商店街沿いに、永山祐子建築設計が手掛けた集合住宅「THE GRANDUO GAKUGEIDAIGAKU」が2026年8月に竣工します。帯状の腰壁が積層する曲面ファサードと、開放感のある水平窓が大きな特徴です。\n生活感のある商店街という立地に、これほど彫刻的で洗練されたRC建築が加わるのは非常に興味深いですね。街の賑わいとモダンな居住空間がどのように調和し、新しい風景を作っていくのか楽しみです。建築が街の新しい「顔」になる瞬間には、いつもワクワクさせられます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkee.com/atcl/nxt/column/18/00154/02914/\n\n【抜粋元】\n日経クロステックの記事から、学芸大学駅近くの商店街に建設される永山祐子氏設計の住宅について、立地、曲面RCと水平窓という意匠の特徴、および2026年8月の竣工予定という事実に基づき執筆しました。\n\n【判定】OK\n\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02914/",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国土交通省が公表したインフラマネジメントのあり方に関する中間取りまとめ案の記事です。予防保全から戦略的・統合的な管理への転換を目指す方針と、パブリックコメントの受付期限についてまとめています。",
+      "xDraftExcerptSummary": "日経クロステックの記事から、学芸大学駅近くの商店街に建設される永山祐子氏設計の住宅について、立地、曲面RCと水平窓という意匠の特徴、および2026年8月の竣工予定という事実に基づき執筆しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "群マネ、国のアピールもあり認知度が急上昇",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800004/",
-        "pubDate": "2026-09-07T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "インフラの維持管理関連の用語で、国土交通省が自治体向けに推進する施策「地域インフラ群再生戦略マネジメント」の略称である群マネの認知度が、この2年で大幅に高まっている。2024年調査での12％と比べて22ポイント上昇し、34％となった。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800004/",
-        "fingerprint": "c039b692a7e8fcd3b9ced45f05356ebc34bfa94a2bce313273bf198a1c43fbcc"
+        "title": "プレスリリース：焼津の地域ゼネコンから、世界で評価される建設企業へ（PR TIMES） - 毎日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RU2hnLV9WSmhGUXFJY0ZudXg3aFViY200LW53bjdLNy1OakR3c01MSzlseGZmVkN3VUh3T0dJZmVzaXIzY0JDTmFtYTBmZHo3ZURUbzR0dEVRSXpDeGdfNDBXRXU1WTg1?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 07:22:38 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4099669422,
+        "contentSnippet": "プレスリリース：焼津の地域ゼネコンから、世界で評価される建設企業へ（PR TIMES）  毎日新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RU2hnLV9WSmhGUXFJY0ZudXg3aFViY200LW53bjdLNy1OakR3c01MSzlseGZmVkN3VUh3T0dJZmVzaXIzY0JDTmFtYTBmZHo3ZURUbzR0dEVRSXpDeGdfNDBXRXU1WTg1?oc=5",
+        "fingerprint": "86d3f80f3fd3e9ac88800d9b4017f71ed0f3c0242984f58fe4ff8478feb70fb6"
       },
-      "xDraft": "【本文】\n国土交通省が自治体向けに推進する「地域インフラ群再生戦略マネジメント（群マネ）」の認知度が、この2年で12％から34％へと、22ポイントの大幅な上昇を見せているそうです。個別の施設ごとではなく、地域全体でインフラを捉えて維持管理する手法が注目されています。\n\n僕はこの「群マネ」という考え方が、人口減少社会における持続可能なまちづくりの要になると感じています。限られたリソースをどこに集中させるかという難しい議論が、この認知度の向上をきっかけに、より具体的で前向きなものとして現場に浸透していくことを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800004/\n\n【抜粋元】\n日経クロステック 土木の記事より。国土交通省が推進する「群マネ」の認知度が直近2年で12％から34％へと急上昇したという調査結果と、その施策の目的について記述された箇所を引用しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n静岡県焼津市の地域ゼネコンが、世界的な評価を受ける建設企業へと飛躍を遂げているというニュースです。地域密着で培った確かな技術や誠実な姿勢が、国境を越えて認められるのは本当に素晴らしいことだと思います。僕も、ローカルな現場の力が世界に通じるという事実に、建設業の持つ大きな可能性を再認識しました。こうした挑戦が、各地で汗を流す仲間たちの誇りになると嬉しいです。\n\n出典：毎日新聞\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTE5RU2hnLV9WSmhGUXFJY0ZudXg3aFViY200LW53bjdLNy1OakR3c01MSzlseGZmVkN3VUh3T0dJZmVzaXIzY0JDTmFtYTBmZHo3ZURUbzR0dEVRSXpDeGdfNDBXRXU1WTg1?oc=5\n\n【抜粋元】\n焼津の地域ゼネコンが世界で評価される企業へと成長したという記事です。地域企業の技術力がグローバルに認められたことへの敬意と、業界への波及効果について記述しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事より。国土交通省が推進する「群マネ」の認知度が直近2年で12％から34％へと急上昇したという調査結果と、その施策の目的について記述された箇所を引用しました。",
+      "xDraftExcerptSummary": "焼津の地域ゼネコンが世界で評価される企業へと成長したという記事です。地域企業の技術力がグローバルに認められたことへの敬意と、業界への波及効果について記述しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "国の調査で見えた熊本地震の木造被害、築45年超で倒壊多数　開口多い建物も",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090400052/",
-        "pubDate": "2026-09-07T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "2026年熊本地震で木造住宅の倒壊が多数確認された熊本県宇城市、八代市、氷川町について、国土交通省国土技術政策総合研究所（国総研）と建築研究所が被害調査の速報を発表した。築45年超、つまり旧耐震基準と推定される木造住宅の倒壊が多数を占め、建物正面の開口が多い店舗や社寺の倒壊も見られた。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090400052/",
-        "fingerprint": "7be1b529df5a4a64458369de5dcbaf73888a4e6b948d403ee36b5f4658dfa317"
+        "title": "8月の企業倒産、3%増の830件 飲食業や建設業が増加 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfb2VHMUItczhPeHJIT2ZUbFdmMHpZMDg2RW9xR0s2amtfLVBsWjFFZThtazg5aWUzbENEYTVFWXpvYUJveDBkZ1hvSUVzeVp4SmtOOUd1MHdRa0tSNXAtMjBkREh1elNEWjZiTQ?oc=5",
+        "pubDate": "Tue, 08 Sep 2026 04:30:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.40995762,
+        "contentSnippet": "8月の企業倒産、3%増の830件 飲食業や建設業が増加  日本経済新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfb2VHMUItczhPeHJIT2ZUbFdmMHpZMDg2RW9xR0s2amtfLVBsWjFFZThtazg5aWUzbENEYTVFWXpvYUJveDBkZ1hvSUVzeVp4SmtOOUd1MHdRa0tSNXAtMjBkREh1elNEWjZiTQ?oc=5",
+        "fingerprint": "32681afb3a6c01db4064c48c723c9c09def62bea60d4ff49aa17e72f48907d7c"
       },
-      "xDraft": "【本文】\n国総研などの調査により、熊本地震での木造住宅の被害実態が報告されました。倒壊した建物の多くは築45年超の旧耐震基準とみられ、さらに店舗や社寺など、正面の開口部が大きい建物でも被害が目立ったといいます。\n\n築年数や構造による脆さが、被害の差として明確に表れていると感じます。特に地域の暮らしや文化を支える建物において、どのように耐震性を確保していくべきか。こうした客観的なデータをもとに、僕たちも防災への意識を更新していきたいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03703/090400052/\n\n【抜粋元】\n国総研と建築研究所が発表した、熊本県内の被害調査速報に注目しました。築45年超の旧耐震住宅や、構造的に開口部が広い建物の倒壊リスクが高いという具体的な調査結果をまとめています。\n\n【判定】OK",
+      "xDraft": "【本文】\n8月の国内企業倒産件数は、前年同月比3%増の830件となりました。業種別では飲食業や建設業の増加が目立っているとのことです。\n建設業界は、資材価格の高騰や人件費上昇に加え、働き方改革への対応など経営の舵取りが非常に難しい時期にあります。地域のインフラを守る企業が苦境に立たされている現状には、僕も危機感を覚えずにはいられません。\n\n出典：8月の企業倒産、3%増の830件 飲食業や建設業が増加 - 日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFBfb2VHMUItczhPeHJIT2ZUbFdmMHpZMDg2RW9xR0s2amtfLVBsWjFFZThtazg5aWUzbENEYTVFWXpvYUJveDBkZ1hvSUVzeVp4SmtOOUd1MHdRa0tSNXAtMjBkREh1elNEWjZiTQ?oc=5\n\n【抜粋元】\n8月の全国企業倒産件数が前年同月比3%増の830件に達し、特に建設業と飲食業で倒産が増加しているという事実に基づき、業界の現状を伝えています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国総研と建築研究所が発表した、熊本県内の被害調査速報に注目しました。築45年超の旧耐震住宅や、構造的に開口部が広い建物の倒壊リスクが高いという具体的な調査結果をまとめています。",
+      "xDraftExcerptSummary": "8月の全国企業倒産件数が前年同月比3%増の830件に達し、特に建設業と飲食業で倒産が増加しているという事実に基づき、業界の現状を伝えています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "インフラはメンテナンスから「マネジメント」に、国交省が中間取りまとめ案",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02754/",
-    "pubDate": "2026-09-07T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "国土交通省は、「今後のインフラのマネジメントのあり方について」の中間取りまとめ案を公表し、一般からの意見を募るパブリックコメントを開始した。2026年9月16日午後3時まで受け付ける。従来の予防保全型のメンテナンスを発展させ、インフラを戦略的・統合的に管理する「インフラマネジメント」への転換に向けた基本的な考え方と重点施策を示した。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02754/",
-    "fingerprint": "a7fc7a64e432e6e3efb87a31d5c980f78822959b60b0b9d060f61146b861e75a"
+    "title": "商店街の新顔は永山祐子氏設計の高級住宅、曲面RCと水平窓で開放感",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02914/",
+    "pubDate": "2026-09-08T20:00:00.000Z",
+    "feedName": "日経クロステック 建築・住宅",
+    "score": 4,
+    "contentSnippet": "永山祐子建築設計が設計を手掛けた集合住宅「THE GRANDUO GAKUGEIDAIGAKU」が、2026年8月7日に竣工した。東急東横線の学芸大学駅から東に歩いて約3分の商店街沿いに立地する。帯状の腰壁が積層した曲面ファサードが特徴だ。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02914/",
+    "fingerprint": "6d28d28dc1f6d550348173544c47b9bbdcfee7642f9d88ce82b705e09c8036c7"
   },
-  "xDraft": "【本文】\n国土交通省が「今後のインフラのマネジメントのあり方について」の中間取りまとめ案を公表しました。従来の予防保全型メンテナンスをさらに発展させ、インフラを戦略的・統合的に管理する「インフラマネジメント」への転換に向けた基本的な考え方が示されています。2026年9月16日までパブリックコメントも募集されています。\n\nこれまでの「直して守る」という視点から、社会資本を一つの資産として捉え、いかに最適に運用するかという経営的な視点へのシフトを感じます。現場の維持管理が、より広域的で長期的な価値の最大化にどう結びついていくのか、僕も議論の行方を注視したいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02754/\n\n【抜粋元】\n国土交通省が公表したインフラマネジメントのあり方に関する中間取りまとめ案の記事です。予防保全から戦略的・統合的な管理への転換を目指す方針と、パブリックコメントの受付期限についてまとめています。\n\n【判定】OK",
+  "xDraft": "【本文】\n学芸大学駅から徒歩約3分の商店街沿いに、永山祐子建築設計が手掛けた集合住宅「THE GRANDUO GAKUGEIDAIGAKU」が2026年8月に竣工します。帯状の腰壁が積層する曲面ファサードと、開放感のある水平窓が大きな特徴です。\n生活感のある商店街という立地に、これほど彫刻的で洗練されたRC建築が加わるのは非常に興味深いですね。街の賑わいとモダンな居住空間がどのように調和し、新しい風景を作っていくのか楽しみです。建築が街の新しい「顔」になる瞬間には、いつもワクワクさせられます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkee.com/atcl/nxt/column/18/00154/02914/\n\n【抜粋元】\n日経クロステックの記事から、学芸大学駅近くの商店街に建設される永山祐子氏設計の住宅について、立地、曲面RCと水平窓という意匠の特徴、および2026年8月の竣工予定という事実に基づき執筆しました。\n\n【判定】OK\n\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02914/",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "国土交通省が公表したインフラマネジメントのあり方に関する中間取りまとめ案の記事です。予防保全から戦略的・統合的な管理への転換を目指す方針と、パブリックコメントの受付期限についてまとめています。",
+  "xDraftExcerptSummary": "日経クロステックの記事から、学芸大学駅近くの商店街に建設される永山祐子氏設計の住宅について、立地、曲面RCと水平窓という意匠の特徴、および2026年8月の竣工予定という事実に基づき執筆しました。",
   "xDraftAlternates": [],
   "errors": []
 }
