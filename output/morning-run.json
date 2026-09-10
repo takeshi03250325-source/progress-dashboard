@@ -1,30 +1,40 @@
 {
-  "generatedAt": "2026-09-09T23:24:27.560Z",
+  "generatedAt": "2026-09-10T23:19:09.513Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
+  "skippedDuplicates": 0,
   "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "プレスリリース：焼津の地域ゼネコンから、世界で評価される建設企業へ（PR TIMES） - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RU2hnLV9WSmhGUXFJY0ZudXg3aFViY200LW53bjdLNy1OakR3c01MSzlseGZmVkN3VUh3T0dJZmVzaXIzY0JDTmFtYTBmZHo3ZURUbzR0dEVRSXpDeGdfNDBXRXU1WTg1?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 07:22:38 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4099669422,
-      "contentSnippet": "プレスリリース：焼津の地域ゼネコンから、世界で評価される建設企業へ（PR TIMES）  毎日新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RU2hnLV9WSmhGUXFJY0ZudXg3aFViY200LW53bjdLNy1OakR3c01MSzlseGZmVkN3VUh3T0dJZmVzaXIzY0JDTmFtYTBmZHo3ZURUbzR0dEVRSXpDeGdfNDBXRXU1WTg1?oc=5",
-      "fingerprint": "86d3f80f3fd3e9ac88800d9b4017f71ed0f3c0242984f58fe4ff8478feb70fb6"
+      "title": "認知度足踏み状態のグリーンインフラ、園芸博で上昇なるか",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/",
+      "pubDate": "2026-09-10T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "ネイチャーポジティブは自然環境や生物多様性の損失を食い止め、回復軌道に乗せるための国際的な目標だ。日経クロステックが土木専門誌「日経コンストラクション」の読者に実施した調査で、この認知度は16％だった。前回の24年の調査から10ポイント上昇した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/",
+      "fingerprint": "aecad0c5cd5260e89f19b22e338dc879f2e546f7a75040a6198375575c31360b"
     },
     {
-      "title": "8月の企業倒産、3%増の830件 飲食業や建設業が増加 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfb2VHMUItczhPeHJIT2ZUbFdmMHpZMDg2RW9xR0s2amtfLVBsWjFFZThtazg5aWUzbENEYTVFWXpvYUJveDBkZ1hvSUVzeVp4SmtOOUd1MHdRa0tSNXAtMjBkREh1elNEWjZiTQ?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 04:30:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.40995762,
-      "contentSnippet": "8月の企業倒産、3%増の830件 飲食業や建設業が増加  日本経済新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfb2VHMUItczhPeHJIT2ZUbFdmMHpZMDg2RW9xR0s2amtfLVBsWjFFZThtazg5aWUzbENEYTVFWXpvYUJveDBkZ1hvSUVzeVp4SmtOOUd1MHdRa0tSNXAtMjBkREh1elNEWjZiTQ?oc=5",
-      "fingerprint": "32681afb3a6c01db4064c48c723c9c09def62bea60d4ff49aa17e72f48907d7c"
+      "title": "PDF納品の見直しやASPに対話AI導入、国土交通省のAI実装方針",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02757/",
+      "pubDate": "2026-09-10T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "国土交通省はインフラ分野のAI（人工知能）実装に向け、同省の取り組みの方針を示した。受注者が提出する設計図書や報告書などの成果物をAIが参照しやすいデータとして整備するため、従来のPDF主体の納品形式を見直す。受発注者間の書類のやり取りで使うインターネットを介した情報共有システム（ASP）には、対話型AIの機能を新たに導入する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02757/",
+      "fingerprint": "83a4d75eb44d365cc0078c9000ff377b50e89711940d26a87d4c5f44363e2c99"
+    },
+    {
+      "title": "広がる直流800V給電、EVの次はAIデータセンター",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
+      "pubDate": "2026-09-10T19:55:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "EVで採用されてきた直流800Vによる給電が、AIデータセンターに今後広がる。従来に比べて高い電圧で給電することでAIデータセンターの電力効率を高める。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
+      "fingerprint": "ecbc286c45ecc00fea7040a207c252234df8450722468de31b55b369c19a31a4"
     },
     {
       "title": "1位は「住人がサーモカメラで分譲住宅の異常発見、壁に隠れた断熱材の隙間に要注意」",
@@ -67,24 +77,14 @@
       "fingerprint": "e76aefca5984308d3018fbd486133a353909a6a863b1230c3e0ff0bb13c268e7"
     },
     {
-      "title": "DOCOMOMOが選ぶ近現代建築100",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00159/090300130/",
-      "pubDate": "2026-09-09T17:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "モダン・ムーブメントに関わる建築の記録や調査、保存を推進する国際組織「DOCOMOMO」の日本支部が選定した約300件の建築のうち、約100件を取り上げる企画展が開催中だ。図面や模型、関連資料を通して、近現代建築を紹介する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00159/090300130/",
-      "fingerprint": "5d45b24b9482fe0c2669c76db76a84d7149ad15442332db8c2338e4c98839ce4"
-    },
-    {
-      "title": "淡路島と徳島結ぶ自転車道、工事9カ月遅れ　大鳴門橋の「新幹線用」空間活用",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02755/",
-      "pubDate": "2026-09-08T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "淡路島と徳島県を結ぶ大鳴門橋の桁下空間に自転車道を整備する工事が、予定よりも9カ月遅れていることが分かった。この自転車道は、将来の新幹線建設を見込んで用意していた鉄道用の空間に床版などを設置して整備する。隣接する「道の駅うずしお」（兵庫県南あわじ市）のリニューアル工事中に戦争遺構が見つかった影響で、床版設置工事の着手が遅れた。2028年3月の本体工事完了を目指す。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02755/",
-      "fingerprint": "2f5adb1a4c7ccb921fb366c535685a96cd8d03202a59f26ab83350b0052bfdbc"
+      "title": "広がる直流800V給電、EVの次はAIデータセンター",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
+      "pubDate": "2026-09-10T19:55:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "EVで採用されてきた直流800Vによる給電が、AIデータセンターに今後広がる。従来に比べて高い電圧で給電することでAIデータセンターの電力効率を高める。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
+      "fingerprint": "ecbc286c45ecc00fea7040a207c252234df8450722468de31b55b369c19a31a4"
     },
     {
       "title": "1位は「住人がサーモカメラで分譲住宅の異常発見、壁に隠れた断熱材の隙間に要注意」",
@@ -127,26 +127,6 @@
       "fingerprint": "a54520427b179d603d1570271287e6dac4da57809d40334243d0d7958bd376ec"
     },
     {
-      "title": "MORIWA（モリワ）",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00014/090300999/",
-      "pubDate": "2026-09-09T17:04:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "柔らかく軽い針葉樹のスギを主材とする家具。強度が必要な部位には広葉樹を組み合わせる。建築家の芦沢啓治氏と共同開発した。チェアやテーブルなど6アイテムを用意する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00014/090300999/",
-      "fingerprint": "cb8161de8a2692c2dc390aff12bff89be4d55d90412004514cf586ba1092e3ba"
-    },
-    {
-      "title": "煙突倒壊に「柏崎」との類似点、国交省が損傷状態など全国調査",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00326/090100004/",
-      "pubDate": "2026-09-09T17:04:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日本製紙の八代工場では2026年7月28日の地震により、築50年超、高さ80mの煙突が倒壊。9人が死亡した。これを受け、国土交通省は全国にある60m超の煙突について、損傷状態などの調査に乗り出した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00326/090100004/",
-      "fingerprint": "bb8b0dba3da40b0bece9290c54c7ee7e1667912ef291ef185569acf9c214da37"
-    },
-    {
       "title": "日本建設ロボット市場トレンドレポート 2034｜12.64%のCAGRで33,511.2百万米ドルに達すると予測 - Newscast.jp",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XNGVzXzdOYVB1UWRwT3dDR3I3UkxIcVRsU1g3ZjRQRUw2TlBaRlJoUmhBWWhzLXItMXZreXpBamNobGVsR0Jn?oc=5",
       "pubDate": "Tue, 08 Sep 2026 23:30:00 GMT",
@@ -155,79 +135,99 @@
       "contentSnippet": "日本建設ロボット市場トレンドレポート 2034｜12.64%のCAGRで33,511.2百万米ドルに達すると予測  Newscast.jp",
       "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XNGVzXzdOYVB1UWRwT3dDR3I3UkxIcVRsU1g3ZjRQRUw2TlBaRlJoUmhBWWhzLXItMXZreXpBamNobGVsR0Jn?oc=5",
       "fingerprint": "b5c4130ccabb3c118c1cf4f1f7658e260a29490ff7ec76ebecc4b59d2ab4eeb4"
+    },
+    {
+      "title": "ネイチャーポジティブをお金で買いますか、生物多様性を金額換算する危うさ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/090802102/",
+      "pubDate": "2026-09-10T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "生物多様性の損失を止め、回復軌道へと反転させる「ネイチャーポジティブ」が国際目標となり、民間企業を中心に自然関連情報の開示が広がっている。生物多様性を守ることは正しい。では、企業活動などで生物多様性に与える損失に値段を付け、その埋め合わせとして代価を支払うことは正しいのだろうか。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/090802102/",
+      "fingerprint": "4d2a3043070b2ebc823823e1074c25c0845ec19bc3884ba4bd5db8fb0755270f"
+    },
+    {
+      "title": "熊本地震で南九州道の橋が壊れる瞬間、ドライブレコーダーが捉えた映像",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090900054/",
+      "pubDate": "2026-09-10T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年7月に発生した熊本地震で高速道路のランプ橋が壊れる瞬間を、ドライブレコーダーが捉えていた。場所は熊本県八代市にある南九州自動車道の日奈久IC付近。桁の連結部が水平方向にずれ、路面が割れた。地震の揺れで、前方を走るダンプトラックは左右にあおられ、車道脇の電灯は大きく振れている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090900054/",
+      "fingerprint": "61511ab37ad5a46e33b53608325c4ded5a43d87a11eaad68e75e4c5fffae7eb4"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "1位は「住人がサーモカメラで分譲住宅の異常発見、壁に隠れた断熱材の隙間に要注意」",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/082400431/",
-        "pubDate": "2026-09-09T20:00:00.000Z",
+        "title": "認知度足踏み状態のグリーンインフラ、園芸博で上昇なるか",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/",
+        "pubDate": "2026-09-10T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月7～13日に読まれた記事の1～10位を26年9月10～16日に無料で読めるようにしました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/082400431/",
-        "fingerprint": "11d1fcb2977003d6a48a58d77700594cd1a8d8be0d68ea3d630cdb8729058db9"
+        "score": 4.8,
+        "contentSnippet": "ネイチャーポジティブは自然環境や生物多様性の損失を食い止め、回復軌道に乗せるための国際的な目標だ。日経クロステックが土木専門誌「日経コンストラクション」の読者に実施した調査で、この認知度は16％だった。前回の24年の調査から10ポイント上昇した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/",
+        "fingerprint": "aecad0c5cd5260e89f19b22e338dc879f2e546f7a75040a6198375575c31360b"
       },
-      "xDraft": "【本文】\n日経クロステックの週間ランキングで、分譲住宅の住人がサーモカメラを用いて壁内の断熱材の不備を指摘した記事が1位になりました。現在は期間限定で無料公開されています。\nかつては隠れて見えなかった施工品質が、技術によって誰にでも可視化される時代になったのですね。現場には緊張感もありますが、こうした情報の透明化が、より良い住まいづくりへの信頼を育むのだと僕は思います。\n\n出典：日経クロステック\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00241/082400431/\n\n【抜粋元】\n日経クロステック建築面のアクセスランキング記事から、1位の「住人がサーモカメラで断熱材の隙間を発見した」という事実を引用。施工品質の可視化という視点を添えて記述しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n 日経コンストラクション読者への調査で、ネイチャーポジティブの認知度が16％となり、前回から10ポイント上昇したそうです。一方で、グリーンインフラの認知度は足踏み状態が続いています。\n 自然を回復軌道に乗せるという大きな目標が広まるなかで、その具体的な手段であるグリーンインフラへの理解も深まってほしいですね。2027年の園芸博が、業界の取り組みを社会に伝える良い機会になることを願っています。\n\n 出典：日経クロステック 土木\n https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/\n\n 【抜粋元】\n 日経コンストラクション読者への調査結果から、ネイチャーポジティブの認知度向上とグリーンインフラの認知度の停滞、および園芸博への期待について触れた点。\n\n 【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック建築面のアクセスランキング記事から、1位の「住人がサーモカメラで断熱材の隙間を発見した」という事実を引用。施工品質の可視化という視点を添えて記述しました。",
+      "xDraftExcerptSummary": "日経コンストラクション読者への調査結果から、ネイチャーポジティブの認知度向上とグリーンインフラの認知度の停滞、および園芸博への期待について触れた点。\n\n 【判定】OK",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "生態系調査に音声AI、鳴き声で生物の種類判別　奥村組と相模原市が実証実験",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02756/",
-        "pubDate": "2026-09-09T20:00:00.000Z",
+        "title": "PDF納品の見直しやASPに対話AI導入、国土交通省のAI実装方針",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02757/",
+        "pubDate": "2026-09-10T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "奥村組と相模原市は共同で、市内の緑地「木もれびの森」に収音マイクを設置し、収集した鳴き声などからその場に生息する生物の種類をAI（人工知能）で判別する実証実験を始めた。鳥類を中心に、哺乳類、両生類、昆虫などの音声を常時収集して、生物多様性をモニタリング。地域に生息する生物の状況やその変化を定量的に把握する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02756/",
-        "fingerprint": "f5fafd48ad2f990c096e1fe96728ae79965c5d4e64b41ac405286051255fdfb9"
+        "score": 4.8,
+        "contentSnippet": "国土交通省はインフラ分野のAI（人工知能）実装に向け、同省の取り組みの方針を示した。受注者が提出する設計図書や報告書などの成果物をAIが参照しやすいデータとして整備するため、従来のPDF主体の納品形式を見直す。受発注者間の書類のやり取りで使うインターネットを介した情報共有システム（ASP）には、対話型AIの機能を新たに導入する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02757/",
+        "fingerprint": "83a4d75eb44d365cc0078c9000ff377b50e89711940d26a87d4c5f44363e2c99"
       },
-      "xDraft": "【本文】\n奥村組と相模原市が、AIを活用して生物の鳴き声から種類を判別する実証実験を始めました。市内の緑地にマイクを設置し、鳥類や哺乳類、昆虫などの音声を常時収集することで、生態系の変化を定量的に把握することを目指しています。\n\n土木の現場では施工時の環境保全への配慮が不可欠ですが、こうした自動モニタリング技術が普及すれば、より客観的なデータに基づいた自然との共生が可能になりそうです。人手による調査をテクノロジーが補完し、地域の環境価値を可視化する素晴らしい取り組みだと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02756/\n\n【抜粋元】\n日経クロステック 土木の記事より。奥村組と相模原市が共同で実施する、収音マイクと音声AIを用いた生物多様性のモニタリング実証実験の概要と目的について記載された箇所を参考にしました。\n\n【判定】OK",
+      "xDraft": "【本文】\n国土交通省がインフラ分野でのAI実装方針をまとめました。AIが情報を読み取りやすくするため従来のPDF主体の納品形式を見直し、情報共有システム（ASP）には対話型AIを導入する計画です。\n\nこれまでは「電子化」といってもPDF化に留まっていましたが、ようやくAIが活用できる真のデータ化へ一歩進む予感がします。ASP上で基準などをAIに相談できるようになれば、現場での調べ物や合議がこれまで以上にスムーズになりそうですね。僕たち実務者にとっても、大きな転換点になるかもしれません。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02757/\n\n【抜粋元】\n国土交通省がインフラ分野のAI実装に向けて、PDF納品の見直しやASPへの対話型AI導入といった具体的な方針を示したことを伝える記事の内容を要約しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事より。奥村組と相模原市が共同で実施する、収音マイクと音声AIを用いた生物多様性のモニタリング実証実験の概要と目的について記載された箇所を参考にしました。",
+      "xDraftExcerptSummary": "国土交通省がインフラ分野のAI実装に向けて、PDF納品の見直しやASPへの対話型AI導入といった具体的な方針を示したことを伝える記事の内容を要約しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "現代に「方丈記」の庵を表現",
-        "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00159/090300131/",
-        "pubDate": "2026-09-09T17:01:00.000Z",
+        "title": "広がる直流800V給電、EVの次はAIデータセンター",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
+        "pubDate": "2026-09-10T19:55:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 2.4,
-        "contentSnippet": "鴨長明の随筆「方丈記」に登場する一丈四方（約9m2）の小さな庵を、現代の建築家やデザイナー、美術家などが独自の解釈で表現する展覧会。鑑賞するだけでなく、実際に庵に入って空間を体験できる作品などが展示される。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00159/090300131/",
-        "fingerprint": "05dfcbf6a7f4feae24399103d58e855b9e1fb7df15e1375f949c13f322bb609b"
+        "contentSnippet": "EVで採用されてきた直流800Vによる給電が、AIデータセンターに今後広がる。従来に比べて高い電圧で給電することでAIデータセンターの電力効率を高める。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
+        "fingerprint": "ecbc286c45ecc00fea7040a207c252234df8450722468de31b55b369c19a31a4"
       },
-      "xDraft": "【本文】\n鴨長明の随筆「方丈記」に登場する、一丈四方（約9平米）の小さな庵を現代の建築家やデザイナーが独自の解釈で表現する展覧会が開催されます。鑑賞するだけでなく、実際に中に入って空間を体験できる作品も展示されるとのことです。\n\n一丈四方という極めて限定的な空間に、現代のプロフェッショナルがどのような宇宙を見出し、構築するのか非常に楽しみです。最小限の住まいから豊かさを引き出す視点は、都市のあり方を考える僕たちにとっても大きなヒントになりそうですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/mag/na/18/00159/090300131/\n\n【抜粋元】\n鴨長明の「方丈記」に記された約9平米の庵をテーマに、現代の建築家や美術家が再解釈して制作した作品を展示・体験できる展覧会についての記事です。\n\n【判定】OK",
+      "xDraft": "【本文】\nEVで普及が進む直流800V給電が、今度はAIデータセンターでも採用され始めているそうです。電圧を高めることで送電時の損失を抑え、施設全体の電力効率を向上させるのが狙いです。\n膨大なエネルギーを扱う大規模施設において、こうした基盤技術の進化は現場の設計思想にも大きな影響を与えそうですね。インフラの心臓部を支える、堅実で合理的なアップデートだと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/\n\n【抜粋元】\nEVで採用されてきた直流800V給電がAIデータセンターに広がり、高電圧化によって電力効率が高められるという記事の要点を踏まえて作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "鴨長明の「方丈記」に記された約9平米の庵をテーマに、現代の建築家や美術家が再解釈して制作した作品を展示・体験できる展覧会についての記事です。",
+      "xDraftExcerptSummary": "EVで採用されてきた直流800V給電がAIデータセンターに広がり、高電圧化によって電力効率が高められるという記事の要点を踏まえて作成しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "1位は「住人がサーモカメラで分譲住宅の異常発見、壁に隠れた断熱材の隙間に要注意」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/082400431/",
-    "pubDate": "2026-09-09T20:00:00.000Z",
+    "title": "認知度足踏み状態のグリーンインフラ、園芸博で上昇なるか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/",
+    "pubDate": "2026-09-10T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
-    "score": 2.4,
-    "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月7～13日に読まれた記事の1～10位を26年9月10～16日に無料で読めるようにしました。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/082400431/",
-    "fingerprint": "11d1fcb2977003d6a48a58d77700594cd1a8d8be0d68ea3d630cdb8729058db9"
+    "score": 4.8,
+    "contentSnippet": "ネイチャーポジティブは自然環境や生物多様性の損失を食い止め、回復軌道に乗せるための国際的な目標だ。日経クロステックが土木専門誌「日経コンストラクション」の読者に実施した調査で、この認知度は16％だった。前回の24年の調査から10ポイント上昇した。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/",
+    "fingerprint": "aecad0c5cd5260e89f19b22e338dc879f2e546f7a75040a6198375575c31360b"
   },
-  "xDraft": "【本文】\n日経クロステックの週間ランキングで、分譲住宅の住人がサーモカメラを用いて壁内の断熱材の不備を指摘した記事が1位になりました。現在は期間限定で無料公開されています。\nかつては隠れて見えなかった施工品質が、技術によって誰にでも可視化される時代になったのですね。現場には緊張感もありますが、こうした情報の透明化が、より良い住まいづくりへの信頼を育むのだと僕は思います。\n\n出典：日経クロステック\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00241/082400431/\n\n【抜粋元】\n日経クロステック建築面のアクセスランキング記事から、1位の「住人がサーモカメラで断熱材の隙間を発見した」という事実を引用。施工品質の可視化という視点を添えて記述しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n 日経コンストラクション読者への調査で、ネイチャーポジティブの認知度が16％となり、前回から10ポイント上昇したそうです。一方で、グリーンインフラの認知度は足踏み状態が続いています。\n 自然を回復軌道に乗せるという大きな目標が広まるなかで、その具体的な手段であるグリーンインフラへの理解も深まってほしいですね。2027年の園芸博が、業界の取り組みを社会に伝える良い機会になることを願っています。\n\n 出典：日経クロステック 土木\n https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/\n\n 【抜粋元】\n 日経コンストラクション読者への調査結果から、ネイチャーポジティブの認知度向上とグリーンインフラの認知度の停滞、および園芸博への期待について触れた点。\n\n 【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経クロステック建築面のアクセスランキング記事から、1位の「住人がサーモカメラで断熱材の隙間を発見した」という事実を引用。施工品質の可視化という視点を添えて記述しました。",
+  "xDraftExcerptSummary": "日経コンストラクション読者への調査結果から、ネイチャーポジティブの認知度向上とグリーンインフラの認知度の停滞、および園芸博への期待について触れた点。\n\n 【判定】OK",
   "xDraftAlternates": [],
   "errors": []
 }
