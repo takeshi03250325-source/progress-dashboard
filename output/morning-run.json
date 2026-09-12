@@ -1,31 +1,11 @@
 {
-  "generatedAt": "2026-09-11T23:26:02.284Z",
+  "generatedAt": "2026-09-12T23:08:09.588Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 4,
+  "skippedDuplicates": 1,
   "skippedJapanFocus": 1,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 0,
   "candidates": [
-    {
-      "title": "認知度足踏み状態のグリーンインフラ、園芸博で上昇なるか",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "ネイチャーポジティブは自然環境や生物多様性の損失を食い止め、回復軌道に乗せるための国際的な目標だ。日経クロステックが土木専門誌「日経コンストラクション」の読者に実施した調査で、この認知度は16％だった。前回の24年の調査から10ポイント上昇した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800007/",
-      "fingerprint": "aecad0c5cd5260e89f19b22e338dc879f2e546f7a75040a6198375575c31360b"
-    },
-    {
-      "title": "PDF納品の見直しやASPに対話AI導入、国土交通省のAI実装方針",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02757/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "国土交通省はインフラ分野のAI（人工知能）実装に向け、同省の取り組みの方針を示した。受注者が提出する設計図書や報告書などの成果物をAIが参照しやすいデータとして整備するため、従来のPDF主体の納品形式を見直す。受発注者間の書類のやり取りで使うインターネットを介した情報共有システム（ASP）には、対話型AIの機能を新たに導入する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02757/",
-      "fingerprint": "83a4d75eb44d365cc0078c9000ff377b50e89711940d26a87d4c5f44363e2c99"
-    },
     {
       "title": "マクロスコープ：多発する自然災害、建設業の人材難深刻 ＡＩで「復旧力」補強へ - ニューズウィーク日本版",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5",
@@ -35,199 +15,14 @@
       "contentSnippet": "マクロスコープ：多発する自然災害、建設業の人材難深刻 ＡＩで「復旧力」補強へ  ニューズウィーク日本版",
       "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5",
       "fingerprint": "0d6a89e1f839c9d2fda49c236620848155b2d63a6288c8317873a6eef143ad3b"
-    },
-    {
-      "title": "広がる直流800V給電、EVの次はAIデータセンター",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
-      "pubDate": "2026-09-10T19:55:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "EVで採用されてきた直流800Vによる給電が、AIデータセンターに今後広がる。従来に比べて高い電圧で給電することでAIデータセンターの電力効率を高める。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
-      "fingerprint": "ecbc286c45ecc00fea7040a207c252234df8450722468de31b55b369c19a31a4"
-    },
-    {
-      "title": "広がる直流800V給電、EVの次はAIデータセンター",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
-      "pubDate": "2026-09-10T19:55:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "EVで採用されてきた直流800Vによる給電が、AIデータセンターに今後広がる。従来に比べて高い電圧で給電することでAIデータセンターの電力効率を高める。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
-      "fingerprint": "ecbc286c45ecc00fea7040a207c252234df8450722468de31b55b369c19a31a4"
-    },
-    {
-      "title": "1位は「ホテルからのMicrosoft 365利用が危ない、公衆Wi-Fi機器への侵害を警告」一般社員層の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200407/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年8月、一般社員層の会員が読んだ記事をランキング形式で紹介します。1位は「ホテルからのMicrosoft 365利用が危ない、公衆Wi-Fi機器への侵害を警告」でした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200407/",
-      "fingerprint": "bfda5cf1ce1ebd45afde915610373f235a61e4bd1e774000bf6aab8dfd6ca02b"
-    },
-    {
-      "title": "「チームラボ TOKYO」が32年開業、有明の敷地を都が10年貸し付け",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02918/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "チームラボが東京・有明に約3万m2のアートミュージアム「チームラボ TOKYO（仮称）」を開設する。東京都が公募していた「臨海副都心有明北地区1-6区画及び1-7区画」の進出事業予定者に、チームラボを代表とする有明北プロジェクト有限責任事業組合が選ばれた。2032年1月の開業を目指す。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02918/",
-      "fingerprint": "af4c65821ed7db62042db4138e1fb8333cd45df6517e91fee1602c38fbf3b528"
-    },
-    {
-      "title": "ネイチャーポジティブをお金で買いますか、生物多様性を金額換算する危うさ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/090802102/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "生物多様性の損失を止め、回復軌道へと反転させる「ネイチャーポジティブ」が国際目標となり、民間企業を中心に自然関連情報の開示が広がっている。生物多様性を守ることは正しい。では、企業活動などで生物多様性に与える損失に値段を付け、その埋め合わせとして代価を支払うことは正しいのだろうか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/090802102/",
-      "fingerprint": "4d2a3043070b2ebc823823e1074c25c0845ec19bc3884ba4bd5db8fb0755270f"
-    },
-    {
-      "title": "熊本地震で南九州道の橋が壊れる瞬間、ドライブレコーダーが捉えた映像",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090900054/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年7月に発生した熊本地震で高速道路のランプ橋が壊れる瞬間を、ドライブレコーダーが捉えていた。場所は熊本県八代市にある南九州自動車道の日奈久IC付近。桁の連結部が水平方向にずれ、路面が割れた。地震の揺れで、前方を走るダンプトラックは左右にあおられ、車道脇の電灯は大きく振れている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090900054/",
-      "fingerprint": "61511ab37ad5a46e33b53608325c4ded5a43d87a11eaad68e75e4c5fffae7eb4"
-    },
-    {
-      "title": "JFEスチールと鈴廣蒲鉾、IT Japan Award受賞企業がDXの要諦を明かす",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090900009/",
-      "pubDate": "2026-09-10T19:59:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "IT先進企業を発掘・表彰する「IT Japan Award 2026」でグランプリ受賞のJFEスチールと準グランプリの鈴廣蒲鉾本店のDX責任者が登壇、その要諦を明かす。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090900009/",
-      "fingerprint": "fbf5d114c624386ae4230765a362134813a940e0ba267f0b7259ba3c950d0564"
-    },
-    {
-      "title": "イオンモール爆発は密閉空間にガス滞留の可能性、安全確認や避難にも課題",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03746/090200003/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "「このような爆発は想定しきれなかった」。イオンの吉田昭夫社長は2026年7月の会見で、こう語った。「想定外」の爆発はなぜ生じ、どうすれば爆発や人的被害を防げたのか。専門家への取材から、ハード・ソフトの両面でいくつかの論点が浮かび上がってきた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03746/090200003/",
-      "fingerprint": "f2874785cde720611093e5cb5a8fe7de65a090b1807a8bc1c485883419c1975a"
-    },
-    {
-      "title": "ネイチャーポジティブをお金で買いますか、生物多様性を金額換算する危うさ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/090802102/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "生物多様性の損失を止め、回復軌道へと反転させる「ネイチャーポジティブ」が国際目標となり、民間企業を中心に自然関連情報の開示が広がっている。生物多様性を守ることは正しい。では、企業活動などで生物多様性に与える損失に値段を付け、その埋め合わせとして代価を支払うことは正しいのだろうか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/090802102/",
-      "fingerprint": "4d2a3043070b2ebc823823e1074c25c0845ec19bc3884ba4bd5db8fb0755270f"
-    },
-    {
-      "title": "熊本地震で南九州道の橋が壊れる瞬間、ドライブレコーダーが捉えた映像",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090900054/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "2026年7月に発生した熊本地震で高速道路のランプ橋が壊れる瞬間を、ドライブレコーダーが捉えていた。場所は熊本県八代市にある南九州自動車道の日奈久IC付近。桁の連結部が水平方向にずれ、路面が割れた。地震の揺れで、前方を走るダンプトラックは左右にあおられ、車道脇の電灯は大きく振れている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03703/090900054/",
-      "fingerprint": "61511ab37ad5a46e33b53608325c4ded5a43d87a11eaad68e75e4c5fffae7eb4"
-    },
-    {
-      "title": "1位は「ホテルからのMicrosoft 365利用が危ない、公衆Wi-Fi機器への侵害を警告」一般社員層の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200407/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年8月、一般社員層の会員が読んだ記事をランキング形式で紹介します。1位は「ホテルからのMicrosoft 365利用が危ない、公衆Wi-Fi機器への侵害を警告」でした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200407/",
-      "fingerprint": "bfda5cf1ce1ebd45afde915610373f235a61e4bd1e774000bf6aab8dfd6ca02b"
-    },
-    {
-      "title": "196棟焼失の大分・佐賀関、被災集落を復興後の玄関口に　広場で交流促進",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02917/",
-      "pubDate": "2026-09-10T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "大分市佐賀関で196棟の建物が焼失した大規模火災の復興に向けて、市は2031年度までに進める復興事業のビジョンを「大分市佐賀関大規模火災復興計画」（以下、復興計画）にまとめた。被災した集落を含む地域を4つのゾーンに分け、住宅用地の確保や交流広場の設置といった機能別の整備方針を示した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02917/",
-      "fingerprint": "c1a65ec03edd57eb1cd87c0382f53ddcfd096bba4f8d618766c37d2594bf7291"
     }
   ],
-  "picks": [
-    {
-      "picked": {
-        "title": "マクロスコープ：多発する自然災害、建設業の人材難深刻 ＡＩで「復旧力」補強へ - ニューズウィーク日本版",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 05:07:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4101928980000005,
-        "contentSnippet": "マクロスコープ：多発する自然災害、建設業の人材難深刻 ＡＩで「復旧力」補強へ  ニューズウィーク日本版",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5",
-        "fingerprint": "0d6a89e1f839c9d2fda49c236620848155b2d63a6288c8317873a6eef143ad3b"
-      },
-      "xDraft": "【本文】\n近年、自然災害が頻発する一方で、建設業界では担い手不足が深刻な課題となっています。これに対応するため、AI技術を導入して地域の「復旧力（レジリエンス）」を補強する取り組みが注目されています。\n\n災害時のインフラ復旧はスピードが命ですが、支える人が足りないのは現場として切実な問題です。AIが熟練者の判断を助け、効率化を支えることで、地域の安全を守る力を維持できることを期待しています。技術と現場の知恵が融合する形を、僕もしっかり見守りたいです。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5\n\n【抜粋元】\nニューズウィーク日本版の記事から、多発する自然災害と建設業の人材難という二重の困難に対し、AIを導入することで社会の復旧力を底上げしようとする動きを整理して記述しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ニューズウィーク日本版の記事から、多発する自然災害と建設業の人材難という二重の困難に対し、AIを導入することで社会の復旧力を底上げしようとする動きを整理して記述しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "1位は「ホテルからのMicrosoft 365利用が危ない、公衆Wi-Fi機器への侵害を警告」一般社員層の注目トップ10",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200407/",
-        "pubDate": "2026-09-10T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 0,
-        "contentSnippet": "日経クロステックで2026年8月、一般社員層の会員が読んだ記事をランキング形式で紹介します。1位は「ホテルからのMicrosoft 365利用が危ない、公衆Wi-Fi機器への侵害を警告」でした。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200407/",
-        "fingerprint": "bfda5cf1ce1ebd45afde915610373f235a61e4bd1e774000bf6aab8dfd6ca02b"
-      },
-      "xDraft": "【本文】\n日経クロステックの一般社員層向け記事ランキングで、「ホテルからのMicrosoft 365利用」に伴うセキュリティリスクを警告する記事が1位になったそうです。公衆Wi-Fi機器そのものが侵害されるリスクについて、注意が呼びかけられています。\n出張の多い僕たちの仕事にとって、宿泊先での通信環境は非常に身近なテーマですね。現場から戻った後の事務作業も、まずは安全な通信経路の確保から始まるのだと改めて感じました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/02156/090200407/\n\n【抜粋元】\n日経クロステックが発表した2026年8月のアクセスランキング1位の記事「ホテルからのMicrosoft 365利用が危ない、公衆Wi-Fi機器への侵害を警告」に基づき、その要点と出張の多い業界特性を合わせた感想を記述しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックが発表した2026年8月のアクセスランキング1位の記事「ホテルからのMicrosoft 365利用が危ない、公衆Wi-Fi機器への侵害を警告」に基づき、その要点と出張の多い業界特性を合わせた感想を記述しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "「チームラボ TOKYO」が32年開業、有明の敷地を都が10年貸し付け",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02918/",
-        "pubDate": "2026-09-10T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 0,
-        "contentSnippet": "チームラボが東京・有明に約3万m2のアートミュージアム「チームラボ TOKYO（仮称）」を開設する。東京都が公募していた「臨海副都心有明北地区1-6区画及び1-7区画」の進出事業予定者に、チームラボを代表とする有明北プロジェクト有限責任事業組合が選ばれた。2032年1月の開業を目指す。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02918/",
-        "fingerprint": "af4c65821ed7db62042db4138e1fb8333cd45df6517e91fee1602c38fbf3b528"
-      },
-      "xDraft": "【本文】\n東京都が有明北地区の進出事業予定者を選定し、2032年1月に約3万平米のアートミュージアム「チームラボ TOKYO（仮称）」が開業する見通しとなりました。都が土地を10年間貸し付ける定期借地事業です。\n\n暫定利用ではありますが、これだけの規模の敷地がどのように整備されるのか、僕も土木の視点から注目しています。有明エリアの回遊性や、10年後の土地の使われ方まで想像が膨らみますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02918/\n\n【抜粋元】\n有明北地区の約3万平米の敷地に、チームラボを代表とする組合が2032年1月の開業を目指してアートミュージアムを新設すること、東京都が土地を10年間貸し付けるという点を踏まえて作成しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "有明北地区の約3万平米の敷地に、チームラボを代表とする組合が2032年1月の開業を目指してアートミュージアムを新設すること、東京都が土地を10年間貸し付けるという点を踏まえて作成しました。",
-      "xDraftAlternates": []
-    }
-  ],
-  "picked": {
-    "title": "マクロスコープ：多発する自然災害、建設業の人材難深刻 ＡＩで「復旧力」補強へ - ニューズウィーク日本版",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5",
-    "pubDate": "Fri, 11 Sep 2026 05:07:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 3.4101928980000005,
-    "contentSnippet": "マクロスコープ：多発する自然災害、建設業の人材難深刻 ＡＩで「復旧力」補強へ  ニューズウィーク日本版",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5",
-    "fingerprint": "0d6a89e1f839c9d2fda49c236620848155b2d63a6288c8317873a6eef143ad3b"
-  },
-  "xDraft": "【本文】\n近年、自然災害が頻発する一方で、建設業界では担い手不足が深刻な課題となっています。これに対応するため、AI技術を導入して地域の「復旧力（レジリエンス）」を補強する取り組みが注目されています。\n\n災害時のインフラ復旧はスピードが命ですが、支える人が足りないのは現場として切実な問題です。AIが熟練者の判断を助け、効率化を支えることで、地域の安全を守る力を維持できることを期待しています。技術と現場の知恵が融合する形を、僕もしっかり見守りたいです。\n\n出典：ニューズウィーク日本版\nhttps://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5\n\n【抜粋元】\nニューズウィーク日本版の記事から、多発する自然災害と建設業の人材難という二重の困難に対し、AIを導入することで社会の復旧力を底上げしようとする動きを整理して記述しました。\n\n【判定】OK",
-  "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "ニューズウィーク日本版の記事から、多発する自然災害と建設業の人材難という二重の困難に対し、AIを導入することで社会の復旧力を底上げしようとする動きを整理して記述しました。",
+  "picks": [],
+  "picked": null,
+  "xDraft": "",
+  "xDraftModel": null,
+  "xPostVerdict": null,
+  "xDraftExcerptSummary": null,
   "xDraftAlternates": [],
   "errors": []
 }
