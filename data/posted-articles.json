@@ -2,20 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "fingerprint": "58d6646ac8ed41554caf8f094e252060ea781b34e3b4ed72bd98dba24bdf533e",
-      "title": "The 12-month window",
-      "postedAt": "2026-04-20T01:38:49.955Z",
-      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/"
-    },
-    {
-      "urlNorm": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "fingerprint": "06eadb0997e23facc596d5ad0c3a1435abd19da01cb883bc4dc2bd5a8e3dd807",
-      "title": "AI chip startup Cerebras files for IPO",
-      "postedAt": "2026-04-20T01:39:01.094Z",
-      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
-    },
-    {
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/010600412/",
       "fingerprint": "bc56bda4ce4d4cfa42f29395853608c156d8d55d493d18171033b65a40022276",
       "title": "1位は「ユニットバスの下の床が未施工、防耐火の瑕疵に要注意」",
@@ -2793,6 +2779,27 @@
       "title": "「チームラボ TOKYO」が32年開業、有明の敷地を都が10年貸し付け",
       "postedAt": "2026-09-11T23:26:02.281Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02918/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+      "fingerprint": "79db9a1ee2cc5460cfab964d2051baca24c4aa682660d3c807df11a415983888",
+      "title": "1位は「有害物質で工事打ち切った国道168号トンネル、処分地探し難航で再開めど立たず」",
+      "postedAt": "2026-09-13T23:17:27.777Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+      "fingerprint": "79db9a1ee2cc5460cfab964d2051baca24c4aa682660d3c807df11a415983888",
+      "title": "1位は「有害物質で工事打ち切った国道168号トンネル、処分地探し難航で再開めど立たず」",
+      "postedAt": "2026-09-13T23:17:27.777Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800008/",
+      "fingerprint": "175d98d24e8245bc241b7b93a219821bc948e60614c11c6a95487b6fc85aa426",
+      "title": "建設キャリアアップシステム、英語略称のCCUSでも認知度上昇",
+      "postedAt": "2026-09-13T23:17:27.777Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800008/"
     }
   ]
 }

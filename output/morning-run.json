@@ -1,28 +1,193 @@
 {
-  "generatedAt": "2026-09-12T23:08:09.588Z",
+  "generatedAt": "2026-09-13T23:17:27.787Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
+  "pickCountActual": 3,
   "candidates": [
     {
-      "title": "マクロスコープ：多発する自然災害、建設業の人材難深刻 ＡＩで「復旧力」補強へ - ニューズウィーク日本版",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 05:07:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4101928980000005,
-      "contentSnippet": "マクロスコープ：多発する自然災害、建設業の人材難深刻 ＡＩで「復旧力」補強へ  ニューズウィーク日本版",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWmFDMk9SVVowZnE4VXpVSnR0N1BkekNVYTRoV0kxSmhNU2Rocm1HeDBCQmt5eTl3SHR3dDZFc2c4NjVIeC1qM1dwQ3pHTWs3LXhKSUx5RE45dw?oc=5",
-      "fingerprint": "0d6a89e1f839c9d2fda49c236620848155b2d63a6288c8317873a6eef143ad3b"
+      "title": "1位は「有害物質で工事打ち切った国道168号トンネル、処分地探し難航で再開めど立たず」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月14～20日に読まれた記事の1～10位を26年9月14～20日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+      "fingerprint": "79db9a1ee2cc5460cfab964d2051baca24c4aa682660d3c807df11a415983888"
+    },
+    {
+      "title": "1位は「有害物質で工事打ち切った国道168号トンネル、処分地探し難航で再開めど立たず」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月14～20日に読まれた記事の1～10位を26年9月14～20日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+      "fingerprint": "79db9a1ee2cc5460cfab964d2051baca24c4aa682660d3c807df11a415983888"
+    },
+    {
+      "title": "建設キャリアアップシステム、英語略称のCCUSでも認知度上昇",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800008/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "建設技能者の就業履歴や社会保険加入状況などを蓄積し、その処遇改善を図る建設キャリアアップシステム。日経クロステックはこの用語の英語略称であるCCUS（シーシーユーエス）で、土木専門誌「日経コンストラクション」の読者に認知度（意味を知っていると答えた割合）を尋ねたところ、結果は41％だった。前回の2024年調査の31％を10ポイント上回る。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800008/",
+      "fingerprint": "175d98d24e8245bc241b7b93a219821bc948e60614c11c6a95487b6fc85aa426"
+    },
+    {
+      "title": "2位は「AIエージェントが暴走し本番データを全削除、AWSやMetaでもAI関連事故」20代以下の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200408/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステックで2026年8月、20代以下の会員が読んだ記事をランキング形式で紹介します。2位に「AIエージェントが暴走し本番データを全削除、AWSやMetaでもAI関連事故」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200408/",
+      "fingerprint": "9c9b3bbcafb2e008fcb4bcded4ecfbb6e3d4d618281ec2998b27b8e31d631dde"
+    },
+    {
+      "title": "「建設分野のフィジカルAI戦略」で重点8分野、国土交通省",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02758/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "国土交通省は、建設分野の現場にフィジカルAI（人工知能）を導入するための戦略をまとめ、重点的に取り組む対象として「機械施工」「巡視・点検」「災害調査」などの8分野を定めた。開発や実証、社会実装を進めるに当たり、具体的な目標や開発方針などを議論するため、産官学が連携するコンソーシアムを早ければ2026年9月中に設立する予定だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02758/",
+      "fingerprint": "96f92b7218127c517d764ae9d72efd1ad7436e02f70149f5d3b5df1624ea2380"
+    },
+    {
+      "title": "ITモダナイズに乗り遅れるな！ビジネス変革に向けてAI活用が焦点に",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090900008/",
+      "pubDate": "2026-09-13T19:58:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "メインフレームやオフコン、UNIXサーバーなど、レガシーシステムをモダナイズする事例が増えている。最新のITを取り入れ、ビジネスの競争力を高めることが狙いだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090900008/",
+      "fingerprint": "eb79786e3d38385082d98923bc5542794c5fbdc7533bbf1fc39d84e9454092f2"
+    },
+    {
+      "title": "2位は「AIエージェントが暴走し本番データを全削除、AWSやMetaでもAI関連事故」20代以下の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200408/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステックで2026年8月、20代以下の会員が読んだ記事をランキング形式で紹介します。2位に「AIエージェントが暴走し本番データを全削除、AWSやMetaでもAI関連事故」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200408/",
+      "fingerprint": "9c9b3bbcafb2e008fcb4bcded4ecfbb6e3d4d618281ec2998b27b8e31d631dde"
+    },
+    {
+      "title": "別荘にデータセンター、植物工場も開発　不動産分野の注目ベンチャー6社",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100013/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "シェア別荘にデータセンター、植物工場――。時代の変化に伴い、建築物に求められる仕様や機能、形態は大きく変わる。様々な分野の事業者が、新たなニーズに対応する施設を、斬新な技術やビジネスモデルで開発・運営している。連載の第13回では、巨額の資金調達を果たして話題を呼んだNOT A HOTEL（東京・中央）やOishii Farm（日本法人、東京都羽村市）、TERASS（東京・渋谷）などベンチャー6社を紹介する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100013/",
+      "fingerprint": "e15df114a37d6418ab822f6aa09899c036204e0cf2bbc6d8de61ae0e2041584c"
+    },
+    {
+      "title": "ITモダナイズに乗り遅れるな！ビジネス変革に向けてAI活用が焦点に",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090900008/",
+      "pubDate": "2026-09-13T19:58:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "メインフレームやオフコン、UNIXサーバーなど、レガシーシステムをモダナイズする事例が増えている。最新のITを取り入れ、ビジネスの競争力を高めることが狙いだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090900008/",
+      "fingerprint": "eb79786e3d38385082d98923bc5542794c5fbdc7533bbf1fc39d84e9454092f2"
+    },
+    {
+      "title": "東京駅前に「トフロム八重洲 タワー」開業、八重洲エリアの回遊性高める",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02919/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "東京駅前で進む再開発プロジェクト群の一角である大型複合施設「TOFROM YAESU TOWER（トフロム八重洲 タワー）」が開業した。オフィスや商業施設、劇場、バスターミナルなどを備えた高さ約250mの八重洲エリアの新たなランドマークだ。東京駅の目の前という好立地を生かして人々を呼び込み、八重洲エリア全体での回遊性を高めていく。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02919/",
+      "fingerprint": "7fd04381cb1c940271bc0dff72e2a3623d17044256dbf58b336b29aafbd675e0"
+    },
+    {
+      "title": "倒壊事故で問われる老朽煙突の耐震性、補強済みも折損　国が緊急調査",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03746/090200004/",
+      "pubDate": "2026-09-13T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "日本製紙八代工場の煙突倒壊を受けて、煙突の耐震性や老朽化に対する関心がにわかに高まっている。煙突のような塔状の構造物は、長周期の地震波と共振しやすく、大きな外力を受ける恐れがある。また、排煙の熱や排ガス中の硫黄酸化物、外気の影響などを受けて老朽化が進行しやすい。国土交通省は全国にある煙突の調査に乗り出した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03746/090200004/",
+      "fingerprint": "071b9e2bbde75b77c23f489e8034bc9ac84b629400f3e6d6e2c02c251c83a373"
     }
   ],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "picks": [
+    {
+      "picked": {
+        "title": "1位は「有害物質で工事打ち切った国道168号トンネル、処分地探し難航で再開めど立たず」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+        "pubDate": "2026-09-13T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月14～20日に読まれた記事の1～10位を26年9月14～20日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+        "fingerprint": "79db9a1ee2cc5460cfab964d2051baca24c4aa682660d3c807df11a415983888"
+      },
+      "xDraft": "【本文】\n日経クロステック土木のランキングによると、有害物質の影響で工事が打ち切られた国道168号のトンネル事業が、処分地探しに難航し再開のめどが立っていないそうです。2025年9月の注目記事として改めて公開され、1位を記録しています。\n\n掘削土から出る有害物質の処理は、現代の土木工事における極めて大きなリスクの一つですね。処分地の確保ができなければ事業が止まってしまうという現実は、僕たちにインフラ整備の難しさを突きつけているように感じます。一日も早い解決を願わずにはいられません。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/\n\n【抜粋元】\n日経クロステック土木の週間ランキング記事から。国道168号トンネル工事が有害物質を理由に中断され、処分地選定が難航しているために再開のめどが立たないという主要な事実に基づいています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木の週間ランキング記事から。国道168号トンネル工事が有害物質を理由に中断され、処分地選定が難航しているために再開のめどが立たないという主要な事実に基づいています。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「有害物質で工事打ち切った国道168号トンネル、処分地探し難航で再開めど立たず」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+        "pubDate": "2026-09-13T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月14～20日に読まれた記事の1～10位を26年9月14～20日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+        "fingerprint": "79db9a1ee2cc5460cfab964d2051baca24c4aa682660d3c807df11a415983888"
+      },
+      "xDraft": "【本文】\n国道168号のトンネル工事が、発生した有害物質の処分地探しが難航し、再開のめどが立たない状況にあるそうです。過去に工事を打ち切らざるを得なかった背景には、掘削土の処理という非常に重い課題が横たわっています。\n自然由来の物質への対応は、計画段階で予測しきれないことも多く、僕はこの現場が直面している苦悩を思うと胸が痛みます。地域に不可欠なインフラ整備と、環境への配慮をどう両立させていくか、改めて考えさせられる事例だと感じました。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/\n\n【抜粋元】\n日経クロステックの土木ニュースランキング1位の記事より。国道168号のトンネル工事が有害物質の発生と処分地不足により、再開のめどが立たず難航している事実に基づき、事業継続の難しさについて書きました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステックの土木ニュースランキング1位の記事より。国道168号のトンネル工事が有害物質の発生と処分地不足により、再開のめどが立たず難航している事実に基づき、事業継続の難しさについて書きました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "建設キャリアアップシステム、英語略称のCCUSでも認知度上昇",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800008/",
+        "pubDate": "2026-09-13T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "建設技能者の就業履歴や社会保険加入状況などを蓄積し、その処遇改善を図る建設キャリアアップシステム。日経クロステックはこの用語の英語略称であるCCUS（シーシーユーエス）で、土木専門誌「日経コンストラクション」の読者に認知度（意味を知っていると答えた割合）を尋ねたところ、結果は41％だった。前回の2024年調査の31％を10ポイント上回る。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800008/",
+        "fingerprint": "175d98d24e8245bc241b7b93a219821bc948e60614c11c6a95487b6fc85aa426"
+      },
+      "xDraft": "【本文】\n建設技能者の就業履歴を蓄積し、処遇改善を目指す建設キャリアアップシステムの認知度が向上しています。日経クロステックが読者に英語略称の「CCUS」で意味を知っているか尋ねたところ、結果は41％でした。前回の調査から10ポイント上昇しています。\n略称がここまで浸透してきたのは、現場でこのシステムが話題に上る機会が着実に増えている証拠だと僕は思います。処遇改善という大きな目的を達成するためにも、まずは正しい認知が広がることはとても意義深いことですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800008/\n\n【抜粋元】\n日経クロステックが実施した、土木専門誌「日経コンストラクション」読者へのCCUS認知度調査の結果。意味を知っていると答えた割合が、前回の31％から10ポイント上昇して41％になったという事実に基づいています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステックが実施した、土木専門誌「日経コンストラクション」読者へのCCUS認知度調査の結果。意味を知っていると答えた割合が、前回の31％から10ポイント上昇して41％になったという事実に基づいています。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "1位は「有害物質で工事打ち切った国道168号トンネル、処分地探し難航で再開めど立たず」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+    "pubDate": "2026-09-13T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 4.8,
+    "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月14～20日に読まれた記事の1～10位を26年9月14～20日に無料で読めるようにしました。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/",
+    "fingerprint": "79db9a1ee2cc5460cfab964d2051baca24c4aa682660d3c807df11a415983888"
+  },
+  "xDraft": "【本文】\n日経クロステック土木のランキングによると、有害物質の影響で工事が打ち切られた国道168号のトンネル事業が、処分地探しに難航し再開のめどが立っていないそうです。2025年9月の注目記事として改めて公開され、1位を記録しています。\n\n掘削土から出る有害物質の処理は、現代の土木工事における極めて大きなリスクの一つですね。処分地の確保ができなければ事業が止まってしまうという現実は、僕たちにインフラ整備の難しさを突きつけているように感じます。一日も早い解決を願わずにはいられません。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/082400381/\n\n【抜粋元】\n日経クロステック土木の週間ランキング記事から。国道168号トンネル工事が有害物質を理由に中断され、処分地選定が難航しているために再開のめどが立たないという主要な事実に基づいています。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "日経クロステック土木の週間ランキング記事から。国道168号トンネル工事が有害物質を理由に中断され、処分地選定が難航しているために再開のめどが立たないという主要な事実に基づいています。",
   "xDraftAlternates": [],
   "errors": []
 }
