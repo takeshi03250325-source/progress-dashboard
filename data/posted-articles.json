@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/010600412/",
-      "fingerprint": "bc56bda4ce4d4cfa42f29395853608c156d8d55d493d18171033b65a40022276",
-      "title": "1位は「ユニットバスの下の床が未施工、防耐火の瑕疵に要注意」",
-      "postedAt": "2026-05-01T08:09:10.863Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/010600412/"
-    },
-    {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/040700372/",
-      "fingerprint": "7dfd2fe9e68547344e61d88e08a67da6d103373574373d4f32fd651fdd2118ec",
-      "title": "5位は「大林組JVが請求100億円上乗せ、『不要な工事中断で費用増』　広島高速訴訟」60代以上の注目トップ10",
-      "postedAt": "2026-05-01T09:34:49.268Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/040700372/"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13SmUwMTRaMF96S3JoYm9OLTNqSUZDNXhOdElXTzJiSjQzQVd6My04LXRwSGcxM0lMSmo1SFRZQndUZWVVQ2tQZGx6dGQ5LVZIT0xBb3lB?oc=5",
-      "fingerprint": "08f4b7e414d5469eae2d1f1aa219794dacbab91865d678741e41a32805d963c3",
-      "title": "日建連の新会長に押味氏内定 土木本部長は蓮輪氏、建築本部長に相川氏 - 建設通信新聞Digital",
-      "postedAt": "2026-05-02T02:32:52.777Z",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13SmUwMTRaMF96S3JoYm9OLTNqSUZDNXhOdElXTzJiSjQzQVd6My04LXRwSGcxM0lMSmo1SFRZQndUZWVVQ2tQZGx6dGQ5LVZIT0xBb3lB?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KMnRsREJPQTNiSE1oQXJGRnM2ZkhUaVhZN1RGSl83R0RqdV9sTUtIeFUxdTNDWXlkMkE1ZGh4dE5KX1hwUDhFbjh0YjdPa0cyU1kyakJZQQ?oc=5",
       "fingerprint": "f147f5cac57f9d4fa6af5b97518b4affd72cc5591548c87f3b8a7a9a2c0302c0",
       "title": "岳南建設、住宅付近や工場内で鉄塔建て替え／難所の工事、安全徹底を – - 電気新聞ウェブサイト",
@@ -2800,6 +2779,27 @@
       "title": "建設キャリアアップシステム、英語略称のCCUSでも認知度上昇",
       "postedAt": "2026-09-13T23:17:27.777Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800008/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800009/",
+      "fingerprint": "4434e71ebdf783d3c89f187ca965bbad727c7ea4918e0d98e9a419e2962b8bc7",
+      "title": "改正建設業法の施行後すぐの調査で標準労務費の認知度は59％",
+      "postedAt": "2026-09-14T23:56:06.899Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800009/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02760/",
+      "fingerprint": "b4b983b725e9cf922cd2ac2cd123e3df3a9abc29a2b49bda9b300aec898af25f",
+      "title": "建設業の供給力強化に新支援、戦略17分野の投資拡大に備え　国土交通省",
+      "postedAt": "2026-09-14T23:56:06.899Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02760/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02760/",
+      "fingerprint": "b4b983b725e9cf922cd2ac2cd123e3df3a9abc29a2b49bda9b300aec898af25f",
+      "title": "建設業の供給力強化に新支援、戦略17分野の投資拡大に備え　国土交通省",
+      "postedAt": "2026-09-14T23:56:06.899Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02760/"
     }
   ]
 }
