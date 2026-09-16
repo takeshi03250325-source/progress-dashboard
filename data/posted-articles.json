@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FRGl0QWlxNWZMZWlCdnpyRmxsRU1ROVo3eUlQcjZhN24wRmpjMHVqQ0JlWTduaG5JVkZwRHo5elNnS3Z4aFRUTjBNdFluMk90X0dxdWhSYVA?oc=5",
-      "fingerprint": "440d532d50c161f3d65933fb961a4d8b91377c0500e4dc22c14775403a9a736c",
-      "title": "関東建設工業（群馬・太田市）に営業停止命令 桐生市の入札妨害事件で国土交通省関東地方整備局 - 上毛新聞電子版",
-      "postedAt": "2026-05-02T04:46:54.319Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FRGl0QWlxNWZMZWlCdnpyRmxsRU1ROVo3eUlQcjZhN24wRmpjMHVqQ0JlWTduaG5JVkZwRHo5elNnS3Z4aFRUTjBNdFluMk90X0dxdWhSYVA?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SWm52UVJieHZSOW1hOVpYaG02RU1OaXNKYmkzc1N6WlRyNWQ5d1FtdXA5dXZMZ3NqamdteTR5dWxfN0ZGM3NFbFFuWE5ZSUc5c1NBeGVrTzc?oc=5",
-      "fingerprint": "3f73b46ec85b9db1c22900f4f6d4d8afdbc29f91787e7e4446c66e1e3338701a",
-      "title": "現場から・注目工事で強みを発揮・鉄建建設 - 建設通信新聞Digital",
-      "postedAt": "2026-05-02T06:24:46.726Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SWm52UVJieHZSOW1hOVpYaG02RU1OaXNKYmkzc1N6WlRyNWQ5d1FtdXA5dXZMZ3NqamdteTR5dWxfN0ZGM3NFbFFuWE5ZSUc5c1NBeGVrTzc?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TjJFaURJWGdFZC1qSUEtVy1TRElzcVFKSm10cFV2WmVNZ2E5QWRFY1VkbERwMWJrNXZGNXloazVYTUd1QWlQTGJBMnRVdTZ4MXE0?oc=5",
-      "fingerprint": "d5ac200364da64e89f081c5cde671afbe72bdd0ed1cdfd08dccbde20698714de",
-      "title": "第３部 インフラ編③ 社会基盤整備を担う 渡辺建設工業（根室市） - 釧路新聞電子版",
-      "postedAt": "2026-05-03T00:03:27.803Z",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TjJFaURJWGdFZC1qSUEtVy1TRElzcVFKSm10cFV2WmVNZ2E5QWRFY1VkbERwMWJrNXZGNXloazVYTUd1QWlQTGJBMnRVdTZ4MXE0?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ReDNtYUVFazNUWUEyR3lkalNPMHAzNnRoaWNGeklxcVQ3WmdHMnF5TFZsd1JaR3RXLVhQNUV2emF3WTh5YmU5NF9tN3lWeHd3YVhEYm43Vi15eUw0TlE?oc=5",
       "fingerprint": "f115bf9ae20a407cd3924253f7f0134e95256205cf3c346c5edfb2814d3e8956",
       "title": "キャタピラー決算 予想上回る AIデータセンター建設増で - テレ東BIZ",
@@ -2800,6 +2779,27 @@
       "title": "日本のデータセンター建設市場：AIインフラ、電力供給能力、高密度施設が新たな成長機会を創出 - ニコニコニュース",
       "postedAt": "2026-09-15T23:35:12.882Z",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xeDF4anlJTTRSeVVOYXNHOW9IMzhEQ2UzRmpPazdaM0dhbUJEelc5cEdNbjAtckpLWnM3OHpaV1lqMWswVDdLeWlTbEhsU1lfN2tLaE5mV1ZjRmJ1LVFaTjBPWDBfLXBwbmEtcWJNWXFwb29EVkE?oc=5"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/",
+      "fingerprint": "fa7805df1e5b4f52dd5eeef6b3a5e437ce97b327b482bb84d5ee29c97bfe1aa3",
+      "title": "現場で暑さ対策が進むも、WBGTやペルチェ素子の認知度は低迷",
+      "postedAt": "2026-09-16T23:43:00.524Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/",
+      "fingerprint": "1c0db1135059c5fb509f8d8180d57e146af7a5d2e3bbdc656a3154820232ec4f",
+      "title": "今年も学生ガチバトル！　全国12チームがドボク模型とプレゼンで激突",
+      "postedAt": "2026-09-16T23:43:00.524Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800010/",
+      "fingerprint": "c320f1f0df34be30cd95388dce5e4d7f5360edd26a5c1539370c104aa41c5658",
+      "title": "ウォーターPPPとPPP/PFI　認知度はPPP/PFIが高い",
+      "postedAt": "2026-09-16T23:43:00.524Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800010/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:35:12.892Z",
+  "generatedAt": "2026-09-16T23:43:00.534Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 1,
   "skippedJapanFocus": 3,
@@ -17,34 +17,24 @@
       "fingerprint": "907aba024b7590595d890efe5cb2b0fedb67f9d05f2df25d72db0fe5178f94aa"
     },
     {
-      "title": "改正建設業法の施行後すぐの調査で標準労務費の認知度は59％",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800009/",
-      "pubDate": "2026-09-14T20:00:00.000Z",
+      "title": "現場で暑さ対策が進むも、WBGTやペルチェ素子の認知度は低迷",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
-      "score": 7.199999999999999,
-      "contentSnippet": "建設関連の法律の中で、公共工事品質確保促進法（品確法）と建設業法、入札契約適正化法（入契法）は、まとめて担い手3法と呼ばれる。いずれも建設業の主な担い手となる技能者や技術者の処遇につながる法律であるためだ。国土交通省は担い手の処遇改善という観点から3法の改正を推進。改正法は2024年に成立した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800009/",
-      "fingerprint": "4434e71ebdf783d3c89f187ca965bbad727c7ea4918e0d98e9a419e2962b8bc7"
+      "score": 4.8,
+      "contentSnippet": "8月に最高気温40度以上の日を指す「酷暑日」が続くなど、今年も暑い夏となった。建設業界では2025年6月から、改正労働安全衛生規則の施行に伴い、職場における熱中症対策が罰則付きで義務化され、現場では暑さ対策が進む。それでも、WBGTの用語があまり定着していない。土木専門誌「日経コンストラクション」の読者を対象とした認知度（意味を知っている割合）の調査では、結果が45％だった。用語自体を知らないと答えた割合は38％に上る。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/",
+      "fingerprint": "fa7805df1e5b4f52dd5eeef6b3a5e437ce97b327b482bb84d5ee29c97bfe1aa3"
     },
     {
-      "title": "日本の建設資材市場：インフラ更新、レジリエントな建築物、低炭素資材が新たな成長機会を創出 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SkxuSzFmUFQxa0R1SFRya1VDOHE2NlVmMUdKQzNPT3cwc1Y1NjBCOTQ1azRiVmt4aHB4ZjN4eUV2Z0dUbkFqdHYydFVyS2FwZE5HdEhZckNiVVRhclc4LVpMRFdsOXJaMTNBUUhDWmJNU1hULXc?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 01:03:47 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.2104908043,
-      "contentSnippet": "日本の建設資材市場：インフラ更新、レジリエントな建築物、低炭素資材が新たな成長機会を創出  ニコニコニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SkxuSzFmUFQxa0R1SFRya1VDOHE2NlVmMUdKQzNPT3cwc1Y1NjBCOTQ1azRiVmt4aHB4ZjN4eUV2Z0dUbkFqdHYydFVyS2FwZE5HdEhZckNiVVRhclc4LVpMRFdsOXJaMTNBUUhDWmJNU1hULXc?oc=5",
-      "fingerprint": "47d10e74ab89561a9560b3e9bae0759efcd294610a3425ce53013e8b2d692ba5"
-    },
-    {
-      "title": "日本のデータセンター建設市場：AIインフラ、電力供給能力、高密度施設が新たな成長機会を創出 - ニコニコニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xeDF4anlJTTRSeVVOYXNHOW9IMzhEQ2UzRmpPazdaM0dhbUJEelc5cEdNbjAtckpLWnM3OHpaV1lqMWswVDdLeWlTbEhsU1lfN2tLaE5mV1ZjRmJ1LVFaTjBPWDBfLXBwbmEtcWJNWXFwb29EVkE?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 01:03:44 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.2104908016,
-      "contentSnippet": "日本のデータセンター建設市場：AIインフラ、電力供給能力、高密度施設が新たな成長機会を創出  ニコニコニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xeDF4anlJTTRSeVVOYXNHOW9IMzhEQ2UzRmpPazdaM0dhbUJEelc5cEdNbjAtckpLWnM3OHpaV1lqMWswVDdLeWlTbEhsU1lfN2tLaE5mV1ZjRmJ1LVFaTjBPWDBfLXBwbmEtcWJNWXFwb29EVkE?oc=5",
-      "fingerprint": "bae244f99b894192cae6f08e7511902882345bd9f06856619049706c28d57266"
+      "title": "今年も学生ガチバトル！　全国12チームがドボク模型とプレゼンで激突",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/",
+      "pubDate": "2026-09-16T19:55:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "地震や豪雨による災害、道路などのインフラの劣化──。こうした土木現象を、身近な材料を使って模型で再現し、いかに分かりやすく伝えられるかを競う学生の大会「ドボク模型グランプリ2026」が、2026年9月30日に開催される。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/",
+      "fingerprint": "1c0db1135059c5fb509f8d8180d57e146af7a5d2e3bbdc656a3154820232ec4f"
     },
     {
       "title": "ウォーターPPPとPPP/PFI　認知度はPPP/PFIが高い",
@@ -57,64 +47,74 @@
       "fingerprint": "c320f1f0df34be30cd95388dce5e4d7f5360edd26a5c1539370c104aa41c5658"
     },
     {
-      "title": "建設業の供給力強化に新支援、戦略17分野の投資拡大に備え　国土交通省",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02760/",
-      "pubDate": "2026-09-14T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "国土交通省は建設業の供給力強化に向け、建設技能者の処遇改善や育成、建設現場の生産性向上などを一体的に支援する新たな事業を2027年度に始める。政府が26年7月、AI・半導体や防災・国土強靱化など戦略17分野に対し、40年度までに官民合計370兆円超の投資を見込んだことを踏まえた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02760/",
-      "fingerprint": "b4b983b725e9cf922cd2ac2cd123e3df3a9abc29a2b49bda9b300aec898af25f"
-    },
-    {
-      "title": "住宅の内覧や退去でもAIが活躍、不動産の課題に挑むベンチャー8社",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100014/",
-      "pubDate": "2026-09-14T20:00:00.000Z",
+      "title": "今年も学生ガチバトル！　全国12チームがドボク模型とプレゼンで激突",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/",
+      "pubDate": "2026-09-16T19:55:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 4,
-      "contentSnippet": "賃貸住宅の内覧や退去、原状回復などの効率化に、人工知能（AI）が一役買っている。スペースリー（東京・渋谷）やREMODELA（大阪市）といったベンチャー企業が、人手不足に悩む不動産管理会社向けに、様々なサービスを提供しているのだ。空き家対策やマンション大規模修繕工事の適正化といった社会課題に取り組む企業もある。連載の第14回では、不動産テックベンチャー8社を紹介する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100014/",
-      "fingerprint": "c8d2224b0c6f2c86737c456266b26e5e30070152d7880ccc3a61271406ad98cf"
+      "contentSnippet": "地震や豪雨による災害、道路などのインフラの劣化──。こうした土木現象を、身近な材料を使って模型で再現し、いかに分かりやすく伝えられるかを競う学生の大会「ドボク模型グランプリ2026」が、2026年9月30日に開催される。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/",
+      "fingerprint": "1c0db1135059c5fb509f8d8180d57e146af7a5d2e3bbdc656a3154820232ec4f"
     },
     {
-      "title": "建設業の供給力強化に新支援、戦略17分野の投資拡大に備え　国土交通省",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02760/",
-      "pubDate": "2026-09-14T20:00:00.000Z",
+      "title": "米住宅建設業者指数、9月は1年ぶり低水準 住宅ローン金利上昇響く - ニューズウィーク日本版",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tcVp0SGppNGM5bDZ1UkNxUklROXdtNXdqMDN3UzFEVlhfdEs2bHJzeFNsNFdCTVFWSFkxREZiM3FhR3ptZmJrMXdKM0NGcmtGT0FQQ0xWbXg0dw?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 15:22:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.410614908,
+      "contentSnippet": "米住宅建設業者指数、9月は1年ぶり低水準 住宅ローン金利上昇響く  ニューズウィーク日本版",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tcVp0SGppNGM5bDZ1UkNxUklROXdtNXdqMDN3UzFEVlhfdEs2bHJzeFNsNFdCTVFWSFkxREZiM3FhR3ptZmJrMXdKM0NGcmtGT0FQQ0xWbXg0dw?oc=5",
+      "fingerprint": "2c9ea9b23659e25babe55d0ef6dc2dd9b41e9ea0fc4d4703701eaad6164273c2"
+    },
+    {
+      "title": "1位は「軽井沢の重要文化財『旧三笠ホテル』25年10月1日再開館、指定管理者は日比谷花壇」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/082400432/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月14～20日に読まれた記事の1～10位を26年9月17～23日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/082400432/",
+      "fingerprint": "a58ef1ad09fd6d4585c184bb3e0d8152e3ff3b9ff02d6c933b17d4c4f43a3979"
+    },
+    {
+      "title": "AIデータセンターの熱対策の切り札、液冷の導入加速",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091500013/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "AIデータセンターにおいて、消費電力の増大に伴う発熱対策が喫緊の課題となっている。注目されているのが、半導体を水や油で冷やす「液冷」技術だ。データセンター事業者が液冷の導入へ動き始めた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091500013/",
+      "fingerprint": "6e1b962a9f4188b72f06196e3ac52d2fbf07f3a744b5386a33cf5e2026b262d8"
+    },
+    {
+      "title": "1位は「軽井沢の重要文化財『旧三笠ホテル』25年10月1日再開館、指定管理者は日比谷花壇」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/082400432/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "国土交通省は建設業の供給力強化に向け、建設技能者の処遇改善や育成、建設現場の生産性向上などを一体的に支援する新たな事業を2027年度に始める。政府が26年7月、AI・半導体や防災・国土強靱化など戦略17分野に対し、40年度までに官民合計370兆円超の投資を見込んだことを踏まえた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02760/",
-      "fingerprint": "b4b983b725e9cf922cd2ac2cd123e3df3a9abc29a2b49bda9b300aec898af25f"
+      "score": 2,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月14～20日に読まれた記事の1～10位を26年9月17～23日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/082400432/",
+      "fingerprint": "a58ef1ad09fd6d4585c184bb3e0d8152e3ff3b9ff02d6c933b17d4c4f43a3979"
     },
     {
-      "title": "女性技術者の力を引き出す組織のあり方、三井化学常務とSUBARUのCIOが語る",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091100012/",
-      "pubDate": "2026-09-14T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "AI（人工知能）が急速に普及し、技術者にとってはキャリアアップの方向性が見えにくくなってきた。特に、技術部門で少数派になりがちな女性技術者はキャリアプランをつくりにくい。どうすれば女性技術者が活躍できる技術部門にできるのか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091100012/",
-      "fingerprint": "f7ec646ed3405d28cb7cd7bc302fdfd4adbe0823af4e5ccc197c45783d9d6f77"
+      "title": "交通・物流・水道に革命を、社会インフラをアップデートするベンチャー3社",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100016/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "慶応義塾大学で宇宙エレベーターを研究していた須知高匡代表取締役最高経営責任者（CEO）が設立したZip Infrastructure（ジップインフラストラクチャー）は、自走式ロープウエーの普及を通して「誰でも駅から徒歩圏内」の実現を目指すスタートアップだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100016/",
+      "fingerprint": "f8950b20922f5a9772d18d882dc98f82c2790c225d72da6fb1408a2451c8a436"
     },
     {
-      "title": "溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ　部材作り直し再架設",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
-      "pubDate": "2026-09-14T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "カナデビア（旧日立造船）による溶接不良が約2万8000カ所見つかった阪神なんば線淀川橋梁の架け替え工事の完了が、予定よりも3年遅れて2034年度となることが分かった。鋼製部材の作り直しと再架設に加え、地中障害物の撤去が必要となり、時間がかかっている。溶接不良があった箇所の施工を手掛ける日本橋梁（大阪市）は、部材の再製作などにかかる費用を、カナデビアに全額請求する考えだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
-      "fingerprint": "b17e35ceb7e6b27dccaafba874360e1ce56548971596ea6455198b181803ae7a"
-    },
-    {
-      "title": "もはや前提のAI駆動開発、トップエンジニアが使いこなした際の威力を知る",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091100011/",
-      "pubDate": "2026-09-14T19:58:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "IT業界においては、「AI（人工知能）駆動開発」が前提になりつつある。コーディングからテスト、運用まで様々な分野でAIの適用領域が広がる。では、トップエンジニアはどれほどAIを使いこなしているのだろうか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091100011/",
-      "fingerprint": "800eb392007c2b194f40469d481c24d6be3649e1cd42bb3da1197f9e83003933"
+      "title": "AIデータセンターの熱対策の切り札、液冷の導入加速",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091500013/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "AIデータセンターにおいて、消費電力の増大に伴う発熱対策が喫緊の課題となっている。注目されているのが、半導体を水や油で冷やす「液冷」技術だ。データセンター事業者が液冷の導入へ動き始めた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091500013/",
+      "fingerprint": "6e1b962a9f4188b72f06196e3ac52d2fbf07f3a744b5386a33cf5e2026b262d8"
     },
     {
       "title": "建築の新天地は宇宙や海上に、フロンティアを切り開くベンチャー2社",
@@ -127,107 +127,107 @@
       "fingerprint": "19fe164f9fa02e24993c8c749324edf310bb930838c1b69a464e8b730bc7952f"
     },
     {
-      "title": "女性技術者の力を引き出す組織のあり方、三井化学常務とSUBARUのCIOが語る",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091100012/",
-      "pubDate": "2026-09-14T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "AI（人工知能）が急速に普及し、技術者にとってはキャリアアップの方向性が見えにくくなってきた。特に、技術部門で少数派になりがちな女性技術者はキャリアプランをつくりにくい。どうすれば女性技術者が活躍できる技術部門にできるのか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091100012/",
-      "fingerprint": "f7ec646ed3405d28cb7cd7bc302fdfd4adbe0823af4e5ccc197c45783d9d6f77"
+      "title": "4位は「経年劣化で光ディスクのデータが読み取り不能に、光学ドライブも絶滅寸前」50代の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200411/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年8月、50代の会員が読んだ記事をランキング形式で紹介します。4位に「経年劣化で光ディスクのデータが読み取り不能に、光学ドライブも絶滅寸前」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/090200411/",
+      "fingerprint": "be01d0029f1d5e99b7727319a25ac45c2f575c3669a28a87852c914c780d4a58"
     },
     {
-      "title": "もはや前提のAI駆動開発、トップエンジニアが使いこなした際の威力を知る",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091100011/",
-      "pubDate": "2026-09-14T19:58:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "IT業界においては、「AI（人工知能）駆動開発」が前提になりつつある。コーディングからテスト、運用まで様々な分野でAIの適用領域が広がる。では、トップエンジニアはどれほどAIを使いこなしているのだろうか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091100011/",
-      "fingerprint": "800eb392007c2b194f40469d481c24d6be3649e1cd42bb3da1197f9e83003933"
+      "title": "「CTO特別賞」にクラレ尾松氏とカルビー中野氏、スピード感を持って変える",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03722/091100008/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "テクノロジー専門メディア「日経クロステック」（日経BP）は、「日経クロステックが選ぶCTOオブ・ザ・イヤー2026」の受賞者を決定した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03722/091100008/",
+      "fingerprint": "3f8387875e825f8fd963a8ee8a7836830fe78ac66cfd6bd45d5c8c921b67de20"
     },
     {
-      "title": "世界3位の地熱資源国なのに眠ったままの日本…大成建設が挑む”水を使わない”打開策 - ビジネスジャーナル",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ESTdVOFhxMUMxeGpZRTRmY3FsWVV1a0pSbGZZVWFXbE81eG45TjAzem1mUkQ0akdVRWd6bElsWEtqS2M2QnJSOFZldVcyQ0VNR2NMVGtydVhyWHM?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 21:00:37 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6104776733,
-      "contentSnippet": "世界3位の地熱資源国なのに眠ったままの日本…大成建設が挑む”水を使わない”打開策  ビジネスジャーナル",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ESTdVOFhxMUMxeGpZRTRmY3FsWVV1a0pSbGZZVWFXbE81eG45TjAzem1mUkQ0akdVRWd6bElsWEtqS2M2QnJSOFZldVcyQ0VNR2NMVGtydVhyWHM?oc=5",
-      "fingerprint": "9efa30148c06f6d801032184cecd4859c5c70d493b799bc88a0dce64fd4f4022"
+      "title": "予防的な閉鎖で地下駐車場の浸水防ぐ、地上は水深50cm　四日市の教訓生かす",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02765/",
+      "pubDate": "2026-09-16T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "東海地方を襲った2026年9月8日の豪雨で、「大曽根国道駐車場」（名古屋市）では、事前の予防的な閉鎖が奏功し、浸水被害を防いだ。出入り口付近の浸水の深さは約50cmに達したが、止水板の設置で雨水の流入を抑えた。レベル4大雨危険警報を閉鎖判断の基準とする国土交通省のガイドラインに従って対応した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02765/",
+      "fingerprint": "ff734927670aa90ffff7b399bac5fe7abd04035fb37ffc5d99d58ffea9e0b4e8"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "東急建設、危険予知活動の声をAIで文書化・要約　活動の「質」評価も",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02762/",
+        "title": "現場で暑さ対策が進むも、WBGTやペルチェ素子の認知度は低迷",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/",
+        "pubDate": "2026-09-16T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "8月に最高気温40度以上の日を指す「酷暑日」が続くなど、今年も暑い夏となった。建設業界では2025年6月から、改正労働安全衛生規則の施行に伴い、職場における熱中症対策が罰則付きで義務化され、現場では暑さ対策が進む。それでも、WBGTの用語があまり定着していない。土木専門誌「日経コンストラクション」の読者を対象とした認知度（意味を知っている割合）の調査では、結果が45％だった。用語自体を知らないと答えた割合は38％に上る。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/",
+        "fingerprint": "fa7805df1e5b4f52dd5eeef6b3a5e437ce97b327b482bb84d5ee29c97bfe1aa3"
+      },
+      "xDraft": "【本文】\n2025年6月から、改正労働安全衛生規則の施行に伴い、建設現場での熱中症対策が罰則付きで義務化されます。しかし「日経コンストラクション」の読者調査では、熱中症指標であるWBGT（暑さ指数）の意味を理解している人は45%に留まりました。現場での対策は着実に進んでいますが、判断基準となる用語の浸透にはまだ課題があるようです。義務化が目前に迫る中で、まずは共通言語としての理解を深めることが、より確実な安全確保につながるのではないかと僕は考えています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/\n\n【抜粋元】\n2025年6月から熱中症対策が罰則付きで義務化されるという法改正の動向と、現場の技術者におけるWBGTなどの専門用語の認知度が依然として低いという調査結果をまとめた記事から抜粋しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "2025年6月から熱中症対策が罰則付きで義務化されるという法改正の動向と、現場の技術者におけるWBGTなどの専門用語の認知度が依然として低いという調査結果をまとめた記事から抜粋しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "今年も学生ガチバトル！　全国12チームがドボク模型とプレゼンで激突",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/",
+        "pubDate": "2026-09-16T19:55:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "地震や豪雨による災害、道路などのインフラの劣化──。こうした土木現象を、身近な材料を使って模型で再現し、いかに分かりやすく伝えられるかを競う学生の大会「ドボク模型グランプリ2026」が、2026年9月30日に開催される。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/",
+        "fingerprint": "1c0db1135059c5fb509f8d8180d57e146af7a5d2e3bbdc656a3154820232ec4f"
+      },
+      "xDraft": "【本文】\n2026年9月30日に「ドボク模型グランプリ2026」が開催されます。全国から選ばれた12の学生チームが、身近な材料を用いて地震や豪雨、インフラ老朽化などの現象を模型で再現し、その伝えやすさを競う大会です。\n\n専門的で目に見えにくい土木の仕組みを可視化する試みは、一般の方にインフラの重要性を伝えるために欠かせない技術だと僕は思います。身近な素材で複雑な現象を読み解くプロセスには、技術者としての基礎力が詰まっているはずです。学生たちの創意工夫からどんな表現が飛び出すのか、今から楽しみです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03745/090800006/\n\n【抜粋元】\n2026年9月末に開催予定の「ドボク模型グランプリ2026」の概要記事です。全国12チームが身近な材料で模型を作り、災害やインフラ劣化のメカニズムをいかに分かりやすくプレゼンするかを競うという点を中心にまとめました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "2026年9月末に開催予定の「ドボク模型グランプリ2026」の概要記事です。全国12チームが身近な材料で模型を作り、災害やインフラ劣化のメカニズムをいかに分かりやすくプレゼンするかを競うという点を中心にまとめました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "ウォーターPPPとPPP/PFI　認知度はPPP/PFIが高い",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800010/",
         "pubDate": "2026-09-15T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 9.6,
-        "contentSnippet": "東急建設はNTTソノリティ（東京・新宿）と共同で、危険予知（KY）活動の音声を生成AI（人工知能）で文字化し、内容を自動で整理するシステムの実証実験を都内の建築工事2現場で実施した。システムには、KY活動で話した安全指示の具体性などを評価する機能も盛り込んでいる。2027年度中に土木工事を含め東急建設の全現場への導入を目指す。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02762/",
-        "fingerprint": "907aba024b7590595d890efe5cb2b0fedb67f9d05f2df25d72db0fe5178f94aa"
+        "score": 4.8,
+        "contentSnippet": "建設業界で他社の買収が相次いでおり、株式の買い付けで使われる手法がTOB（株式公開買い付け）だ。今回の調査で土木専門誌「日経コンストラクション」の読者の認知度は40％だった。TOBはインフロニア・ホールディングス（HD）が三井住友建設の買収で用いた手法だ。三井住友建設は2026年10月、アルソシア建設に社名を変更する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800010/",
+        "fingerprint": "c320f1f0df34be30cd95388dce5e4d7f5360edd26a5c1539370c104aa41c5658"
       },
-      "xDraft": "【本文】\n東急建設が、危険予知（KY）活動の音声を生成AIで文字化・要約するシステムの実証実験を都内の現場で実施しました。安全指示の具体性などを評価する機能も備えており、2027年度中に土木・建築の全現場への導入を目指すとのことです。\n\n現場の朝は非常に忙しく、KY活動の記録は事務的な負担になりやすい側面があります。音声から自動で書類が作成されるだけでなく、内容の「質」までフィードバックされる仕組みは、安全意識の向上と業務効率化の双方に寄与しそうですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02762/\n\n【抜粋元】\n東急建設がNTTソノリティと共同で行った、生成AIによるKY活動の音声文字化・要約・評価システムの実証実験に関する記事です。2027年度中の全現場導入目標という具体的なスケジュールについても触れています。\n\n【判定】OK",
+      "xDraft": "【本文】\n建設業界で他社の株式を買い付けるTOB（株式公開買い付け）の活用が続いています。日経コンストラクションの読者アンケートでは、TOBの認知度は40％という結果でした。インフロニアHDによる買収が進む三井住友建設は、2026年10月にアルソシア建設へと社名が変わる予定です。\n\n資本の論理が建設業界にも色濃く反映される時代になったのだと感じます。慣れ親しんだ社名が変わることに驚きもありますが、新しい体制でのまちづくりに期待したいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800010/\n\n【抜粋元】\n建設業界におけるTOB（株式公開買い付け）の広がりと、日経コンストラクション読者の認知度が40％であること、三井住友建設の社名変更について触れた記事です。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "東急建設がNTTソノリティと共同で行った、生成AIによるKY活動の音声文字化・要約・評価システムの実証実験に関する記事です。2027年度中の全現場導入目標という具体的なスケジュールについても触れています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "日本の建設資材市場：インフラ更新、レジリエントな建築物、低炭素資材が新たな成長機会を創出 - ニコニコニュース",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SkxuSzFmUFQxa0R1SFRya1VDOHE2NlVmMUdKQzNPT3cwc1Y1NjBCOTQ1azRiVmt4aHB4ZjN4eUV2Z0dUbkFqdHYydFVyS2FwZE5HdEhZckNiVVRhclc4LVpMRFdsOXJaMTNBUUhDWmJNU1hULXc?oc=5",
-        "pubDate": "Tue, 15 Sep 2026 01:03:47 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 5.2104908043,
-        "contentSnippet": "日本の建設資材市場：インフラ更新、レジリエントな建築物、低炭素資材が新たな成長機会を創出  ニコニコニュース",
-        "urlNorm": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SkxuSzFmUFQxa0R1SFRya1VDOHE2NlVmMUdKQzNPT3cwc1Y1NjBCOTQ1azRiVmt4aHB4ZjN4eUV2Z0dUbkFqdHYydFVyS2FwZE5HdEhZckNiVVRhclc4LVpMRFdsOXJaMTNBUUhDWmJNU1hULXc?oc=5",
-        "fingerprint": "47d10e74ab89561a9560b3e9bae0759efcd294610a3425ce53013e8b2d692ba5"
-      },
-      "xDraft": "【本文】\n日本の建設資材市場において、老朽化インフラの更新やレジリエントな建築、そして低炭素資材の活用が新たな成長機会として注目されています。単に古くなったものを直すだけでなく、環境負荷を低減しつつ災害に強い社会を再構築する動きが、市場を牽引する見込みです。\n\n資材の進化は、僕たち現場の仕事の質を支える非常に重要な要素です。守りのインフラ維持が、低炭素化という攻めの技術革新と結びつく流れは、産業全体の大きな希望になると感じています。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE51SkxuSzFmUFQxa0R1SFRya1VDOHE2NlVmMUdKQzNPT3cwc1Y1NjBCOTQ1azRiVmt4aHB4ZjN4eUV2Z0dUbkFqdHYydFVyS2FwZE5HdEhZckNiVVRhclc4LVpMRFdsOXJaMTNBUUhDWmJNU1hULXc?oc=5\n\n【抜粋元】\n日本の建設資材市場において、インフラ更新、防災・減災に向けたレジリエントな建築、脱炭素社会に向けた資材の需要が新たな成長を創出しているという点を踏まえて書きました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本の建設資材市場において、インフラ更新、防災・減災に向けたレジリエントな建築、脱炭素社会に向けた資材の需要が新たな成長を創出しているという点を踏まえて書きました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "日本のデータセンター建設市場：AIインフラ、電力供給能力、高密度施設が新たな成長機会を創出 - ニコニコニュース",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xeDF4anlJTTRSeVVOYXNHOW9IMzhEQ2UzRmpPazdaM0dhbUJEelc5cEdNbjAtckpLWnM3OHpaV1lqMWswVDdLeWlTbEhsU1lfN2tLaE5mV1ZjRmJ1LVFaTjBPWDBfLXBwbmEtcWJNWXFwb29EVkE?oc=5",
-        "pubDate": "Tue, 15 Sep 2026 01:03:44 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 5.2104908016,
-        "contentSnippet": "日本のデータセンター建設市場：AIインフラ、電力供給能力、高密度施設が新たな成長機会を創出  ニコニコニュース",
-        "urlNorm": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xeDF4anlJTTRSeVVOYXNHOW9IMzhEQ2UzRmpPazdaM0dhbUJEelc5cEdNbjAtckpLWnM3OHpaV1lqMWswVDdLeWlTbEhsU1lfN2tLaE5mV1ZjRmJ1LVFaTjBPWDBfLXBwbmEtcWJNWXFwb29EVkE?oc=5",
-        "fingerprint": "bae244f99b894192cae6f08e7511902882345bd9f06856619049706c28d57266"
-      },
-      "xDraft": "【本文】\n日本のデータセンター建設市場において、AIインフラ需要や施設の高密度化が新たな成長を促しています。安定的な電力供給能力の確保が、今後の開発プロジェクトにおける極めて重要なテーマとなっているようです。\nデジタル社会の基盤となる施設の建設には、建築技術だけでなく高度な設備設計の知見が欠かせません。都市のエネルギー需要と向き合いながら、新たなインフラを作り上げる現場の熱量を、僕も心から応援しています。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMidkFVX3lxTE5xeDF4anlJTTRSeVVOYXNHOW9IMzhEQ2UzRmpPazdaM0dhbUJEelc5cEdNbjAtckpLWnM3OHpaV1lqMWswVDdLeWlTbEhsU1lfN2tLaE5mV1ZjRmJ1LVFaTjBPWDBfLXBwbmEtcWJNWXFwb29EVkE?oc=5\n\n【抜粋元】\nニコニコニュースの、日本のデータセンター建設市場におけるAIインフラの需要増や電力供給能力の重要性に関する記事に基づき、業界の展望と技術的側面をまとめて記述しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ニコニコニュースの、日本のデータセンター建設市場におけるAIインフラの需要増や電力供給能力の重要性に関する記事に基づき、業界の展望と技術的側面をまとめて記述しました。",
+      "xDraftExcerptSummary": "建設業界におけるTOB（株式公開買い付け）の広がりと、日経コンストラクション読者の認知度が40％であること、三井住友建設の社名変更について触れた記事です。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "東急建設、危険予知活動の声をAIで文書化・要約　活動の「質」評価も",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02762/",
-    "pubDate": "2026-09-15T20:00:00.000Z",
+    "title": "現場で暑さ対策が進むも、WBGTやペルチェ素子の認知度は低迷",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/",
+    "pubDate": "2026-09-16T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
-    "score": 9.6,
-    "contentSnippet": "東急建設はNTTソノリティ（東京・新宿）と共同で、危険予知（KY）活動の音声を生成AI（人工知能）で文字化し、内容を自動で整理するシステムの実証実験を都内の建築工事2現場で実施した。システムには、KY活動で話した安全指示の具体性などを評価する機能も盛り込んでいる。2027年度中に土木工事を含め東急建設の全現場への導入を目指す。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02762/",
-    "fingerprint": "907aba024b7590595d890efe5cb2b0fedb67f9d05f2df25d72db0fe5178f94aa"
+    "score": 4.8,
+    "contentSnippet": "8月に最高気温40度以上の日を指す「酷暑日」が続くなど、今年も暑い夏となった。建設業界では2025年6月から、改正労働安全衛生規則の施行に伴い、職場における熱中症対策が罰則付きで義務化され、現場では暑さ対策が進む。それでも、WBGTの用語があまり定着していない。土木専門誌「日経コンストラクション」の読者を対象とした認知度（意味を知っている割合）の調査では、結果が45％だった。用語自体を知らないと答えた割合は38％に上る。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/",
+    "fingerprint": "fa7805df1e5b4f52dd5eeef6b3a5e437ce97b327b482bb84d5ee29c97bfe1aa3"
   },
-  "xDraft": "【本文】\n東急建設が、危険予知（KY）活動の音声を生成AIで文字化・要約するシステムの実証実験を都内の現場で実施しました。安全指示の具体性などを評価する機能も備えており、2027年度中に土木・建築の全現場への導入を目指すとのことです。\n\n現場の朝は非常に忙しく、KY活動の記録は事務的な負担になりやすい側面があります。音声から自動で書類が作成されるだけでなく、内容の「質」までフィードバックされる仕組みは、安全意識の向上と業務効率化の双方に寄与しそうですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02762/\n\n【抜粋元】\n東急建設がNTTソノリティと共同で行った、生成AIによるKY活動の音声文字化・要約・評価システムの実証実験に関する記事です。2027年度中の全現場導入目標という具体的なスケジュールについても触れています。\n\n【判定】OK",
+  "xDraft": "【本文】\n2025年6月から、改正労働安全衛生規則の施行に伴い、建設現場での熱中症対策が罰則付きで義務化されます。しかし「日経コンストラクション」の読者調査では、熱中症指標であるWBGT（暑さ指数）の意味を理解している人は45%に留まりました。現場での対策は着実に進んでいますが、判断基準となる用語の浸透にはまだ課題があるようです。義務化が目前に迫る中で、まずは共通言語としての理解を深めることが、より確実な安全確保につながるのではないかと僕は考えています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03735/082800011/\n\n【抜粋元】\n2025年6月から熱中症対策が罰則付きで義務化されるという法改正の動向と、現場の技術者におけるWBGTなどの専門用語の認知度が依然として低いという調査結果をまとめた記事から抜粋しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "東急建設がNTTソノリティと共同で行った、生成AIによるKY活動の音声文字化・要約・評価システムの実証実験に関する記事です。2027年度中の全現場導入目標という具体的なスケジュールについても触れています。",
+  "xDraftExcerptSummary": "2025年6月から熱中症対策が罰則付きで義務化されるという法改正の動向と、現場の技術者におけるWBGTなどの専門用語の認知度が依然として低いという調査結果をまとめた記事から抜粋しました。",
   "xDraftAlternates": [],
   "errors": []
 }
