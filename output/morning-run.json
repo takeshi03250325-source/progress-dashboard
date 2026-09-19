@@ -1,51 +1,11 @@
 {
-  "generatedAt": "2026-09-18T23:26:37.555Z",
+  "generatedAt": "2026-09-19T23:17:37.973Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 4,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 1,
   "candidates": [
-    {
-      "title": "個人マネーをインフラに、日本版ELTIFの議論に建設業界も声を - 日経クロステック",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWbGdFVDh4cndRZ1BmRHdnUjFHcmVPQ1hBWl9NUzdyNThCUFpxYXRnZ1JwTDJzSWdyaUpJaWZ6Vm5wVDNBdUVub3pVZkJ0ckcxdnVwMk84M09jaWJJT1lOdW8waF9XbXM?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.21070768,
-      "contentSnippet": "個人マネーをインフラに、日本版ELTIFの議論に建設業界も声を  日経クロステック",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWbGdFVDh4cndRZ1BmRHdnUjFHcmVPQ1hBWl9NUzdyNThCUFpxYXRnZ1JwTDJzSWdyaUpJaWZ6Vm5wVDNBdUVub3pVZkJ0ckcxdnVwMk84M09jaWJJT1lOdW8waF9XbXM?oc=5",
-      "fingerprint": "85acd8f2e45d7a495012ab7f422a8fd96f7fc9da93502edef9a50fed5190b259"
-    },
-    {
-      "title": "個人マネーをインフラに、日本版ELTIFの議論に建設業界も声を",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01445/00049/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "欧州では今、個人の資金をインフラなどに呼び込む欧州長期投資ファンド（ELTIF）の市場が急拡大している。個人の資金がインフラに流れる市場が育てば、国民には資産形成をしながらインフラ整備に参加する道が、建設会社など事業者には投資回収の出口と継続的な収益機会がもたらされる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01445/00049/",
-      "fingerprint": "4f6b5a719a2025e25b28d7b47ada66b20ce3cb3b22fc06374317d01fa31a04f0"
-    },
-    {
-      "title": "オフグリッドトレーラーハウスが出動、建設会社発の防災ベンチャーなど6社",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100017/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "巨大災害が発生した場合に、避難所の整備や運営を誰が担うのか。インフラが寸断された場所での復旧工事を、どのように進めるか――。オフグリッドフィールド（神奈川県小田原市）やShelterOne（東京・江東）のように、防災分野で活躍する建設会社発のベンチャー企業が出てきた。現場の熱中症対策に取り組む企業と合わせて6社を紹介する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03729/082100017/",
-      "fingerprint": "4ecfc437da936299f9513b41ac1f4c10351d8a3da50b703d9bcbeac612fd7b6e"
-    },
-    {
-      "title": "個人マネーをインフラに、日本版ELTIFの議論に建設業界も声を",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01445/00049/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "欧州では今、個人の資金をインフラなどに呼び込む欧州長期投資ファンド（ELTIF）の市場が急拡大している。個人の資金がインフラに流れる市場が育てば、国民には資産形成をしながらインフラ整備に参加する道が、建設会社など事業者には投資回収の出口と継続的な収益機会がもたらされる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01445/00049/",
-      "fingerprint": "4f6b5a719a2025e25b28d7b47ada66b20ce3cb3b22fc06374317d01fa31a04f0"
-    },
     {
       "title": "鹿島と大成建設、ゼネコン業界団体の活動自粛 リニア談合の有罪受け - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5",
@@ -57,177 +17,51 @@
       "fingerprint": "518b38897350922e531113d9ed5211926e5f55fd9b89ef3ebf9aba911a6f5e3c"
     },
     {
-      "title": "1位は「建設会社ランキング、2024年4月期～25年3月期決算」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400382/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月21～27日に読まれた記事の1～10位を26年9月18～27日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400382/",
-      "fingerprint": "879b836962262b828ad472457367c371ac54acfa6f12463e176076d8df8a12b0"
-    },
-    {
-      "title": "3Dプリンター建築「量産」なるか、駅舎の「印刷」きっかけに需要拡大",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091602106/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "施工の省人化に役立つ技術として注目されながら、本格的な普及にはほど遠かった建設3Dプリンターだが、停滞した状況が2026年中にも変わる可能性が出てきた。技術開発や事業の実態を確かめた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091602106/",
-      "fingerprint": "e7852e0ad075ffbe258399be851d91d8a1ac0a703c130f03640c85ae348fa6d8"
-    },
-    {
-      "title": "中国道の吊り足場崩落事故、再発防止計画の妥当性確認　工事再開は未定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02767/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "中国自動車道「鷹の巣橋」（広島県廿日市市）で2025年1月に発生した吊り足場崩落の死亡事故を受け、施工者のオリエンタル白石・日本橋梁共同企業体（JV）が再発防止計画を作成し、その妥当性を発注者の西日本高速道路（NEXCO西日本）が設置した有識者による技術検討会が確認した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02767/",
-      "fingerprint": "6055a6e69254578addd22e88080e5d7870cd9a77b7bfe150d24406b1e1a74433"
-    },
-    {
-      "title": "東京ゲームショウに日特建設や鹿島が出展、「建設×ゲーム」の可能性を披露",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03763/091700003/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "世界最大級のゲーム見本市「東京ゲームショウ（TGS）2026」に、複数の建設関連企業が出展した。日特建設はゲーム感覚で建設機械を遠隔操作できるシステムを、鹿島は音響建築の設計で培った技術を応用した立体音響スピーカーをそれぞれ紹介。「建設×ゲーム」の可能性を示す異色の展示をリポートする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03763/091700003/",
-      "fingerprint": "5221d65552f3402e300f069ffd40a1e0e738c6499512ac63021a5d22b036f4e7"
-    },
-    {
-      "title": "AI半導体、「推論シフト」で3つの課題　勢力図に変化",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091600014/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "半導体業界に大きな変化が訪れようとしている。背景には、AIモデルを生成する学習に加えて、そのモデルを利用する推論の市場が急拡大していることがある。こうした「推論シフト」にともない、GPU（画像処理半導体）に加えて、CPU（中央演算処理装置）やAI用ASIC（特定用途向け半導体）、メモリーの重要性が増していく。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091600014/",
-      "fingerprint": "521d093531e725842ce3d2fcb9ba050e7cd4d8c7b011252b97f2061990ca05a2"
-    },
-    {
-      "title": "1位は「建設会社ランキング、2024年4月期～25年3月期決算」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400382/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月21～27日に読まれた記事の1～10位を26年9月18～27日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400382/",
-      "fingerprint": "879b836962262b828ad472457367c371ac54acfa6f12463e176076d8df8a12b0"
-    },
-    {
-      "title": "3Dプリンター建築「量産」なるか、駅舎の「印刷」きっかけに需要拡大",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091602106/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "施工の省人化に役立つ技術として注目されながら、本格的な普及にはほど遠かった建設3Dプリンターだが、停滞した状況が2026年中にも変わる可能性が出てきた。技術開発や事業の実態を確かめた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091602106/",
-      "fingerprint": "e7852e0ad075ffbe258399be851d91d8a1ac0a703c130f03640c85ae348fa6d8"
-    },
-    {
-      "title": "天井から双腕ロボ、MWが目指す「アイアンマンの家」　CEOとAIトップに聞く",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090900017/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2024年創業のMW（ムウ、東京・港）が、異次元のスマートホームを目指している。住宅の「デッドスペース」である天井に、フィジカルAIで動く双腕ロボットを設置。住宅の設計段階から天井搬送ロボットに最適化し、家事の自動化を目指す。二足歩行の人型ロボットにはない独自のアプローチを、創業者兼最高経営責任者（CEO）の成田修造氏と、ロボット・AI開発トップの浅谷学嗣氏に聞いた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090900017/",
-      "fingerprint": "9b914c01a80e3ae0b494ac28019816032357d7ee23ea0278f39dd2c287353159"
-    },
-    {
-      "title": "中国道の吊り足場崩落事故、再発防止計画の妥当性確認　工事再開は未定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02767/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "中国自動車道「鷹の巣橋」（広島県廿日市市）で2025年1月に発生した吊り足場崩落の死亡事故を受け、施工者のオリエンタル白石・日本橋梁共同企業体（JV）が再発防止計画を作成し、その妥当性を発注者の西日本高速道路（NEXCO西日本）が設置した有識者による技術検討会が確認した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02767/",
-      "fingerprint": "6055a6e69254578addd22e88080e5d7870cd9a77b7bfe150d24406b1e1a74433"
-    },
-    {
-      "title": "東京ゲームショウに日特建設や鹿島が出展、「建設×ゲーム」の可能性を披露",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03763/091700003/",
-      "pubDate": "2026-09-17T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "世界最大級のゲーム見本市「東京ゲームショウ（TGS）2026」に、複数の建設関連企業が出展した。日特建設はゲーム感覚で建設機械を遠隔操作できるシステムを、鹿島は音響建築の設計で培った技術を応用した立体音響スピーカーをそれぞれ紹介。「建設×ゲーム」の可能性を示す異色の展示をリポートする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03763/091700003/",
-      "fingerprint": "5221d65552f3402e300f069ffd40a1e0e738c6499512ac63021a5d22b036f4e7"
+      "title": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材 - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 01:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.61072388,
+      "contentSnippet": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材  ITmedia",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
+      "fingerprint": "9de1847ec311b7306b92b468d466b76ec78b320b4fca934d807b4de8492e5003"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "鹿島と大成建設、ゼネコン業界団体の活動自粛 リニア談合の有罪受け - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 07:53:36 GMT",
+        "title": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材 - ITmedia",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
+        "pubDate": "Fri, 18 Sep 2026 01:00:00 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.4107462144,
-        "contentSnippet": "鹿島と大成建設、ゼネコン業界団体の活動自粛 リニア談合の有罪受け  日本経済新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5",
-        "fingerprint": "518b38897350922e531113d9ed5211926e5f55fd9b89ef3ebf9aba911a6f5e3c"
+        "score": 1.61072388,
+        "contentSnippet": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材  ITmedia",
+        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
+        "fingerprint": "9de1847ec311b7306b92b468d466b76ec78b320b4fca934d807b4de8492e5003"
       },
-      "xDraft": "【本文】\nリニア中央新幹線の談合事件で有罪判決が確定したことを受け、鹿島と大成建設が日本建設業連合会などの業界団体での活動を自粛します。大手ゼネコンが揃って活動を控える異例の事態となりました。僕はこのニュースを見て、改めて建設業界における信頼の重さを感じています。高い技術力と社会への貢献を誇れる産業であり続けるためにも、こうした厳しい節目を乗り越えてほしいと思います。\n\n出典：日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5\n\n【抜粋元】\n日本経済新聞の記事に基づき、リニア談合事件の有罪確定に伴う鹿島と大成建設の業界団体活動自粛の事実を伝えています。大手企業のガバナンスと業界の信頼回復という視点を添えました。\n\n【判定】OK",
+      "xDraft": "【本文】\nヒューマンリソシアがインドのアディティヤ大学と提携し、BIM/CIMエンジニアを日本の建設現場へ送り出す取り組みを始めました。深刻なデジタル人材の不足を背景に、IT大国であるインドの優秀な層を確保する狙いがあります。\n\n共通言語である「データ」を通じて、国境を越えた技術協力が進むのは非常に興味深いですね。僕たちの国の現場が、世界水準のデジタル技術とどう融合していくのか、その変化を前向きに捉えていきたいです。\n\n出典：ITmedia\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5\n\n【抜粋元】\nヒューマンリソシアがインドのアディティヤ大学と連携し、BIM/CIMエンジニアの育成と日本国内への供給体制を整えたというニュースです。国内の建設デジタル人材不足に対し、海外の高度人材を直接受け入れる具体的な動きを伝えています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本経済新聞の記事に基づき、リニア談合事件の有罪確定に伴う鹿島と大成建設の業界団体活動自粛の事実を伝えています。大手企業のガバナンスと業界の信頼回復という視点を添えました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "1位は「建設会社ランキング、2024年4月期～25年3月期決算」",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400382/",
-        "pubDate": "2026-09-17T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月21～27日に読まれた記事の1～10位を26年9月18～27日に無料で読めるようにしました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400382/",
-        "fingerprint": "879b836962262b828ad472457367c371ac54acfa6f12463e176076d8df8a12b0"
-      },
-      "xDraft": "【本文】\n日経クロステック土木で、反響の大きかった記事のランキングが発表されました。首位は、2024年4月期から2025年3月期の決算結果をまとめた「建設会社ランキング」とのことです。\n\n各社の経営状況を数字で捉えることは、産業の現在地を把握する上で非常に重要だと僕は思います。上位10位までの記事が期間限定で無料公開されているので、業界の動向を俯瞰する良い機会になりそうですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/082400382/\n\n【抜粋元】\n日経クロステック土木の週間アクセスランキングの結果と、1位が建設会社の決算ランキング記事であること、および期間限定の無料公開キャンペーンについて記述しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック土木の週間アクセスランキングの結果と、1位が建設会社の決算ランキング記事であること、および期間限定の無料公開キャンペーンについて記述しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "3Dプリンター建築「量産」なるか、駅舎の「印刷」きっかけに需要拡大",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091602106/",
-        "pubDate": "2026-09-17T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "施工の省人化に役立つ技術として注目されながら、本格的な普及にはほど遠かった建設3Dプリンターだが、停滞した状況が2026年中にも変わる可能性が出てきた。技術開発や事業の実態を確かめた。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091602106/",
-        "fingerprint": "e7852e0ad075ffbe258399be851d91d8a1ac0a703c130f03640c85ae348fa6d8"
-      },
-      "xDraft": "【本文】\n建設3Dプリンターは省人化の切り札として期待されつつも普及が足踏みしていましたが、2026年にも量産化へ向けた転換点を迎えるようです。JR東日本の駅舎の「印刷」などが呼び水となり、実用化に向けた動きが加速しています。\n\n僕はこの技術が「一点モノの実験」から「標準的な工法」へと脱皮する過程に注目しています。現場での人手不足が深刻化する中で、自動化による施工の安定性は非常に大きな武器になるはずです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/091602106/\n\n【抜粋元】\n日経クロステック 土木の記事「3Dプリンター建築『量産』なるか、駅舎の『印刷』きっかけに需要拡大」を参照しました。建設3Dプリンターが2026年にも普及の停滞期を脱する可能性や、施工の省人化に向けた実態について触れています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事「3Dプリンター建築『量産』なるか、駅舎の『印刷』きっかけに需要拡大」を参照しました。建設3Dプリンターが2026年にも普及の停滞期を脱する可能性や、施工の省人化に向けた実態について触れています。",
+      "xDraftExcerptSummary": "ヒューマンリソシアがインドのアディティヤ大学と連携し、BIM/CIMエンジニアの育成と日本国内への供給体制を整えたというニュースです。国内の建設デジタル人材不足に対し、海外の高度人材を直接受け入れる具体的な動きを伝えています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "鹿島と大成建設、ゼネコン業界団体の活動自粛 リニア談合の有罪受け - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5",
-    "pubDate": "Fri, 18 Sep 2026 07:53:36 GMT",
+    "title": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材 - ITmedia",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
+    "pubDate": "Fri, 18 Sep 2026 01:00:00 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 3.4107462144,
-    "contentSnippet": "鹿島と大成建設、ゼネコン業界団体の活動自粛 リニア談合の有罪受け  日本経済新聞",
-    "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5",
-    "fingerprint": "518b38897350922e531113d9ed5211926e5f55fd9b89ef3ebf9aba911a6f5e3c"
+    "score": 1.61072388,
+    "contentSnippet": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材  ITmedia",
+    "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
+    "fingerprint": "9de1847ec311b7306b92b468d466b76ec78b320b4fca934d807b4de8492e5003"
   },
-  "xDraft": "【本文】\nリニア中央新幹線の談合事件で有罪判決が確定したことを受け、鹿島と大成建設が日本建設業連合会などの業界団体での活動を自粛します。大手ゼネコンが揃って活動を控える異例の事態となりました。僕はこのニュースを見て、改めて建設業界における信頼の重さを感じています。高い技術力と社会への貢献を誇れる産業であり続けるためにも、こうした厳しい節目を乗り越えてほしいと思います。\n\n出典：日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5\n\n【抜粋元】\n日本経済新聞の記事に基づき、リニア談合事件の有罪確定に伴う鹿島と大成建設の業界団体活動自粛の事実を伝えています。大手企業のガバナンスと業界の信頼回復という視点を添えました。\n\n【判定】OK",
+  "xDraft": "【本文】\nヒューマンリソシアがインドのアディティヤ大学と提携し、BIM/CIMエンジニアを日本の建設現場へ送り出す取り組みを始めました。深刻なデジタル人材の不足を背景に、IT大国であるインドの優秀な層を確保する狙いがあります。\n\n共通言語である「データ」を通じて、国境を越えた技術協力が進むのは非常に興味深いですね。僕たちの国の現場が、世界水準のデジタル技術とどう融合していくのか、その変化を前向きに捉えていきたいです。\n\n出典：ITmedia\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5\n\n【抜粋元】\nヒューマンリソシアがインドのアディティヤ大学と連携し、BIM/CIMエンジニアの育成と日本国内への供給体制を整えたというニュースです。国内の建設デジタル人材不足に対し、海外の高度人材を直接受け入れる具体的な動きを伝えています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日本経済新聞の記事に基づき、リニア談合事件の有罪確定に伴う鹿島と大成建設の業界団体活動自粛の事実を伝えています。大手企業のガバナンスと業界の信頼回復という視点を添えました。",
+  "xDraftExcerptSummary": "ヒューマンリソシアがインドのアディティヤ大学と連携し、BIM/CIMエンジニアの育成と日本国内への供給体制を整えたというニュースです。国内の建設デジタル人材不足に対し、海外の高度人材を直接受け入れる具体的な動きを伝えています。",
   "xDraftAlternates": [],
   "errors": []
 }
