@@ -1,67 +1,17 @@
 {
-  "generatedAt": "2026-09-19T23:17:37.973Z",
+  "generatedAt": "2026-09-20T23:20:19.808Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
+  "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 1,
-  "candidates": [
-    {
-      "title": "鹿島と大成建設、ゼネコン業界団体の活動自粛 リニア談合の有罪受け - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 07:53:36 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4107462144,
-      "contentSnippet": "鹿島と大成建設、ゼネコン業界団体の活動自粛 リニア談合の有罪受け  日本経済新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RmJNUHdyaFg3WUEzb284Vnc3c25iQlJyYUozVUpFSGJuQnRUa3dRN25uSnBodUJDUkxaazBNdThtZU1BTnotN0sxSUlvcHV2dlNvdWtuWExVOXZ1Rmk2cW5zMnY2RTRIYjhKNg?oc=5",
-      "fingerprint": "518b38897350922e531113d9ed5211926e5f55fd9b89ef3ebf9aba911a6f5e3c"
-    },
-    {
-      "title": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材 - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 01:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.61072388,
-      "contentSnippet": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材  ITmedia",
-      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
-      "fingerprint": "9de1847ec311b7306b92b468d466b76ec78b320b4fca934d807b4de8492e5003"
-    }
-  ],
-  "picks": [
-    {
-      "picked": {
-        "title": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材 - ITmedia",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 01:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 1.61072388,
-        "contentSnippet": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材  ITmedia",
-        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
-        "fingerprint": "9de1847ec311b7306b92b468d466b76ec78b320b4fca934d807b4de8492e5003"
-      },
-      "xDraft": "【本文】\nヒューマンリソシアがインドのアディティヤ大学と提携し、BIM/CIMエンジニアを日本の建設現場へ送り出す取り組みを始めました。深刻なデジタル人材の不足を背景に、IT大国であるインドの優秀な層を確保する狙いがあります。\n\n共通言語である「データ」を通じて、国境を越えた技術協力が進むのは非常に興味深いですね。僕たちの国の現場が、世界水準のデジタル技術とどう融合していくのか、その変化を前向きに捉えていきたいです。\n\n出典：ITmedia\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5\n\n【抜粋元】\nヒューマンリソシアがインドのアディティヤ大学と連携し、BIM/CIMエンジニアの育成と日本国内への供給体制を整えたというニュースです。国内の建設デジタル人材不足に対し、海外の高度人材を直接受け入れる具体的な動きを伝えています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ヒューマンリソシアがインドのアディティヤ大学と連携し、BIM/CIMエンジニアの育成と日本国内への供給体制を整えたというニュースです。国内の建設デジタル人材不足に対し、海外の高度人材を直接受け入れる具体的な動きを伝えています。",
-      "xDraftAlternates": []
-    }
-  ],
-  "picked": {
-    "title": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材 - ITmedia",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
-    "pubDate": "Fri, 18 Sep 2026 01:00:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 1.61072388,
-    "contentSnippet": "インドのBIM／CIMエンジニアを日本へ ヒューマンリソシアがアディティヤ大学と連携：建設デジタル人材  ITmedia",
-    "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5",
-    "fingerprint": "9de1847ec311b7306b92b468d466b76ec78b320b4fca934d807b4de8492e5003"
-  },
-  "xDraft": "【本文】\nヒューマンリソシアがインドのアディティヤ大学と提携し、BIM/CIMエンジニアを日本の建設現場へ送り出す取り組みを始めました。深刻なデジタル人材の不足を背景に、IT大国であるインドの優秀な層を確保する狙いがあります。\n\n共通言語である「データ」を通じて、国境を越えた技術協力が進むのは非常に興味深いですね。僕たちの国の現場が、世界水準のデジタル技術とどう融合していくのか、その変化を前向きに捉えていきたいです。\n\n出典：ITmedia\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFAtVEdlYjZWRTJlZUtDTXQxSlRyRGpxeWRJLUJBY2JTR3UzbDdQbjBUak95bTFDSHBLbzdsNTlGQXRyZWhmcWZyMHE3dTdwSzhrbkZmcVkxdmdKRDlFcXVzaVFrOUt2YUVNLWJERw?oc=5\n\n【抜粋元】\nヒューマンリソシアがインドのアディティヤ大学と連携し、BIM/CIMエンジニアの育成と日本国内への供給体制を整えたというニュースです。国内の建設デジタル人材不足に対し、海外の高度人材を直接受け入れる具体的な動きを伝えています。\n\n【判定】OK",
-  "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "ヒューマンリソシアがインドのアディティヤ大学と連携し、BIM/CIMエンジニアの育成と日本国内への供給体制を整えたというニュースです。国内の建設デジタル人材不足に対し、海外の高度人材を直接受け入れる具体的な動きを伝えています。",
+  "pickCountActual": 0,
+  "candidates": [],
+  "picks": [],
+  "picked": null,
+  "xDraft": "",
+  "xDraftModel": null,
+  "xPostVerdict": null,
+  "xDraftExcerptSummary": null,
   "xDraftAlternates": [],
   "errors": []
 }
