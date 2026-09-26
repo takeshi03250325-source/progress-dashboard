@@ -1,70 +1,30 @@
 {
-  "generatedAt": "2026-09-26T00:00:16.287Z",
+  "generatedAt": "2026-09-26T23:44:04.230Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 5,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 2,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 2,
   "candidates": [
     {
-      "title": "炭素繊維ブレースで工場止めず耐震化　小松マテーレ、50億円規模の事業へ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02928/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "CABKOMA（カボコーマ）工法は、炭素繊維複合材料の「より線」を用いて鉄骨造建築物を補強するものだ。開発した小松マテーレ（石川県能美市）は、同工法が日本建築総合試験所（GBRC）の建築技術性能証明を取得したと発表した。より線をブレースとして屋根の水平構面に取り付けるもので、工場の稼働を止めずに耐震改修工事できる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02928/",
-      "fingerprint": "140c18046b3cd7211487ee5619f36a86918425e494d0e958632a14f3a2f62f2b"
+      "title": "日本の日本の交通インフラ建設市場の最新動向 - pando.life",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQm1DdUVBQnVHb3ptYmNKSmJ2NzZHU2xjdXU4MkRUZDMwZEtvaVVyMHNzU09JTk4wSG9IUmd6NWpqMHlCV29PLVNB?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 15:18:40 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4113923280000003,
+      "contentSnippet": "日本の日本の交通インフラ建設市場の最新動向  pando.life",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQm1DdUVBQnVHb3ptYmNKSmJ2NzZHU2xjdXU4MkRUZDMwZEtvaVVyMHNzU09JTk4wSG9IUmd6NWpqMHlCV29PLVNB?oc=5",
+      "fingerprint": "8ee29b585d4321d2340f2164136271e4f51fda274c49342c918178d6a7847e71"
     },
     {
-      "title": "建設業界に広がる手形払い停止、奥村組はソーシャルボンド発行で資金調達",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02763/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "協力会社への支払いで約束手形の利用を停止する動きが、建設業界に広がっている。現金払いへの切り替えに必要な資金調達のため、奥村組は2026年10月からソーシャルボンドを発行する。同社によると、手形払い停止を目的としたソーシャルボンド発行は国内初だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02763/",
-      "fingerprint": "b44a8d648f5c721d267cf692af88d309db7e7491ad8588a78be43003fbb103f1"
-    },
-    {
-      "title": "レゴブロックがダムに？　土木研究所が模型でダムの仕組みを再現",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092400016/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "2026年9月29、30日に東京国際フォーラムで開催する「日経クロステックNEXT 東京 2026」。その一角で実施する「防災・強靱化 特別展」では、建設会社や建設コンサルタント会社などによる体験型の展示物が並ぶ。中でも、道路や河川といった土木構造物の技術開発などを担う研究機関「土木研究所」は、レゴブロックで作ったダムの模型を出展する予定だ。記者が一足先に展示予定の模型を体験した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092400016/",
-      "fingerprint": "4fea34be7cb6868b5f32a9105a234859173b312de38bad206e61bdee6d89f321"
-    },
-    {
-      "title": "建設業界に広がる手形払い停止、奥村組はソーシャルボンド発行で資金調達",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02763/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "協力会社への支払いで約束手形の利用を停止する動きが、建設業界に広がっている。現金払いへの切り替えに必要な資金調達のため、奥村組は2026年10月からソーシャルボンドを発行する。同社によると、手形払い停止を目的としたソーシャルボンド発行は国内初だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02763/",
-      "fingerprint": "b44a8d648f5c721d267cf692af88d309db7e7491ad8588a78be43003fbb103f1"
-    },
-    {
-      "title": "レゴブロックがダムに？　土木研究所が模型でダムの仕組みを再現",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092400016/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年9月29、30日に東京国際フォーラムで開催する「日経クロステックNEXT 東京 2026」。その一角で実施する「防災・強靱化 特別展」では、建設会社や建設コンサルタント会社などによる体験型の展示物が並ぶ。中でも、道路や河川といった土木構造物の技術開発などを担う研究機関「土木研究所」は、レゴブロックで作ったダムの模型を出展する予定だ。記者が一足先に展示予定の模型を体験した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092400016/",
-      "fingerprint": "4fea34be7cb6868b5f32a9105a234859173b312de38bad206e61bdee6d89f321"
-    },
-    {
-      "title": "必要壁量が1.4倍になる例も、改正建築基準法で変わった木造住宅の常識",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02926/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "木造戸建て住宅の設計の際、仕様規定ではなく構造計算を採用したいとする住宅実務者が増えそうだ。2025年4月施行の改正建築基準法で、地震時の必要壁量の算出方法が見直され、従来の壁量の1.3倍から1.4倍に増えたからだ。こんなニーズに応えるため、日経アーキテクチュアは2026年9月24日、書籍『設計実務に使える木造住宅の許容応力度計算　増補改訂版』を発行した。著者を代表して大橋好光・東京都市大学名誉教授にインタビューした。前編と後編の2回に分けて掲載する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02926/",
-      "fingerprint": "5950ef8bb527565737b5605098ead4b2c7214a7011841588494a20229b212fcf"
+      "title": "日本データセンター建設上位10社ランキング - pando.life",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ieFg1YXk1dnFBNi14aFY3V2R0RUlNY3VmVGhhSzVVak11UDUyc0JRNjktNDR2dGxuLVlnemNCX0FZR05KNTQ0LTdB?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 15:30:04 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6113929436,
+      "contentSnippet": "日本データセンター建設上位10社ランキング  pando.life",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ieFg1YXk1dnFBNi14aFY3V2R0RUlNY3VmVGhhSzVVak11UDUyc0JRNjktNDR2dGxuLVlnemNCX0FZR05KNTQ0LTdB?oc=5",
+      "fingerprint": "ed36a6e7414fa62952ee7337b54d723fc531c940a87a3f2852670553f501ba16"
     },
     {
       "title": "Global X Japan株式会社「グローバルＸ 国土強靭化-日本株式 ETF」（銘柄コード：651A）東京証券取引所より上場承認 - ニコニコニュース",
@@ -85,149 +45,61 @@
       "contentSnippet": "日本建設メーカーランキング  pando.life",
       "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1panhNaXNEV3gtUndzRlk4dGd4WElQUWZBV2Rvel9jQXBnRktqLUxVOU51UzBOVE5hNUwtemdScTBoUmpNaS1JSVNn?oc=5",
       "fingerprint": "504d1385a0a1987d30f00a5aed4dce48ea81dac79e10e25e3d0ba929e41a5a14"
-    },
-    {
-      "title": "大手建設会社で新卒採用急増、清水建設はインターン参加者が半数超え",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700002/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "大手建設会社の新卒採用が急拡大している。一方、準大手や中小では採用競争に苦戦する会社が少なくない。海外大学へのアプローチやキャンプ形式のインターンなど、あの手この手で学生を呼び込んでいる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700002/",
-      "fingerprint": "e26004c4db20da65a23ea53ad8e6ea4ddf2443438ee89f41cc7d0a202b005e49"
-    },
-    {
-      "title": "過去問題　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01041/091400008/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "必須科目では、建設部門全般に共通するテーマについて課題や解決策を答えます。出題テーマは2つで、そのうち1つを選択します。各テーマには4つの小問があり、600字詰め答案用紙3枚を使って2時間で解答します。配点は40点で、合格には60％以上の得点が必要です。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01041/091400008/",
-      "fingerprint": "aa059a2b762a4a21ee1f3ca60fa07780994d63ea8a33ad7b40300177a6633478"
-    },
-    {
-      "title": "「iPhone 18 Pro」は冷却重視の設計に、分解作業で追う　変化の一部始終",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/092400021/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日経クロステックは、「iPhone 18 Pro」の分解調査をいち早く実施。その結果、「iPhone 17 Pro」とは似て非なる内部構造をしていることが明らかになった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/092400021/",
-      "fingerprint": "52391490d58806e153b673d1b5df5058eda22e2aec9798440d0087a66cbe8af4"
-    },
-    {
-      "title": "歴代iPhoneを分解展示、18 Proも　見どころは冷却技術",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092400017/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日経クロステックは、iPhone 18 Proの分解調査をいち早く実施。その結果、「iPhone 17 Pro」とは似て非なる内部構造をしていることが明らかになった。中でも、冷却に重きを置いていることがうかがえた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092400017/",
-      "fingerprint": "3184b54497d1660f8301bb920e28b9b945d632e3836b9c1f709c11b584987a7f"
-    },
-    {
-      "title": "学生が夢中になる「ドボク模型」、災害が相次ぐ今こそ注目",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091702108/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "本日2026年9月25日は、中秋の名月。旧暦では、秋の折り返しに当たる。涼しくなり、「読書の秋」「スポーツの秋」「食欲の秋」といったように、様々なことを楽しむ季節が到来した。そこで今年は一風変わった「模型の秋」をお勧めしたい。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091702108/",
-      "fingerprint": "3f3153ca5703464945650e8c0aa06e191397304914917057fa026936c9fb5120"
-    },
-    {
-      "title": "大手建設会社で新卒採用急増、清水建設はインターン参加者が半数超え",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700002/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "大手建設会社の新卒採用が急拡大している。一方、準大手や中小では採用競争に苦戦する会社が少なくない。海外大学へのアプローチやキャンプ形式のインターンなど、あの手この手で学生を呼び込んでいる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700002/",
-      "fingerprint": "e26004c4db20da65a23ea53ad8e6ea4ddf2443438ee89f41cc7d0a202b005e49"
-    },
-    {
-      "title": "過去問題　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01041/091400008/",
-      "pubDate": "2026-09-24T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "必須科目では、建設部門全般に共通するテーマについて課題や解決策を答えます。出題テーマは2つで、そのうち1つを選択します。各テーマには4つの小問があり、600字詰め答案用紙3枚を使って2時間で解答します。配点は40点で、合格には60％以上の得点が必要です。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01041/091400008/",
-      "fingerprint": "aa059a2b762a4a21ee1f3ca60fa07780994d63ea8a33ad7b40300177a6633478"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "必要壁量が1.4倍になる例も、改正建築基準法で変わった木造住宅の常識",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02926/",
-        "pubDate": "2026-09-24T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "木造戸建て住宅の設計の際、仕様規定ではなく構造計算を採用したいとする住宅実務者が増えそうだ。2025年4月施行の改正建築基準法で、地震時の必要壁量の算出方法が見直され、従来の壁量の1.3倍から1.4倍に増えたからだ。こんなニーズに応えるため、日経アーキテクチュアは2026年9月24日、書籍『設計実務に使える木造住宅の許容応力度計算　増補改訂版』を発行した。著者を代表して大橋好光・東京都市大学名誉教授にインタビューした。前編と後編の2回に分けて掲載する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02926/",
-        "fingerprint": "5950ef8bb527565737b5605098ead4b2c7214a7011841588494a20229b212fcf"
+        "title": "日本の日本の交通インフラ建設市場の最新動向 - pando.life",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQm1DdUVBQnVHb3ptYmNKSmJ2NzZHU2xjdXU4MkRUZDMwZEtvaVVyMHNzU09JTk4wSG9IUmd6NWpqMHlCV29PLVNB?oc=5",
+        "pubDate": "Sat, 26 Sep 2026 15:18:40 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4113923280000003,
+        "contentSnippet": "日本の日本の交通インフラ建設市場の最新動向  pando.life",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQm1DdUVBQnVHb3ptYmNKSmJ2NzZHU2xjdXU4MkRUZDMwZEtvaVVyMHNzU09JTk4wSG9IUmd6NWpqMHlCV29PLVNB?oc=5",
+        "fingerprint": "8ee29b585d4321d2340f2164136271e4f51fda274c49342c918178d6a7847e71"
       },
-      "xDraft": "【本文】\n2025年4月に施行される改正建築基準法では、地震時の必要壁量の算出方法が見直され、従来の1.3倍から1.4倍に増加します。これに伴い、従来の仕様規定ではなく、より詳細な構造計算（許容応力度計算）を選択する設計実務者が増える見通しです。\n\n地震に対する安全基準が大きく引き上げられることで、木造住宅の設計のあり方が根本から変わる節目になりそうですね。構造計算が普及することは、住まいの安全性をより客観的に担保することに繋がるはずです。僕も、技術の進歩と法整備がより良い住環境を作っていく過程に注目しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02926/\n\n【抜粋元】\n2025年4月の法改正により、地震時の必要壁量が従来の1.3〜1.4倍に増えることと、それに伴い構造計算（許容応力度計算）のニーズが高まっているという日経クロステックの記事に基づき作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本の交通インフラ建設市場における最新の動向がまとめられています。現在の市場が置かれている状況や、これからの推移、業界が直面している課題といった要点が整理されている内容です。\n僕たちが毎日利用している道や鉄道などのインフラが、どのような変化の中にあり、どんな未来を描こうとしているのかを知ることはとても大切だと思います。現場の皆さんが積み上げてきた確かな技術が、新しい時代のニーズとどう組み合わさっていくのか、僕も注目していきたいです。\n\n出典：pando.life\nhttps://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQm1DdUVBQnVHb3ptYmNKSmJ2NzZHU2xjdXU4MkRUZDMwZEtvaVVyMHNzU09JTk4wSG9IUmd6NWpqMHlCV29PLVNB?oc=5\n\n【抜粋元】\npando.lifeに掲載された、日本の交通インフラ建設市場の現状分析と将来の見通しに関する記事の内容を参考に作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "2025年4月の法改正により、地震時の必要壁量が従来の1.3〜1.4倍に増えることと、それに伴い構造計算（許容応力度計算）のニーズが高まっているという日経クロステックの記事に基づき作成しました。",
+      "xDraftExcerptSummary": "pando.lifeに掲載された、日本の交通インフラ建設市場の現状分析と将来の見通しに関する記事の内容を参考に作成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "Global X Japan株式会社「グローバルＸ 国土強靭化-日本株式 ETF」（銘柄コード：651A）東京証券取引所より上場承認 - ニコニコニュース",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RX3ZrUWFEX2VzYmlxWXF0VkxlbUZKOWJwa21nNmVEX29LNVNMWTVJMENhTVV3RnNDRnJOUlFwR3pEdVJMQkt4RDgxYlFwbEZDNEpOOTh6VFZMVl9GUnE0cm44TmNsYWVpb3hKdUJTNGphMU1zNlBqaU5HNA?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 18:30:14 GMT",
+        "title": "日本データセンター建設上位10社ランキング - pando.life",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ieFg1YXk1dnFBNi14aFY3V2R0RUlNY3VmVGhhSzVVak11UDUyc0JRNjktNDR2dGxuLVlnemNCX0FZR05KNTQ0LTdB?oc=5",
+        "pubDate": "Sat, 26 Sep 2026 15:30:04 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 1.6113249126,
-        "contentSnippet": "Global X Japan株式会社「グローバルＸ 国土強靭化-日本株式 ETF」（銘柄コード：651A）東京証券取引所より上場承認  ニコニコニュース",
-        "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RX3ZrUWFEX2VzYmlxWXF0VkxlbUZKOWJwa21nNmVEX29LNVNMWTVJMENhTVV3RnNDRnJOUlFwR3pEdVJMQkt4RDgxYlFwbEZDNEpOOTh6VFZMVl9GUnE0cm44TmNsYWVpb3hKdUJTNGphMU1zNlBqaU5HNA?oc=5",
-        "fingerprint": "a20735107a346c60f960fb27a6ebbb3d48d19b9ba8cb421d9715e03ca964a149"
+        "score": 1.6113929436,
+        "contentSnippet": "日本データセンター建設上位10社ランキング  pando.life",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ieFg1YXk1dnFBNi14aFY3V2R0RUlNY3VmVGhhSzVVak11UDUyc0JRNjktNDR2dGxuLVlnemNCX0FZR05KNTQ0LTdB?oc=5",
+        "fingerprint": "ed36a6e7414fa62952ee7337b54d723fc531c940a87a3f2852670553f501ba16"
       },
-      "xDraft": "【本文】\nGlobal X Japanが「グローバルＸ 国土強靭化-日本株式 ETF（銘柄コード：651A）」の東証への上場承認を受けたことを発表しました。国土強靭化に関連する国内の銘柄を対象とした投資商品です。\nインフラの老朽化対策や防災・減災は、日本の未来を支える非常に重要なテーマだと僕は考えています。こうしたETFが登場することで、建設や土木という産業が持つ社会的意義が、投資という側面からもより多角的に評価されるようになると嬉しいですね。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE9RX3ZrUWFEX2VzYmlxWXF0VkxlbUZKOWJwa21nNmVEX29LNVNMWTVJMENhTVV3RnNDRnJOUlFwR3pEdVJMQkt4RDgxYlFwbEZDNEpOOTh6VFZMVl9GUnE0cm44TmNsYWVpb3hKdUJTNGphMU1zNlBqaU5HNA?oc=5\n\n【抜粋元】\nGlobal X Japanが「グローバルＸ 国土強靭化-日本株式 ETF」の上場承認を受けたという記事です。銘柄コード651Aとして東証に上場する事実と、その投資テーマについて記載されています。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本国内におけるデータセンター建設の上位10社ランキングが公開されています。AIの普及やクラウド需要の増大を背景に、建設業界でも特に注目が集まる分野の情報です。\n\nデータセンターは精密な空調管理や堅牢なセキュリティが求められる、まさに現代の重要インフラだと僕は思います。どの企業がこの高度な建設需要を支えているのか、業界の勢力図を知る上でとても参考になるデータですね。\n\n出典：pando.life\nhttps://news.google.com/rss/articles/CBMiSkFVX3lxTE1ieFg1YXk1dnFBNi14aFY3V2R0RUlNY3VmVGhhSzVVak11UDUyc0JRNjktNDR2dGxuLVlnemNCX0FZR05KNTQ0LTdB?oc=5\n\n【抜粋元】\npando.lifeの記事「日本データセンター建設上位10社ランキング」に基づき、国内のデータセンター建設における主要企業の動向と、その産業的な重要性についてまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "Global X Japanが「グローバルＸ 国土強靭化-日本株式 ETF」の上場承認を受けたという記事です。銘柄コード651Aとして東証に上場する事実と、その投資テーマについて記載されています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "日本建設メーカーランキング - pando.life",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1panhNaXNEV3gtUndzRlk4dGd4WElQUWZBV2Rvel9jQXBnRktqLUxVOU51UzBOVE5hNUwtemdScTBoUmpNaS1JSVNn?oc=5",
-        "pubDate": "Fri, 25 Sep 2026 14:11:32 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 1.6113109427999999,
-        "contentSnippet": "日本建設メーカーランキング  pando.life",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1panhNaXNEV3gtUndzRlk4dGd4WElQUWZBV2Rvel9jQXBnRktqLUxVOU51UzBOVE5hNUwtemdScTBoUmpNaS1JSVNn?oc=5",
-        "fingerprint": "504d1385a0a1987d30f00a5aed4dce48ea81dac79e10e25e3d0ba929e41a5a14"
-      },
-      "xDraft": "【本文】\n日本の建設メーカーのランキングが掲載されています。業界内での各社の位置付けや規模感を確認できる内容です。\n\n建設業界の勢力図を知ることは、今の社会インフラが誰によって支えられているかを理解する第一歩だと僕は思います。売上規模だけでなく、それぞれの企業が持つ得意分野や独自の技術力にも目を向けてみると、より深く業界を楽しめる気がします。こうしたデータが、未来の担い手にとっても良い指針になると嬉しいですね。\n\n出典：Pando\nhttps://news.google.com/rss/articles/CBMiSkFVX3lxTE1panhNaXNEV3gtUndzRlk4dGd4WElQUWZBV2Rvel9jQXBnRktqLUxVOU51UzBOVE5hNUwtemdScTBoUmpNaS1JSVNn?oc=5\n\n【抜粋元】\nPandoに掲載された、国内の建設メーカーを順位付けした記事に基づいています。業界の全体像を俯瞰する視点として記述しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "Pandoに掲載された、国内の建設メーカーを順位付けした記事に基づいています。業界の全体像を俯瞰する視点として記述しました。",
+      "xDraftExcerptSummary": "pando.lifeの記事「日本データセンター建設上位10社ランキング」に基づき、国内のデータセンター建設における主要企業の動向と、その産業的な重要性についてまとめました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "必要壁量が1.4倍になる例も、改正建築基準法で変わった木造住宅の常識",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02926/",
-    "pubDate": "2026-09-24T20:00:00.000Z",
-    "feedName": "日経クロステック 建築・住宅",
-    "score": 2,
-    "contentSnippet": "木造戸建て住宅の設計の際、仕様規定ではなく構造計算を採用したいとする住宅実務者が増えそうだ。2025年4月施行の改正建築基準法で、地震時の必要壁量の算出方法が見直され、従来の壁量の1.3倍から1.4倍に増えたからだ。こんなニーズに応えるため、日経アーキテクチュアは2026年9月24日、書籍『設計実務に使える木造住宅の許容応力度計算　増補改訂版』を発行した。著者を代表して大橋好光・東京都市大学名誉教授にインタビューした。前編と後編の2回に分けて掲載する。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02926/",
-    "fingerprint": "5950ef8bb527565737b5605098ead4b2c7214a7011841588494a20229b212fcf"
+    "title": "日本の日本の交通インフラ建設市場の最新動向 - pando.life",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQm1DdUVBQnVHb3ptYmNKSmJ2NzZHU2xjdXU4MkRUZDMwZEtvaVVyMHNzU09JTk4wSG9IUmd6NWpqMHlCV29PLVNB?oc=5",
+    "pubDate": "Sat, 26 Sep 2026 15:18:40 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 3.4113923280000003,
+    "contentSnippet": "日本の日本の交通インフラ建設市場の最新動向  pando.life",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQm1DdUVBQnVHb3ptYmNKSmJ2NzZHU2xjdXU4MkRUZDMwZEtvaVVyMHNzU09JTk4wSG9IUmd6NWpqMHlCV29PLVNB?oc=5",
+    "fingerprint": "8ee29b585d4321d2340f2164136271e4f51fda274c49342c918178d6a7847e71"
   },
-  "xDraft": "【本文】\n2025年4月に施行される改正建築基準法では、地震時の必要壁量の算出方法が見直され、従来の1.3倍から1.4倍に増加します。これに伴い、従来の仕様規定ではなく、より詳細な構造計算（許容応力度計算）を選択する設計実務者が増える見通しです。\n\n地震に対する安全基準が大きく引き上げられることで、木造住宅の設計のあり方が根本から変わる節目になりそうですね。構造計算が普及することは、住まいの安全性をより客観的に担保することに繋がるはずです。僕も、技術の進歩と法整備がより良い住環境を作っていく過程に注目しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02926/\n\n【抜粋元】\n2025年4月の法改正により、地震時の必要壁量が従来の1.3〜1.4倍に増えることと、それに伴い構造計算（許容応力度計算）のニーズが高まっているという日経クロステックの記事に基づき作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n日本の交通インフラ建設市場における最新の動向がまとめられています。現在の市場が置かれている状況や、これからの推移、業界が直面している課題といった要点が整理されている内容です。\n僕たちが毎日利用している道や鉄道などのインフラが、どのような変化の中にあり、どんな未来を描こうとしているのかを知ることはとても大切だと思います。現場の皆さんが積み上げてきた確かな技術が、新しい時代のニーズとどう組み合わさっていくのか、僕も注目していきたいです。\n\n出典：pando.life\nhttps://news.google.com/rss/articles/CBMiSkFVX3lxTE1jQm1DdUVBQnVHb3ptYmNKSmJ2NzZHU2xjdXU4MkRUZDMwZEtvaVVyMHNzU09JTk4wSG9IUmd6NWpqMHlCV29PLVNB?oc=5\n\n【抜粋元】\npando.lifeに掲載された、日本の交通インフラ建設市場の現状分析と将来の見通しに関する記事の内容を参考に作成しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "2025年4月の法改正により、地震時の必要壁量が従来の1.3〜1.4倍に増えることと、それに伴い構造計算（許容応力度計算）のニーズが高まっているという日経クロステックの記事に基づき作成しました。",
+  "xDraftExcerptSummary": "pando.lifeに掲載された、日本の交通インフラ建設市場の現状分析と将来の見通しに関する記事の内容を参考に作成しました。",
   "xDraftAlternates": [],
   "errors": []
 }
