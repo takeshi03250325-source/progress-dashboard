@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-27T23:53:00.092Z",
+  "generatedAt": "2026-09-29T01:07:47.869Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 2,
+  "skippedJapanFocus": 2,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
@@ -27,6 +27,56 @@
       "fingerprint": "b0f57ad9a264c6835b11eb0da9d9937af83026094832eec067bcb179e40e6b50"
     },
     {
+      "title": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 09:30:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.41152902,
+      "contentSnippet": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化  日本経済新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
+      "fingerprint": "6e805e8b7d87c9d377fabc0627fd197dd3016cdc44fd7745a4cfe3426d005bd9"
+    },
+    {
+      "title": "建設会社の分野別売上高ランキング、「推進」「海洋」で増収見通し多い",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "各工事分野について、次期（2026年度に期末を迎える決算期）の売上高の見通しを、「増加」「横ばい」「減少」の3つの選択肢から選んでもらい、増加と答えた会社の割合（％）から減少と答えた会社の割合（％）を引いた数値をグラフにした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
+      "fingerprint": "494924c653f18117ab6a641d95d43471bc5b66888d94676466f8be666e3975d8"
+    },
+    {
+      "title": "京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "京浜急行電鉄の京急本線で泉岳寺―品川間の下り線を仮線に切り替える工事が完了し、品川駅周辺の地平化に向けた事業が前進した。東京都が主体で進める「泉岳寺―新馬場間における連続立体交差事業」は、2029年度を目標に区間内にある3つの踏切を除却する計画だ。それに伴い、京急本線の品川駅周辺が高架から地上に移り、品川駅から北品川駅を経由して新馬場駅に至るまでの区間が高架化する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
+      "fingerprint": "45787cd3e298670ea84cb558ccfd91b19f0845bd555fabdb98b6d0206d228179"
+    },
+    {
+      "title": "トンネルの建機ミニゲームや熊検知AIカメラ、建設DXの展示が多数",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800022/",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "2026年9月29、30日の2日間、「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」が東京国際フォーラムで開催。建設系の展示物が並ぶ「防災・強靱化 特別展」では、建設会社や建設コンサルタント会社などによる建設DXに関する展示が目白押しだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800022/",
+      "fingerprint": "62ed870fa17608c51c9e47d8d5f69abface3bcfd3785ae00b2cd06aef8e779f4"
+    },
+    {
+      "title": "AI使う企業向けソリューションを実演展示、日経クロステックNEXTが29日開幕",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800020/",
+      "pubDate": "2026-09-28T02:40:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "2026年9月29～30日に開催する「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」では、100を超える企業・団体がブースを出展する。各ブースではAI（人工知能）を活用したソリューションが多く展示され、デモによって実際の動作を確認できる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800020/",
+      "fingerprint": "89591349c220ea4c30743f208318df1a7c98221ffeb09c3ec42b1923122ea5e6"
+    },
+    {
       "title": "建設会社の決算は2025年度も好調、8割を超える大手が営業利益拡大",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
       "pubDate": "2026-09-27T20:00:00.000Z",
@@ -47,6 +97,56 @@
       "fingerprint": "a52e54f8ad7124fe358f606056fdbb4a9732cbd4e3f4ac09465b2f30fed4cce6"
     },
     {
+      "title": "建設会社の分野別売上高ランキング、「推進」「海洋」で増収見通し多い",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "各工事分野について、次期（2026年度に期末を迎える決算期）の売上高の見通しを、「増加」「横ばい」「減少」の3つの選択肢から選んでもらい、増加と答えた会社の割合（％）から減少と答えた会社の割合（％）を引いた数値をグラフにした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
+      "fingerprint": "494924c653f18117ab6a641d95d43471bc5b66888d94676466f8be666e3975d8"
+    },
+    {
+      "title": "建築基準法の壁量設計では確認できない項目も、木造住宅の課題を解説",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02931/",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "建築基準法の壁量設計では確認できない項目もあるという大橋好光・東京都市大学名誉教授。壁量設計より許容応力度計算を採用するようアドバイスする。2026年9月に発行した共著『設計実務に使える木造住宅の許容応力度計算 増補改訂版』の中で、その理由を説明している。その要諦を語るインタビューの後編をお届けする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02931/",
+      "fingerprint": "0839907dafa3f05f22cba8e0bc9c7d14846dc8ce0617124fc379b6b6a4a6b649"
+    },
+    {
+      "title": "京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "京浜急行電鉄の京急本線で泉岳寺―品川間の下り線を仮線に切り替える工事が完了し、品川駅周辺の地平化に向けた事業が前進した。東京都が主体で進める「泉岳寺―新馬場間における連続立体交差事業」は、2029年度を目標に区間内にある3つの踏切を除却する計画だ。それに伴い、京急本線の品川駅周辺が高架から地上に移り、品川駅から北品川駅を経由して新馬場駅に至るまでの区間が高架化する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
+      "fingerprint": "45787cd3e298670ea84cb558ccfd91b19f0845bd555fabdb98b6d0206d228179"
+    },
+    {
+      "title": "トンネルの建機ミニゲームや熊検知AIカメラ、建設DXの展示が多数",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800022/",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年9月29、30日の2日間、「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」が東京国際フォーラムで開催。建設系の展示物が並ぶ「防災・強靱化 特別展」では、建設会社や建設コンサルタント会社などによる建設DXに関する展示が目白押しだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800022/",
+      "fingerprint": "62ed870fa17608c51c9e47d8d5f69abface3bcfd3785ae00b2cd06aef8e779f4"
+    },
+    {
+      "title": "AI使う企業向けソリューションを実演展示、日経クロステックNEXTが29日開幕",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800020/",
+      "pubDate": "2026-09-28T02:40:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年9月29～30日に開催する「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」では、100を超える企業・団体がブースを出展する。各ブースではAI（人工知能）を活用したソリューションが多く展示され、デモによって実際の動作を確認できる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800020/",
+      "fingerprint": "89591349c220ea4c30743f208318df1a7c98221ffeb09c3ec42b1923122ea5e6"
+    },
+    {
       "title": "建設会社の決算は2025年度も好調、8割を超える大手が営業利益拡大",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
       "pubDate": "2026-09-27T20:00:00.000Z",
@@ -55,139 +155,79 @@
       "contentSnippet": "採算を重視した受注戦略が広がり、66％の会社で営業利益が拡大。各社の土木事業も好調を維持し、6割近くの会社が増収となった。コロナ禍以降、堅調な業績が続く一方、物価高騰など先行きの懸念材料もある。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
       "fingerprint": "1a188f8dd591db374db8b7613080c2f06b4eb79c7749b0753eeac27ddcc9a668"
-    },
-    {
-      "title": "リニア談合で大成・鹿島の有罪確定、「無競争」との主張を最高裁も認めず",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02769/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "JR東海が発注したリニア中央新幹線の駅建設工事を巡り、指名競争見積もりに先立つ建設大手4社の話し合いが独占禁止法違反の談合に当たるとされた刑事事件で、最後まで抗戦した大成建設と鹿島、及び両社における元担当者の計4者の有罪が確定する見通しとなった。各工事の受注者は見積もり以前に実質的に決まっており、無競争の工事だったから談合もあり得ないとする被告の主張を、東京地裁、東京高裁に続いて最高裁も退けた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02769/",
-      "fingerprint": "a52e54f8ad7124fe358f606056fdbb4a9732cbd4e3f4ac09465b2f30fed4cce6"
-    },
-    {
-      "title": "「浸水想定区域」広がる、土砂や流木の堆積を反映　小規模河川の手引き改定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02770/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "国土交通省は、小規模な河川が氾濫した場合の浸水範囲を推定する「小規模河川の洪水浸水想定区域図作成の手引き」を改定し、土砂や流木の影響を加味する手法を盛り込む。土砂や流木が堆積した場合に河川の流下能力が下がる現象を、簡易モデルで浸水計算に反映する。早ければ2026年9月末にも手引きを改定する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02770/",
-      "fingerprint": "d6e600945d2c7b18e533f23603ceb719d9343f3f6315880a03cd0934435698e8"
-    },
-    {
-      "title": "羽田空港アクセス線、シールド機掘進開始へ　空港島たて坑に組み立て完了",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00531/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "羽田空港では都心と直結する鉄道新線「羽田空港アクセス線」の整備や施設の再編整備が進められている。アクセス線は、空港島内のたて坑内で既に組み立てられたシールド機が発進を待つ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00531/",
-      "fingerprint": "524702cba4e8898d1e2d78cd0955a042cabe2f3cf99d87645db6b69a2e8074ca"
-    },
-    {
-      "title": "羽田空港アクセス線、シールド機掘進開始へ　空港島たて坑に組み立て完了",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00531/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "羽田空港では都心と直結する鉄道新線「羽田空港アクセス線」の整備や施設の再編整備が進められている。アクセス線は、空港島内のたて坑内で既に組み立てられたシールド機が発進を待つ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00531/",
-      "fingerprint": "524702cba4e8898d1e2d78cd0955a042cabe2f3cf99d87645db6b69a2e8074ca"
-    },
-    {
-      "title": "解析では耐震等級3の住宅も倒壊、震度7の地震動は「過去最強クラス」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03759/091400003/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "各地で観測された地震動に、耐震性能の高い住宅は耐えることができるのか──。震度7や6強、6弱を観測したエリアの地震動を用いて、こんな解析が実施された。その結果、耐震等級3でも倒壊に至るケースが見られた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03759/091400003/",
-      "fingerprint": "4a85d73cf027e1e2d1665431175844b70d498dd3799e2b93080f7343d6753734"
-    },
-    {
-      "title": "「浸水想定区域」広がる、土砂や流木の堆積を反映　小規模河川の手引き改定",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02770/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "国土交通省は、小規模な河川が氾濫した場合の浸水範囲を推定する「小規模河川の洪水浸水想定区域図作成の手引き」を改定し、土砂や流木の影響を加味する手法を盛り込む。土砂や流木が堆積した場合に河川の流下能力が下がる現象を、簡易モデルで浸水計算に反映する。早ければ2026年9月末にも手引きを改定する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02770/",
-      "fingerprint": "d6e600945d2c7b18e533f23603ceb719d9343f3f6315880a03cd0934435698e8"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-        "pubDate": "2026-09-27T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月28日～10月4日に読まれた記事の1～10位を26年9月28日～10月4日に無料で読めるようにしました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-        "fingerprint": "b0f57ad9a264c6835b11eb0da9d9937af83026094832eec067bcb179e40e6b50"
+        "title": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 09:30:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.41152902,
+        "contentSnippet": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化  日本経済新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
+        "fingerprint": "6e805e8b7d87c9d377fabc0627fd197dd3016cdc44fd7745a4cfe3426d005bd9"
       },
-      "xDraft": "【本文】\n日経クロステック土木面で、過去に公開された人気記事のランキングが発表されました。中でも1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」という見出しです。\n\nこのランキング記事は、2025年9月28日～10月4日に読まれた記事の1～10位を、2026年9月28日～10月4日まで無料で読めるようにしたものだそうですよ。都市部で山岳工法を採用する難しさや、その技術的な工夫にはいつも感銘を受けます。多くの人に、現場の貴重な取り組みが知られる良い機会だと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/\n\n【抜粋元】\n日経クロステック 土木のRSSで配信された、「1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」」という見出しと、「過去に公開したニュースをランキング形式でご紹介し、指定期間で無料で読めるようにした」という要約を参考に投稿を作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本政策投資銀行がUNICONホールディングスに出資したそうです。これは、建設業の人的資本強化を目的とした取り組みとのこと。\n建設業では、技術継承や人材確保が長年の課題です。今回の政投銀による出資は、そのような業界の人的資本強化を後押しするもの。UNICONホールディングスとの連携で、現場を支える人材や技術がより一層守られ、育っていくことを期待しています。\n\n出典：政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5\n\n【抜粋元】\n日本経済新聞の「政投銀、UNICONホールディングスに出資 建設業の人的資本を強化」という記事を読んで、日本政策投資銀行が建設業の人的資本強化のためにUNICONホールディングスに出資した点について書きました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木のRSSで配信された、「1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」」という見出しと、「過去に公開したニュースをランキング形式でご紹介し、指定期間で無料で読めるようにした」という要約を参考に投稿を作成しました。",
+      "xDraftExcerptSummary": "日本経済新聞の「政投銀、UNICONホールディングスに出資 建設業の人的資本を強化」という記事を読んで、日本政策投資銀行が建設業の人的資本強化のためにUNICONホールディングスに出資した点について書きました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-        "pubDate": "2026-09-27T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月28日～10月4日に読まれた記事の1～10位を26年9月28日～10月4日に無料で読めるようにしました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-        "fingerprint": "b0f57ad9a264c6835b11eb0da9d9937af83026094832eec067bcb179e40e6b50"
-      },
-      "xDraft": "【本文】\n川崎市の主要幹線道路、尻手黒川線のトンネル工事が初めて公開されました。都市部での施工でありながら、シールド工法ではなく「山岳工法」を採用して掘り進められている点が大きな特徴です。\n僕が注目したのは、制約の多い都市環境で山岳工法を選択した現場の判断です。地盤管理や近接構造物への配慮など、土木技術の粋が詰まった非常に興味深いプロジェクトだと感じます。こうしたインフラの裏側を知ることで、街への敬意がより深まりますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/\n\n【抜粋元】\n日経クロステックの過去記事ランキングにおいて1位となった、川崎市の尻手黒川線トンネル工事の現場公開ニュースを抜粋しました。都市部においてあえて山岳工法を採用している技術的側面に注目して構成しています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックの過去記事ランキングにおいて1位となった、川崎市の尻手黒川線トンネル工事の現場公開ニュースを抜粋しました。都市部においてあえて山岳工法を採用している技術的側面に注目して構成しています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "建設会社の決算は2025年度も好調、8割を超える大手が営業利益拡大",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
-        "pubDate": "2026-09-27T20:00:00.000Z",
+        "title": "建設会社の分野別売上高ランキング、「推進」「海洋」で増収見通し多い",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
+        "pubDate": "2026-09-28T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 2.4,
-        "contentSnippet": "採算を重視した受注戦略が広がり、66％の会社で営業利益が拡大。各社の土木事業も好調を維持し、6割近くの会社が増収となった。コロナ禍以降、堅調な業績が続く一方、物価高騰など先行きの懸念材料もある。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
-        "fingerprint": "1a188f8dd591db374db8b7613080c2f06b4eb79c7749b0753eeac27ddcc9a668"
+        "contentSnippet": "各工事分野について、次期（2026年度に期末を迎える決算期）の売上高の見通しを、「増加」「横ばい」「減少」の3つの選択肢から選んでもらい、増加と答えた会社の割合（％）から減少と答えた会社の割合（％）を引いた数値をグラフにした。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
+        "fingerprint": "494924c653f18117ab6a641d95d43471bc5b66888d94676466f8be666e3975d8"
       },
-      "xDraft": "【本文】\n大手建設会社の2025年度決算は、8割を超える企業が営業利益の拡大を見込むなど好調が続く見通しです。採算重視の受注戦略が浸透したことで約66％の企業が増益となり、土木事業も6割近くが増収を維持しています。物価高騰という懸念材料はありますが、各社が技術力を背景に適正な利益を確保しようとする姿勢は、産業の持続性を考える上でとても大切な変化だと僕は思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/\n\n【抜粋元】\n日経クロステック 土木の「建設会社の決算は2025年度も好調、8割を超える大手が営業利益拡大」という記事。採算重視の戦略による利益拡大や、土木事業の好調さ、物価高への懸念といった業界全体の決算動向を踏まえて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日経クロステックの調査によると、2026年度の売上見通しで「推進」や「海洋」分野を扱う建設会社の増収意欲が高いことが分かりました。増加と答えた割合から減少を引いた数値で、各分野の市場の勢いを分析しています。\n老朽化した下水道の更新や洋上風力発電といった、社会的な要請が強い分野への期待が数字に表れているように感じます。僕たちの暮らしを支える「見えない場所」の技術が評価され、産業の活力に繋がっていくのはとても嬉しいことです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/\n\n【抜粋元】\n2026年度に期末を迎える決算期の売上高見通しを調査した記事です。各工事分野について「増加」「横ばい」「減少」の回答比率から算出された指標に基づき、推進工事や海洋工事の分野で増収を見込む企業が多いという事実を整理しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の「建設会社の決算は2025年度も好調、8割を超える大手が営業利益拡大」という記事。採算重視の戦略による利益拡大や、土木事業の好調さ、物価高への懸念といった業界全体の決算動向を踏まえて作成しました。",
+      "xDraftExcerptSummary": "2026年度に期末を迎える決算期の売上高見通しを調査した記事です。各工事分野について「増加」「横ばい」「減少」の回答比率から算出された指標に基づき、推進工事や海洋工事の分野で増収を見込む企業が多いという事実を整理しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
+        "pubDate": "2026-09-28T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "京浜急行電鉄の京急本線で泉岳寺―品川間の下り線を仮線に切り替える工事が完了し、品川駅周辺の地平化に向けた事業が前進した。東京都が主体で進める「泉岳寺―新馬場間における連続立体交差事業」は、2029年度を目標に区間内にある3つの踏切を除却する計画だ。それに伴い、京急本線の品川駅周辺が高架から地上に移り、品川駅から北品川駅を経由して新馬場駅に至るまでの区間が高架化する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
+        "fingerprint": "45787cd3e298670ea84cb558ccfd91b19f0845bd555fabdb98b6d0206d228179"
+      },
+      "xDraft": "【本文】\n京急本線の泉岳寺―品川間で、下り線が仮線に切り替えられたそうです。品川駅周辺の地平化に向けた事業が前進しましたね。この「泉岳寺―新馬場間における連続立体交差事業」は、2029年度を目標に3つの踏切を除却し、区間内で高架化と地平化が複雑に展開する計画とのこと。\n\n都市の鉄道網を動かしながらの大規模なインフラ再編工事、その緻密な計画と技術力にはいつも感銘を受けます。完成の暁には、きっと地域の景観や利便性が大きく向上するのでしょう。僕もそのプロセスを注視していきたいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/\n\n【抜粋元】\n今回の投稿は、日経クロステック 土木に掲載された「京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進」という記事の要約・抜粋から、京急本線の仮線切り替えと連続立体交差事業の進捗について書きました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-2.5-flash",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "今回の投稿は、日経クロステック 土木に掲載された「京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進」という記事の要約・抜粋から、京急本線の仮線切り替えと連続立体交差事業の進捗について書きました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-    "pubDate": "2026-09-27T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月28日～10月4日に読まれた記事の1～10位を26年9月28日～10月4日に無料で読めるようにしました。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-    "fingerprint": "b0f57ad9a264c6835b11eb0da9d9937af83026094832eec067bcb179e40e6b50"
+    "title": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
+    "pubDate": "Mon, 28 Sep 2026 09:30:00 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 3.41152902,
+    "contentSnippet": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化  日本経済新聞",
+    "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
+    "fingerprint": "6e805e8b7d87c9d377fabc0627fd197dd3016cdc44fd7745a4cfe3426d005bd9"
   },
-  "xDraft": "【本文】\n日経クロステック土木面で、過去に公開された人気記事のランキングが発表されました。中でも1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」という見出しです。\n\nこのランキング記事は、2025年9月28日～10月4日に読まれた記事の1～10位を、2026年9月28日～10月4日まで無料で読めるようにしたものだそうですよ。都市部で山岳工法を採用する難しさや、その技術的な工夫にはいつも感銘を受けます。多くの人に、現場の貴重な取り組みが知られる良い機会だと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/\n\n【抜粋元】\n日経クロステック 土木のRSSで配信された、「1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」」という見出しと、「過去に公開したニュースをランキング形式でご紹介し、指定期間で無料で読めるようにした」という要約を参考に投稿を作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n日本政策投資銀行がUNICONホールディングスに出資したそうです。これは、建設業の人的資本強化を目的とした取り組みとのこと。\n建設業では、技術継承や人材確保が長年の課題です。今回の政投銀による出資は、そのような業界の人的資本強化を後押しするもの。UNICONホールディングスとの連携で、現場を支える人材や技術がより一層守られ、育っていくことを期待しています。\n\n出典：政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5\n\n【抜粋元】\n日本経済新聞の「政投銀、UNICONホールディングスに出資 建設業の人的資本を強化」という記事を読んで、日本政策投資銀行が建設業の人的資本強化のためにUNICONホールディングスに出資した点について書きました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-2.5-flash",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経クロステック 土木のRSSで配信された、「1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」」という見出しと、「過去に公開したニュースをランキング形式でご紹介し、指定期間で無料で読めるようにした」という要約を参考に投稿を作成しました。",
+  "xDraftExcerptSummary": "日本経済新聞の「政投銀、UNICONホールディングスに出資 建設業の人的資本を強化」という記事を読んで、日本政策投資銀行が建設業の人的資本強化のためにUNICONホールディングスに出資した点について書きました。",
   "xDraftAlternates": [],
   "errors": []
 }
