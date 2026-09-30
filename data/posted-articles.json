@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YcFpULVBRT0tIME92WVBtUExkTzFORTNCc2UyRWFlUDAyNkhtSHJiYUlvQldCRDVGcXJjaVV5dTQyd0J4ME14YjFKdHp5OGVoVjBJVklrNVM?oc=5",
-      "fingerprint": "7916fc319df217345e91994b6303ac9d04a2da39963774c744fa0e3caa005379",
-      "title": "データセンター建設に立ちはだかる「NIMBY」問題 - Forbes JAPAN",
-      "postedAt": "2026-05-04T06:38:44.641Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YcFpULVBRT0tIME92WVBtUExkTzFORTNCc2UyRWFlUDAyNkhtSHJiYUlvQldCRDVGcXJjaVV5dTQyd0J4ME14YjFKdHp5OGVoVjBJVklrNVM?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5",
-      "fingerprint": "b85aceb8b76acad56dc5a0a0dbe02343fee6ee56a293e96418268e91185ca8c2",
-      "title": "「脱・建設依存」で利益急拡大、配当利回り4%の隠れた優等生──インフロニア・ホールディングス（5076）が今、機関投資家から熱視線を浴びる理由｜日本個別株デューデリジェンスセンター - note",
-      "postedAt": "2026-05-04T06:45:47.363Z",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRGx3SDJ3azRYVWZZTm01Z0J2a0xKVnJBSTJhdmNib2FmVExkUExlMVkxT0UxY3U4XzZFY3RTVm9zNFpYWEw5QzVPeGVlbUs2UkhPQi1aN21qU1k?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44WDNjdEtnUEE0R0kzc0NfYVdOdWxTT3lFVHQyVWJWNW9Sd2hFUGFFZWNYQmgySmdDSXdhR0VTWVB5NnZQMGhRcmhONGd4Z2R5Z2VDLThR?oc=5",
-      "fingerprint": "2116f51830e777b7b415b342a6510d5d6005351199ec9f20f5cb2c6444749489",
-      "title": "GS建設は4日、ソウル瑞草区瑞草振興アパート再建築整備事業施工会社に選定されたと公示した。 - 매일경제",
-      "postedAt": "2026-05-05T00:13:35.374Z",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44WDNjdEtnUEE0R0kzc0NfYVdOdWxTT3lFVHQyVWJWNW9Sd2hFUGFFZWNYQmgySmdDSXdhR0VTWVB5NnZQMGhRcmhONGd4Z2R5Z2VDLThR?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONi1ELVFRR0FnaGU5Ny1tTE85QW0yVGxRMExHQVREM0J4NGdyeURUR0p2eUo3elh6MGVLLWhNZUZ2WGdIdmN4VUhxd2JjT3VRcEJqU1ZfLXR3ZzZuS1FEM0FOczhPLVkydElrMUdmZHd5YVc3bnpjUEpPajM4QUxvQVI2ZklENUNVakx0U3F5VEJ1aVdRUWt5ekxaUlM1cHJ2eGFKODZDYk1HUQ?oc=5",
       "fingerprint": "fc078bd637e1d0ba054007d54bf936c00fc00e9508bf5ef9fcdfcde61781819a",
       "title": "約4兆ベトナムドンを投じて建設されたファンティエット空港：古代チャム族の塔建築が象徴となる。 - Vietnam.vn",
@@ -2800,6 +2779,27 @@
       "title": "京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進",
       "postedAt": "2026-09-29T01:07:47.858Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+      "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc",
+      "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
+      "postedAt": "2026-09-30T00:38:37.927Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
+      "fingerprint": "09a7d46214e702f0acefa4fae84382179115220ba77af37450b6c56fc5d0de71",
+      "title": "配筋検査や測量にAI、フィジカルAIの取り組みも　建設DXの展示が目白押し",
+      "postedAt": "2026-09-30T00:38:37.927Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+      "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc",
+      "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
+      "postedAt": "2026-09-30T00:38:37.927Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/"
     }
   ]
 }

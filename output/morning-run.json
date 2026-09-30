@@ -1,233 +1,233 @@
 {
-  "generatedAt": "2026-09-29T01:07:47.869Z",
+  "generatedAt": "2026-09-30T00:38:37.937Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
+      "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+      "pubDate": "2026-09-29T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 4.8,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月28日～10月4日に読まれた記事の1～10位を26年9月28日～10月4日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-      "fingerprint": "b0f57ad9a264c6835b11eb0da9d9937af83026094832eec067bcb179e40e6b50"
+      "contentSnippet": "2026年5月時点で公表されていた経営事項審査（経審）の完成工事高が、土木一式、舗装、とび・土工・コンクリートのいずれか1つ以上で30億円以上か、鋼橋上部で20億円以上だった計593社にアンケート用紙を送付した。有効回答は182社で回答率は31％。調査対象企業の選定で、経営状況分析機関のワイズ公共データシステム（長野市）の協力を得た。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+      "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc"
     },
     {
-      "title": "1位は「川崎の幹線道路、尻手黒川線トンネル工事を初公開　都市部で掘り進む山岳工法」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
+      "title": "配筋検査や測量にAI、フィジカルAIの取り組みも　建設DXの展示が目白押し",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
+      "pubDate": "2026-09-29T07:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "人手不足が常態化する建設業界では、施工管理や設計といった業務をデジタル技術で効率化するDX（デジタルトランスフォーメーション）への期待が高まっている。2026年9月29日に東京国際フォーラム（東京・千代田）で開幕した、日経BPが主催する最新テクノロジーの総合展「日経クロステックNEXT 東京 2026」では、建設DXに関する展示が盛りだくさんだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
+      "fingerprint": "09a7d46214e702f0acefa4fae84382179115220ba77af37450b6c56fc5d0de71"
+    },
+    {
+      "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+      "pubDate": "2026-09-29T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年9月28日～10月4日に読まれた記事の1～10位を26年9月28日～10月4日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/082400383/",
-      "fingerprint": "b0f57ad9a264c6835b11eb0da9d9937af83026094832eec067bcb179e40e6b50"
+      "contentSnippet": "2026年5月時点で公表されていた経営事項審査（経審）の完成工事高が、土木一式、舗装、とび・土工・コンクリートのいずれか1つ以上で30億円以上か、鋼橋上部で20億円以上だった計593社にアンケート用紙を送付した。有効回答は182社で回答率は31％。調査対象企業の選定で、経営状況分析機関のワイズ公共データシステム（長野市）の協力を得た。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+      "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc"
     },
     {
-      "title": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞",
+      "title": "配筋検査や測量にAI、フィジカルAIの取り組みも　建設DXの展示が目白押し",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
+      "pubDate": "2026-09-29T07:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "人手不足が常態化する建設業界では、施工管理や設計といった業務をデジタル技術で効率化するDX（デジタルトランスフォーメーション）への期待が高まっている。2026年9月29日に東京国際フォーラム（東京・千代田）で開幕した、日経BPが主催する最新テクノロジーの総合展「日経クロステックNEXT 東京 2026」では、建設DXに関する展示が盛りだくさんだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
+      "fingerprint": "09a7d46214e702f0acefa4fae84382179115220ba77af37450b6c56fc5d0de71"
+    },
+    {
+      "title": "日本の防衛を支える企業、 全国に4628社 「建設業」が最多に - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1SklBT3ZGVnVscjRPS20yT0laQTNlalpZUHFoRlhXUTFpZ3BjWXpDOEdROUJoOWVtX1JNcDg5N3lNc1Nmd2t4bkg0UmdwYWxfcEdyLW93SExaeFV0RUd5M2tSaGppbnU0SlE?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 02:22:05 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4115836725,
+      "contentSnippet": "日本の防衛を支える企業、 全国に4628社 「建設業」が最多に  PR TIMES",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1SklBT3ZGVnVscjRPS20yT0laQTNlalpZUHFoRlhXUTFpZ3BjWXpDOEdROUJoOWVtX1JNcDg5N3lNc1Nmd2t4bkg0UmdwYWxfcEdyLW93SExaeFV0RUd5M2tSaGppbnU0SlE?oc=5",
+      "fingerprint": "7e906bb692604c519f026108d92b7c1a0aefed4adfd3fa04eccb18d077b17a91"
+    },
+    {
+      "title": "日本の防衛を支える企業、全国に4628社 「建設業」が最多に (帝国データバンク) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUMxQ3Z2OVVFb0tnUko5YWl2MEVqaVI0X3lsRXQwSUJ2aFZaejVHNHk2Nk9zSHlFa2JpM0RlRl9POWx2aVZ0bjBGMU53RFBIUHJTdF9MSldPbENVX3FfNG90S21TN0VIdTB3dEhTRlNaVmJHdDF3aTBjdmRaYXJrSzBDZjYzMTF1VHBrQmxB?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 01:02:40 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.411579384,
+      "contentSnippet": "日本の防衛を支える企業、全国に4628社 「建設業」が最多に (帝国データバンク)  Yahoo!ニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUMxQ3Z2OVVFb0tnUko5YWl2MEVqaVI0X3lsRXQwSUJ2aFZaejVHNHk2Nk9zSHlFa2JpM0RlRl9POWx2aVZ0bjBGMU53RFBIUHJTdF9MSldPbENVX3FfNG90S21TN0VIdTB3dEhTRlNaVmJHdDF3aTBjdmRaYXJrSzBDZjYzMTF1VHBrQmxB?oc=5",
+      "fingerprint": "fd0d921d00a10e4e135145a912cbd12f7d0cc7cb22802b9cb7e29b3d288d5ae6"
+    },
+    {
+      "title": "日本の防衛を支える企業、全国に4628社 「建設業」が最多に（帝国データバンク） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGtfZGIyOHVRM2g0aFdQN3lYaENUcTZLSW1TMDF3SXRITXQxMm1QVUZzci1relhjYk5WTUJtQ2dHZ3dDWDBuMXJ0R3pqdjVPMHFQZnRsRDQtMVljUkRueDBSWXFBUm1KY1NoT2FPUDlrb1U0eTRvOXRNcXo5OWtRQV9scGt0amg5?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 01:02:40 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.411579384,
+      "contentSnippet": "日本の防衛を支える企業、全国に4628社 「建設業」が最多に（帝国データバンク）  Yahoo!ニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGtfZGIyOHVRM2g0aFdQN3lYaENUcTZLSW1TMDF3SXRITXQxMm1QVUZzci1relhjYk5WTUJtQ2dHZ3dDWDBuMXJ0R3pqdjVPMHFQZnRsRDQtMVljUkRueDBSWXFBUm1KY1NoT2FPUDlrb1U0eTRvOXRNcXo5OWtRQV9scGt0amg5?oc=5",
+      "fingerprint": "e6d849a56451bbf18944cd535bbacc758043130fdda6321f2b0fa7180773fab1"
+    },
+    {
+      "title": "日本政策投資銀行、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
       "pubDate": "Mon, 28 Sep 2026 09:30:00 GMT",
       "feedName": "Googleニュース 建設業",
       "score": 3.41152902,
-      "contentSnippet": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化  日本経済新聞",
+      "contentSnippet": "日本政策投資銀行、UNICONホールディングスに出資 建設業の人的資本を強化  日本経済新聞",
       "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
-      "fingerprint": "6e805e8b7d87c9d377fabc0627fd197dd3016cdc44fd7745a4cfe3426d005bd9"
+      "fingerprint": "0c0486a4b5c5d19a6931ee220dff0d1c7e71bc5e414d50818c9868596dbd1f8a"
     },
     {
-      "title": "建設会社の分野別売上高ランキング、「推進」「海洋」で増収見通し多い",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
-      "pubDate": "2026-09-28T20:00:00.000Z",
+      "title": "北海道新幹線の生コン試験不正、強度に問題なし　「背景に心理的焦り」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02774/",
+      "pubDate": "2026-09-29T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "各工事分野について、次期（2026年度に期末を迎える決算期）の売上高の見通しを、「増加」「横ばい」「減少」の3つの選択肢から選んでもらい、増加と答えた会社の割合（％）から減少と答えた会社の割合（％）を引いた数値をグラフにした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
-      "fingerprint": "494924c653f18117ab6a641d95d43471bc5b66888d94676466f8be666e3975d8"
+      "contentSnippet": "北海道新幹線のトンネル工事で生コンクリートの品質管理試験に不正があった問題で、発注者の鉄道建設・運輸施設整備支援機構は打設後のコンクリートについて、強度に問題はないとする試験結果を明らかにした。施工者による不正行為は、発注者側の監督員が2026年6月12日、現場立ち会いの際に目撃した。その後の調査で、不正行為は3回あったことが判明。施工者が強度試験などを進めている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02774/",
+      "fingerprint": "276200310d82e2f3d100c6ea8a3df7d5c4995cb96b49cdb861d5872f93e441dc"
     },
     {
-      "title": "京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
-      "pubDate": "2026-09-28T20:00:00.000Z",
+      "title": "「1モデルで多様なタスク」、米新興やPFN岡野原氏が語る最新フィジカルAI事情",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900028/",
+      "pubDate": "2026-09-29T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "京浜急行電鉄の京急本線で泉岳寺―品川間の下り線を仮線に切り替える工事が完了し、品川駅周辺の地平化に向けた事業が前進した。東京都が主体で進める「泉岳寺―新馬場間における連続立体交差事業」は、2029年度を目標に区間内にある3つの踏切を除却する計画だ。それに伴い、京急本線の品川駅周辺が高架から地上に移り、品川駅から北品川駅を経由して新馬場駅に至るまでの区間が高架化する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
-      "fingerprint": "45787cd3e298670ea84cb558ccfd91b19f0845bd555fabdb98b6d0206d228179"
+      "contentSnippet": "フィジカルAI（人工知能）の性能が急速に進化している。2026年9月29日に開催された「Robotics NEXT Tokyo 2026」（東京国際フォーラム、「日経クロステックNEXT 東京 2026」と同時開催）では、米Physical IntelligenceのAshwin Balakrishna氏、Preferred Networks（PFN、東京・千代田）代表取締役社長の岡野原大輔氏が基調講演に登壇し、最新のフィジカルAIとその課題について語った。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900028/",
+      "fingerprint": "e699f40e81ab80e7c7dcd3d90c04cd8cde838e196c3ee61c8ae21cc8098460df"
     },
     {
-      "title": "トンネルの建機ミニゲームや熊検知AIカメラ、建設DXの展示が多数",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800022/",
-      "pubDate": "2026-09-28T20:00:00.000Z",
+      "title": "理研、AIによる研究基盤の構築へ　松岡氏「日本の研究に付加価値を」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900029/",
+      "pubDate": "2026-09-29T19:59:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "2026年9月29、30日の2日間、「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」が東京国際フォーラムで開催。建設系の展示物が並ぶ「防災・強靱化 特別展」では、建設会社や建設コンサルタント会社などによる建設DXに関する展示が目白押しだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800022/",
-      "fingerprint": "62ed870fa17608c51c9e47d8d5f69abface3bcfd3785ae00b2cd06aef8e779f4"
+      "contentSnippet": "理化学研究所計算科学研究センター長の松岡聡氏は2026年9月29日、東京国際フォーラム（東京・千代田）で開催中の「日経クロステックNEXT 東京 2026」の基調講演に登壇した。講演では、日本の研究活動にAI（人工知能）を生かす重要性を指摘した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900029/",
+      "fingerprint": "c96715e3f8a5dd26ae543b4ad8b27dfc48d6c36979da355d6f249c54f8b0a666"
     },
     {
-      "title": "AI使う企業向けソリューションを実演展示、日経クロステックNEXTが29日開幕",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800020/",
-      "pubDate": "2026-09-28T02:40:00.000Z",
+      "title": "AIデータセンターで進む高圧直流化、電源機器や冷却装置に需要",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900033/",
+      "pubDate": "2026-09-29T09:30:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "2026年9月29～30日に開催する「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」では、100を超える企業・団体がブースを出展する。各ブースではAI（人工知能）を活用したソリューションが多く展示され、デモによって実際の動作を確認できる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800020/",
-      "fingerprint": "89591349c220ea4c30743f208318df1a7c98221ffeb09c3ec42b1923122ea5e6"
+      "contentSnippet": "データセンターのサーバーに高電圧の電力を直流で供給する「HVDC（高圧直流配電）」の動きが進んでいる。大量の電力を消費するAIの進化に伴い、電源機器の数や電力損失を減らす取り組みが注目されている。東京国際フォーラムで日経BPが開催する「日経クロステックNEXT 東京 2026」の「製造業の将来技術EXPO」では、直流給電に関連する製品やシステムの展示が多数見られる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900033/",
+      "fingerprint": "24dea7710e5440165c4a456c81fa22a9653d7885f8b32711eb07f50b2defe872"
     },
     {
-      "title": "建設会社の決算は2025年度も好調、8割を超える大手が営業利益拡大",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
+      "title": "AI-Readyなデータ整備から参照度合い診断まで、AI活用支援策が一挙集結",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900031/",
+      "pubDate": "2026-09-29T08:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "採算を重視した受注戦略が広がり、66％の会社で営業利益が拡大。各社の土木事業も好調を維持し、6割近くの会社が増収となった。コロナ禍以降、堅調な業績が続く一方、物価高騰など先行きの懸念材料もある。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
-      "fingerprint": "1a188f8dd591db374db8b7613080c2f06b4eb79c7749b0753eeac27ddcc9a668"
+      "contentSnippet": "AIが企業のあらゆる業務に浸透し、エージェントによる自動化も進みつつある。東京国際フォーラムで開催中の「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」の「AIリーダーズEXPO」ゾーンでは、AI活用を支援する企業が多数出展している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900031/",
+      "fingerprint": "d8e6a8d5f55cdefa9beb0dedd0bc2b75fc6b6bd95aa70513c0313601ede0cc1a"
     },
     {
-      "title": "リニア談合で大成・鹿島の有罪確定、「無競争」との主張を最高裁も認めず",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02769/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
+      "title": "データセンター投資、2030年までに累計4兆ドルに　ボトルネックは電力",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800024/",
+      "pubDate": "2026-09-29T04:45:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "JR東海が発注したリニア中央新幹線の駅建設工事を巡り、指名競争見積もりに先立つ建設大手4社の話し合いが独占禁止法違反の談合に当たるとされた刑事事件で、最後まで抗戦した大成建設と鹿島、及び両社における元担当者の計4者の有罪が確定する見通しとなった。各工事の受注者は見積もり以前に実質的に決まっており、無競争の工事だったから談合もあり得ないとする被告の主張を、東京地裁、東京高裁に続いて最高裁も退けた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02769/",
-      "fingerprint": "a52e54f8ad7124fe358f606056fdbb4a9732cbd4e3f4ac09465b2f30fed4cce6"
+      "contentSnippet": "生成AI（人工知能）関連企業によるデータセンター（DC）への投資額が2030年までの累計で4兆ドル以上になりそうだ。日経BPが主催する「未来をつくるテクノロジー展　日経クロステックNEXT東京2026」（2026年9月29～30日開催）で日経BP AI・データラボの中田敦所長が登壇した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800024/",
+      "fingerprint": "98b743f61bde6415b6df9ee1d66dfc99df71df57c6ecf5dfc9ccd56bf7227037"
     },
     {
-      "title": "建設会社の分野別売上高ランキング、「推進」「海洋」で増収見通し多い",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
-      "pubDate": "2026-09-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "各工事分野について、次期（2026年度に期末を迎える決算期）の売上高の見通しを、「増加」「横ばい」「減少」の3つの選択肢から選んでもらい、増加と答えた会社の割合（％）から減少と答えた会社の割合（％）を引いた数値をグラフにした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
-      "fingerprint": "494924c653f18117ab6a641d95d43471bc5b66888d94676466f8be666e3975d8"
-    },
-    {
-      "title": "建築基準法の壁量設計では確認できない項目も、木造住宅の課題を解説",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02931/",
-      "pubDate": "2026-09-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "建築基準法の壁量設計では確認できない項目もあるという大橋好光・東京都市大学名誉教授。壁量設計より許容応力度計算を採用するようアドバイスする。2026年9月に発行した共著『設計実務に使える木造住宅の許容応力度計算 増補改訂版』の中で、その理由を説明している。その要諦を語るインタビューの後編をお届けする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02931/",
-      "fingerprint": "0839907dafa3f05f22cba8e0bc9c7d14846dc8ce0617124fc379b6b6a4a6b649"
-    },
-    {
-      "title": "京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
-      "pubDate": "2026-09-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "京浜急行電鉄の京急本線で泉岳寺―品川間の下り線を仮線に切り替える工事が完了し、品川駅周辺の地平化に向けた事業が前進した。東京都が主体で進める「泉岳寺―新馬場間における連続立体交差事業」は、2029年度を目標に区間内にある3つの踏切を除却する計画だ。それに伴い、京急本線の品川駅周辺が高架から地上に移り、品川駅から北品川駅を経由して新馬場駅に至るまでの区間が高架化する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
-      "fingerprint": "45787cd3e298670ea84cb558ccfd91b19f0845bd555fabdb98b6d0206d228179"
-    },
-    {
-      "title": "トンネルの建機ミニゲームや熊検知AIカメラ、建設DXの展示が多数",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800022/",
-      "pubDate": "2026-09-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年9月29、30日の2日間、「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」が東京国際フォーラムで開催。建設系の展示物が並ぶ「防災・強靱化 特別展」では、建設会社や建設コンサルタント会社などによる建設DXに関する展示が目白押しだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800022/",
-      "fingerprint": "62ed870fa17608c51c9e47d8d5f69abface3bcfd3785ae00b2cd06aef8e779f4"
-    },
-    {
-      "title": "AI使う企業向けソリューションを実演展示、日経クロステックNEXTが29日開幕",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800020/",
-      "pubDate": "2026-09-28T02:40:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年9月29～30日に開催する「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」では、100を超える企業・団体がブースを出展する。各ブースではAI（人工知能）を活用したソリューションが多く展示され、デモによって実際の動作を確認できる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800020/",
-      "fingerprint": "89591349c220ea4c30743f208318df1a7c98221ffeb09c3ec42b1923122ea5e6"
-    },
-    {
-      "title": "建設会社の決算は2025年度も好調、8割を超える大手が営業利益拡大",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
-      "pubDate": "2026-09-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "採算を重視した受注戦略が広がり、66％の会社で営業利益が拡大。各社の土木事業も好調を維持し、6割近くの会社が増収となった。コロナ禍以降、堅調な業績が続く一方、物価高騰など先行きの懸念材料もある。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700003/",
-      "fingerprint": "1a188f8dd591db374db8b7613080c2f06b4eb79c7749b0753eeac27ddcc9a668"
+      "title": " 日経クロステックNEXT東京2026が開幕、AIエージェントなど最新技術が集結",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800023/",
+      "pubDate": "2026-09-29T01:45:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "AI（人工知能）をはじめとする最新技術の動向を紹介する展示会「未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026」（主催：日経BP）が2026年9月29日、東京国際フォーラム（東京・千代田）で開幕した。30日まで開催する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800023/",
+      "fingerprint": "5d10ae91aed763a2edd7ee04b09d5347617fc18af9f94c5f49e9dc2fe2c8626f"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 09:30:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.41152902,
-        "contentSnippet": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化  日本経済新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
-        "fingerprint": "6e805e8b7d87c9d377fabc0627fd197dd3016cdc44fd7745a4cfe3426d005bd9"
-      },
-      "xDraft": "【本文】\n日本政策投資銀行がUNICONホールディングスに出資したそうです。これは、建設業の人的資本強化を目的とした取り組みとのこと。\n建設業では、技術継承や人材確保が長年の課題です。今回の政投銀による出資は、そのような業界の人的資本強化を後押しするもの。UNICONホールディングスとの連携で、現場を支える人材や技術がより一層守られ、育っていくことを期待しています。\n\n出典：政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5\n\n【抜粋元】\n日本経済新聞の「政投銀、UNICONホールディングスに出資 建設業の人的資本を強化」という記事を読んで、日本政策投資銀行が建設業の人的資本強化のためにUNICONホールディングスに出資した点について書きました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本経済新聞の「政投銀、UNICONホールディングスに出資 建設業の人的資本を強化」という記事を読んで、日本政策投資銀行が建設業の人的資本強化のためにUNICONホールディングスに出資した点について書きました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "建設会社の分野別売上高ランキング、「推進」「海洋」で増収見通し多い",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
-        "pubDate": "2026-09-28T20:00:00.000Z",
+        "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+        "pubDate": "2026-09-29T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "各工事分野について、次期（2026年度に期末を迎える決算期）の売上高の見通しを、「増加」「横ばい」「減少」の3つの選択肢から選んでもらい、増加と答えた会社の割合（％）から減少と答えた会社の割合（％）を引いた数値をグラフにした。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/",
-        "fingerprint": "494924c653f18117ab6a641d95d43471bc5b66888d94676466f8be666e3975d8"
+        "score": 4.8,
+        "contentSnippet": "2026年5月時点で公表されていた経営事項審査（経審）の完成工事高が、土木一式、舗装、とび・土工・コンクリートのいずれか1つ以上で30億円以上か、鋼橋上部で20億円以上だった計593社にアンケート用紙を送付した。有効回答は182社で回答率は31％。調査対象企業の選定で、経営状況分析機関のワイズ公共データシステム（長野市）の協力を得た。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+        "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc"
       },
-      "xDraft": "【本文】\n日経クロステックの調査によると、2026年度の売上見通しで「推進」や「海洋」分野を扱う建設会社の増収意欲が高いことが分かりました。増加と答えた割合から減少を引いた数値で、各分野の市場の勢いを分析しています。\n老朽化した下水道の更新や洋上風力発電といった、社会的な要請が強い分野への期待が数字に表れているように感じます。僕たちの暮らしを支える「見えない場所」の技術が評価され、産業の活力に繋がっていくのはとても嬉しいことです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03767/091700004/\n\n【抜粋元】\n2026年度に期末を迎える決算期の売上高見通しを調査した記事です。各工事分野について「増加」「横ばい」「減少」の回答比率から算出された指標に基づき、推進工事や海洋工事の分野で増収を見込む企業が多いという事実を整理しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日経クロステックが、建設会社182社の2025年度決算ランキングを公開しました。経営事項審査の完成工事高が土木一式等で30億円以上などの条件を満たす593社へアンケートを行い、回答のあった企業のデータをまとめたものです。\n\n経営事項審査の数値は、僕たち業界に関わる者にとって自社の立ち位置や市場の推移を知る大切な指標ですね。これだけの社数の決算データが横並びで公開される機会は多くないので、非常に読み応えがあります。各社の経営戦略が数字にどう表れているのか、じっくりと読み解いてみたいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/\n\n【抜粋元】\n経営事項審査（経審）の完成工事高を基準に抽出された建設会社へのアンケート結果から、有効回答のあった182社の決算ランキングがまとめられた記事の内容に基づいています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "2026年度に期末を迎える決算期の売上高見通しを調査した記事です。各工事分野について「増加」「横ばい」「減少」の回答比率から算出された指標に基づき、推進工事や海洋工事の分野で増収を見込む企業が多いという事実を整理しました。",
+      "xDraftExcerptSummary": "経営事項審査（経審）の完成工事高を基準に抽出された建設会社へのアンケート結果から、有効回答のあった182社の決算ランキングがまとめられた記事の内容に基づいています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
-        "pubDate": "2026-09-28T20:00:00.000Z",
+        "title": "配筋検査や測量にAI、フィジカルAIの取り組みも　建設DXの展示が目白押し",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
+        "pubDate": "2026-09-29T07:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "京浜急行電鉄の京急本線で泉岳寺―品川間の下り線を仮線に切り替える工事が完了し、品川駅周辺の地平化に向けた事業が前進した。東京都が主体で進める「泉岳寺―新馬場間における連続立体交差事業」は、2029年度を目標に区間内にある3つの踏切を除却する計画だ。それに伴い、京急本線の品川駅周辺が高架から地上に移り、品川駅から北品川駅を経由して新馬場駅に至るまでの区間が高架化する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/",
-        "fingerprint": "45787cd3e298670ea84cb558ccfd91b19f0845bd555fabdb98b6d0206d228179"
+        "score": 4.8,
+        "contentSnippet": "人手不足が常態化する建設業界では、施工管理や設計といった業務をデジタル技術で効率化するDX（デジタルトランスフォーメーション）への期待が高まっている。2026年9月29日に東京国際フォーラム（東京・千代田）で開幕した、日経BPが主催する最新テクノロジーの総合展「日経クロステックNEXT 東京 2026」では、建設DXに関する展示が盛りだくさんだ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
+        "fingerprint": "09a7d46214e702f0acefa4fae84382179115220ba77af37450b6c56fc5d0de71"
       },
-      "xDraft": "【本文】\n京急本線の泉岳寺―品川間で、下り線が仮線に切り替えられたそうです。品川駅周辺の地平化に向けた事業が前進しましたね。この「泉岳寺―新馬場間における連続立体交差事業」は、2029年度を目標に3つの踏切を除却し、区間内で高架化と地平化が複雑に展開する計画とのこと。\n\n都市の鉄道網を動かしながらの大規模なインフラ再編工事、その緻密な計画と技術力にはいつも感銘を受けます。完成の暁には、きっと地域の景観や利便性が大きく向上するのでしょう。僕もそのプロセスを注視していきたいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00110/00532/\n\n【抜粋元】\n今回の投稿は、日経クロステック 土木に掲載された「京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進」という記事の要約・抜粋から、京急本線の仮線切り替えと連続立体交差事業の進捗について書きました。\n\n【判定】OK",
+      "xDraft": "【本文】\n「日経クロステックNEXT 東京 2026」が開催され、建設DXに関する最新技術が多数展示されています。配筋検査や測量へのAI活用に加え、物理的な動きを伴うフィジカルAIの取り組みなど、施工管理や設計の効率化を目指す展示が目白押しです。\n\n人手不足が常態化するなかで、こうしたデジタル技術への期待はますます高まっていますね。現場の負担を減らすだけでなく、AIが実際の施工にどう関わっていくのか、その進化の過程を僕も注視していきたいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/\n\n【抜粋元】\n「日経クロステックNEXT 東京 2026」にて、配筋検査や測量へのAI活用、フィジカルAIといった建設DXに関する多様な展示が行われているという記事に基づき、業界の期待感を整理しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "今回の投稿は、日経クロステック 土木に掲載された「京急本線で下り線を仮線に切り替え、品川駅周辺の地平化へ前進」という記事の要約・抜粋から、京急本線の仮線切り替えと連続立体交差事業の進捗について書きました。",
+      "xDraftExcerptSummary": "「日経クロステックNEXT 東京 2026」にて、配筋検査や測量へのAI活用、フィジカルAIといった建設DXに関する多様な展示が行われているという記事に基づき、業界の期待感を整理しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+        "pubDate": "2026-09-29T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "2026年5月時点で公表されていた経営事項審査（経審）の完成工事高が、土木一式、舗装、とび・土工・コンクリートのいずれか1つ以上で30億円以上か、鋼橋上部で20億円以上だった計593社にアンケート用紙を送付した。有効回答は182社で回答率は31％。調査対象企業の選定で、経営状況分析機関のワイズ公共データシステム（長野市）の協力を得た。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+        "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc"
+      },
+      "xDraft": "【本文】\n日経クロステックが建設会社182社の2025年度決算ランキングを公開しました。完成工事高が一定基準（土木30億円以上など）を満たす593社を対象に調査を行い、31％の有効回答を得たものです。\n\nこうした大規模なアンケートに基づくランキングは、業界の今を知るための大切な指標になりますね。一社ずつの数字を追うことで、普段の現場からは見えにくい市場の輪郭が浮かび上がってくるようです。僕も自分たちの立ち位置を再確認するつもりで拝読します。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/\n\n【抜粋元】\n日経クロステックによる建設業界の最新決算ランキング記事です。調査対象の選定基準（経審の完成工事高）や、ワイズ公共データシステムの協力を得た背景など、データの信頼性に関する記述を基に執筆しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステックによる建設業界の最新決算ランキング記事です。調査対象の選定基準（経審の完成工事高）や、ワイズ公共データシステムの協力を得た背景など、データの信頼性に関する記述を基に執筆しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
-    "pubDate": "Mon, 28 Sep 2026 09:30:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 3.41152902,
-    "contentSnippet": "政投銀、UNICONホールディングスに出資 建設業の人的資本を強化  日本経済新聞",
-    "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5",
-    "fingerprint": "6e805e8b7d87c9d377fabc0627fd197dd3016cdc44fd7745a4cfe3426d005bd9"
+    "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+    "pubDate": "2026-09-29T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 4.8,
+    "contentSnippet": "2026年5月時点で公表されていた経営事項審査（経審）の完成工事高が、土木一式、舗装、とび・土工・コンクリートのいずれか1つ以上で30億円以上か、鋼橋上部で20億円以上だった計593社にアンケート用紙を送付した。有効回答は182社で回答率は31％。調査対象企業の選定で、経営状況分析機関のワイズ公共データシステム（長野市）の協力を得た。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
+    "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc"
   },
-  "xDraft": "【本文】\n日本政策投資銀行がUNICONホールディングスに出資したそうです。これは、建設業の人的資本強化を目的とした取り組みとのこと。\n建設業では、技術継承や人材確保が長年の課題です。今回の政投銀による出資は、そのような業界の人的資本強化を後押しするもの。UNICONホールディングスとの連携で、現場を支える人材や技術がより一層守られ、育っていくことを期待しています。\n\n出典：政投銀、UNICONホールディングスに出資 建設業の人的資本を強化 - 日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE8xNjZoLXJUT3gxSWxlVDl1TGhuLVk4QlpEOFFmRldta19CRjFmNDhWUTdadDl1UjQ5dV91MUtrSEJpZXlaU1ozT0FxR1JsN2tHc3FuSUVuSkdzUlhOaWFVYkFHMGJhUWxIRVJDXw?oc=5\n\n【抜粋元】\n日本経済新聞の「政投銀、UNICONホールディングスに出資 建設業の人的資本を強化」という記事を読んで、日本政策投資銀行が建設業の人的資本強化のためにUNICONホールディングスに出資した点について書きました。\n\n【判定】OK",
+  "xDraft": "【本文】\n日経クロステックが、建設会社182社の2025年度決算ランキングを公開しました。経営事項審査の完成工事高が土木一式等で30億円以上などの条件を満たす593社へアンケートを行い、回答のあった企業のデータをまとめたものです。\n\n経営事項審査の数値は、僕たち業界に関わる者にとって自社の立ち位置や市場の推移を知る大切な指標ですね。これだけの社数の決算データが横並びで公開される機会は多くないので、非常に読み応えがあります。各社の経営戦略が数字にどう表れているのか、じっくりと読み解いてみたいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/\n\n【抜粋元】\n経営事項審査（経審）の完成工事高を基準に抽出された建設会社へのアンケート結果から、有効回答のあった182社の決算ランキングがまとめられた記事の内容に基づいています。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-2.5-flash",
+  "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日本経済新聞の「政投銀、UNICONホールディングスに出資 建設業の人的資本を強化」という記事を読んで、日本政策投資銀行が建設業の人的資本強化のためにUNICONホールディングスに出資した点について書きました。",
+  "xDraftExcerptSummary": "経営事項審査（経審）の完成工事高を基準に抽出された建設会社へのアンケート結果から、有効回答のあった182社の決算ランキングがまとめられた記事の内容に基づいています。",
   "xDraftAlternates": [],
   "errors": []
 }
