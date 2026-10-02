@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T00:41:28.926Z",
+  "generatedAt": "2026-10-02T00:58:50.074Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
-  "skippedJapanFocus": 0,
+  "skippedDuplicates": 4,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
@@ -27,26 +27,6 @@
       "fingerprint": "69980d916d76182806891174741bc6ea86977d501264e15fe9317ddc402acc6e"
     },
     {
-      "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
-      "pubDate": "2026-09-29T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "2026年5月時点で公表されていた経営事項審査（経審）の完成工事高が、土木一式、舗装、とび・土工・コンクリートのいずれか1つ以上で30億円以上か、鋼橋上部で20億円以上だった計593社にアンケート用紙を送付した。有効回答は182社で回答率は31％。調査対象企業の選定で、経営状況分析機関のワイズ公共データシステム（長野市）の協力を得た。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
-      "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc"
-    },
-    {
-      "title": "配筋検査や測量にAI、フィジカルAIの取り組みも　建設DXの展示が目白押し",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
-      "pubDate": "2026-09-29T07:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "人手不足が常態化する建設業界では、施工管理や設計といった業務をデジタル技術で効率化するDX（デジタルトランスフォーメーション）への期待が高まっている。2026年9月29日に東京国際フォーラム（東京・千代田）で開幕した、日経BPが主催する最新テクノロジーの総合展「日経クロステックNEXT 東京 2026」では、建設DXに関する展示が盛りだくさんだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900035/",
-      "fingerprint": "09a7d46214e702f0acefa4fae84382179115220ba77af37450b6c56fc5d0de71"
-    },
-    {
       "title": "まさかの焼失で首里城正殿「令和の復元」始動、琉球史研究者の失意と再起",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/",
       "pubDate": "2026-09-30T20:00:00.000Z",
@@ -67,44 +47,64 @@
       "fingerprint": "69980d916d76182806891174741bc6ea86977d501264e15fe9317ddc402acc6e"
     },
     {
-      "title": "建設会社の2025年度決算ランキング、182社のデータ一挙公開",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
-      "pubDate": "2026-09-29T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "2026年5月時点で公表されていた経営事項審査（経審）の完成工事高が、土木一式、舗装、とび・土工・コンクリートのいずれか1つ以上で30億円以上か、鋼橋上部で20億円以上だった計593社にアンケート用紙を送付した。有効回答は182社で回答率は31％。調査対象企業の選定で、経営状況分析機関のワイズ公共データシステム（長野市）の協力を得た。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03767/091700005/",
-      "fingerprint": "b94f00dc4053650f8f9a71d6bcf5684d3846b4a6aadec09e69ba0e4ab395a3cc"
+      "title": "日本の建設業界における求人情報を探り、つながりを築きましょう。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:07:07 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4117675443000004,
+      "contentSnippet": "日本の建設業界における求人情報を探り、つながりを築きましょう。  Vietnam.vn",
+      "urlNorm": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5",
+      "fingerprint": "45b73a066e39450bffd0368451826cddb1c971433ef06efcfc2fd6318077f7f2"
     },
     {
-      "title": "日本のモジュール建築市場：市場規模、シェア、需要、成長要因、主要企業、および展望（2026年～2034年） - Newscast.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TN0F2Y2loMTBVZlBuM2RsdmxHSE9yZFNhZ1h3eFlFMGtHU0loNmh4dHRGQ2ZCRkxFMnlkWEw3RXdCaEowNDdEeTZIWTVWZms?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 22:30:00 GMT",
+      "title": "メコンデルタ出身の学生に、日本の建設業界での就職機会を創出する。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnBkLTRROTBDVGtoQWxOVVNGYlB3dzRHQVdTd245SlBHUE5MaG44Z19EbDdIUTNZNW13eWZVMEt4SURZQUIzYnc3bmE2YXVPUURfMG1XTFhpblR0eW90MGY1TmJIM1p5ei1ZYi1XMkNUNElnM0lyRDZOZ3JEVnBtejZPZkpwZzg2ODNFenpHNm43ZEE1WHRJ?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 10:48:52 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4116489,
-      "contentSnippet": "日本のモジュール建築市場：市場規模、シェア、需要、成長要因、主要企業、および展望（2026年～2034年）  Newscast.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TN0F2Y2loMTBVZlBuM2RsdmxHSE9yZFNhZ1h3eFlFMGtHU0loNmh4dHRGQ2ZCRkxFMnlkWEw3RXdCaEowNDdEeTZIWTVWZms?oc=5",
-      "fingerprint": "8764d7f026c2e14bdfee52c293a42d00e205d2b80a551a5e0dcc3e792401ef44"
+      "score": 3.4117665588,
+      "contentSnippet": "メコンデルタ出身の学生に、日本の建設業界での就職機会を創出する。  Vietnam.vn",
+      "urlNorm": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnBkLTRROTBDVGtoQWxOVVNGYlB3dzRHQVdTd245SlBHUE5MaG44Z19EbDdIUTNZNW13eWZVMEt4SURZQUIzYnc3bmE2YXVPUURfMG1XTFhpblR0eW90MGY1TmJIM1p5ei1ZYi1XMkNUNElnM0lyRDZOZ3JEVnBtejZPZkpwZzg2ODNFenpHNm43ZEE1WHRJ?oc=5",
+      "fingerprint": "29435631ad62695d7357fb464296f0b5091592c5be2459624ff4c7a8ad06394f"
     },
     {
-      "title": "日本の防衛を支える企業、全国に4628社 「建設業」が最多に（帝国データバンク） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAycXVjV29oaTZUdlBuN1QzTmNqQ184dW9xQkgyWG9CbzBMWk5TTVFCaEpLZW54U2JXNkpxQzM1U0FSc1RnSXlTOU5rejdsQWhiaDRYUUtsMjUwRTFRSjRaUXEwTmMxTGtpYng3dDRSVzJsWWZhbFZwMlVMcEc3SDA?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 01:02:40 GMT",
+      "title": "AIで紙図面を一瞬でCAD化 日本HPが「建設図面の最新版が分かる」プリンタ新機能を発表：設計×AI（1/3 ページ） - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rcWY4NGNwdXByUDBDRUhGX0hUUk15SEpZWGM1UGRHZHZJUjV3YTlKb09Ua0dJNDRLc0RZTVFzRE9fVW14ckk3OU9MOVhSYnUzVDVzMDZsc19Ta0I2ekJCSHE5MldYNFRlc0s3TQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 22:33:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.411579384,
-      "contentSnippet": "日本の防衛を支える企業、全国に4628社 「建設業」が最多に（帝国データバンク）  Yahoo!ニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAycXVjV29oaTZUdlBuN1QzTmNqQ184dW9xQkgyWG9CbzBMWk5TTVFCaEpLZW54U2JXNkpxQzM1U0FSc1RnSXlTOU5rejdsQWhiaDRYUUtsMjUwRTFRSjRaUXEwTmMxTGtpYng3dDRSVzJsWWZhbFZwMlVMcEc3SDA?oc=5",
-      "fingerprint": "e6d849a56451bbf18944cd535bbacc758043130fdda6321f2b0fa7180773fab1"
+      "score": 3.4117268220000003,
+      "contentSnippet": "AIで紙図面を一瞬でCAD化 日本HPが「建設図面の最新版が分かる」プリンタ新機能を発表：設計×AI（1/3 ページ）  ITmedia",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rcWY4NGNwdXByUDBDRUhGX0hUUk15SEpZWGM1UGRHZHZJUjV3YTlKb09Ua0dJNDRLc0RZTVFzRE9fVW14ckk3OU9MOVhSYnUzVDVzMDZsc19Ta0I2ekJCSHE5MldYNFRlc0s3TQ?oc=5",
+      "fingerprint": "21595abfaf7ed7ad914af0b67435c538a32592bba27a86d8095f956ba1f183e5"
     },
     {
-      "title": "日本の防衛を支える企業、全国に4628社 「建設業」が最多に (帝国データバンク) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUMxQ3Z2OVVFb0tnUko5YWl2MEVqaVI0X3lsRXQwSUJ2aFZaejVHNHk2Nk9zSHlFa2JpM0RlRl9POWx2aVZ0bjBGMU53RFBIUHJTdF9MSldPbENVX3FfNG90S21TN0VIdTB3dEhTRlNaVmJHdDF3aTBjdmRaYXJrSzBDZjYzMTF1VHBrQmxB?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 01:02:40 GMT",
+      "title": "国土交通省、建設業の供給力強化へ新事業 処遇改善やDX推進を支援 - nikkei.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KRU9mZUlHSXdQa0VWYU0wT2JRMFRBQUxDTEFXNURKX1ZtTHNBMEVCOGZ3SWx1ZWxTS1d1ZURRSXUxejhTOEY2QXV2VUxaVXY1ck1zbHZHdElCU2Y4cUZ1enc0TEFHc09nSm05NQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:00:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.411579384,
-      "contentSnippet": "日本の防衛を支える企業、全国に4628社 「建設業」が最多に (帝国データバンク)  Yahoo!ニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUMxQ3Z2OVVFb0tnUko5YWl2MEVqaVI0X3lsRXQwSUJ2aFZaejVHNHk2Nk9zSHlFa2JpM0RlRl9POWx2aVZ0bjBGMU53RFBIUHJTdF9MSldPbENVX3FfNG90S21TN0VIdTB3dEhTRlNaVmJHdDF3aTBjdmRaYXJrSzBDZjYzMTF1VHBrQmxB?oc=5",
-      "fingerprint": "fd0d921d00a10e4e135145a912cbd12f7d0cc7cb22802b9cb7e29b3d288d5ae6"
+      "score": 3.41171856,
+      "contentSnippet": "国土交通省、建設業の供給力強化へ新事業 処遇改善やDX推進を支援  nikkei.com",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KRU9mZUlHSXdQa0VWYU0wT2JRMFRBQUxDTEFXNURKX1ZtTHNBMEVCOGZ3SWx1ZWxTS1d1ZURRSXUxejhTOEY2QXV2VUxaVXY1ck1zbHZHdElCU2Y4cUZ1enc0TEFHc09nSm05NQ?oc=5",
+      "fingerprint": "9f94f9759c2baa12ad6b7167e9efb9b4b95ac87c4792b3c68afa129a83eea43c"
+    },
+    {
+      "title": "全国161橋で基礎部の耐震性能不足、緊急輸送道路の橋　会計検査院が指摘",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02777/",
+      "pubDate": "2026-10-01T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "耐震補強工事を実施した緊急輸送道路などの橋のうち、全国で161橋が必要な耐震性能を満たしていないことが会計検査院の検査で分かった。耐震性能が未確認だった例などを含めると問題のある橋は407橋に上る。耐震補強で橋脚の重量が増えるにもかかわらず、基礎部の耐震性能を確認せずに補強工事を進めたことなどが原因だ。会計検査院が2026年9月28日に発表した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02777/",
+      "fingerprint": "80e61368bb6d3b06b48068adcca591c4acae0f8473ae4f49a9c4eaeaeb1358a4"
+    },
+    {
+      "title": "自社の強みを生かすAI適用を、三菱マテとセブン銀行のIT幹部がDXの勘所語る",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100048/",
+      "pubDate": "2026-10-01T02:50:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経BPが主催する「未来をつくるテクノロジー展　日経クロステックNEXT 東京 2026」（2026年9月29～30日開催）の基調講演では、「三菱マテリアル・セブン銀行のIT幹部に聞く！DX推進の要諦」と題したパネルディスカッションを実施。DXを進めるための勘所について議論した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100048/",
+      "fingerprint": "d587f63cf904419c7377202f0534cfa58481943c8446ca699a4c623e96e5c320"
     },
     {
       "title": "1位は「2024年度の建築売上高ランキングを一挙公開、2連覇の大林組は25年度も増収見通し」",
@@ -117,16 +117,6 @@
       "fingerprint": "8f7bcd2b02f3a60df9b192c82297202231d7eec430a3f533f1eb7f9903c04bab"
     },
     {
-      "title": "印旛沼の決壊堤防で緊急復旧進む、鹿島施工で台風接近に備え荒締め切り",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02778/",
-      "pubDate": "2026-09-30T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "台風25号の大雨による印旛沼の決壊堤防3カ所で、台風26号の接近に備え、緊急復旧工事が進む。3カ所のうち、規模が最大だった「船形干拓」（千葉県成田市）の決壊箇所では、国土交通省が工事を発注し、鹿島が昼夜兼行で荒締め切りの完了を急いでいる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02778/",
-      "fingerprint": "9baf190d54b3ba3c182ccff0a9d72c9064548282cca18b6849baa822157a4b0d"
-    },
-    {
       "title": "鹿島、長大な鉄筋籠の配筋検査時間を約7割削減　移動式カメラとAI活用",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02773/",
       "pubDate": "2026-09-30T20:00:00.000Z",
@@ -135,6 +125,16 @@
       "contentSnippet": "鹿島は三菱電機エンジニアリング（東京・港）と共同で、カメラを備えた門型移動装置で長大な鉄筋籠の配筋を検査するシステムを開発した。ステレオカメラを2組使うことで、補強枠による死角をなくした。撮影した画像を基に、AI（人工知能）で鉄筋の本数や間隔、径などを確認する。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02773/",
       "fingerprint": "9312f8d9d769a0d7e3300d1df83d655e0c21f350ea9acabf55061bb15f448c39"
+    },
+    {
+      "title": "印旛沼の決壊堤防で緊急復旧進む、鹿島施工で台風接近に備え荒締め切り",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02778/",
+      "pubDate": "2026-09-30T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "台風25号の大雨による印旛沼の決壊堤防3カ所で、台風26号の接近に備え、緊急復旧工事が進む。3カ所のうち、規模が最大だった「船形干拓」（千葉県成田市）の決壊箇所では、国土交通省が工事を発注し、鹿島が昼夜兼行で荒締め切りの完了を急いでいる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02778/",
+      "fingerprint": "9baf190d54b3ba3c182ccff0a9d72c9064548282cca18b6849baa822157a4b0d"
     },
     {
       "title": "「ROIよりAI活用文化の醸成」、日清・荏原・セゾンのDXリーダーが議論",
@@ -147,87 +147,87 @@
       "fingerprint": "4a69e1b441edb5d193fd9c03c3911e7d56c3f6f423906dc5b269a288e45b0353"
     },
     {
-      "title": "「1モデルで多様なタスク」、米新興やPFN岡野原氏が語る最新フィジカルAI事情",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900028/",
-      "pubDate": "2026-09-29T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "フィジカルAI（人工知能）の性能が急速に進化している。2026年9月29日に開催された「Robotics NEXT Tokyo 2026」（東京国際フォーラム、「日経クロステックNEXT 東京 2026」と同時開催）では、米Physical IntelligenceのAshwin Balakrishna氏、Preferred Networks（PFN、東京・千代田）代表取締役社長の岡野原大輔氏が基調講演に登壇し、最新のフィジカルAIとその課題について語った。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900028/",
-      "fingerprint": "e699f40e81ab80e7c7dcd3d90c04cd8cde838e196c3ee61c8ae21cc8098460df"
+      "title": "自社の強みを生かすAI適用を、三菱マテとセブン銀行のIT幹部がDXの勘所語る",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100048/",
+      "pubDate": "2026-10-01T02:50:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経BPが主催する「未来をつくるテクノロジー展　日経クロステックNEXT 東京 2026」（2026年9月29～30日開催）の基調講演では、「三菱マテリアル・セブン銀行のIT幹部に聞く！DX推進の要諦」と題したパネルディスカッションを実施。DXを進めるための勘所について議論した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100048/",
+      "fingerprint": "d587f63cf904419c7377202f0534cfa58481943c8446ca699a4c623e96e5c320"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "まさかの焼失で首里城正殿「令和の復元」始動、琉球史研究者の失意と再起",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/",
-        "pubDate": "2026-09-30T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "国指定史跡で世界文化遺産の1つでもある首里城（那覇市）で2026年9月30日、琉球王国最大の木造建造物「正殿」を復元する建築工事が完了した。19年の火災で焼失してから約7年。再びその姿がよみがえった。「令和の復元」と呼ばれるプロジェクトの物語は、火の手が上がったその日から始まった。最初の登場人物は琉球王国史研究の第一人者、琉球大学名誉教授の高良倉吉である。（敬称略）",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/",
-        "fingerprint": "5bad413fde15e7526454e528c9b590130b38780e8a4839c93698bf2894381ea4"
+        "title": "日本の建設業界における求人情報を探り、つながりを築きましょう。 - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 11:07:07 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4117675443000004,
+        "contentSnippet": "日本の建設業界における求人情報を探り、つながりを築きましょう。  Vietnam.vn",
+        "urlNorm": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5",
+        "fingerprint": "45b73a066e39450bffd0368451826cddb1c971433ef06efcfc2fd6318077f7f2"
       },
-      "xDraft": "【本文】\n2019年の火災で焼失した首里城正殿が、2026年9月の完了を目指し「令和の復元」として再びその姿を現そうとしています。この記事では、琉球史研究の第一人者である高良倉吉氏ら関係者が、火災当日の失意からいかにして再起したのか、その物語が描かれています。\n\n一度失われた巨大な木造建築を、歴史的背景を尊重しつつ再現するのは並大抵のことではありません。形を戻すだけでなく、地域の誇りや人々の記憶を繋ぎ直す作業に僕は土木・建築の真髄を感じます。技術者が歴史と向き合う姿勢に深く敬服します。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/\n\n【抜粋元】\n2019年の首里城火災から約7年、2026年9月の正殿復元完了を目指す「令和の復元」プロジェクトの背景と、高良倉吉氏ら関係者の再起を描いた日経クロステック 土木の記事から抜粋しました。\n\n【判定】OK",
+      "xDraft": "【本文】\nベトナムのニュースメディアにおいて、日本の建設業界での求人情報の探し方や、人との繋がりを築くことの重要性が報じられています。\n\n日本の現場を支える担い手として、海外からも強い関心が寄せられていることを実感します。単なる労働力の確保という視点だけでなく、異なる背景を持つ方々と共に働くことで、業界全体に新しい価値観や活気が生まれることを期待したいですね。僕も現場での新しい出会いを大切にしていきたいです。\n\n出典：Vietnam.vn\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5\n\n【抜粋元】\nベトナムのメディアである「Vietnam.vn」が、日本の建設業界でのキャリア形成やネットワーク構築に焦点を当てて報じた記事に基づいています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "2019年の首里城火災から約7年、2026年9月の正殿復元完了を目指す「令和の復元」プロジェクトの背景と、高良倉吉氏ら関係者の再起を描いた日経クロステック 土木の記事から抜粋しました。",
+      "xDraftExcerptSummary": "ベトナムのメディアである「Vietnam.vn」が、日本の建設業界でのキャリア形成やネットワーク構築に焦点を当てて報じた記事に基づいています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "「AIが進んでも判断は人」、国土交通省のAI活用3つの柱　廣瀬技監が語る",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/093000044/",
-        "pubDate": "2026-09-30T06:30:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "2026年9月30日、東京国際フォーラム（東京・千代田）で開催している「日経クロステックNEXT 東京 2026」に、国土交通省で技術系トップの技監を務める廣瀬昌由氏が基調講演に登壇。令和8年熊本地震への対応や、同省が進めるインフラ分野のAI実装に向けた方針などを語り、建設分野を取り巻く課題と今後の方向性を示した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/093000044/",
-        "fingerprint": "69980d916d76182806891174741bc6ea86977d501264e15fe9317ddc402acc6e"
+        "title": "メコンデルタ出身の学生に、日本の建設業界での就職機会を創出する。 - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnBkLTRROTBDVGtoQWxOVVNGYlB3dzRHQVdTd245SlBHUE5MaG44Z19EbDdIUTNZNW13eWZVMEt4SURZQUIzYnc3bmE2YXVPUURfMG1XTFhpblR0eW90MGY1TmJIM1p5ei1ZYi1XMkNUNElnM0lyRDZOZ3JEVnBtejZPZkpwZzg2ODNFenpHNm43ZEE1WHRJ?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 10:48:52 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4117665588,
+        "contentSnippet": "メコンデルタ出身の学生に、日本の建設業界での就職機会を創出する。  Vietnam.vn",
+        "urlNorm": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnBkLTRROTBDVGtoQWxOVVNGYlB3dzRHQVdTd245SlBHUE5MaG44Z19EbDdIUTNZNW13eWZVMEt4SURZQUIzYnc3bmE2YXVPUURfMG1XTFhpblR0eW90MGY1TmJIM1p5ei1ZYi1XMkNUNElnM0lyRDZOZ3JEVnBtejZPZkpwZzg2ODNFenpHNm43ZEE1WHRJ?oc=5",
+        "fingerprint": "29435631ad62695d7357fb464296f0b5091592c5be2459624ff4c7a8ad06394f"
       },
-      "xDraft": "【本文】\n国土交通省の廣瀬技監が、インフラ分野におけるAI実装の方向性について講演されました。2026年の熊本地震への対応事例にも触れつつ、「AIが進んでも判断は人」という基本姿勢を強調されています。\n\n膨大なデータを処理するAIの力は不可欠ですが、最終的な決断を下すのは人間であるという言葉には、技術者としての矜持を感じます。道具を賢く使いこなしながら、僕たち人間にしかできない「現場での最適解」を見出す力を磨き続けていきたいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03745/093000044/\n\n【抜粋元】\n日経クロステックNEXT 東京 2026での廣瀬技監の基調講演から、国交省が示すAI活用の基本方針と「最終的な判断は人間が行う」という核心部分を抽出して作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\nベトナムのメコンデルタ地域の学生を対象に、日本の建設業界での就職機会を創出する取り組みが報じられています。深刻な人手不足が続く日本の現場にとって、海外の意欲ある若者の力は非常に心強いものです。単なる労働力の補填ではなく、彼らが日本の高度な技術を学び、将来的に自国の発展にも貢献できるような、質の高いキャリアパスが確立されることを期待しています。\n\n出典：Vietnam.vn\nhttps://news.google.com/rss/articles/CBMilwFBVV95cUxNZnBkLTRROTBDVGtoQWxOVVNGYlB3dzRHQVdTd245SlBHUE5MaG44Z19EbDdIUTNZNW13eWZVMEt4SURZQUIzYnc3bmE2YXVPUURfMG1XTFhpblR0eW90MGY1TmJIM1p5ei1ZYi1XMkNUNElnM0lyRDZOZ3JEVnBtejZPZkpwZzg2ODNFenpHNm43ZEE1WHRJ?oc=5\n\n【抜粋元】\nベトナム・メコンデルタ地方の学生に対し、日本の建設業界での雇用機会を提供するというVietnam.vnの報道に基づき、国際的な人材交流の重要性について僕の考えを添えました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックNEXT 東京 2026での廣瀬技監の基調講演から、国交省が示すAI活用の基本方針と「最終的な判断は人間が行う」という核心部分を抽出して作成しました。",
+      "xDraftExcerptSummary": "ベトナム・メコンデルタ地方の学生に対し、日本の建設業界での雇用機会を提供するというVietnam.vnの報道に基づき、国際的な人材交流の重要性について僕の考えを添えました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "まさかの焼失で首里城正殿「令和の復元」始動、琉球史研究者の失意と再起",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/",
-        "pubDate": "2026-09-30T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "国指定史跡で世界文化遺産の1つでもある首里城（那覇市）で2026年9月30日、琉球王国最大の木造建造物「正殿」を復元する建築工事が完了した。19年の火災で焼失してから約7年。再びその姿がよみがえった。「令和の復元」と呼ばれるプロジェクトの物語は、火の手が上がったその日から始まった。最初の登場人物は琉球王国史研究の第一人者、琉球大学名誉教授の高良倉吉である。（敬称略）",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/",
-        "fingerprint": "5bad413fde15e7526454e528c9b590130b38780e8a4839c93698bf2894381ea4"
+        "title": "AIで紙図面を一瞬でCAD化 日本HPが「建設図面の最新版が分かる」プリンタ新機能を発表：設計×AI（1/3 ページ） - ITmedia",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rcWY4NGNwdXByUDBDRUhGX0hUUk15SEpZWGM1UGRHZHZJUjV3YTlKb09Ua0dJNDRLc0RZTVFzRE9fVW14ckk3OU9MOVhSYnUzVDVzMDZsc19Ta0I2ekJCSHE5MldYNFRlc0s3TQ?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 22:33:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4117268220000003,
+        "contentSnippet": "AIで紙図面を一瞬でCAD化 日本HPが「建設図面の最新版が分かる」プリンタ新機能を発表：設計×AI（1/3 ページ）  ITmedia",
+        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rcWY4NGNwdXByUDBDRUhGX0hUUk15SEpZWGM1UGRHZHZJUjV3YTlKb09Ua0dJNDRLc0RZTVFzRE9fVW14ckk3OU9MOVhSYnUzVDVzMDZsc19Ta0I2ekJCSHE5MldYNFRlc0s3TQ?oc=5",
+        "fingerprint": "21595abfaf7ed7ad914af0b67435c538a32592bba27a86d8095f956ba1f183e5"
       },
-      "xDraft": "【本文】\n日経クロステック 建築・住宅の記事によれば、2026年9月30日、首里城正殿の復元建築工事が完了したそうです。2019年の火災から約7年を経て、琉球王国最大の木造建造物が再び姿を現しました。「令和の復元」と呼ばれるこのプロジェクトは、火災当日、琉球史研究の第一人者である高良倉吉先生の尽力から始まったと紹介されています。\n\n歴史的な建造物を元の姿に戻すための復元工事には、並々ならぬ情熱と高い技術が必要だったことでしょう。失われた文化財を現代の技術で甦らせる現場の皆様には、心からの敬意を抱きます。ただの再建ではなく、未来へと繋ぐ知恵と工夫が詰まっているのだと思います。研究者の方々の失意からの再起も、この偉業を支えた大きな力だったのでしょうね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事「まさかの焼失で首里城正殿「令和の復元」始動、琉球史研究者の失意と再起」から、首里城正殿の復元工事完了時期と、プロジェクトが琉球史研究者によって始まった点に着目し、石男くんとしての感想を添えて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本HPが、AIを活用して紙図面をCADデータ化したり、図面の最新版を自動で識別したりするプリンターの新機能を発表しました。建設現場における図面管理の効率化を目指す取り組みです。\n\n現場では常に最新の図面を参照する必要がありますが、差し替えの漏れは品質や工程に直結する課題です。図面を出力・スキャンする接点であるプリンターが版管理をサポートするというのは、非常に実効性の高いDXだと感じました。\n\n出典：ITmedia\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE9rcWY4NGNwdXByUDBDRUhGX0hUUk15SEpZWGM1UGRHZHZJUjV3YTlKb09Ua0dJNDRLc0RZTVFzRE9fVW14ckk3OU9MOVhSYnUzVDVzMDZsc19Ta0I2ekJCSHE5MldYNFRlc0s3TQ?oc=5\n\n【抜粋元】\n日本HPが発表した、建設図面の最新版を識別するプリンターの新機能についての記事です。AIによる紙図面のCAD化機能や、クラウドと連携した版管理の仕組みについて触れています。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事「まさかの焼失で首里城正殿「令和の復元」始動、琉球史研究者の失意と再起」から、首里城正殿の復元工事完了時期と、プロジェクトが琉球史研究者によって始まった点に着目し、石男くんとしての感想を添えて作成しました。",
+      "xDraftExcerptSummary": "日本HPが発表した、建設図面の最新版を識別するプリンターの新機能についての記事です。AIによる紙図面のCAD化機能や、クラウドと連携した版管理の仕組みについて触れています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "まさかの焼失で首里城正殿「令和の復元」始動、琉球史研究者の失意と再起",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/",
-    "pubDate": "2026-09-30T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "国指定史跡で世界文化遺産の1つでもある首里城（那覇市）で2026年9月30日、琉球王国最大の木造建造物「正殿」を復元する建築工事が完了した。19年の火災で焼失してから約7年。再びその姿がよみがえった。「令和の復元」と呼ばれるプロジェクトの物語は、火の手が上がったその日から始まった。最初の登場人物は琉球王国史研究の第一人者、琉球大学名誉教授の高良倉吉である。（敬称略）",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/",
-    "fingerprint": "5bad413fde15e7526454e528c9b590130b38780e8a4839c93698bf2894381ea4"
+    "title": "日本の建設業界における求人情報を探り、つながりを築きましょう。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5",
+    "pubDate": "Thu, 01 Oct 2026 11:07:07 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 3.4117675443000004,
+    "contentSnippet": "日本の建設業界における求人情報を探り、つながりを築きましょう。  Vietnam.vn",
+    "urlNorm": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5",
+    "fingerprint": "45b73a066e39450bffd0368451826cddb1c971433ef06efcfc2fd6318077f7f2"
   },
-  "xDraft": "【本文】\n2019年の火災で焼失した首里城正殿が、2026年9月の完了を目指し「令和の復元」として再びその姿を現そうとしています。この記事では、琉球史研究の第一人者である高良倉吉氏ら関係者が、火災当日の失意からいかにして再起したのか、その物語が描かれています。\n\n一度失われた巨大な木造建築を、歴史的背景を尊重しつつ再現するのは並大抵のことではありません。形を戻すだけでなく、地域の誇りや人々の記憶を繋ぎ直す作業に僕は土木・建築の真髄を感じます。技術者が歴史と向き合う姿勢に深く敬服します。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03444/092900042/\n\n【抜粋元】\n2019年の首里城火災から約7年、2026年9月の正殿復元完了を目指す「令和の復元」プロジェクトの背景と、高良倉吉氏ら関係者の再起を描いた日経クロステック 土木の記事から抜粋しました。\n\n【判定】OK",
+  "xDraft": "【本文】\nベトナムのニュースメディアにおいて、日本の建設業界での求人情報の探し方や、人との繋がりを築くことの重要性が報じられています。\n\n日本の現場を支える担い手として、海外からも強い関心が寄せられていることを実感します。単なる労働力の確保という視点だけでなく、異なる背景を持つ方々と共に働くことで、業界全体に新しい価値観や活気が生まれることを期待したいですね。僕も現場での新しい出会いを大切にしていきたいです。\n\n出典：Vietnam.vn\nhttps://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5\n\n【抜粋元】\nベトナムのメディアである「Vietnam.vn」が、日本の建設業界でのキャリア形成やネットワーク構築に焦点を当てて報じた記事に基づいています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "2019年の首里城火災から約7年、2026年9月の正殿復元完了を目指す「令和の復元」プロジェクトの背景と、高良倉吉氏ら関係者の再起を描いた日経クロステック 土木の記事から抜粋しました。",
+  "xDraftExcerptSummary": "ベトナムのメディアである「Vietnam.vn」が、日本の建設業界でのキャリア形成やネットワーク構築に焦点を当てて報じた記事に基づいています。",
   "xDraftAlternates": [],
   "errors": []
 }
