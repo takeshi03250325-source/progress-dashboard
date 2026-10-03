@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T00:36:00.591Z",
+  "generatedAt": "2026-10-03T23:57:22.330Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 0,
   "candidates": [
     {
       "title": "NTTドコモビジネス、竹中工務店と清水建設の 日本国内の建築現場へ 建設業向けクラウド型工程アプリ「GaNett(R)」を展開 - アットプレス",
@@ -15,219 +15,14 @@
       "contentSnippet": "NTTドコモビジネス、竹中工務店と清水建設の 日本国内の建築現場へ 建設業向けクラウド型工程アプリ「GaNett(R)」を展開  アットプレス",
       "urlNorm": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5",
       "fingerprint": "f46b38e42bd839b50c1139db279c3bd7b3adb8af662a6e7cb660b931ff47657f"
-    },
-    {
-      "title": "日本の建設業界における求人情報を探り、つながりを築きましょう。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 11:07:07 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4117675443000004,
-      "contentSnippet": "日本の建設業界における求人情報を探り、つながりを築きましょう。  Vietnam.vn",
-      "urlNorm": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2FJUk5XMXVGWTBPZ0EwTkIxS0tDOWVmM3FvX3MzTm5QaG15bUFWb2NvNktrWnFUMEN5M1ktOFlfT1VJeFlKclBKQmNaY0ZQR3lLc0I5bjBBYnZxTVRKZW9lbXMzcm5ia01OeXRjVzFiYnp1VDU1MHk0dS0wc015aFpTSWZjQ29YTTRiQVpQaTFVdw?oc=5",
-      "fingerprint": "45b73a066e39450bffd0368451826cddb1c971433ef06efcfc2fd6318077f7f2"
-    },
-    {
-      "title": "メコンデルタ出身の学生に、日本の建設業界での就職機会を創出する。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnBkLTRROTBDVGtoQWxOVVNGYlB3dzRHQVdTd245SlBHUE5MaG44Z19EbDdIUTNZNW13eWZVMEt4SURZQUIzYnc3bmE2YXVPUURfMG1XTFhpblR0eW90MGY1TmJIM1p5ei1ZYi1XMkNUNElnM0lyRDZOZ3JEVnBtejZPZkpwZzg2ODNFenpHNm43ZEE1WHRJ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 10:48:52 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4117665588,
-      "contentSnippet": "メコンデルタ出身の学生に、日本の建設業界での就職機会を創出する。  Vietnam.vn",
-      "urlNorm": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnBkLTRROTBDVGtoQWxOVVNGYlB3dzRHQVdTd245SlBHUE5MaG44Z19EbDdIUTNZNW13eWZVMEt4SURZQUIzYnc3bmE2YXVPUURfMG1XTFhpblR0eW90MGY1TmJIM1p5ei1ZYi1XMkNUNElnM0lyRDZOZ3JEVnBtejZPZkpwZzg2ODNFenpHNm43ZEE1WHRJ?oc=5",
-      "fingerprint": "29435631ad62695d7357fb464296f0b5091592c5be2459624ff4c7a8ad06394f"
-    },
-    {
-      "title": "メコンデルタ出身の学生たちが、日本の建設業界における就職機会を探る。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0VqT0xfY0htUHNOcVRnbW82eFVLQUVSaDE0eGVvTF9lWVJUVVlHcTRlT1Q5cEFVSFlRX2taczVRLS1zcDlfMFc4VVVUeG5EN2N5dU1CczhUelJaZ1ZSM1BGUWxoelBhM2tHMkVBTk5qQ2NoSEFxVW4tZkx1dEhJRTMxZzduMVhIY19RSlpuaHlSUjgzSkNtRlRoWWs?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 10:08:11 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4117643619,
-      "contentSnippet": "メコンデルタ出身の学生たちが、日本の建設業界における就職機会を探る。  Vietnam.vn",
-      "urlNorm": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0VqT0xfY0htUHNOcVRnbW82eFVLQUVSaDE0eGVvTF9lWVJUVVlHcTRlT1Q5cEFVSFlRX2taczVRLS1zcDlfMFc4VVVUeG5EN2N5dU1CczhUelJaZ1ZSM1BGUWxoelBhM2tHMkVBTk5qQ2NoSEFxVW4tZkx1dEhJRTMxZzduMVhIY19RSlpuaHlSUjgzSkNtRlRoWWs?oc=5",
-      "fingerprint": "aa4f08ab999d4c153ee6fc95d46c02438b79c3ac15d4b31a9b8f8cd9c2828e5d"
-    },
-    {
-      "title": "全国161橋で基礎部の耐震性能不足、緊急輸送道路の橋　会計検査院が指摘",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02777/",
-      "pubDate": "2026-10-01T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "耐震補強工事を実施した緊急輸送道路などの橋のうち、全国で161橋が必要な耐震性能を満たしていないことが会計検査院の検査で分かった。耐震性能が未確認だった例などを含めると問題のある橋は407橋に上る。耐震補強で橋脚の重量が増えるにもかかわらず、基礎部の耐震性能を確認せずに補強工事を進めたことなどが原因だ。会計検査院が2026年9月28日に発表した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02777/",
-      "fingerprint": "80e61368bb6d3b06b48068adcca591c4acae0f8473ae4f49a9c4eaeaeb1358a4"
-    },
-    {
-      "title": "自社の強みを生かすAI適用を、三菱マテとセブン銀行のIT幹部がDXの勘所語る",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100048/",
-      "pubDate": "2026-10-01T02:50:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経BPが主催する「未来をつくるテクノロジー展　日経クロステックNEXT 東京 2026」（2026年9月29～30日開催）の基調講演では、「三菱マテリアル・セブン銀行のIT幹部に聞く！DX推進の要諦」と題したパネルディスカッションを実施。DXを進めるための勘所について議論した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100048/",
-      "fingerprint": "d587f63cf904419c7377202f0534cfa58481943c8446ca699a4c623e96e5c320"
-    },
-    {
-      "title": "自社の強みを生かすAI適用を、三菱マテとセブン銀行のIT幹部がDXの勘所語る",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100048/",
-      "pubDate": "2026-10-01T02:50:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経BPが主催する「未来をつくるテクノロジー展　日経クロステックNEXT 東京 2026」（2026年9月29～30日開催）の基調講演では、「三菱マテリアル・セブン銀行のIT幹部に聞く！DX推進の要諦」と題したパネルディスカッションを実施。DXを進めるための勘所について議論した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100048/",
-      "fingerprint": "d587f63cf904419c7377202f0534cfa58481943c8446ca699a4c623e96e5c320"
-    },
-    {
-      "title": "鋼構造及びコンクリート　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500070/",
-      "pubDate": "2026-10-01T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年度の選択科目「鋼構造及びコンクリート（鋼コンクリート）」は、材料・構造の基礎知識に加え、現場接合部、点検困難箇所、巨大地震への事前防災、担い手不足下の生産性向上など、実務上の品質確保を強く意識した出題となりました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500070/",
-      "fingerprint": "1adafca6144a3b055fed35b139ff6f7a5b97c5c86624b9d27eee274394c83bb4"
-    },
-    {
-      "title": "バイオものづくりで「資源自立型の産業革命を」、CTO大賞の日揮HD水口氏",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100047/",
-      "pubDate": "2026-10-01T09:30:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "「視点を変えれば二酸化炭素は資源になる。未利用資源と微生物の力で化学品などを製造するバイオものづくりで、日本に産業革命を起こしたい」──。「日経クロステックが選ぶCTOオブ・ザ・イヤー2026」で大賞を受賞した日揮ホールディングス執行役員CTOの水口能宏氏は力強く語った。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/100100047/",
-      "fingerprint": "49324f28bf1dedbb7f922669dcd3f126176fac728902dbf184ad351045149c53"
-    },
-    {
-      "title": "鋼構造及びコンクリート　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500070/",
-      "pubDate": "2026-10-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "2026年度の選択科目「鋼構造及びコンクリート（鋼コンクリート）」は、材料・構造の基礎知識に加え、現場接合部、点検困難箇所、巨大地震への事前防災、担い手不足下の生産性向上など、実務上の品質確保を強く意識した出題となりました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500070/",
-      "fingerprint": "1adafca6144a3b055fed35b139ff6f7a5b97c5c86624b9d27eee274394c83bb4"
-    },
-    {
-      "title": "熊本地震の停電時もエアコン稼働、オフグリッド住宅の在宅避難",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03759/091400007/",
-      "pubDate": "2026-10-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "2026年7月28日に発生した熊本地震では、酷暑に見舞われた被災地でも平時に近い生活ができた住宅がある。電気や水を自給自足するオフグリッド住宅がどのように機能したか。数少ない事例を紹介する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03759/091400007/",
-      "fingerprint": "535000da158bddd21b8fde273ca31239e739511d8f08032282344e142a390312"
-    },
-    {
-      "title": "淀屋橋ツインタワーの各事業者と大阪市が連携、調和のとれた街並み創出",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03756/091000003/",
-      "pubDate": "2026-10-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "淀屋橋ゲートタワーと淀屋橋ステーションワンが立つのは、御堂筋沿道でも拠点性の高い淀屋橋交差点の角地だ。同時期に事業が進んだことから、大阪市が両事業者をつなぎ、調和のとれた“ツインタワー”を目指した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03756/091000003/",
-      "fingerprint": "f7acac67cc5b6ac8f5db35b889f8f31b4699a3ea1ee08d5e807a2ab7e35e6638"
-    },
-    {
-      "title": "ガラス面が広い木枠の室内窓",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01067/",
-      "pubDate": "2026-10-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "toolboxは、ガラス面が広い木枠の室内窓「木製ガラス窓」を2026年6月に発売した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01067/",
-      "fingerprint": "36c0e3ff9c06c693fefc0a5ea5602ac14c3f85ddbcaf54f92c364ed7465d9aa1"
-    },
-    {
-      "title": "「夜の庭」が心身の疲労を回復、積水ハウスが住環境の効果を実証",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02933/",
-      "pubDate": "2026-10-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "積水ハウスは、住環境が心身に与える影響を考察する実験を実施した。夜間でも外部の自然が感じられる住環境は、視覚的な心地良さを感じさせるだけでなく、日常のパフォーマンスを向上させる可能性がある。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02933/",
-      "fingerprint": "3a917fbf10b244e41126d56bd8a06dcbfc1d49584ace3780bfe8952971dc3159"
-    },
-    {
-      "title": "担い手不足に外国人技術者の採用拡大、定着には柔軟な環境整備が必要",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/093002114/",
-      "pubDate": "2026-10-01T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "外国人技能者の多くが保有する在留資格「特定技能」。これを取得した在留外国人数が2026年6月末時点で44万人を超え、過去最高となった。一方で、建設現場では担い手確保策として施工管理などを担える「外国人技術者」の採用も広がっている。こうした技術者にはキャリアアップにつながる資格取得が高い壁となる。人材の定着には企業側のサポートが欠かせない。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/093002114/",
-      "fingerprint": "03deb8514dbbf3bb3c2f01b56bd22b41dfe8347dabf64ee7f6d44d16c08b7d02"
     }
   ],
-  "picks": [
-    {
-      "picked": {
-        "title": "NTTドコモビジネス、竹中工務店と清水建設の 日本国内の建築現場へ 建設業向けクラウド型工程アプリ「GaNett(R)」を展開 - アットプレス",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5",
-        "pubDate": "Fri, 02 Oct 2026 02:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 5.21181576,
-        "contentSnippet": "NTTドコモビジネス、竹中工務店と清水建設の 日本国内の建築現場へ 建設業向けクラウド型工程アプリ「GaNett(R)」を展開  アットプレス",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5",
-        "fingerprint": "f46b38e42bd839b50c1139db279c3bd7b3adb8af662a6e7cb660b931ff47657f"
-      },
-      "xDraft": "【本文】\nNTTドコモビジネスが、竹中工務店と清水建設の国内建築現場へ、クラウド型工程アプリ「GaNett（ガネット）」を展開します。大手ゼネコン2社が共通のプラットフォームを活用し、煩雑な工程管理のデジタル化と効率化を目指す取り組みです。\n\n現場の工程管理は非常に複雑ですが、こうした共通ツールの普及は協力会社さんとの連携もスムーズにしそうですね。通信大手の技術が現場に深く浸透していくことで、生産性向上がさらに加速することを期待しています。\n\n出典：アットプレス\nhttps://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5\n\n【抜粋元】\nNTTドコモビジネスが、竹中工務店と清水建設の国内建築現場へ建設業向けクラウド型工程アプリ「GaNett」を展開するというアットプレスの記事に基づき、大手ゼネコンのデジタル化推進の動向をまとめました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "NTTドコモビジネスが、竹中工務店と清水建設の国内建築現場へ建設業向けクラウド型工程アプリ「GaNett」を展開するというアットプレスの記事に基づき、大手ゼネコンのデジタル化推進の動向をまとめました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "メコンデルタ出身の学生たちが、日本の建設業界における就職機会を探る。 - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0VqT0xfY0htUHNOcVRnbW82eFVLQUVSaDE0eGVvTF9lWVJUVVlHcTRlT1Q5cEFVSFlRX2taczVRLS1zcDlfMFc4VVVUeG5EN2N5dU1CczhUelJaZ1ZSM1BGUWxoelBhM2tHMkVBTk5qQ2NoSEFxVW4tZkx1dEhJRTMxZzduMVhIY19RSlpuaHlSUjgzSkNtRlRoWWs?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 10:08:11 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4117643619,
-        "contentSnippet": "メコンデルタ出身の学生たちが、日本の建設業界における就職機会を探る。  Vietnam.vn",
-        "urlNorm": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0VqT0xfY0htUHNOcVRnbW82eFVLQUVSaDE0eGVvTF9lWVJUVVlHcTRlT1Q5cEFVSFlRX2taczVRLS1zcDlfMFc4VVVUeG5EN2N5dU1CczhUelJaZ1ZSM1BGUWxoelBhM2tHMkVBTk5qQ2NoSEFxVW4tZkx1dEhJRTMxZzduMVhIY19RSlpuaHlSUjgzSkNtRlRoWWs?oc=5",
-        "fingerprint": "aa4f08ab999d4c153ee6fc95d46c02438b79c3ac15d4b31a9b8f8cd9c2828e5d"
-      },
-      "xDraft": "【本文】\nベトナムのメコンデルタ地方で学ぶ学生たちが、日本の建設業界での就職機会を積極的に探っているというニュースです。深刻な人手不足に直面している日本の現場にとって、海外の若い意欲は非常に心強いものだと感じます。僕としては、彼らが単なる労働力としてではなく、技術を磨きキャリアを築くパートナーとして迎え入れられる環境が整うことを願っています。\n\n出典：Vietnam.vn\nhttps://news.google.com/rss/articles/CBMinAFBVV95cUxQY0VqT0xfY0htUHNOcVRnbW82eFVLQUVSaDE0eGVvTF9lWVJUVVlHcTRlT1Q5cEFVSFlRX2taczVRLS1zcDlfMFc4VVVUeG5EN2N5dU1CczhUelJaZ1ZSM1BGUWxoelBhM2tHMkVBTk5qQ2NoSEFxVW4tZkx1dEhJRTMxZzduMVhIY19RSlpuaHlSUjgzSkNtRlRoWWs?oc=5\n\n【抜粋元】\nベトナムのメディア「Vietnam.vn」による、メコンデルタ出身の学生が日本の建設業界への就職を検討しているという報道に基づいています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ベトナムのメディア「Vietnam.vn」による、メコンデルタ出身の学生が日本の建設業界への就職を検討しているという報道に基づいています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "全国161橋で基礎部の耐震性能不足、緊急輸送道路の橋　会計検査院が指摘",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02777/",
-        "pubDate": "2026-10-01T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "耐震補強工事を実施した緊急輸送道路などの橋のうち、全国で161橋が必要な耐震性能を満たしていないことが会計検査院の検査で分かった。耐震性能が未確認だった例などを含めると問題のある橋は407橋に上る。耐震補強で橋脚の重量が増えるにもかかわらず、基礎部の耐震性能を確認せずに補強工事を進めたことなどが原因だ。会計検査院が2026年9月28日に発表した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02777/",
-        "fingerprint": "80e61368bb6d3b06b48068adcca591c4acae0f8473ae4f49a9c4eaeaeb1358a4"
-      },
-      "xDraft": "【本文】\n会計検査院の指摘により、緊急輸送道路などの161橋で、耐震補強後も基礎部の性能が不足していることが分かりました。未確認の例を含めると問題のある橋は計407橋に上ります。橋脚の補強で重量が増した一方で、基礎側の検証が十分に行われなかったことが主な原因です。\n\n上部を強固にしても、支える足元が耐えられなければ本来の性能は発揮できません。当時の設計判断や基準にどのような死角があったのか、丁寧に検証が進むことを願っています。僕たちもこれを教訓として、構造物全体のバランスを常に意識したいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02777/\n\n【抜粋元】\n会計検査院が指摘した、緊急輸送道路における橋梁の耐震性能不足に関する記事です。補強による重量増加と基礎の検討漏れという技術的な要因と、具体的な橋数（161橋、407橋）を整理して書きました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "会計検査院が指摘した、緊急輸送道路における橋梁の耐震性能不足に関する記事です。補強による重量増加と基礎の検討漏れという技術的な要因と、具体的な橋数（161橋、407橋）を整理して書きました。",
-      "xDraftAlternates": []
-    }
-  ],
-  "picked": {
-    "title": "NTTドコモビジネス、竹中工務店と清水建設の 日本国内の建築現場へ 建設業向けクラウド型工程アプリ「GaNett(R)」を展開 - アットプレス",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5",
-    "pubDate": "Fri, 02 Oct 2026 02:00:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 5.21181576,
-    "contentSnippet": "NTTドコモビジネス、竹中工務店と清水建設の 日本国内の建築現場へ 建設業向けクラウド型工程アプリ「GaNett(R)」を展開  アットプレス",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5",
-    "fingerprint": "f46b38e42bd839b50c1139db279c3bd7b3adb8af662a6e7cb660b931ff47657f"
-  },
-  "xDraft": "【本文】\nNTTドコモビジネスが、竹中工務店と清水建設の国内建築現場へ、クラウド型工程アプリ「GaNett（ガネット）」を展開します。大手ゼネコン2社が共通のプラットフォームを活用し、煩雑な工程管理のデジタル化と効率化を目指す取り組みです。\n\n現場の工程管理は非常に複雑ですが、こうした共通ツールの普及は協力会社さんとの連携もスムーズにしそうですね。通信大手の技術が現場に深く浸透していくことで、生産性向上がさらに加速することを期待しています。\n\n出典：アットプレス\nhttps://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5\n\n【抜粋元】\nNTTドコモビジネスが、竹中工務店と清水建設の国内建築現場へ建設業向けクラウド型工程アプリ「GaNett」を展開するというアットプレスの記事に基づき、大手ゼネコンのデジタル化推進の動向をまとめました。\n\n【判定】OK",
-  "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "NTTドコモビジネスが、竹中工務店と清水建設の国内建築現場へ建設業向けクラウド型工程アプリ「GaNett」を展開するというアットプレスの記事に基づき、大手ゼネコンのデジタル化推進の動向をまとめました。",
+  "picks": [],
+  "picked": null,
+  "xDraft": "",
+  "xDraftModel": null,
+  "xPostVerdict": null,
+  "xDraftExcerptSummary": null,
   "xDraftAlternates": [],
   "errors": []
 }
