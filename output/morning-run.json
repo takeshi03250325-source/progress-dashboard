@@ -1,28 +1,173 @@
 {
-  "generatedAt": "2026-10-03T23:57:22.330Z",
+  "generatedAt": "2026-10-05T00:02:50.451Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 0,
+  "pickCountActual": 3,
   "candidates": [
     {
-      "title": "NTTドコモビジネス、竹中工務店と清水建設の 日本国内の建築現場へ 建設業向けクラウド型工程アプリ「GaNett(R)」を展開 - アットプレス",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 02:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.21181576,
-      "contentSnippet": "NTTドコモビジネス、竹中工務店と清水建設の 日本国内の建築現場へ 建設業向けクラウド型工程アプリ「GaNett(R)」を展開  アットプレス",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hM1JVRUk4NjlHZHlSY09FX0NHMm41OS1MU0VmajV6c1RWSHRlX3B0ZkZyQ0d6dXdLa1cxdy0xbDBIVWJvT0pzUzFuXzFjZw?oc=5",
-      "fingerprint": "f46b38e42bd839b50c1139db279c3bd7b3adb8af662a6e7cb660b931ff47657f"
+      "title": "1位は「東京電力系シールド機が下水道管を20m超突き破る、事故対策委員会で状況判明」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月5～11日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
+      "fingerprint": "3a0b99e525f3d31dad9bb4d063cf157cd9636ec0766f422abf69e5ffc5efaa71"
+    },
+    {
+      "title": "「舗装」は前田道路が増収で首位独走、2位日本道路との売り上げ差2.6倍",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「舗装」の首位は前田道路。2位の日本道路との売り上げ差を2.6倍に広げて首位を独走する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
+      "fingerprint": "7cb21227b57f7e95c60892b4e2c85cce40e7919dc887abcc5fee648fbbb03641"
+    },
+    {
+      "title": "AI時代こそ在宅勤務からオフィス出社回帰、GMO熊谷正寿会長が対面重視",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "GMOインターネットグループの熊谷正寿会長兼社長が在宅勤務の推奨廃止を打ち出し、賛否が巻き起こった。同社だけでなく、オフィスを創造力や関係性を育む場と捉え直し、「原則出社」に回帰する国内企業が増えてきた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/",
+      "fingerprint": "187a607d1e73e422629b2bd5fd865e6397f6f1bca8b35eecc01921bf33a8da57"
+    },
+    {
+      "title": "カナデビア発端で発覚、ゆいレール工事で無届けの外注　宮地エンジ指名停止",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02771/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "沖縄都市モノレール線（ゆいレール）の建設工事を巡り、施工者の宮地エンジニアリングが発注者の沖縄県に無届けで橋脚の製作を外注していたことなどが分かり、県から指名停止措置を受けた。契約違反は、外注先のカナデビアが2025年2月、溶接作業の不正行為を発表したことが発端で明らかになった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02771/",
+      "fingerprint": "269b9c58979d68277d57e55a171b85a9c72cf6e2d814e7e9a2bc0b87c977e146"
+    },
+    {
+      "title": "1位は「東京電力系シールド機が下水道管を20m超突き破る、事故対策委員会で状況判明」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月5～11日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
+      "fingerprint": "3a0b99e525f3d31dad9bb4d063cf157cd9636ec0766f422abf69e5ffc5efaa71"
+    },
+    {
+      "title": "「舗装」は前田道路が増収で首位独走、2位日本道路との売り上げ差2.6倍",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「舗装」の首位は前田道路。2位の日本道路との売り上げ差を2.6倍に広げて首位を独走する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
+      "fingerprint": "7cb21227b57f7e95c60892b4e2c85cce40e7919dc887abcc5fee648fbbb03641"
+    },
+    {
+      "title": "カナデビア発端で発覚、ゆいレール工事で無届けの外注　宮地エンジ指名停止",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02771/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "沖縄都市モノレール線（ゆいレール）の建設工事を巡り、施工者の宮地エンジニアリングが発注者の沖縄県に無届けで橋脚の製作を外注していたことなどが分かり、県から指名停止措置を受けた。契約違反は、外注先のカナデビアが2025年2月、溶接作業の不正行為を発表したことが発端で明らかになった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02771/",
+      "fingerprint": "269b9c58979d68277d57e55a171b85a9c72cf6e2d814e7e9a2bc0b87c977e146"
+    },
+    {
+      "title": "AI時代こそ在宅勤務からオフィス出社回帰、GMO熊谷正寿会長が対面重視",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "GMOインターネットグループの熊谷正寿会長兼社長が在宅勤務の推奨廃止を打ち出し、賛否が巻き起こった。同社だけでなく、オフィスを創造力や関係性を育む場と捉え直し、「原則出社」に回帰する国内企業が増えてきた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/",
+      "fingerprint": "187a607d1e73e422629b2bd5fd865e6397f6f1bca8b35eecc01921bf33a8da57"
+    },
+    {
+      "title": "2人死亡の鉄骨崩落事故、強度計算を誤った疑い　大林組社員を書類送検",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02938/",
+      "pubDate": "2026-10-04T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "鉄骨梁（はり）の継ぎ手を支えていた支保工の強度計算を誤ったまま、工事を進めた疑いがある――。大林組・大成建設JV（共同企業体）が施工を担った東京・八重洲の再開発事業で、鉄骨が落下して作業員2人が死亡、3人が重傷を負った事故から約3年。警視庁は、大林組の社員2人を業務上過失致死傷の疑いで書類送検した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02938/",
+      "fingerprint": "c584098b6019ba8199f48c5250d5be8420e587109764c5900c3a50057fbacac3"
     }
   ],
-  "picks": [],
-  "picked": null,
-  "xDraft": "",
-  "xDraftModel": null,
-  "xPostVerdict": null,
-  "xDraftExcerptSummary": null,
+  "picks": [
+    {
+      "picked": {
+        "title": "1位は「東京電力系シールド機が下水道管を20m超突き破る、事故対策委員会で状況判明」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
+        "pubDate": "2026-10-04T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月5～11日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
+        "fingerprint": "3a0b99e525f3d31dad9bb4d063cf157cd9636ec0766f422abf69e5ffc5efaa71"
+      },
+      "xDraft": "【本文】\n東京電力系のシールド機が下水道管を20m以上にわたって突き破るという事故の状況が、事故対策委員会の調査で判明しました。\n地下空間の施工は常に不確実性と隣り合わせですが、20mもの損壊規模は非常に大きく、重い事実です。こうした事故から得られた教訓を風化させず、業界全体で再発防止の知見として共有していくことが大切だと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/\n\n【抜粋元】\n日経クロステック土木の週間ランキング1位の記事より、東京電力系のシールド機が下水道管を20m超突き破った事故の状況が事故対策委員会で明らかになった点を紹介しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック土木の週間ランキング1位の記事より、東京電力系のシールド機が下水道管を20m超突き破った事故の状況が事故対策委員会で明らかになった点を紹介しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "「舗装」は前田道路が増収で首位独走、2位日本道路との売り上げ差2.6倍",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
+        "pubDate": "2026-10-04T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「舗装」の首位は前田道路。2位の日本道路との売り上げ差を2.6倍に広げて首位を独走する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
+        "fingerprint": "7cb21227b57f7e95c60892b4e2c85cce40e7919dc887abcc5fee648fbbb03641"
+      },
+      "xDraft": "【本文】\n主要な建設会社を対象とした調査によると、舗装分野の売上高で前田道路が首位を独走しています。2位の日本道路との差は2.6倍にまで広がっており、13ある土木分野のランキングの中でも際立った結果となりました。\n\n舗装業界をリードする企業の圧倒的な規模が、具体的な数字として示されましたね。2.6倍という差は、一朝一夕には埋まらないほどの存在感を感じさせます。僕たちが普段歩いている道も、こうした大きな産業の力で支えられているのだと改めて実感します。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/\n\n【抜粋元】\n日経クロステックが実施した建設各社への決算アンケート結果から、舗装分野の売上高ランキングを引用。前田道路が2位以下を大きく引き離して首位に立っている事実に基づき執筆しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステックが実施した建設各社への決算アンケート結果から、舗装分野の売上高ランキングを引用。前田道路が2位以下を大きく引き離して首位に立っている事実に基づき執筆しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "AI時代こそ在宅勤務からオフィス出社回帰、GMO熊谷正寿会長が対面重視",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/",
+        "pubDate": "2026-10-04T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "GMOインターネットグループの熊谷正寿会長兼社長が在宅勤務の推奨廃止を打ち出し、賛否が巻き起こった。同社だけでなく、オフィスを創造力や関係性を育む場と捉え直し、「原則出社」に回帰する国内企業が増えてきた。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/",
+        "fingerprint": "187a607d1e73e422629b2bd5fd865e6397f6f1bca8b35eecc01921bf33a8da57"
+      },
+      "xDraft": "【本文】\nGMOインターネットグループが在宅勤務の推奨を廃止し、原則出社へと舵を切りました。AI時代だからこそ、対面による創造力や関係性の構築を重視する動きが国内企業で広がっているようです。\n\n効率化が進む一方で、リアルな場所が持つ価値が改めて定義されているのを感じます。建設や都市開発に関わる僕としては、これからのオフィスの役割や「集まる場」のあり方がどう変化していくのか非常に興味深いです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/\n\n【抜粋元】\n日経クロステック 土木の、GMO熊谷会長による在宅勤務廃止の決断と、オフィスを創造性の源泉として捉え直す国内企業の潮流を報じた記事に基づいています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステック 土木の、GMO熊谷会長による在宅勤務廃止の決断と、オフィスを創造性の源泉として捉え直す国内企業の潮流を報じた記事に基づいています。",
+      "xDraftAlternates": []
+    }
+  ],
+  "picked": {
+    "title": "1位は「東京電力系シールド機が下水道管を20m超突き破る、事故対策委員会で状況判明」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
+    "pubDate": "2026-10-04T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 2.4,
+    "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月5～11日に無料で読めるようにしました。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
+    "fingerprint": "3a0b99e525f3d31dad9bb4d063cf157cd9636ec0766f422abf69e5ffc5efaa71"
+  },
+  "xDraft": "【本文】\n東京電力系のシールド機が下水道管を20m以上にわたって突き破るという事故の状況が、事故対策委員会の調査で判明しました。\n地下空間の施工は常に不確実性と隣り合わせですが、20mもの損壊規模は非常に大きく、重い事実です。こうした事故から得られた教訓を風化させず、業界全体で再発防止の知見として共有していくことが大切だと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/\n\n【抜粋元】\n日経クロステック土木の週間ランキング1位の記事より、東京電力系のシールド機が下水道管を20m超突き破った事故の状況が事故対策委員会で明らかになった点を紹介しました。\n\n【判定】OK",
+  "xDraftSource": "gemini",
+  "xDraftModel": "models/gemini-3-flash-preview",
+  "xPostVerdict": "OK",
+  "xDraftExcerptSummary": "日経クロステック土木の週間ランキング1位の記事より、東京電力系のシールド機が下水道管を20m超突き破った事故の状況が事故対策委員会で明らかになった点を紹介しました。",
   "xDraftAlternates": [],
   "errors": []
 }
