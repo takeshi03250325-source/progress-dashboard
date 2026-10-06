@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XVThhOU9ZRVY4WTN6VHg5cnJQT3Y1RXFrdWN5d2tnSENBM1V1N0hoUWkxdW1URTNWWmYtWlBybklhdDRsaHM5bVhEdHhKNlRfMjY5bGViYkdock0?oc=5",
-      "fingerprint": "0e2181053166b759049e99affe8795bbb36387031a324323cfcee3d713d6c2da",
-      "title": "ライザップ建設業界参入！ライザップだからできる新規事業の実態とは？ - アゴラ 言論プラットフォーム",
-      "postedAt": "2026-05-06T00:57:54.343Z",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XVThhOU9ZRVY4WTN6VHg5cnJQT3Y1RXFrdWN5d2tnSENBM1V1N0hoUWkxdW1URTNWWmYtWlBybklhdDRsaHM5bVhEdHhKNlRfMjY5bGViYkdock0?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MWhLTEd2cEItTjBpUERLdTU5ZW1NcGtCWjFWQjJzQko5UUx2MkctU0tRNU1ZOFBrZXJWSG1DQlNmZmFLTWRfYzNOdWFCbU4ySHpmbnNvTGJicmdDY3dv0gFkQVVfeXFMTld2VjhTalVqVEQ5bjdsU2JsUWk2NXhITVI1UkpaQV8xc0dXLVZZQVltcnNjaWUyMnBlSG1VWnJrTjVaWkdkcGF4bEdKMVJLZ3RhQ3R5VDI0QjBRMlVERmpjdmNsNg?oc=5",
-      "fingerprint": "661b555a152990da0752c21481aede486b30c67ed86f7cfa62821556351de0cc",
-      "title": "東大、大手ゼネコン４社ら／３Ｄプリンターで建設革新／大規模土木構造物に適用へ | チバテレ＋プラス - 千葉テレビ放送",
-      "postedAt": "2026-05-07T00:09:13.342Z",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56MWhLTEd2cEItTjBpUERLdTU5ZW1NcGtCWjFWQjJzQko5UUx2MkctU0tRNU1ZOFBrZXJWSG1DQlNmZmFLTWRfYzNOdWFCbU4ySHpmbnNvTGJicmdDY3dv0gFkQVVfeXFMTld2VjhTalVqVEQ5bjdsU2JsUWk2NXhITVI1UkpaQV8xc0dXLVZZQVltcnNjaWUyMnBlSG1VWnJrTjVaWkdkcGF4bEdKMVJLZ3RhQ3R5VDI0QjBRMlVERmpjdmNsNg?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE91NjN3WGhmeW5mLW1hcktYSkxjUnFfT0FHU3lCSUZ2M2NrQW9Eb3JyRnpadVBRLTZyM0hrSlhuaEtXeHpUMFFB?oc=5",
-      "fingerprint": "93f3cdb7f4f196301ff3fcc05467b4a7661e9f04bd5d34a8bb11efb103bb445a",
-      "title": "東大、大手ゼネコン４社ら／３Ｄプリンターで建設革新／大規模土木構造物に適用へ - 日刊建設工業新聞",
-      "postedAt": "2026-05-07T00:09:13.342Z",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE91NjN3WGhmeW5mLW1hcktYSkxjUnFfT0FHU3lCSUZ2M2NrQW9Eb3JyRnpadVBRLTZyM0hrSlhuaEtXeHpUMFFB?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91d2V1b2piUXZzdi0tTGJPcTRTTFFPYS13M2luaENNaGRncUQ4YWdhMDdoQVB2VFZkWkE5QUR5bzVsMTQxYXVLQXdTREpMVlgz?oc=5",
       "fingerprint": "b3837cd6f7006d269a5021401ff840f5355639d3dfcb56b6cc805106d241e9b6",
       "title": "新会長に押味氏内定/土木本部長は蓮輪氏、建築本部長に相川氏/日建連 - 建設通信新聞Digital",
@@ -2800,6 +2779,27 @@
       "title": "AI時代こそ在宅勤務からオフィス出社回帰、GMO熊谷正寿会長が対面重視",
       "postedAt": "2026-10-05T00:02:50.441Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/",
+      "fingerprint": "1393c26d4e84c48e345defcb96d7f73e4683d918a2fec4d8c90a5210b65c2afe",
+      "title": "BIMデータ審査の骨格判明、29年開始でAI活用も　国交省が基本構想",
+      "postedAt": "2026-10-06T01:49:34.679Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/"
+    },
+    {
+      "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HY2VqQXp1QzlqTDU5Y1lURl96ZXFNM180TkQ0czNYSjkwSHBtRm5TTEszb1NzSzRXdFo0ZGZSdnYzVjJtcVVkWVd2dXFtdklC?oc=5",
+      "fingerprint": "ebcb1b13ec96bb86c85ab9bca2cf78d6958dce8b81efb31eb70b53e5b9297e90",
+      "title": "湯川秀樹博士旧宅の再生で日本建設業連合会ＢＣＳ賞 長谷工 - 住宅新報",
+      "postedAt": "2026-10-06T01:49:34.679Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HY2VqQXp1QzlqTDU5Y1lURl96ZXFNM180TkQ0czNYSjkwSHBtRm5TTEszb1NzSzRXdFo0ZGZSdnYzVjJtcVVkWVd2dXFtdklC?oc=5"
+    },
+    {
+      "urlNorm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRT19zaW1COElpeDc2M3RGWHdLdzhIczdmeDB2R192WTROSkJQb1pRTTdxem5tRHh6YVZ6aVRnMDFIaG03aU1tN2xUUzNMX00?oc=5",
+      "fingerprint": "b9d5adca7f0ea19454b0692108cdc9b9b3a96c98572404a4e3e52fd221c80a02",
+      "title": "日本のモジュール建築市場：業界分析、市場規模・シェア、需要、建設トレンド、成長要因、主要企業、および展望（2026～2034年） - Newscast.jp",
+      "postedAt": "2026-10-06T01:49:34.679Z",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRT19zaW1COElpeDc2M3RGWHdLdzhIczdmeDB2R192WTROSkJQb1pRTTdxem5tRHh6YVZ6aVRnMDFIaG03aU1tN2xUUzNMX00?oc=5"
     }
   ]
 }
