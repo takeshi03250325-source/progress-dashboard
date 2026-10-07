@@ -1,20 +1,50 @@
 {
-  "generatedAt": "2026-10-06T01:49:34.687Z",
+  "generatedAt": "2026-10-07T00:53:40.520Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
+  "skippedDuplicates": 0,
   "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zcXd4dXV1MWE5blNsV0hYejdqT1A0MU83dGtFVzAzYmpLSEFvdDlkSW9OUWVuZFA3ZjFGOG4tZUc3SEhicjZYMThhdTNuX2thSFhmMnQ3dzFTMVo0NElBV0ZQRlJ0OEk?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 17:07:11 GMT",
+      "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 00:10:02 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 5.2120980279,
-      "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  山陽新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zcXd4dXV1MWE5blNsV0hYejdqT1A0MU83dGtFVzAzYmpLSEFvdDlkSW9OUWVuZFA3ZjFGOG4tZUc3SEhicjZYMThhdTNuX2thSFhmMnQ3dzFTMVo0NElBV0ZQRlJ0OEk?oc=5",
-      "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
+      "score": 5.212198621800001,
+      "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  PR TIMES",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
+      "fingerprint": "c91f20396fb8f042fdc0f12f4961575ee562bc798939ef57707f5b7c30aceeaa"
+    },
+    {
+      "title": "脱談合と業界団体統合の立役者が去る、大成建設の葉山莞児元社長",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
+      "pubDate": "2026-10-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "大成建設の社長や会長などに就き、日本建設業連合会（日建連）へ統合した日本土木工業協会（土工協）の会長も務めた葉山莞児氏がこの世を去った。自社の経営にとどまらず、2006年に大手建設5社による「脱談合宣言」を実現させた他、業界団体の統合を主導するなど、建設業界の改革を推し進めた立役者だった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
+      "fingerprint": "4f923b2a0de494dc60c5980840785783cb34d826adf0260edc99e6c1b66c88ab"
+    },
+    {
+      "title": "脱談合と業界団体統合の立役者が去る、大成建設の葉山莞児元社長",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
+      "pubDate": "2026-10-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "大成建設の社長や会長などに就き、日本建設業連合会（日建連）へ統合した日本土木工業協会（土工協）の会長も務めた葉山莞児氏がこの世を去った。自社の経営にとどまらず、2006年に大手建設5社による「脱談合宣言」を実現させた他、業界団体の統合を主導するなど、建設業界の改革を推し進めた立役者だった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
+      "fingerprint": "4f923b2a0de494dc60c5980840785783cb34d826adf0260edc99e6c1b66c88ab"
+    },
+    {
+      "title": "マンション修繕談合に独禁法違反認定、有力企業含む42社　国交省が対策へ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02940/",
+      "pubDate": "2026-10-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "公正取引委員会は、関東地方のマンション大規模修繕工事を舞台とした談合を巡り、設計コンサルタント会社の翔設計（東京・渋谷）とリノシスコーポレーション（大阪市）、長谷工リフォーム（東京・港）などの工事会社40社の計42社に対し、独占禁止法違反（不当な取引制限）を認定した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02940/",
+      "fingerprint": "7fa94f4be1f10dc3aa0c167ac8919443ddc9cd1ad86cd58067790b6eab2f3e1a"
     },
     {
       "title": "BIMデータ審査の骨格判明、29年開始でAI活用も　国交省が基本構想",
@@ -37,14 +67,24 @@
       "fingerprint": "ebcb1b13ec96bb86c85ab9bca2cf78d6958dce8b81efb31eb70b53e5b9297e90"
     },
     {
-      "title": "日本のモジュール建築市場：業界分析、市場規模・シェア、需要、建設トレンド、成長要因、主要企業、および展望（2026～2034年） - Newscast.jp",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRT19zaW1COElpeDc2M3RGWHdLdzhIczdmeDB2R192WTROSkJQb1pRTTdxem5tRHh6YVZ6aVRnMDFIaG03aU1tN2xUUzNMX00?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 22:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.41203608,
-      "contentSnippet": "日本のモジュール建築市場：業界分析、市場規模・シェア、需要、建設トレンド、成長要因、主要企業、および展望（2026～2034年）  Newscast.jp",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRT19zaW1COElpeDc2M3RGWHdLdzhIczdmeDB2R192WTROSkJQb1pRTTdxem5tRHh6YVZ6aVRnMDFIaG03aU1tN2xUUzNMX00?oc=5",
-      "fingerprint": "b9d5adca7f0ea19454b0692108cdc9b9b3a96c98572404a4e3e52fd221c80a02"
+      "title": "道路損傷をAIでリアルタイム検知、首都高技術とシャープが実証実験",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02780/",
+      "pubDate": "2026-10-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "首都高技術（東京・港）とシャープは、パトロール車両に搭載したカメラで走行中の道路を撮影し、舗装の穴やひび割れ、路上の落下物などAI（人工知能）でリアルタイムに自動検知する技術の実証実験を、2026年10～11月に首都高速道路で実施する。自動検知した損傷などはクラウドを介して管制所の担当者に通知し、必要に応じて緊急対応する。実証実験を経て、28年度以降の首都高への本格導入を目指す。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02780/",
+      "fingerprint": "f20a2775c32a01321ec7c91532e55e3aaf7142e550de61b3ca1fad2d33c84794"
+    },
+    {
+      "title": "「基礎」は五洋建設が首位奪還、清水建設は約3割減収で3位後退",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400003/",
+      "pubDate": "2026-10-06T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「基礎」の首位は五洋建設。前年度に清水建設に奪われた首位を奪還した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400003/",
+      "fingerprint": "c38484f0f0c82a78fba5f5d8be16385b83ab753e2078e8d71fc43dded731ce90"
     },
     {
       "title": "「海洋」は東亜建設工業が約3割増収、首位・五洋建設を猛追",
@@ -67,54 +107,24 @@
       "fingerprint": "beb7bc257e8924ccd85a71fcf41013d4f09777eb276f03a93f80067d5a6091f4"
     },
     {
-      "title": "「舗装」は前田道路が増収で首位独走、2位日本道路との売り上げ差2.6倍",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
-      "pubDate": "2026-10-04T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「舗装」の首位は前田道路。2位の日本道路との売り上げ差を2.6倍に広げて首位を独走する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
-      "fingerprint": "7cb21227b57f7e95c60892b4e2c85cce40e7919dc887abcc5fee648fbbb03641"
-    },
-    {
-      "title": "1位は「東京電力系シールド機が下水道管を20m超突き破る、事故対策委員会で状況判明」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
-      "pubDate": "2026-10-04T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月5～11日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
-      "fingerprint": "3a0b99e525f3d31dad9bb4d063cf157cd9636ec0766f422abf69e5ffc5efaa71"
-    },
-    {
-      "title": "カナデビア発端で発覚、ゆいレール工事で無届けの外注　宮地エンジ指名停止",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02771/",
-      "pubDate": "2026-10-04T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "沖縄都市モノレール線（ゆいレール）の建設工事を巡り、施工者の宮地エンジニアリングが発注者の沖縄県に無届けで橋脚の製作を外注していたことなどが分かり、県から指名停止措置を受けた。契約違反は、外注先のカナデビアが2025年2月、溶接作業の不正行為を発表したことが発端で明らかになった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02771/",
-      "fingerprint": "269b9c58979d68277d57e55a171b85a9c72cf6e2d814e7e9a2bc0b87c977e146"
-    },
-    {
-      "title": "AI時代こそ在宅勤務からオフィス出社回帰、GMO熊谷正寿会長が対面重視",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/",
-      "pubDate": "2026-10-04T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "GMOインターネットグループの熊谷正寿会長兼社長が在宅勤務の推奨廃止を打ち出し、賛否が巻き起こった。同社だけでなく、オフィスを創造力や関係性を育む場と捉え直し、「原則出社」に回帰する国内企業が増えてきた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/092100002/",
-      "fingerprint": "187a607d1e73e422629b2bd5fd865e6397f6f1bca8b35eecc01921bf33a8da57"
-    },
-    {
-      "title": "「海洋」は東亜建設工業が約3割増収、首位・五洋建設を猛追",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400002/",
-      "pubDate": "2026-10-05T20:00:00.000Z",
+      "title": "「基礎」は五洋建設が首位奪還、清水建設は約3割減収で3位後退",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400003/",
+      "pubDate": "2026-10-06T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「海洋」の首位は今年度も五洋建設だが、3期連続で大幅増収の東亜建設工業が猛追している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400002/",
-      "fingerprint": "64d85312bdbce730390c5369f0f1d3fb041c29dff0d3e5fd183526df3652226b"
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「基礎」の首位は五洋建設。前年度に清水建設に奪われた首位を奪還した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400003/",
+      "fingerprint": "c38484f0f0c82a78fba5f5d8be16385b83ab753e2078e8d71fc43dded731ce90"
+    },
+    {
+      "title": "設計事務所が好決算の陰で進む市場縮小、築古ストック増で改修に光",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500004/",
+      "pubDate": "2026-10-06T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経アーキテクチュアが独自調査した建築設計事務所の2025年度決算。78％の企業が増収を果たし、66％の企業が営業増益と好調だった。だが、市場縮小の影は着実に忍び寄る。新たな金脈の1つとして、リニューアルに注目が集まっている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500004/",
+      "fingerprint": "5672fe979d12cca5a4aaffafd4afad9e24587d4bcde1428ef60186cbc487c566"
     },
     {
       "title": "「在学中受験」に建築系教員ら8割が反対、教育の空洞化懸念　全建教の調査",
@@ -127,6 +137,16 @@
       "fingerprint": "9f86be82ef8906ced3a6f974c076524c3bb50ff4656969e1bb19b83c0a44a4f0"
     },
     {
+      "title": "「海洋」は東亜建設工業が約3割増収、首位・五洋建設を猛追",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400002/",
+      "pubDate": "2026-10-05T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「海洋」の首位は今年度も五洋建設だが、3期連続で大幅増収の東亜建設工業が猛追している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400002/",
+      "fingerprint": "64d85312bdbce730390c5369f0f1d3fb041c29dff0d3e5fd183526df3652226b"
+    },
+    {
       "title": "中国初 1日に4路線の新規高速鉄道が同時開通",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02406/100500068/",
       "pubDate": "2026-10-05T01:30:00.000Z",
@@ -135,99 +155,79 @@
       "contentSnippet": "中国では9月28日、北京と香港を結ぶ「京港高速鉄道」の雄安-商丘区間、西安と重慶を結ぶ「西渝高速鉄道」の西安-安康区間、湖北省の「宜昌-興山高速鉄道」、黒龍江省のハルビンと伊春を結ぶ「哈伊高速鉄道」が同時に開通しました。これら4本の高速鉄道は中国の北部、北西部、中部、東北部を貫くことで、地域の経済社会の発展に交通インフラによる力強い原動力を注ぎ込みます。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02406/100500068/",
       "fingerprint": "beb7bc257e8924ccd85a71fcf41013d4f09777eb276f03a93f80067d5a6091f4"
-    },
-    {
-      "title": "「舗装」は前田道路が増収で首位独走、2位日本道路との売り上げ差2.6倍",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
-      "pubDate": "2026-10-04T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「舗装」の首位は前田道路。2位の日本道路との売り上げ差を2.6倍に広げて首位を独走する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400001/",
-      "fingerprint": "7cb21227b57f7e95c60892b4e2c85cce40e7919dc887abcc5fee648fbbb03641"
-    },
-    {
-      "title": "1位は「東京電力系シールド機が下水道管を20m超突き破る、事故対策委員会で状況判明」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
-      "pubDate": "2026-10-04T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月5～11日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500384/",
-      "fingerprint": "3a0b99e525f3d31dad9bb4d063cf157cd9636ec0766f422abf69e5ffc5efaa71"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "BIMデータ審査の骨格判明、29年開始でAI活用も　国交省が基本構想",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/",
-        "pubDate": "2026-10-05T20:00:00.000Z",
+        "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 00:10:02 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 5.212198621800001,
+        "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  PR TIMES",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
+        "fingerprint": "c91f20396fb8f042fdc0f12f4961575ee562bc798939ef57707f5b7c30aceeaa"
+      },
+      "xDraft": "【本文】\n2027年に開催される建設技術総合展「CONTEX 2027」に、土木学会や日本建設業連合会など業界12団体の後援が決まりました。遠隔建設の体験会や、重機による書道といった共創企画も用意される見込みです。\n主要な団体がこれほど名を連ねるのは、産業全体の期待値の高さが伺えます。遠隔技術といった最新動向だけでなく、重機書道のように「建設の面白さ」を伝える工夫があるのも、僕がこの展示会を応援したくなる理由の一つです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5\n\n【抜粋元】\n「CONTEX 2027」への業界12団体の後援決定と、予定されている具体的な共創企画（遠隔建設・重機書道等）を伝えるPR TIMESの記事から作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "「CONTEX 2027」への業界12団体の後援決定と、予定されている具体的な共創企画（遠隔建設・重機書道等）を伝えるPR TIMESの記事から作成しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "脱談合と業界団体統合の立役者が去る、大成建設の葉山莞児元社長",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
+        "pubDate": "2026-10-06T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "大成建設の社長や会長などに就き、日本建設業連合会（日建連）へ統合した日本土木工業協会（土工協）の会長も務めた葉山莞児氏がこの世を去った。自社の経営にとどまらず、2006年に大手建設5社による「脱談合宣言」を実現させた他、業界団体の統合を主導するなど、建設業界の改革を推し進めた立役者だった。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
+        "fingerprint": "4f923b2a0de494dc60c5980840785783cb34d826adf0260edc99e6c1b66c88ab"
+      },
+      "xDraft": "【本文】\n大成建設の元社長で、業界団体の統合や脱談合を主導した葉山莞児氏が逝去されました。2006年の大手5社による「脱談合宣言」を実現させるなど、建設業界の近代化と改革を推し進めた立役者です。\n\n僕たちが今いる業界の透明性や健全性は、こうした先人たちの強い決意によって築かれたものだと改めて感じます。時代の転換点を自ら作った方の歩みに、深い敬意を表します。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/\n\n【抜粋元】\n大成建設の葉山莞児元社長の訃報を伝え、氏が「脱談合宣言」や「日建連への統合」といった業界改革を主導した功績について記載された記事から作成しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "大成建設の葉山莞児元社長の訃報を伝え、氏が「脱談合宣言」や「日建連への統合」といった業界改革を主導した功績について記載された記事から作成しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "脱談合と業界団体統合の立役者が去る、大成建設の葉山莞児元社長",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
+        "pubDate": "2026-10-06T20:00:00.000Z",
         "feedName": "日経クロステック 建築・住宅",
         "score": 4,
-        "contentSnippet": "2029年の開始が見込まれる「BIMデータ審査」。国土交通省が基本構想を公表し、審査やデータ作成における考え方など、制度の骨格が見えてきた。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/",
-        "fingerprint": "1393c26d4e84c48e345defcb96d7f73e4683d918a2fec4d8c90a5210b65c2afe"
+        "contentSnippet": "大成建設の社長や会長などに就き、日本建設業連合会（日建連）へ統合した日本土木工業協会（土工協）の会長も務めた葉山莞児氏がこの世を去った。自社の経営にとどまらず、2006年に大手建設5社による「脱談合宣言」を実現させた他、業界団体の統合を主導するなど、建設業界の改革を推し進めた立役者だった。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
+        "fingerprint": "4f923b2a0de494dc60c5980840785783cb34d826adf0260edc99e6c1b66c88ab"
       },
-      "xDraft": "【本文】\n国土交通省が2029年の開始を見込む「BIMデータ審査」の基本構想を公表しました。建築確認などの審査にBIMデータを活用する仕組みで、審査の効率化に向けたAI活用の方向性も示されています。\n\nこれまでの紙や2D図面主体の審査から、データそのもので対話する時代への大きな一歩だと感じます。制度の骨格が示されたことで、業界全体でのBIM普及にさらに弾みがつきそうですね。審査の自動化や迅速化が、現場のゆとりや創造的な時間につながることを僕は期待しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事です。国土交通省が公表したBIMデータ審査の基本構想に基づき、2029年の開始時期やAI活用の展望など、制度の骨格が明らかになった点を踏まえて執筆しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n大成建設の元社長、葉山莞児氏が逝去されました。2006年に大手建設5社による「脱談合宣言」を実現させたほか、業界団体の統合を主導するなど、建設業界の近代化と改革に尽力された立役者です。\n\n古い慣習を打破し、開かれた産業へと導いてくださった功績は計り知れません。今の僕たちが誇りを持って現場に立てる土壌を築いてくださった先人に、深い敬意と感謝の念を抱きます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/\n\n【抜粋元】\n大成建設の元社長・会長を歴任した葉山莞児氏の訃報を伝える記事です。同氏が土工協会長として主導した「脱談合宣言」や、日建連への統合といった建設業界の大きな転換点における功績がまとめられています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事です。国土交通省が公表したBIMデータ審査の基本構想に基づき、2029年の開始時期やAI活用の展望など、制度の骨格が明らかになった点を踏まえて執筆しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "湯川秀樹博士旧宅の再生で日本建設業連合会ＢＣＳ賞 長谷工 - 住宅新報",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HY2VqQXp1QzlqTDU5Y1lURl96ZXFNM180TkQ0czNYSjkwSHBtRm5TTEszb1NzSzRXdFo0ZGZSdnYzVjJtcVVkWVd2dXFtdklC?oc=5",
-        "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.41206524,
-        "contentSnippet": "湯川秀樹博士旧宅の再生で日本建設業連合会ＢＣＳ賞 長谷工  住宅新報",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HY2VqQXp1QzlqTDU5Y1lURl96ZXFNM180TkQ0czNYSjkwSHBtRm5TTEszb1NzSzRXdFo0ZGZSdnYzVjJtcVVkWVd2dXFtdklC?oc=5",
-        "fingerprint": "ebcb1b13ec96bb86c85ab9bca2cf78d6958dce8b81efb31eb70b53e5b9297e90"
-      },
-      "xDraft": "【本文】\n日本初のノーベル賞受賞者である湯川秀樹博士の旧宅を再生したプロジェクトが、日本建設業連合会の「BCS賞」を受賞しました。長谷工コーポレーションによるこの取り組みは、歴史的な建築資産の保存と活用を両立させた点が特徴です。\n\n建築の質を総合的に評価するこの賞で、個人の邸宅再生が選ばれるのは非常に素晴らしいことだと僕も思います。単なる新築だけでなく、技術を尽くして物語を次世代へ繋ぐ仕事に、建設業の真髄を見た気がします。\n\n出典：住宅新報\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTE5HY2VqQXp1QzlqTDU5Y1lURl96ZXFNM180TkQ0czNYSjkwSHBtRm5TTEszb1NzSzRXdFo0ZGZSdnYzVjJtcVVkWVd2dXFtdklC?oc=5\n\n【抜粋元】\n日本建設業連合会が主催する「第65回BCS賞」において、長谷工コーポレーションが携わった湯川秀樹博士の旧宅再生事業が受賞したという事実に基づき構成しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本建設業連合会が主催する「第65回BCS賞」において、長谷工コーポレーションが携わった湯川秀樹博士の旧宅再生事業が受賞したという事実に基づき構成しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "日本のモジュール建築市場：業界分析、市場規模・シェア、需要、建設トレンド、成長要因、主要企業、および展望（2026～2034年） - Newscast.jp",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRT19zaW1COElpeDc2M3RGWHdLdzhIczdmeDB2R192WTROSkJQb1pRTTdxem5tRHh6YVZ6aVRnMDFIaG03aU1tN2xUUzNMX00?oc=5",
-        "pubDate": "Sun, 04 Oct 2026 22:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.41203608,
-        "contentSnippet": "日本のモジュール建築市場：業界分析、市場規模・シェア、需要、建設トレンド、成長要因、主要企業、および展望（2026～2034年）  Newscast.jp",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRT19zaW1COElpeDc2M3RGWHdLdzhIczdmeDB2R192WTROSkJQb1pRTTdxem5tRHh6YVZ6aVRnMDFIaG03aU1tN2xUUzNMX00?oc=5",
-        "fingerprint": "b9d5adca7f0ea19454b0692108cdc9b9b3a96c98572404a4e3e52fd221c80a02"
-      },
-      "xDraft": "【本文】\n日本のモジュール建築市場について、2026年から2034年までの成長予測や最新トレンドを分析したレポートが公開されました。市場規模や主要企業のシェア、需要を牽引する要因などが詳しくまとめられています。\n\n深刻な人手不足への対策や工期短縮が求められる中で、オフサイト工法の重要性は僕も日々感じているところです。工場の高い精度と現場での施工管理がどう融合し、これからの日本のまちづくりを支えていくのか、その進化を注視していきたいですね。\n\n出典：Newscast.jp\nhttps://news.google.com/rss/articles/CBMiT0FVX3lxTFBRT19zaW1COElpeDc2M3RGWHdLdzhIczdmeDB2R192WTROSkJQb1pRTTdxem5tRHh6YVZ6aVRnMDFIaG03aU1tN2xUUzNMX00?oc=5\n\n【抜粋元】\nNewscast.jpに掲載された、2034年までの国内モジュール建築市場に関する予測レポートです。市場規模や成長要因、業界の展望が整理されている点を踏まえて紹介しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "Newscast.jpに掲載された、2034年までの国内モジュール建築市場に関する予測レポートです。市場規模や成長要因、業界の展望が整理されている点を踏まえて紹介しました。",
+      "xDraftExcerptSummary": "大成建設の元社長・会長を歴任した葉山莞児氏の訃報を伝える記事です。同氏が土工協会長として主導した「脱談合宣言」や、日建連への統合といった建設業界の大きな転換点における功績がまとめられています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "BIMデータ審査の骨格判明、29年開始でAI活用も　国交省が基本構想",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/",
-    "pubDate": "2026-10-05T20:00:00.000Z",
-    "feedName": "日経クロステック 建築・住宅",
-    "score": 4,
-    "contentSnippet": "2029年の開始が見込まれる「BIMデータ審査」。国土交通省が基本構想を公表し、審査やデータ作成における考え方など、制度の骨格が見えてきた。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/",
-    "fingerprint": "1393c26d4e84c48e345defcb96d7f73e4683d918a2fec4d8c90a5210b65c2afe"
+    "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - PR TIMES",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
+    "pubDate": "Wed, 07 Oct 2026 00:10:02 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 5.212198621800001,
+    "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  PR TIMES",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
+    "fingerprint": "c91f20396fb8f042fdc0f12f4961575ee562bc798939ef57707f5b7c30aceeaa"
   },
-  "xDraft": "【本文】\n国土交通省が2029年の開始を見込む「BIMデータ審査」の基本構想を公表しました。建築確認などの審査にBIMデータを活用する仕組みで、審査の効率化に向けたAI活用の方向性も示されています。\n\nこれまでの紙や2D図面主体の審査から、データそのもので対話する時代への大きな一歩だと感じます。制度の骨格が示されたことで、業界全体でのBIM普及にさらに弾みがつきそうですね。審査の自動化や迅速化が、現場のゆとりや創造的な時間につながることを僕は期待しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/\n\n【抜粋元】\n日経クロステック 建築・住宅の記事です。国土交通省が公表したBIMデータ審査の基本構想に基づき、2029年の開始時期やAI活用の展望など、制度の骨格が明らかになった点を踏まえて執筆しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n2027年に開催される建設技術総合展「CONTEX 2027」に、土木学会や日本建設業連合会など業界12団体の後援が決まりました。遠隔建設の体験会や、重機による書道といった共創企画も用意される見込みです。\n主要な団体がこれほど名を連ねるのは、産業全体の期待値の高さが伺えます。遠隔技術といった最新動向だけでなく、重機書道のように「建設の面白さ」を伝える工夫があるのも、僕がこの展示会を応援したくなる理由の一つです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5\n\n【抜粋元】\n「CONTEX 2027」への業界12団体の後援決定と、予定されている具体的な共創企画（遠隔建設・重機書道等）を伝えるPR TIMESの記事から作成しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経クロステック 建築・住宅の記事です。国土交通省が公表したBIMデータ審査の基本構想に基づき、2029年の開始時期やAI活用の展望など、制度の骨格が明らかになった点を踏まえて執筆しました。",
+  "xDraftExcerptSummary": "「CONTEX 2027」への業界12団体の後援決定と、予定されている具体的な共創企画（遠隔建設・重機書道等）を伝えるPR TIMESの記事から作成しました。",
   "xDraftAlternates": [],
   "errors": []
 }
