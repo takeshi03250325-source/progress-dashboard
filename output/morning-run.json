@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-07T00:53:40.520Z",
+  "generatedAt": "2026-10-08T01:09:45.869Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 3,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
+    {
+      "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sZXY0emR5R1owellYNl81YTZIdnNVRW9aVXgwTGJaTFl4aFpIeGdsMHNhb2tQR3JHcm5sV1o5ZERtWDNNUFp0TmFIeFoybGhJQi1sVF80NFNGMHNHRjYxTFdQdlJNNk5XZGR2RXMzbnkzUQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 01:15:27 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 5.2122021543,
+      "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  Infoseek",
+      "urlNorm": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sZXY0emR5R1owellYNl81YTZIdnNVRW9aVXgwTGJaTFl4aFpIeGdsMHNhb2tQR3JHcm5sV1o5ZERtWDNNUFp0TmFIeFoybGhJQi1sVF80NFNGMHNHRjYxTFdQdlJNNk5XZGR2RXMzbnkzUQ?oc=5",
+      "fingerprint": "7b059dbf77e0faf52ce3ad9b7e9402a3f37227bfca7d5149aa27d8034546fdd6"
+    },
     {
       "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
@@ -15,6 +25,26 @@
       "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  PR TIMES",
       "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
       "fingerprint": "c91f20396fb8f042fdc0f12f4961575ee562bc798939ef57707f5b7c30aceeaa"
+    },
+    {
+      "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - イザ！",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pdEpJVmVXNVdIalJwVWtBUW0wRWoxc3FUWFo5VDJVdkxMemd6UzFfME1zbk1famJQRDNDTnozUHM0bkoyYXVSTmY0R2V2MFhrRW9pT1hXaExYcEg2WWJZVHk2NlhiaW0xdTA4N3BYUmFKel9IcGxyQTBR?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 00:10:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 5.212198620000001,
+      "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  イザ！",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pdEpJVmVXNVdIalJwVWtBUW0wRWoxc3FUWFo5VDJVdkxMemd6UzFfME1zbk1famJQRDNDTnozUHM0bkoyYXVSTmY0R2V2MFhrRW9pT1hXaExYcEg2WWJZVHk2NlhiaW0xdTA4N3BYUmFKel9IcGxyQTBR?oc=5",
+      "fingerprint": "00467851e41b2eea033a15bcae0be7e5e23222a9f2edf89577d8fbf7e040cc71"
+    },
+    {
+      "title": "「旧香川県立体育館」の解体停止",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/092900737/",
+      "pubDate": "2026-10-07T17:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "建築家の丹下健三が設計した「旧香川県立体育館」の保存・活用を巡る住民訴訟が躯体の解体直前に重大局面を迎えた。香川県は高松地方裁判所の要請に応じ、解体工事を2026年9月15日から10月14日までの1カ月間、停止する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/092900737/",
+      "fingerprint": "4d8cfdfc2110c2de0d5005fc76e189de95571a69a806ab356efc5cfa80b8adfc"
     },
     {
       "title": "脱談合と業界団体統合の立役者が去る、大成建設の葉山莞児元社長",
@@ -27,44 +57,64 @@
       "fingerprint": "4f923b2a0de494dc60c5980840785783cb34d826adf0260edc99e6c1b66c88ab"
     },
     {
-      "title": "脱談合と業界団体統合の立役者が去る、大成建設の葉山莞児元社長",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
-      "pubDate": "2026-10-06T20:00:00.000Z",
+      "title": "建物用途別トップ10（売上高・受注高）",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000011/",
+      "pubDate": "2026-10-07T17:11:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 4,
-      "contentSnippet": "大成建設の社長や会長などに就き、日本建設業連合会（日建連）へ統合した日本土木工業協会（土工協）の会長も務めた葉山莞児氏がこの世を去った。自社の経営にとどまらず、2006年に大手建設5社による「脱談合宣言」を実現させた他、業界団体の統合を主導するなど、建設業界の改革を推し進めた立役者だった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
-      "fingerprint": "4f923b2a0de494dc60c5980840785783cb34d826adf0260edc99e6c1b66c88ab"
+      "contentSnippet": "「建築一式工事」の完成工事高が100億円以上の建設会社を対象とした、2025年度単体決算（2025年4月～26年3月の間に迎えた決算期の単体実績）調査。建物用途別に、売上高と受注高のランキングを作成した。以下では各用途について、上位10社の顔ぶれを一挙公開する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000011/",
+      "fingerprint": "f677b699b2c928d77f7362f06d978bfe85d5b6b10f57b5b2fe2cfdf5ad825629"
     },
     {
-      "title": "マンション修繕談合に独禁法違反認定、有力企業含む42社　国交省が対策へ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02940/",
-      "pubDate": "2026-10-06T20:00:00.000Z",
+      "title": "建設会社2025年度決算ランキング",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000010/",
+      "pubDate": "2026-10-07T17:10:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 4,
-      "contentSnippet": "公正取引委員会は、関東地方のマンション大規模修繕工事を舞台とした談合を巡り、設計コンサルタント会社の翔設計（東京・渋谷）とリノシスコーポレーション（大阪市）、長谷工リフォーム（東京・港）などの工事会社40社の計42社に対し、独占禁止法違反（不当な取引制限）を認定した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02940/",
-      "fingerprint": "7fa94f4be1f10dc3aa0c167ac8919443ddc9cd1ad86cd58067790b6eab2f3e1a"
+      "contentSnippet": "「建築一式工事」の完成工事高が100億円以上の建設会社を対象に、各社の2025年度単体決算（2025年4月～26年3月の間に迎えた決算期の単体実績）をアンケート形式で調査した。調査票は26年6月初旬に郵送し、7月中旬までにオンラインで回収した。以下では、建築売上高のランキングを一挙公開する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000010/",
+      "fingerprint": "7b0cd1ee759319b4a14149247d017bb4d943ed6cb144fcebc779eac81bc5684f"
     },
     {
-      "title": "BIMデータ審査の骨格判明、29年開始でAI活用も　国交省が基本構想",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/",
-      "pubDate": "2026-10-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "2029年の開始が見込まれる「BIMデータ審査」。国土交通省が基本構想を公表し、審査やデータ作成における考え方など、制度の骨格が見えてきた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02939/",
-      "fingerprint": "1393c26d4e84c48e345defcb96d7f73e4683d918a2fec4d8c90a5210b65c2afe"
+      "title": "JR東日本初の3Dプリンター駅舎、會澤高圧コンクリートが施工　27年3月完成",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02782/",
+      "pubDate": "2026-10-07T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "JR東日本は釜石線小佐野駅の老朽化した駅舎を、建設3Dプリンターを使って建て替える。會澤高圧コンクリート（北海道苫小牧市）が、建設場所に直接造形する「オンサイトプリンティング」方式で施工する。3Dプリンターを使った駅舎の建設は国内2例目で、JR東日本管内では初めて。2026年10月13日から現駅舎の解体工事や仮通路への切り替え工事を始め、27年3月の利用開始を目指す。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02782/",
+      "fingerprint": "3356e5fd442aab0f09533803c749bf0e9e7b321b6509dca684e33b5b172f4222"
     },
     {
-      "title": "湯川秀樹博士旧宅の再生で日本建設業連合会ＢＣＳ賞 長谷工 - 住宅新報",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HY2VqQXp1QzlqTDU5Y1lURl96ZXFNM180TkQ0czNYSjkwSHBtRm5TTEszb1NzSzRXdFo0ZGZSdnYzVjJtcVVkWVd2dXFtdklC?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.41206524,
-      "contentSnippet": "湯川秀樹博士旧宅の再生で日本建設業連合会ＢＣＳ賞 長谷工  住宅新報",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HY2VqQXp1QzlqTDU5Y1lURl96ZXFNM180TkQ0czNYSjkwSHBtRm5TTEszb1NzSzRXdFo0ZGZSdnYzVjJtcVVkWVd2dXFtdklC?oc=5",
-      "fingerprint": "ebcb1b13ec96bb86c85ab9bca2cf78d6958dce8b81efb31eb70b53e5b9297e90"
+      "title": "1位は「杭未達で商業施設が14cm沈下、複雑な地盤形状を見抜けず」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500435/",
+      "pubDate": "2026-10-07T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月8～14日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500435/",
+      "fingerprint": "1dba24fa640ac69ea7e907de6d068ac460dbf5de9acdb68632d2ada1b811d34c"
+    },
+    {
+      "title": "「地盤改良」はライト工業が増収で首位キープ、五洋建設が売上高2.5倍で4位",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400004/",
+      "pubDate": "2026-10-07T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「地盤改良」の首位はライト工業。6期連続の増収で首位をキープした。五洋建設が、前期比約2.5倍の売り上げで前年度の11位から4位に急上昇した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400004/",
+      "fingerprint": "18230831e352d11a870dedf8b879c4af3e3647fbe77681891019d652dc0d85aa"
+    },
+    {
+      "title": "“メモ魔”の設計者が再登板、首里城正殿の復活支えたノートと秘蔵写真",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/100600043/",
+      "pubDate": "2026-10-07T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "2026年9月30日に復元工事を終え、11月の供用開始を控える首里城正殿。「令和の復元」は、原因不明の火災で焼失した建物の手描き図面を、デジタル化することから始まった。正殿の設計・監理を統括したキーパーソンが、沖縄の有力建設コンサルタント会社、国建（那覇市）の平良啓・主席執行役員だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/100600043/",
+      "fingerprint": "24ddf49cdd8968d17dfef8f4042e68a941b07e8e49925cf1f3d5fa7896152c7c"
     },
     {
       "title": "道路損傷をAIでリアルタイム検知、首都高技術とシャープが実証実験",
@@ -87,147 +137,101 @@
       "fingerprint": "c38484f0f0c82a78fba5f5d8be16385b83ab753e2078e8d71fc43dded731ce90"
     },
     {
-      "title": "「海洋」は東亜建設工業が約3割増収、首位・五洋建設を猛追",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400002/",
-      "pubDate": "2026-10-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「海洋」の首位は今年度も五洋建設だが、3期連続で大幅増収の東亜建設工業が猛追している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400002/",
-      "fingerprint": "64d85312bdbce730390c5369f0f1d3fb041c29dff0d3e5fd183526df3652226b"
-    },
-    {
-      "title": "中国初 1日に4路線の新規高速鉄道が同時開通",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02406/100500068/",
-      "pubDate": "2026-10-05T01:30:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "中国では9月28日、北京と香港を結ぶ「京港高速鉄道」の雄安-商丘区間、西安と重慶を結ぶ「西渝高速鉄道」の西安-安康区間、湖北省の「宜昌-興山高速鉄道」、黒龍江省のハルビンと伊春を結ぶ「哈伊高速鉄道」が同時に開通しました。これら4本の高速鉄道は中国の北部、北西部、中部、東北部を貫くことで、地域の経済社会の発展に交通インフラによる力強い原動力を注ぎ込みます。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02406/100500068/",
-      "fingerprint": "beb7bc257e8924ccd85a71fcf41013d4f09777eb276f03a93f80067d5a6091f4"
-    },
-    {
-      "title": "「基礎」は五洋建設が首位奪還、清水建設は約3割減収で3位後退",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400003/",
-      "pubDate": "2026-10-06T20:00:00.000Z",
+      "title": "1位は「杭未達で商業施設が14cm沈下、複雑な地盤形状を見抜けず」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500435/",
+      "pubDate": "2026-10-07T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「基礎」の首位は五洋建設。前年度に清水建設に奪われた首位を奪還した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400003/",
-      "fingerprint": "c38484f0f0c82a78fba5f5d8be16385b83ab753e2078e8d71fc43dded731ce90"
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月8～14日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500435/",
+      "fingerprint": "1dba24fa640ac69ea7e907de6d068ac460dbf5de9acdb68632d2ada1b811d34c"
     },
     {
-      "title": "設計事務所が好決算の陰で進む市場縮小、築古ストック増で改修に光",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500004/",
-      "pubDate": "2026-10-06T20:00:00.000Z",
+      "title": "JR東日本初の3Dプリンター駅舎、會澤高圧コンクリートが施工　27年3月完成",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02782/",
+      "pubDate": "2026-10-07T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "日経アーキテクチュアが独自調査した建築設計事務所の2025年度決算。78％の企業が増収を果たし、66％の企業が営業増益と好調だった。だが、市場縮小の影は着実に忍び寄る。新たな金脈の1つとして、リニューアルに注目が集まっている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500004/",
-      "fingerprint": "5672fe979d12cca5a4aaffafd4afad9e24587d4bcde1428ef60186cbc487c566"
-    },
-    {
-      "title": "「在学中受験」に建築系教員ら8割が反対、教育の空洞化懸念　全建教の調査",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02935/",
-      "pubDate": "2026-10-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "大学在学中に建築士試験の受験を可能にする改正建築士法に対し、教育現場から反対意見が挙がっている。全国建築系大学教育連絡協議会は、大学、高等専門学校、専門学校の教員を対象に実施したアンケート調査結果を報告。回答者の約8割が「反対」の立場を表明した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02935/",
-      "fingerprint": "9f86be82ef8906ced3a6f974c076524c3bb50ff4656969e1bb19b83c0a44a4f0"
-    },
-    {
-      "title": "「海洋」は東亜建設工業が約3割増収、首位・五洋建設を猛追",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400002/",
-      "pubDate": "2026-10-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「海洋」の首位は今年度も五洋建設だが、3期連続で大幅増収の東亜建設工業が猛追している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400002/",
-      "fingerprint": "64d85312bdbce730390c5369f0f1d3fb041c29dff0d3e5fd183526df3652226b"
-    },
-    {
-      "title": "中国初 1日に4路線の新規高速鉄道が同時開通",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02406/100500068/",
-      "pubDate": "2026-10-05T01:30:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "中国では9月28日、北京と香港を結ぶ「京港高速鉄道」の雄安-商丘区間、西安と重慶を結ぶ「西渝高速鉄道」の西安-安康区間、湖北省の「宜昌-興山高速鉄道」、黒龍江省のハルビンと伊春を結ぶ「哈伊高速鉄道」が同時に開通しました。これら4本の高速鉄道は中国の北部、北西部、中部、東北部を貫くことで、地域の経済社会の発展に交通インフラによる力強い原動力を注ぎ込みます。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02406/100500068/",
-      "fingerprint": "beb7bc257e8924ccd85a71fcf41013d4f09777eb276f03a93f80067d5a6091f4"
+      "contentSnippet": "JR東日本は釜石線小佐野駅の老朽化した駅舎を、建設3Dプリンターを使って建て替える。會澤高圧コンクリート（北海道苫小牧市）が、建設場所に直接造形する「オンサイトプリンティング」方式で施工する。3Dプリンターを使った駅舎の建設は国内2例目で、JR東日本管内では初めて。2026年10月13日から現駅舎の解体工事や仮通路への切り替え工事を始め、27年3月の利用開始を目指す。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02782/",
+      "fingerprint": "3356e5fd442aab0f09533803c749bf0e9e7b321b6509dca684e33b5b172f4222"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
-        "pubDate": "Wed, 07 Oct 2026 00:10:02 GMT",
+        "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - Infoseek",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sZXY0emR5R1owellYNl81YTZIdnNVRW9aVXgwTGJaTFl4aFpIeGdsMHNhb2tQR3JHcm5sV1o5ZERtWDNNUFp0TmFIeFoybGhJQi1sVF80NFNGMHNHRjYxTFdQdlJNNk5XZGR2RXMzbnkzUQ?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 01:15:27 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 5.212198621800001,
-        "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  PR TIMES",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
-        "fingerprint": "c91f20396fb8f042fdc0f12f4961575ee562bc798939ef57707f5b7c30aceeaa"
+        "score": 5.2122021543,
+        "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  Infoseek",
+        "urlNorm": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sZXY0emR5R1owellYNl81YTZIdnNVRW9aVXgwTGJaTFl4aFpIeGdsMHNhb2tQR3JHcm5sV1o5ZERtWDNNUFp0TmFIeFoybGhJQi1sVF80NFNGMHNHRjYxTFdQdlJNNk5XZGR2RXMzbnkzUQ?oc=5",
+        "fingerprint": "7b059dbf77e0faf52ce3ad9b7e9402a3f37227bfca7d5149aa27d8034546fdd6"
       },
-      "xDraft": "【本文】\n2027年に開催される建設技術総合展「CONTEX 2027」に、土木学会や日本建設業連合会など業界12団体の後援が決まりました。遠隔建設の体験会や、重機による書道といった共創企画も用意される見込みです。\n主要な団体がこれほど名を連ねるのは、産業全体の期待値の高さが伺えます。遠隔技術といった最新動向だけでなく、重機書道のように「建設の面白さ」を伝える工夫があるのも、僕がこの展示会を応援したくなる理由の一つです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5\n\n【抜粋元】\n「CONTEX 2027」への業界12団体の後援決定と、予定されている具体的な共創企画（遠隔建設・重機書道等）を伝えるPR TIMESの記事から作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n2027年に開催される建設技術総合展「CONTEX 2027」に、土木学会や日本建設業連合会など業界12団体の後援が決まりました。遠隔建設の体験会や「重機書道」といった、技術と文化を掛け合わせた共創企画も予定されています。\n業界を代表する各団体が足並みを揃え、未来に向けた発信を強めていく姿勢が素晴らしいですね。先端技術だけでなく、重機の力強さを表現するようなユニークな試みが、多くの人に建設業の魅力を伝えるきっかけになればと僕も期待しています。\n\n出典：Infoseek\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE9sZXY0emR5R1owellYNl81YTZIdnNVRW9aVXgwTGJaTFl4aFpIeGdsMHNhb2tQR3JHcm5sV1o5ZERtWDNNUFp0TmFIeFoybGhJQi1sVF80NFNGMHNHRjYxTFdQdlJNNk5XZGR2RXMzbnkzUQ?oc=5\n\n【抜粋元】\n「CONTEX 2027」への主要12団体の後援決定と、予定されている「遠隔建設体験」「重機書道」等の共創企画について。業界が一体となって取り組む姿勢を強調しました。\n\n【判定】NG\n\n【候補2】\n建設技術総合展「CONTEX 2027」にて、主要団体の後援と「重機書道」などの共創企画の実施が発表されました。技術とエンタメの融合が、現場の魅力を次世代へ伝える良い機会になりそうですね。\n出典：In…",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "NG",
+      "xDraftExcerptSummary": "「CONTEX 2027」への主要12団体の後援決定と、予定されている「遠隔建設体験」「重機書道」等の共創企画について。業界が一体となって取り組む姿勢を強調しました。",
+      "xDraftAlternates": [
+        "建設技術総合展「CONTEX 2027」にて、主要団体の後援と「重機書道」などの共創企画の実施が発表されました。技術とエンタメの融合が、現場の魅力を次世代へ伝える良い機会になりそうですね。\n出典：In…"
+      ]
+    },
+    {
+      "picked": {
+        "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - イザ！",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pdEpJVmVXNVdIalJwVWtBUW0wRWoxc3FUWFo5VDJVdkxMemd6UzFfME1zbk1famJQRDNDTnozUHM0bkoyYXVSTmY0R2V2MFhrRW9pT1hXaExYcEg2WWJZVHk2NlhiaW0xdTA4N3BYUmFKel9IcGxyQTBR?oc=5",
+        "pubDate": "Wed, 07 Oct 2026 00:10:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 5.212198620000001,
+        "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  イザ！",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pdEpJVmVXNVdIalJwVWtBUW0wRWoxc3FUWFo5VDJVdkxMemd6UzFfME1zbk1famJQRDNDTnozUHM0bkoyYXVSTmY0R2V2MFhrRW9pT1hXaExYcEg2WWJZVHk2NlhiaW0xdTA4N3BYUmFKel9IcGxyQTBR?oc=5",
+        "fingerprint": "00467851e41b2eea033a15bcae0be7e5e23222a9f2edf89577d8fbf7e040cc71"
+      },
+      "xDraft": "【本文】\n2027年に開催予定の建設技術総合展「CONTEX 2027」において、土木学会や日本建設業連合会など業界12団体の後援が決定しました。遠隔建設の体験会や重機書道といった、各団体との共創企画も計画されているそうです。\n\n業界を代表する諸団体が手を取り合う姿は、未来への力強いメッセージに感じます。特に重機書道のようなユニークな取り組みは、一般の方々が建設技術の繊細さに触れる良いきっかけになりそうですね。僕も今から開催が楽しみです。\n\n出典：イザ！\nhttps://news.google.com/rss/articles/CBMiekFVX3lxTE1pdEpJVmVXNVdIalJwVWtBUW0wRWoxc3FUWFo5VDJVdkxMemd6UzFfME1zbk1famJQRDNDTnozUHM0bkoyYXVSTmY0R2V2MFhrRW9pT1hXaExYcEg2WWJZVHk2NlhiaW0xdTA4N3BYUmFKel9IcGxyQTBR?oc=5\n\n【抜粋元】\n2027年開催の「CONTEX 2027」に業界12団体の後援が決まったニュースです。遠隔建設体験や重機書道などの具体的な共創企画が予定されている点に注目して記述しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "「CONTEX 2027」への業界12団体の後援決定と、予定されている具体的な共創企画（遠隔建設・重機書道等）を伝えるPR TIMESの記事から作成しました。",
+      "xDraftExcerptSummary": "2027年開催の「CONTEX 2027」に業界12団体の後援が決まったニュースです。遠隔建設体験や重機書道などの具体的な共創企画が予定されている点に注目して記述しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "脱談合と業界団体統合の立役者が去る、大成建設の葉山莞児元社長",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
-        "pubDate": "2026-10-06T20:00:00.000Z",
+        "title": "「旧香川県立体育館」の解体停止",
+        "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/092900737/",
+        "pubDate": "2026-10-07T17:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 4.8,
-        "contentSnippet": "大成建設の社長や会長などに就き、日本建設業連合会（日建連）へ統合した日本土木工業協会（土工協）の会長も務めた葉山莞児氏がこの世を去った。自社の経営にとどまらず、2006年に大手建設5社による「脱談合宣言」を実現させた他、業界団体の統合を主導するなど、建設業界の改革を推し進めた立役者だった。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
-        "fingerprint": "4f923b2a0de494dc60c5980840785783cb34d826adf0260edc99e6c1b66c88ab"
+        "contentSnippet": "建築家の丹下健三が設計した「旧香川県立体育館」の保存・活用を巡る住民訴訟が躯体の解体直前に重大局面を迎えた。香川県は高松地方裁判所の要請に応じ、解体工事を2026年9月15日から10月14日までの1カ月間、停止する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/092900737/",
+        "fingerprint": "4d8cfdfc2110c2de0d5005fc76e189de95571a69a806ab356efc5cfa80b8adfc"
       },
-      "xDraft": "【本文】\n大成建設の元社長で、業界団体の統合や脱談合を主導した葉山莞児氏が逝去されました。2006年の大手5社による「脱談合宣言」を実現させるなど、建設業界の近代化と改革を推し進めた立役者です。\n\n僕たちが今いる業界の透明性や健全性は、こうした先人たちの強い決意によって築かれたものだと改めて感じます。時代の転換点を自ら作った方の歩みに、深い敬意を表します。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/\n\n【抜粋元】\n大成建設の葉山莞児元社長の訃報を伝え、氏が「脱談合宣言」や「日建連への統合」といった業界改革を主導した功績について記載された記事から作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n丹下健三氏が設計した「旧香川県立体育館」の解体工事が、裁判所の要請を受けて2026年9月15日から1カ月間停止されることになりました。保存・活用を求める住民訴訟が続く中、躯体の解体直前にて重大な局面を迎えています。\n\n戦後建築の傑作として知られる建物ですが、維持管理や安全性の確保と、文化的価値の保存を両立させる難しさが改めて浮き彫りになっています。解体直前での一時停止という判断に、この建築が持つ歴史的な重みを感じずにはいられません。僕もこの議論の行方を静かに見守りたいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/092900737/\n\n【抜粋元】\n建築家の丹下健三氏が設計した「旧香川県立体育館」の解体工事が、高松地方裁判所の要請により2026年9月15日から10月14日まで停止されるというニュース。保存を求める住民訴訟が重大局面にあることを踏まえて執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "大成建設の葉山莞児元社長の訃報を伝え、氏が「脱談合宣言」や「日建連への統合」といった業界改革を主導した功績について記載された記事から作成しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "脱談合と業界団体統合の立役者が去る、大成建設の葉山莞児元社長",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
-        "pubDate": "2026-10-06T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "大成建設の社長や会長などに就き、日本建設業連合会（日建連）へ統合した日本土木工業協会（土工協）の会長も務めた葉山莞児氏がこの世を去った。自社の経営にとどまらず、2006年に大手建設5社による「脱談合宣言」を実現させた他、業界団体の統合を主導するなど、建設業界の改革を推し進めた立役者だった。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/",
-        "fingerprint": "4f923b2a0de494dc60c5980840785783cb34d826adf0260edc99e6c1b66c88ab"
-      },
-      "xDraft": "【本文】\n大成建設の元社長、葉山莞児氏が逝去されました。2006年に大手建設5社による「脱談合宣言」を実現させたほか、業界団体の統合を主導するなど、建設業界の近代化と改革に尽力された立役者です。\n\n古い慣習を打破し、開かれた産業へと導いてくださった功績は計り知れません。今の僕たちが誇りを持って現場に立てる土壌を築いてくださった先人に、深い敬意と感謝の念を抱きます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02776/\n\n【抜粋元】\n大成建設の元社長・会長を歴任した葉山莞児氏の訃報を伝える記事です。同氏が土工協会長として主導した「脱談合宣言」や、日建連への統合といった建設業界の大きな転換点における功績がまとめられています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "大成建設の元社長・会長を歴任した葉山莞児氏の訃報を伝える記事です。同氏が土工協会長として主導した「脱談合宣言」や、日建連への統合といった建設業界の大きな転換点における功績がまとめられています。",
+      "xDraftExcerptSummary": "建築家の丹下健三氏が設計した「旧香川県立体育館」の解体工事が、高松地方裁判所の要請により2026年9月15日から10月14日まで停止されるというニュース。保存を求める住民訴訟が重大局面にあることを踏まえて執筆しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - PR TIMES",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
-    "pubDate": "Wed, 07 Oct 2026 00:10:02 GMT",
+    "title": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定 - Infoseek",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sZXY0emR5R1owellYNl81YTZIdnNVRW9aVXgwTGJaTFl4aFpIeGdsMHNhb2tQR3JHcm5sV1o5ZERtWDNNUFp0TmFIeFoybGhJQi1sVF80NFNGMHNHRjYxTFdQdlJNNk5XZGR2RXMzbnkzUQ?oc=5",
+    "pubDate": "Wed, 07 Oct 2026 01:15:27 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 5.212198621800001,
-    "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  PR TIMES",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5",
-    "fingerprint": "c91f20396fb8f042fdc0f12f4961575ee562bc798939ef57707f5b7c30aceeaa"
+    "score": 5.2122021543,
+    "contentSnippet": "建設技術総合展「CONTEX 2027」、土木学会・日本建設業連合会など業界12団体の後援が決定 遠隔建設体験会や重機書道など、後援団体との共創企画も予定  Infoseek",
+    "urlNorm": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sZXY0emR5R1owellYNl81YTZIdnNVRW9aVXgwTGJaTFl4aFpIeGdsMHNhb2tQR3JHcm5sV1o5ZERtWDNNUFp0TmFIeFoybGhJQi1sVF80NFNGMHNHRjYxTFdQdlJNNk5XZGR2RXMzbnkzUQ?oc=5",
+    "fingerprint": "7b059dbf77e0faf52ce3ad9b7e9402a3f37227bfca7d5149aa27d8034546fdd6"
   },
-  "xDraft": "【本文】\n2027年に開催される建設技術総合展「CONTEX 2027」に、土木学会や日本建設業連合会など業界12団体の後援が決まりました。遠隔建設の体験会や、重機による書道といった共創企画も用意される見込みです。\n主要な団体がこれほど名を連ねるのは、産業全体の期待値の高さが伺えます。遠隔技術といった最新動向だけでなく、重機書道のように「建設の面白さ」を伝える工夫があるのも、僕がこの展示会を応援したくなる理由の一つです。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBHTXFOSjdTSXFvSm5MR29Ocjc1UW1qeW41TkN5TXppVXN4eTBYQnF6YnBzb0lRazMzOUFMcThzZXhlbTR2VHJteEg3ZjRlTEpJa1V0aHQ1djlubW9Fa2dHd29zbWUzNjJhcnc?oc=5\n\n【抜粋元】\n「CONTEX 2027」への業界12団体の後援決定と、予定されている具体的な共創企画（遠隔建設・重機書道等）を伝えるPR TIMESの記事から作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n2027年に開催される建設技術総合展「CONTEX 2027」に、土木学会や日本建設業連合会など業界12団体の後援が決まりました。遠隔建設の体験会や「重機書道」といった、技術と文化を掛け合わせた共創企画も予定されています。\n業界を代表する各団体が足並みを揃え、未来に向けた発信を強めていく姿勢が素晴らしいですね。先端技術だけでなく、重機の力強さを表現するようなユニークな試みが、多くの人に建設業の魅力を伝えるきっかけになればと僕も期待しています。\n\n出典：Infoseek\nhttps://news.google.com/rss/articles/CBMickFVX3lxTE9sZXY0emR5R1owellYNl81YTZIdnNVRW9aVXgwTGJaTFl4aFpIeGdsMHNhb2tQR3JHcm5sV1o5ZERtWDNNUFp0TmFIeFoybGhJQi1sVF80NFNGMHNHRjYxTFdQdlJNNk5XZGR2RXMzbnkzUQ?oc=5\n\n【抜粋元】\n「CONTEX 2027」への主要12団体の後援決定と、予定されている「遠隔建設体験」「重機書道」等の共創企画について。業界が一体となって取り組む姿勢を強調しました。\n\n【判定】NG\n\n【候補2】\n建設技術総合展「CONTEX 2027」にて、主要団体の後援と「重機書道」などの共創企画の実施が発表されました。技術とエンタメの融合が、現場の魅力を次世代へ伝える良い機会になりそうですね。\n出典：In…",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
-  "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "「CONTEX 2027」への業界12団体の後援決定と、予定されている具体的な共創企画（遠隔建設・重機書道等）を伝えるPR TIMESの記事から作成しました。",
-  "xDraftAlternates": [],
+  "xPostVerdict": "NG",
+  "xDraftExcerptSummary": "「CONTEX 2027」への主要12団体の後援決定と、予定されている「遠隔建設体験」「重機書道」等の共創企画について。業界が一体となって取り組む姿勢を強調しました。",
+  "xDraftAlternates": [
+    "建設技術総合展「CONTEX 2027」にて、主要団体の後援と「重機書道」などの共創企画の実施が発表されました。技術とエンタメの融合が、現場の魅力を次世代へ伝える良い機会になりそうですね。\n出典：In…"
+  ],
   "errors": []
 }
