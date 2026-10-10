@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-09T01:19:12.533Z",
+  "generatedAt": "2026-10-10T01:04:51.142Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
+  "skippedDuplicates": 2,
   "skippedJapanFocus": 6,
   "pickCountRequested": 3,
   "pickCountActual": 3,
@@ -27,34 +27,24 @@
       "fingerprint": "0f26d5237ba2b98547d1d06748b41f6a0d83326d2b6d6dfa61f5562150fb610b"
     },
     {
-      "title": "「旧香川県立体育館」の解体停止",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/092900737/",
-      "pubDate": "2026-10-07T17:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "建築家の丹下健三が設計した「旧香川県立体育館」の保存・活用を巡る住民訴訟が躯体の解体直前に重大局面を迎えた。香川県は高松地方裁判所の要請に応じ、解体工事を2026年9月15日から10月14日までの1カ月間、停止する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/092900737/",
-      "fingerprint": "4d8cfdfc2110c2de0d5005fc76e189de95571a69a806ab356efc5cfa80b8adfc"
+      "title": "シンポジウムを開催 日本建設業連合会関西支部 - 建通新聞",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 08:33:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.412381302,
+      "contentSnippet": "シンポジウムを開催 日本建設業連合会関西支部  建通新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
+      "fingerprint": "da0506df2258dd21ce74ae0ebed0c6b1b88ec45df23154e702fa38d9285bce49"
     },
     {
-      "title": "建物用途別トップ10（売上高・受注高）",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000011/",
-      "pubDate": "2026-10-07T17:11:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "「建築一式工事」の完成工事高が100億円以上の建設会社を対象とした、2025年度単体決算（2025年4月～26年3月の間に迎えた決算期の単体実績）調査。建物用途別に、売上高と受注高のランキングを作成した。以下では各用途について、上位10社の顔ぶれを一挙公開する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000011/",
-      "fingerprint": "f677b699b2c928d77f7362f06d978bfe85d5b6b10f57b5b2fe2cfdf5ad825629"
-    },
-    {
-      "title": "建設会社2025年度決算ランキング",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000010/",
-      "pubDate": "2026-10-07T17:10:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "「建築一式工事」の完成工事高が100億円以上の建設会社を対象に、各社の2025年度単体決算（2025年4月～26年3月の間に迎えた決算期の単体実績）をアンケート形式で調査した。調査票は26年6月初旬に郵送し、7月中旬までにオンラインで回収した。以下では、建築売上高のランキングを一挙公開する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000010/",
-      "fingerprint": "7b0cd1ee759319b4a14149247d017bb4d943ed6cb144fcebc779eac81bc5684f"
+      "title": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2) - 建設通信新聞Digital",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 03:45:54 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4123657985999998,
+      "contentSnippet": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2)  建設通信新聞Digital",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5",
+      "fingerprint": "0ef00ef0fbb4c1d72ede99a42b3df7c47620cfcb174d8b5331ceba307e040eb3"
     },
     {
       "title": "「作るだけ」のゼネコンは立ち行かなくなる…「運営」まで手がけるインフロニア・岐部CEOが掲げる「請負×脱請負」の真意 - 文春オンライン",
@@ -87,46 +77,6 @@
       "fingerprint": "03386fc5ac75bcfdb04a7cbcfe160023df3bddf365cd6cab0e5bead8c4952710"
     },
     {
-      "title": "1位は「杭未達で商業施設が14cm沈下、複雑な地盤形状を見抜けず」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500435/",
-      "pubDate": "2026-10-07T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月5～11日に読まれた記事の1～10位を26年10月8～14日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500435/",
-      "fingerprint": "1dba24fa640ac69ea7e907de6d068ac460dbf5de9acdb68632d2ada1b811d34c"
-    },
-    {
-      "title": "「地盤改良」はライト工業が増収で首位キープ、五洋建設が売上高2.5倍で4位",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400004/",
-      "pubDate": "2026-10-07T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「地盤改良」の首位はライト工業。6期連続の増収で首位をキープした。五洋建設が、前期比約2.5倍の売り上げで前年度の11位から4位に急上昇した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400004/",
-      "fingerprint": "18230831e352d11a870dedf8b879c4af3e3647fbe77681891019d652dc0d85aa"
-    },
-    {
-      "title": "JR東日本初の3Dプリンター駅舎、會澤高圧コンクリートが施工　27年3月完成",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02782/",
-      "pubDate": "2026-10-07T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "JR東日本は釜石線小佐野駅の老朽化した駅舎を、建設3Dプリンターを使って建て替える。會澤高圧コンクリート（北海道苫小牧市）が、建設場所に直接造形する「オンサイトプリンティング」方式で施工する。3Dプリンターを使った駅舎の建設は国内2例目で、JR東日本管内では初めて。2026年10月13日から現駅舎の解体工事や仮通路への切り替え工事を始め、27年3月の利用開始を目指す。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02782/",
-      "fingerprint": "3356e5fd442aab0f09533803c749bf0e9e7b321b6509dca684e33b5b172f4222"
-    },
-    {
-      "title": "“メモ魔”の設計者が再登板、首里城正殿の復活支えたノートと秘蔵写真",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/100600043/",
-      "pubDate": "2026-10-07T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "2026年9月30日に復元工事を終え、11月の供用開始を控える首里城正殿。「令和の復元」は、原因不明の火災で焼失した建物の手描き図面を、デジタル化することから始まった。正殿の設計・監理を統括したキーパーソンが、沖縄の有力建設コンサルタント会社、国建（那覇市）の平良啓・主席執行役員だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/100600043/",
-      "fingerprint": "24ddf49cdd8968d17dfef8f4042e68a941b07e8e49925cf1f3d5fa7896152c7c"
-    },
-    {
       "title": "「機械土工」は五洋建設が3連覇、前田建設工業が75％増収で3位浮上",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400005/",
       "pubDate": "2026-10-08T20:00:00.000Z",
@@ -135,6 +85,16 @@
       "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「機械土工」は五洋建設が大幅増収で3連覇を果たした。2位は大林組、3位は前期比75.5％増の前田建設工業が前年度5位から浮上した。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400005/",
       "fingerprint": "8b34cd1755f421e4ed4c3b407c96772337ed6ed052f6d73de48e8e6124099066"
+    },
+    {
+      "title": "横浜市長選に山本理顕氏が立候補、「快適に住める権利」の保護訴え",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/",
+      "pubDate": "2026-10-08T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "建築家の山本理顕氏が、2026年10月4日に告示された横浜市長選に無所属で立候補した。「市民が快適に住める権利を守る」と訴え、住環境の改善や観光収入の増加を公約に掲げた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/",
+      "fingerprint": "03386fc5ac75bcfdb04a7cbcfe160023df3bddf365cd6cab0e5bead8c4952710"
     },
     {
       "title": "設計事務所の決算、倉庫・物流を筆頭に全用途好調　業務別では改修が急伸",
@@ -147,87 +107,127 @@
       "fingerprint": "29431550e05a2487b5f55604bbe6ba36de96abaad3cd994d85804eeccb4317e7"
     },
     {
-      "title": "横浜市長選に山本理顕氏が立候補、「快適に住める権利」の保護訴え",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/",
+      "title": "福井県「教員の企業体験研修」実施について - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 03:10:01 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6123638609000002,
+      "contentSnippet": "福井県「教員の企業体験研修」実施について  PR TIMES",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
+      "fingerprint": "15ecc620d51e97bf30635982af3976c2e74724b93076ca24c6da2716fb965b6c"
+    },
+    {
+      "title": "河川、砂防及び海岸・海洋　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500072/",
+      "pubDate": "2026-10-08T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年度の選択科目「河川、砂防及び海岸・海洋（河川砂防）」は、河道縦断形、ダム堆砂、土砂災害警戒情報、海岸堤防という基準類の基本事項に加え、気候変動を踏まえた計画改定、地区防災計画、複合災害、事業評価が出題されました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500072/",
+      "fingerprint": "92bd37aba92a7b99951419940400ec945f2dfd891ff0160db95cdec9aebf3ab6"
+    },
+    {
+      "title": "最新オフィスビルが受け皿、出社目的になる会議室や充実の共用部に社員集合",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/093000007/",
+      "pubDate": "2026-10-08T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "新型コロナウイルス禍の後に完成した再開発ビルは、オフィステナントの入居が堅調だ。出社回帰の受け皿となる便利なオフィスビルが多様な働き方を下支えする。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/093000007/",
+      "fingerprint": "6d25709dd4c4fd4208f71bf837af76db93c33ff427f6aca9ddc0a08ad57f8ae5"
+    },
+    {
+      "title": "「ワインが飲める」ほどゆとりのある避難所に、環境改善の取り組みに注目",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/100602119/",
+      "pubDate": "2026-10-08T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "「イタリアの避難所では、ベッドやトイレが整い、キッチンカーでつくった温かい食事に加えて、ワインが飲める。それほどに環境整備が進んでいる」。こう話すのは、清水建設発ベンチャーのShelterOne（シェルターワン、東京・江東）を率いる児島功社長だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/100602119/",
+      "fingerprint": "e6746aabcf08d1b4366d4774c2c39abc40c1896e17c0521c92b7533d8d231d2e"
+    },
+    {
+      "title": "河川、砂防及び海岸・海洋　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500072/",
       "pubDate": "2026-10-08T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "建築家の山本理顕氏が、2026年10月4日に告示された横浜市長選に無所属で立候補した。「市民が快適に住める権利を守る」と訴え、住環境の改善や観光収入の増加を公約に掲げた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/",
-      "fingerprint": "03386fc5ac75bcfdb04a7cbcfe160023df3bddf365cd6cab0e5bead8c4952710"
+      "score": 0,
+      "contentSnippet": "2026年度の選択科目「河川、砂防及び海岸・海洋（河川砂防）」は、河道縦断形、ダム堆砂、土砂災害警戒情報、海岸堤防という基準類の基本事項に加え、気候変動を踏まえた計画改定、地区防災計画、複合災害、事業評価が出題されました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500072/",
+      "fingerprint": "92bd37aba92a7b99951419940400ec945f2dfd891ff0160db95cdec9aebf3ab6"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "「標準労務費」定着へ3つの新規調査、10月下旬から順次開始　国土交通省",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-        "pubDate": "2026-10-08T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 7.199999999999999,
-        "contentSnippet": "改正建設業法に基づく「労務費に関する基準」、いわゆる「標準労務費」の運用実態を把握するため、国土交通省は2026年10月下旬から3つの新規調査を順次始める。公共・民間、土木・建築を問わず、発注者や元請け会社、下請け会社を対象に、見積書や賃金台帳などの提出を求め、アンケートや聞き取りを実施する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-        "fingerprint": "0f26d5237ba2b98547d1d06748b41f6a0d83326d2b6d6dfa61f5562150fb610b"
+        "title": "シンポジウムを開催 日本建設業連合会関西支部 - 建通新聞",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
+        "pubDate": "Fri, 09 Oct 2026 08:33:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.412381302,
+        "contentSnippet": "シンポジウムを開催 日本建設業連合会関西支部  建通新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
+        "fingerprint": "da0506df2258dd21ce74ae0ebed0c6b1b88ec45df23154e702fa38d9285bce49"
       },
-      "xDraft": "【本文】\n国土交通省は「標準労務費」の運用実態を把握するため、2026年10月下旬から3つの新規調査を順次開始します。公共・民間、土木・建築を問わず、発注者から下請け会社までを対象に見積書や賃金台帳の提出を求め、アンケートや聞き取りを実施するものです。\n\n適切な労務費が現場の末端まで行き渡ることは、僕たちがこの産業で働き続けるために何より大切なことだと感じています。実態調査によって現状の課題が可視化され、制度が形骸化せずに実効性を持って定着していくことを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/\n\n【抜粋元】\n日経クロステック 土木の記事から、改正建設業法に基づく「標準労務費」の運用状況を確認するために国交省が実施する、3つの新規調査の開始時期や調査対象、手法についての情報を整理しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本建設業連合会（日建連）の関西支部がシンポジウムを開催しました。建設業界の動向や直面する課題について、改めて議論を深める場となったようです。\n地域に根ざした支部が主体となり、現場の実情に即した知見を共有することは、産業全体の底上げに欠かせないプロセスだと僕は感じています。こうした対話の積み重ねが、より良い施工環境や未来のまちづくりを支える確かな力になりますね。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5\n\n【抜粋元】\n日本建設業連合会関西支部が主催したシンポジウムの開催を伝える記事です。業界団体による知見共有の場が設けられた事実に着目して構成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の記事から、改正建設業法に基づく「標準労務費」の運用状況を確認するために国交省が実施する、3つの新規調査の開始時期や調査対象、手法についての情報を整理しました。",
+      "xDraftExcerptSummary": "日本建設業連合会関西支部が主催したシンポジウムの開催を伝える記事です。業界団体による知見共有の場が設けられた事実に着目して構成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "「標準労務費」定着へ3つの新規調査、10月下旬から順次開始　国土交通省",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-        "pubDate": "2026-10-08T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 6,
-        "contentSnippet": "改正建設業法に基づく「労務費に関する基準」、いわゆる「標準労務費」の運用実態を把握するため、国土交通省は2026年10月下旬から3つの新規調査を順次始める。公共・民間、土木・建築を問わず、発注者や元請け会社、下請け会社を対象に、見積書や賃金台帳などの提出を求め、アンケートや聞き取りを実施する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-        "fingerprint": "0f26d5237ba2b98547d1d06748b41f6a0d83326d2b6d6dfa61f5562150fb610b"
+        "title": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2) - 建設通信新聞Digital",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5",
+        "pubDate": "Fri, 09 Oct 2026 03:45:54 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4123657985999998,
+        "contentSnippet": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2)  建設通信新聞Digital",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5",
+        "fingerprint": "0ef00ef0fbb4c1d72ede99a42b3df7c47620cfcb174d8b5331ceba307e040eb3"
       },
-      "xDraft": "【本文】\n国土交通省は、改正建設業法に基づく「標準労務費」の運用実態を把握するため、2026年10月下旬から3つの新規調査を順次開始します。公共・民間、土木・建築を問わず、発注者から下請け会社に見積書や賃金台帳の提出を求め、アンケートや聞き取りを実施する方針です。\n\n制度を作るだけでなく、実際のお金の流れを実態ベースで確認しようとする姿勢に、国側の本気度を感じます。現場の事務負担も増えるとは思いますが、これが技能者の確かな賃金引上げにつながる大切な一歩になることを、僕は期待しています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/\n\n【抜粋元】\n国土交通省が2026年10月下旬から開始する「標準労務費」に関する3つの新規調査について、調査対象の広さや見積書・賃金台帳といった具体的な確認手法を報じた記事です。\n\n【判定】OK",
+      "xDraft": "【本文】\nNEXCO西日本と日本建設業連合会が「女性技術者交流フォーラム」を開催しました。発注者と施工者の垣根を越え、女性技術者が現場での経験やキャリアについて語り合う貴重な機会となったようです。こうした対話の場が増えることで、誰もが働きやすい環境への理解がさらに深まると僕は思います。技術者同士の横のつながりが、これからの建設業界をより柔軟で強くしていくはずです。\n\n出典：建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5\n\n【抜粋元】\nNEXCO西日本と日建連が共同で開催した「女性技術者交流フォーラム」の特集記事に基づいています。発注者と施工者の双方が参加し、技術者同士の交流を図ったという点に注目して作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国土交通省が2026年10月下旬から開始する「標準労務費」に関する3つの新規調査について、調査対象の広さや見積書・賃金台帳といった具体的な確認手法を報じた記事です。",
+      "xDraftExcerptSummary": "NEXCO西日本と日建連が共同で開催した「女性技術者交流フォーラム」の特集記事に基づいています。発注者と施工者の双方が参加し、技術者同士の交流を図ったという点に注目して作成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "建物用途別トップ10（売上高・受注高）",
-        "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000011/",
-        "pubDate": "2026-10-07T17:11:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "「建築一式工事」の完成工事高が100億円以上の建設会社を対象とした、2025年度単体決算（2025年4月～26年3月の間に迎えた決算期の単体実績）調査。建物用途別に、売上高と受注高のランキングを作成した。以下では各用途について、上位10社の顔ぶれを一挙公開する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000011/",
-        "fingerprint": "f677b699b2c928d77f7362f06d978bfe85d5b6b10f57b5b2fe2cfdf5ad825629"
+        "title": "「作るだけ」のゼネコンは立ち行かなくなる…「運営」まで手がけるインフロニア・岐部CEOが掲げる「請負×脱請負」の真意 - 文春オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOWZuTWpISlZzei11Q2NxLTFLc1lBVkFCQTlVNTlVMnBXVE9JczlzN3Ffby1yZUladkF1QkFjUE15MzNYS0ZBVUZXdw?oc=5",
+        "pubDate": "Thu, 08 Oct 2026 02:00:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4122823199999996,
+        "contentSnippet": "「作るだけ」のゼネコンは立ち行かなくなる…「運営」まで手がけるインフロニア・岐部CEOが掲げる「請負×脱請負」の真意  文春オンライン",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOWZuTWpISlZzei11Q2NxLTFLc1lBVkFCQTlVNTlVMnBXVE9JczlzN3Ffby1yZUladkF1QkFjUE15MzNYS0ZBVUZXdw?oc=5",
+        "fingerprint": "65349ae4d4e977a0993f4d4a286b12ba019a82a8915faa8382a55786c0daca14"
       },
-      "xDraft": "【本文】\n建築一式工事の完成工事高が100億円以上の建設会社を対象とした、2025年度の建物用途別ランキングが発表されました。売上高と受注高の双方について、上位10社の顔ぶれが網羅されています。\n\n各社の得意領域や戦略が、具体的な数字として表れていて非常に興味深いですね。用途ごとに顔ぶれがどう変わるのかを俯瞰することで、今の建設市場の勢力図が見えてくる気がします。僕たち業界に関わる者にとって、市場の動向を掴むための大切な指標になりそうです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/mag/na/18/00330/093000011/\n\n【抜粋元】\n完工高100億円以上の建設会社を対象に、2025年度の建物用途別（売上・受注）ランキングを調査した記事です。主要な用途ごとに上位10社の実績がまとめられています。\n\n【判定】OK",
+      "xDraft": "【本文】\nインフロニア・ホールディングスの岐部CEOが、従来の「作るだけ」の請負型ゼネコンモデルからの脱却を提唱しています。インフラの運営までを一貫して担う「請負×脱請負」によって、建設業の持続可能性を模索する戦略です。\n人口減少や資材高騰が続く中、施工技術を土台にしつつ、運営という長い時間軸で価値を最大化する視点は非常に重要だと感じます。これからの建設業は、単なる「作り手」以上に「まちの維持管理者」としての役割を強めていくのかもしれません。僕もこの産業の新しい形に注目しています。\n\n出典：文春オンライン\nhttps://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOWZuTWpISlZzei11Q2NxLTFLc1lBVkFCQTlVNTlVMnBXVE9JczlzN3Ffby1yZUladkF1QkFjUE15MzNYS0ZBVUZXdw?oc=5\n\n【抜粋元】\n文春オンラインに掲載された、インフロニア・ホールディングス岐部CEOへのインタビュー記事です。請負型ビジネスの限界を指摘し、運営事業への進出を図る同社の狙いについて具体的に述べられています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "完工高100億円以上の建設会社を対象に、2025年度の建物用途別（売上・受注）ランキングを調査した記事です。主要な用途ごとに上位10社の実績がまとめられています。",
+      "xDraftExcerptSummary": "文春オンラインに掲載された、インフロニア・ホールディングス岐部CEOへのインタビュー記事です。請負型ビジネスの限界を指摘し、運営事業への進出を図る同社の狙いについて具体的に述べられています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "「標準労務費」定着へ3つの新規調査、10月下旬から順次開始　国土交通省",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-    "pubDate": "2026-10-08T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 7.199999999999999,
-    "contentSnippet": "改正建設業法に基づく「労務費に関する基準」、いわゆる「標準労務費」の運用実態を把握するため、国土交通省は2026年10月下旬から3つの新規調査を順次始める。公共・民間、土木・建築を問わず、発注者や元請け会社、下請け会社を対象に、見積書や賃金台帳などの提出を求め、アンケートや聞き取りを実施する。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-    "fingerprint": "0f26d5237ba2b98547d1d06748b41f6a0d83326d2b6d6dfa61f5562150fb610b"
+    "title": "シンポジウムを開催 日本建設業連合会関西支部 - 建通新聞",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
+    "pubDate": "Fri, 09 Oct 2026 08:33:00 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 3.412381302,
+    "contentSnippet": "シンポジウムを開催 日本建設業連合会関西支部  建通新聞",
+    "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
+    "fingerprint": "da0506df2258dd21ce74ae0ebed0c6b1b88ec45df23154e702fa38d9285bce49"
   },
-  "xDraft": "【本文】\n国土交通省は「標準労務費」の運用実態を把握するため、2026年10月下旬から3つの新規調査を順次開始します。公共・民間、土木・建築を問わず、発注者から下請け会社までを対象に見積書や賃金台帳の提出を求め、アンケートや聞き取りを実施するものです。\n\n適切な労務費が現場の末端まで行き渡ることは、僕たちがこの産業で働き続けるために何より大切なことだと感じています。実態調査によって現状の課題が可視化され、制度が形骸化せずに実効性を持って定着していくことを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/\n\n【抜粋元】\n日経クロステック 土木の記事から、改正建設業法に基づく「標準労務費」の運用状況を確認するために国交省が実施する、3つの新規調査の開始時期や調査対象、手法についての情報を整理しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n日本建設業連合会（日建連）の関西支部がシンポジウムを開催しました。建設業界の動向や直面する課題について、改めて議論を深める場となったようです。\n地域に根ざした支部が主体となり、現場の実情に即した知見を共有することは、産業全体の底上げに欠かせないプロセスだと僕は感じています。こうした対話の積み重ねが、より良い施工環境や未来のまちづくりを支える確かな力になりますね。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5\n\n【抜粋元】\n日本建設業連合会関西支部が主催したシンポジウムの開催を伝える記事です。業界団体による知見共有の場が設けられた事実に着目して構成しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経クロステック 土木の記事から、改正建設業法に基づく「標準労務費」の運用状況を確認するために国交省が実施する、3つの新規調査の開始時期や調査対象、手法についての情報を整理しました。",
+  "xDraftExcerptSummary": "日本建設業連合会関西支部が主催したシンポジウムの開催を伝える記事です。業界団体による知見共有の場が設けられた事実に着目して構成しました。",
   "xDraftAlternates": [],
   "errors": []
 }
