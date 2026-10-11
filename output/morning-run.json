@@ -1,40 +1,20 @@
 {
-  "generatedAt": "2026-10-10T01:04:51.142Z",
+  "generatedAt": "2026-10-11T00:17:56.093Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 2,
-  "skippedJapanFocus": 6,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 2,
   "candidates": [
     {
-      "title": "「標準労務費」定着へ3つの新規調査、10月下旬から順次開始　国土交通省",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 7.199999999999999,
-      "contentSnippet": "改正建設業法に基づく「労務費に関する基準」、いわゆる「標準労務費」の運用実態を把握するため、国土交通省は2026年10月下旬から3つの新規調査を順次始める。公共・民間、土木・建築を問わず、発注者や元請け会社、下請け会社を対象に、見積書や賃金台帳などの提出を求め、アンケートや聞き取りを実施する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-      "fingerprint": "0f26d5237ba2b98547d1d06748b41f6a0d83326d2b6d6dfa61f5562150fb610b"
-    },
-    {
-      "title": "「標準労務費」定着へ3つの新規調査、10月下旬から順次開始　国土交通省",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 6,
-      "contentSnippet": "改正建設業法に基づく「労務費に関する基準」、いわゆる「標準労務費」の運用実態を把握するため、国土交通省は2026年10月下旬から3つの新規調査を順次始める。公共・民間、土木・建築を問わず、発注者や元請け会社、下請け会社を対象に、見積書や賃金台帳などの提出を求め、アンケートや聞き取りを実施する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02784/",
-      "fingerprint": "0f26d5237ba2b98547d1d06748b41f6a0d83326d2b6d6dfa61f5562150fb610b"
-    },
-    {
-      "title": "シンポジウムを開催 日本建設業連合会関西支部 - 建通新聞",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 08:33:00 GMT",
+      "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zcXd4dXV1MWE5blNsV0hYejdqT1A0MU83dGtFVzAzYmpLSEFvdDlkSW9OUWVuZFA3ZjFGOG4tZUc3SEhicjZYMThhdTNuX2thSFhmMnQ3dzFTMVo0NElBV0ZQRlJ0OEk?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 16:59:22 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.412381302,
-      "contentSnippet": "シンポジウムを開催 日本建設業連合会関西支部  建通新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
-      "fingerprint": "da0506df2258dd21ce74ae0ebed0c6b1b88ec45df23154e702fa38d9285bce49"
+      "score": 5.2124864058,
+      "contentSnippet": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開  山陽新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zcXd4dXV1MWE5blNsV0hYejdqT1A0MU83dGtFVzAzYmpLSEFvdDlkSW9OUWVuZFA3ZjFGOG4tZUc3SEhicjZYMThhdTNuX2thSFhmMnQ3dzFTMVo0NElBV0ZQRlJ0OEk?oc=5",
+      "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
     },
     {
       "title": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2) - 建設通信新聞Digital",
@@ -47,64 +27,14 @@
       "fingerprint": "0ef00ef0fbb4c1d72ede99a42b3df7c47620cfcb174d8b5331ceba307e040eb3"
     },
     {
-      "title": "「作るだけ」のゼネコンは立ち行かなくなる…「運営」まで手がけるインフロニア・岐部CEOが掲げる「請負×脱請負」の真意 - 文春オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOWZuTWpISlZzei11Q2NxLTFLc1lBVkFCQTlVNTlVMnBXVE9JczlzN3Ffby1yZUladkF1QkFjUE15MzNYS0ZBVUZXdw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 02:00:00 GMT",
+      "title": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 04:02:43 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4122823199999996,
-      "contentSnippet": "「作るだけ」のゼネコンは立ち行かなくなる…「運営」まで手がけるインフロニア・岐部CEOが掲げる「請負×脱請負」の真意  文春オンライン",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOWZuTWpISlZzei11Q2NxLTFLc1lBVkFCQTlVNTlVMnBXVE9JczlzN3Ffby1yZUladkF1QkFjUE15MzNYS0ZBVUZXdw?oc=5",
-      "fingerprint": "65349ae4d4e977a0993f4d4a286b12ba019a82a8915faa8382a55786c0daca14"
-    },
-    {
-      "title": "「機械土工」は五洋建設が3連覇、前田建設工業が75％増収で3位浮上",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400005/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「機械土工」は五洋建設が大幅増収で3連覇を果たした。2位は大林組、3位は前期比75.5％増の前田建設工業が前年度5位から浮上した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400005/",
-      "fingerprint": "8b34cd1755f421e4ed4c3b407c96772337ed6ed052f6d73de48e8e6124099066"
-    },
-    {
-      "title": "横浜市長選に山本理顕氏が立候補、「快適に住める権利」の保護訴え",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "建築家の山本理顕氏が、2026年10月4日に告示された横浜市長選に無所属で立候補した。「市民が快適に住める権利を守る」と訴え、住環境の改善や観光収入の増加を公約に掲げた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/",
-      "fingerprint": "03386fc5ac75bcfdb04a7cbcfe160023df3bddf365cd6cab0e5bead8c4952710"
-    },
-    {
-      "title": "「機械土工」は五洋建設が3連覇、前田建設工業が75％増収で3位浮上",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400005/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「機械土工」は五洋建設が大幅増収で3連覇を果たした。2位は大林組、3位は前期比75.5％増の前田建設工業が前年度5位から浮上した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400005/",
-      "fingerprint": "8b34cd1755f421e4ed4c3b407c96772337ed6ed052f6d73de48e8e6124099066"
-    },
-    {
-      "title": "横浜市長選に山本理顕氏が立候補、「快適に住める権利」の保護訴え",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "建築家の山本理顕氏が、2026年10月4日に告示された横浜市長選に無所属で立候補した。「市民が快適に住める権利を守る」と訴え、住環境の改善や観光収入の増加を公約に掲げた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02945/",
-      "fingerprint": "03386fc5ac75bcfdb04a7cbcfe160023df3bddf365cd6cab0e5bead8c4952710"
-    },
-    {
-      "title": "設計事務所の決算、倉庫・物流を筆頭に全用途好調　業務別では改修が急伸",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500005/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "好調だった建築設計事務所の2025年度決算（単体）。建物用途別では倉庫・物流施設が24年度比57.8％増と大きく伸びた。業務別では海外業務のみマイナスに転じたが、リニューアル業務は25.7％増と急伸した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500005/",
-      "fingerprint": "29431550e05a2487b5f55604bbe6ba36de96abaad3cd994d85804eeccb4317e7"
+      "score": 1.6124444667,
+      "contentSnippet": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。  Vietnam.vn",
+      "urlNorm": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
+      "fingerprint": "9e6556634d4a66af702e93bef4a6220d69b267a7b7c7a7107e131dd4ef78eb02"
     },
     {
       "title": "福井県「教員の企業体験研修」実施について - PR TIMES",
@@ -115,119 +45,61 @@
       "contentSnippet": "福井県「教員の企業体験研修」実施について  PR TIMES",
       "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
       "fingerprint": "15ecc620d51e97bf30635982af3976c2e74724b93076ca24c6da2716fb965b6c"
-    },
-    {
-      "title": "河川、砂防及び海岸・海洋　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500072/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年度の選択科目「河川、砂防及び海岸・海洋（河川砂防）」は、河道縦断形、ダム堆砂、土砂災害警戒情報、海岸堤防という基準類の基本事項に加え、気候変動を踏まえた計画改定、地区防災計画、複合災害、事業評価が出題されました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500072/",
-      "fingerprint": "92bd37aba92a7b99951419940400ec945f2dfd891ff0160db95cdec9aebf3ab6"
-    },
-    {
-      "title": "最新オフィスビルが受け皿、出社目的になる会議室や充実の共用部に社員集合",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/093000007/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "新型コロナウイルス禍の後に完成した再開発ビルは、オフィステナントの入居が堅調だ。出社回帰の受け皿となる便利なオフィスビルが多様な働き方を下支えする。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03761/093000007/",
-      "fingerprint": "6d25709dd4c4fd4208f71bf837af76db93c33ff427f6aca9ddc0a08ad57f8ae5"
-    },
-    {
-      "title": "「ワインが飲める」ほどゆとりのある避難所に、環境改善の取り組みに注目",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/100602119/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "「イタリアの避難所では、ベッドやトイレが整い、キッチンカーでつくった温かい食事に加えて、ワインが飲める。それほどに環境整備が進んでいる」。こう話すのは、清水建設発ベンチャーのShelterOne（シェルターワン、東京・江東）を率いる児島功社長だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/100602119/",
-      "fingerprint": "e6746aabcf08d1b4366d4774c2c39abc40c1896e17c0521c92b7533d8d231d2e"
-    },
-    {
-      "title": "河川、砂防及び海岸・海洋　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500072/",
-      "pubDate": "2026-10-08T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "2026年度の選択科目「河川、砂防及び海岸・海洋（河川砂防）」は、河道縦断形、ダム堆砂、土砂災害警戒情報、海岸堤防という基準類の基本事項に加え、気候変動を踏まえた計画改定、地区防災計画、複合災害、事業評価が出題されました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500072/",
-      "fingerprint": "92bd37aba92a7b99951419940400ec945f2dfd891ff0160db95cdec9aebf3ab6"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "シンポジウムを開催 日本建設業連合会関西支部 - 建通新聞",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
-        "pubDate": "Fri, 09 Oct 2026 08:33:00 GMT",
+        "title": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。 - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
+        "pubDate": "Sat, 10 Oct 2026 04:02:43 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.412381302,
-        "contentSnippet": "シンポジウムを開催 日本建設業連合会関西支部  建通新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
-        "fingerprint": "da0506df2258dd21ce74ae0ebed0c6b1b88ec45df23154e702fa38d9285bce49"
+        "score": 1.6124444667,
+        "contentSnippet": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。  Vietnam.vn",
+        "urlNorm": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
+        "fingerprint": "9e6556634d4a66af702e93bef4a6220d69b267a7b7c7a7107e131dd4ef78eb02"
       },
-      "xDraft": "【本文】\n日本建設業連合会（日建連）の関西支部がシンポジウムを開催しました。建設業界の動向や直面する課題について、改めて議論を深める場となったようです。\n地域に根ざした支部が主体となり、現場の実情に即した知見を共有することは、産業全体の底上げに欠かせないプロセスだと僕は感じています。こうした対話の積み重ねが、より良い施工環境や未来のまちづくりを支える確かな力になりますね。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5\n\n【抜粋元】\n日本建設業連合会関西支部が主催したシンポジウムの開催を伝える記事です。業界団体による知見共有の場が設けられた事実に着目して構成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\nベトナムのドンナイにおいて、日本企業による約1億1000万ドル規模の包装材製造プロジェクトが歓迎されています。大規模な生産拠点の進出は、建物の建設だけでなく、周辺の道路やユーティリティといったインフラの整備、そして地域の物流活性化を伴う大きな事業です。日本の技術と資本が、現地のまちの発展をどう支えていくのか、そのプロセスに注目しています。\n\n出典：Vietnam.vn\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5\n\n【抜粋元】\nベトナムのドンナイで計画されている日本企業の大型投資（包装材製造）に対し、現地当局が歓迎の意向を示しているという報道に基づいています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本建設業連合会関西支部が主催したシンポジウムの開催を伝える記事です。業界団体による知見共有の場が設けられた事実に着目して構成しました。",
+      "xDraftExcerptSummary": "ベトナムのドンナイで計画されている日本企業の大型投資（包装材製造）に対し、現地当局が歓迎の意向を示しているという報道に基づいています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2) - 建設通信新聞Digital",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5",
-        "pubDate": "Fri, 09 Oct 2026 03:45:54 GMT",
+        "title": "福井県「教員の企業体験研修」実施について - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
+        "pubDate": "Fri, 09 Oct 2026 03:10:01 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.4123657985999998,
-        "contentSnippet": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2)  建設通信新聞Digital",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5",
-        "fingerprint": "0ef00ef0fbb4c1d72ede99a42b3df7c47620cfcb174d8b5331ceba307e040eb3"
+        "score": 1.6123638609000002,
+        "contentSnippet": "福井県「教員の企業体験研修」実施について  PR TIMES",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
+        "fingerprint": "15ecc620d51e97bf30635982af3976c2e74724b93076ca24c6da2716fb965b6c"
       },
-      "xDraft": "【本文】\nNEXCO西日本と日本建設業連合会が「女性技術者交流フォーラム」を開催しました。発注者と施工者の垣根を越え、女性技術者が現場での経験やキャリアについて語り合う貴重な機会となったようです。こうした対話の場が増えることで、誰もが働きやすい環境への理解がさらに深まると僕は思います。技術者同士の横のつながりが、これからの建設業界をより柔軟で強くしていくはずです。\n\n出典：建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5\n\n【抜粋元】\nNEXCO西日本と日建連が共同で開催した「女性技術者交流フォーラム」の特集記事に基づいています。発注者と施工者の双方が参加し、技術者同士の交流を図ったという点に注目して作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n福井県にて、教員が民間企業の実務を体験する「教員の企業体験研修」が実施されています。教員の方々が地域の産業や企業の現状を直接学ぶことで、キャリア教育の充実や学校運営の活性化に繋げることが狙いです。\n学校以外の「現場」を知ることは、子供たちに社会の仕組みを伝える上で非常に重要だと僕は思います。特に建設・土木の現場など、普段目にしにくいけれど社会を支えている仕事の価値が、この研修を通じて先生方の言葉で語られるようになると嬉しいですね。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5\n\n【抜粋元】\n福井県が実施している教員向けの民間企業研修に関するプレスリリースです。教員が社会の仕組みや企業が求める資質を学び、キャリア教育に活かすという趣旨をまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "NEXCO西日本と日建連が共同で開催した「女性技術者交流フォーラム」の特集記事に基づいています。発注者と施工者の双方が参加し、技術者同士の交流を図ったという点に注目して作成しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "「作るだけ」のゼネコンは立ち行かなくなる…「運営」まで手がけるインフロニア・岐部CEOが掲げる「請負×脱請負」の真意 - 文春オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOWZuTWpISlZzei11Q2NxLTFLc1lBVkFCQTlVNTlVMnBXVE9JczlzN3Ffby1yZUladkF1QkFjUE15MzNYS0ZBVUZXdw?oc=5",
-        "pubDate": "Thu, 08 Oct 2026 02:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4122823199999996,
-        "contentSnippet": "「作るだけ」のゼネコンは立ち行かなくなる…「運営」まで手がけるインフロニア・岐部CEOが掲げる「請負×脱請負」の真意  文春オンライン",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOWZuTWpISlZzei11Q2NxLTFLc1lBVkFCQTlVNTlVMnBXVE9JczlzN3Ffby1yZUladkF1QkFjUE15MzNYS0ZBVUZXdw?oc=5",
-        "fingerprint": "65349ae4d4e977a0993f4d4a286b12ba019a82a8915faa8382a55786c0daca14"
-      },
-      "xDraft": "【本文】\nインフロニア・ホールディングスの岐部CEOが、従来の「作るだけ」の請負型ゼネコンモデルからの脱却を提唱しています。インフラの運営までを一貫して担う「請負×脱請負」によって、建設業の持続可能性を模索する戦略です。\n人口減少や資材高騰が続く中、施工技術を土台にしつつ、運営という長い時間軸で価値を最大化する視点は非常に重要だと感じます。これからの建設業は、単なる「作り手」以上に「まちの維持管理者」としての役割を強めていくのかもしれません。僕もこの産業の新しい形に注目しています。\n\n出典：文春オンライン\nhttps://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOWZuTWpISlZzei11Q2NxLTFLc1lBVkFCQTlVNTlVMnBXVE9JczlzN3Ffby1yZUladkF1QkFjUE15MzNYS0ZBVUZXdw?oc=5\n\n【抜粋元】\n文春オンラインに掲載された、インフロニア・ホールディングス岐部CEOへのインタビュー記事です。請負型ビジネスの限界を指摘し、運営事業への進出を図る同社の狙いについて具体的に述べられています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "文春オンラインに掲載された、インフロニア・ホールディングス岐部CEOへのインタビュー記事です。請負型ビジネスの限界を指摘し、運営事業への進出を図る同社の狙いについて具体的に述べられています。",
+      "xDraftExcerptSummary": "福井県が実施している教員向けの民間企業研修に関するプレスリリースです。教員が社会の仕組みや企業が求める資質を学び、キャリア教育に活かすという趣旨をまとめました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "シンポジウムを開催 日本建設業連合会関西支部 - 建通新聞",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
-    "pubDate": "Fri, 09 Oct 2026 08:33:00 GMT",
+    "title": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
+    "pubDate": "Sat, 10 Oct 2026 04:02:43 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 3.412381302,
-    "contentSnippet": "シンポジウムを開催 日本建設業連合会関西支部  建通新聞",
-    "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5",
-    "fingerprint": "da0506df2258dd21ce74ae0ebed0c6b1b88ec45df23154e702fa38d9285bce49"
+    "score": 1.6124444667,
+    "contentSnippet": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。  Vietnam.vn",
+    "urlNorm": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
+    "fingerprint": "9e6556634d4a66af702e93bef4a6220d69b267a7b7c7a7107e131dd4ef78eb02"
   },
-  "xDraft": "【本文】\n日本建設業連合会（日建連）の関西支部がシンポジウムを開催しました。建設業界の動向や直面する課題について、改めて議論を深める場となったようです。\n地域に根ざした支部が主体となり、現場の実情に即した知見を共有することは、産業全体の底上げに欠かせないプロセスだと僕は感じています。こうした対話の積み重ねが、より良い施工環境や未来のまちづくりを支える確かな力になりますね。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxNZko2ck1Mbjc5cXh4dEI5UDF5M0l0ZzJpN0puRzhWQmtrQlhBX0ZHZTIxLXJuU3pDbXdHY1F1LWVoangxdXdKNFdqWVRVS1gzZTNITWtYekNvVkFpQnBlbk44aWdlUkRRd204R1pXM0ZoVXB0ZDUxYVlPNVR6TXdEbg?oc=5\n\n【抜粋元】\n日本建設業連合会関西支部が主催したシンポジウムの開催を伝える記事です。業界団体による知見共有の場が設けられた事実に着目して構成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\nベトナムのドンナイにおいて、日本企業による約1億1000万ドル規模の包装材製造プロジェクトが歓迎されています。大規模な生産拠点の進出は、建物の建設だけでなく、周辺の道路やユーティリティといったインフラの整備、そして地域の物流活性化を伴う大きな事業です。日本の技術と資本が、現地のまちの発展をどう支えていくのか、そのプロセスに注目しています。\n\n出典：Vietnam.vn\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5\n\n【抜粋元】\nベトナムのドンナイで計画されている日本企業の大型投資（包装材製造）に対し、現地当局が歓迎の意向を示しているという報道に基づいています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日本建設業連合会関西支部が主催したシンポジウムの開催を伝える記事です。業界団体による知見共有の場が設けられた事実に着目して構成しました。",
+  "xDraftExcerptSummary": "ベトナムのドンナイで計画されている日本企業の大型投資（包装材製造）に対し、現地当局が歓迎の意向を示しているという報道に基づいています。",
   "xDraftAlternates": [],
   "errors": []
 }
