@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T00:17:56.093Z",
+  "generatedAt": "2026-10-12T00:40:31.844Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 2,
+  "pickCountActual": 1,
   "candidates": [
     {
       "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
@@ -17,89 +17,51 @@
       "fingerprint": "ae99bcb297d7b4a2ce8efecdd747456814f8d019f4ce8dbf20f0a0abf887fdfc"
     },
     {
-      "title": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2) - 建設通信新聞Digital",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 03:45:54 GMT",
+      "title": "【建設78社】最強「オーナー企業」ランキング！10位東建コーポレーション、4位戸田建設、2位大林組、1位はあのスーパーゼネコン - ダイヤモンド・オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 19:55:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4123657985999998,
-      "contentSnippet": "関西支社企画特集・NEXCO西日本と日本建設業連合会 「女性技術者交流フォーラム」(2)  建設通信新聞Digital",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YckVoUF9DeC1RY05DMUJkbm5ndUc2UFp2Y0liVGZodDQzNlktTGYwalpwWGdTNlB5WnFSbzhRZjhYMi12VTlkZHN6OFA1alZmbXQ4Q3ZkRjg?oc=5",
-      "fingerprint": "0ef00ef0fbb4c1d72ede99a42b3df7c47620cfcb174d8b5331ceba307e040eb3"
-    },
-    {
-      "title": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 04:02:43 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6124444667,
-      "contentSnippet": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。  Vietnam.vn",
-      "urlNorm": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
-      "fingerprint": "9e6556634d4a66af702e93bef4a6220d69b267a7b7c7a7107e131dd4ef78eb02"
-    },
-    {
-      "title": "福井県「教員の企業体験研修」実施について - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 03:10:01 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6123638609000002,
-      "contentSnippet": "福井県「教員の企業体験研修」実施について  PR TIMES",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
-      "fingerprint": "15ecc620d51e97bf30635982af3976c2e74724b93076ca24c6da2716fb965b6c"
+      "score": 3.4125736499999997,
+      "contentSnippet": "【建設78社】最強「オーナー企業」ランキング！10位東建コーポレーション、4位戸田建設、2位大林組、1位はあのスーパーゼネコン  ダイヤモンド・オンライン",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5",
+      "fingerprint": "e8390caf59670ad7fe0e26c4f15b4f2219f2015350bda71af87a604d1f64ae17"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。 - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
-        "pubDate": "Sat, 10 Oct 2026 04:02:43 GMT",
+        "title": "【建設78社】最強「オーナー企業」ランキング！10位東建コーポレーション、4位戸田建設、2位大林組、1位はあのスーパーゼネコン - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5",
+        "pubDate": "Sun, 11 Oct 2026 19:55:00 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 1.6124444667,
-        "contentSnippet": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。  Vietnam.vn",
-        "urlNorm": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
-        "fingerprint": "9e6556634d4a66af702e93bef4a6220d69b267a7b7c7a7107e131dd4ef78eb02"
+        "score": 3.4125736499999997,
+        "contentSnippet": "【建設78社】最強「オーナー企業」ランキング！10位東建コーポレーション、4位戸田建設、2位大林組、1位はあのスーパーゼネコン  ダイヤモンド・オンライン",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5",
+        "fingerprint": "e8390caf59670ad7fe0e26c4f15b4f2219f2015350bda71af87a604d1f64ae17"
       },
-      "xDraft": "【本文】\nベトナムのドンナイにおいて、日本企業による約1億1000万ドル規模の包装材製造プロジェクトが歓迎されています。大規模な生産拠点の進出は、建物の建設だけでなく、周辺の道路やユーティリティといったインフラの整備、そして地域の物流活性化を伴う大きな事業です。日本の技術と資本が、現地のまちの発展をどう支えていくのか、そのプロセスに注目しています。\n\n出典：Vietnam.vn\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5\n\n【抜粋元】\nベトナムのドンナイで計画されている日本企業の大型投資（包装材製造）に対し、現地当局が歓迎の意向を示しているという報道に基づいています。\n\n【判定】OK",
+      "xDraft": "【本文】\nダイヤモンド・オンラインが、建設会社78社を対象にした「最強オーナー企業ランキング」を公開しました。10位に東建コーポレーション、4位に戸田建設、2位に大林組がランクインし、1位にはあのスーパーゼネコンが選ばれています。\n\n僕はこの結果を見て、建設業界に根付くオーナーシップの力強さを改めて感じました。オーナー企業ならではの長期的かつ迅速な意思決定は、変化の激しい現代において大きな武器になりますね。伝統ある看板を背負いながら、これからの時代に合わせたガバナンスをどう進化させていくのか、非常に興味深いテーマです。\n\n出典：ダイヤモンド・オンライン\nhttps://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5\n\n【抜粋元】\nダイヤモンド・オンラインが報じた建設78社の「最強オーナー企業ランキング」に基づき、上位にランクインした大林組や戸田建設などの実名を挙げつつ、業界の特性を踏まえた考察をまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ベトナムのドンナイで計画されている日本企業の大型投資（包装材製造）に対し、現地当局が歓迎の意向を示しているという報道に基づいています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "福井県「教員の企業体験研修」実施について - PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
-        "pubDate": "Fri, 09 Oct 2026 03:10:01 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 1.6123638609000002,
-        "contentSnippet": "福井県「教員の企業体験研修」実施について  PR TIMES",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5",
-        "fingerprint": "15ecc620d51e97bf30635982af3976c2e74724b93076ca24c6da2716fb965b6c"
-      },
-      "xDraft": "【本文】\n福井県にて、教員が民間企業の実務を体験する「教員の企業体験研修」が実施されています。教員の方々が地域の産業や企業の現状を直接学ぶことで、キャリア教育の充実や学校運営の活性化に繋げることが狙いです。\n学校以外の「現場」を知ることは、子供たちに社会の仕組みを伝える上で非常に重要だと僕は思います。特に建設・土木の現場など、普段目にしにくいけれど社会を支えている仕事の価値が、この研修を通じて先生方の言葉で語られるようになると嬉しいですね。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTE9PWEtkUDRHRFdpNGltSks0Mnh3MzBmam81cDhicTZoeDJJOE5oN2kxemVXR280LW9hVEQ5M0VIX2gzNVBpVkpYdzNyUzQ4ODI1c01mbGJYTUtfRy1UR1ZqM2U0QWlKVURfVmc?oc=5\n\n【抜粋元】\n福井県が実施している教員向けの民間企業研修に関するプレスリリースです。教員が社会の仕組みや企業が求める資質を学び、キャリア教育に活かすという趣旨をまとめました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "福井県が実施している教員向けの民間企業研修に関するプレスリリースです。教員が社会の仕組みや企業が求める資質を学び、キャリア教育に活かすという趣旨をまとめました。",
+      "xDraftExcerptSummary": "ダイヤモンド・オンラインが報じた建設78社の「最強オーナー企業ランキング」に基づき、上位にランクインした大林組や戸田建設などの実名を挙げつつ、業界の特性を踏まえた考察をまとめました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
-    "pubDate": "Sat, 10 Oct 2026 04:02:43 GMT",
+    "title": "【建設78社】最強「オーナー企業」ランキング！10位東建コーポレーション、4位戸田建設、2位大林組、1位はあのスーパーゼネコン - ダイヤモンド・オンライン",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5",
+    "pubDate": "Sun, 11 Oct 2026 19:55:00 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 1.6124444667,
-    "contentSnippet": "ドンナイ市は、日本の企業による1億1000万ドル規模の包装材製造プロジェクトを歓迎している。  Vietnam.vn",
-    "urlNorm": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5",
-    "fingerprint": "9e6556634d4a66af702e93bef4a6220d69b267a7b7c7a7107e131dd4ef78eb02"
+    "score": 3.4125736499999997,
+    "contentSnippet": "【建設78社】最強「オーナー企業」ランキング！10位東建コーポレーション、4位戸田建設、2位大林組、1位はあのスーパーゼネコン  ダイヤモンド・オンライン",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5",
+    "fingerprint": "e8390caf59670ad7fe0e26c4f15b4f2219f2015350bda71af87a604d1f64ae17"
   },
-  "xDraft": "【本文】\nベトナムのドンナイにおいて、日本企業による約1億1000万ドル規模の包装材製造プロジェクトが歓迎されています。大規模な生産拠点の進出は、建物の建設だけでなく、周辺の道路やユーティリティといったインフラの整備、そして地域の物流活性化を伴う大きな事業です。日本の技術と資本が、現地のまちの発展をどう支えていくのか、そのプロセスに注目しています。\n\n出典：Vietnam.vn\nhttps://news.google.com/rss/articles/CBMimwFBVV95cUxPdl8xRlB4ZkNDR1ZHY0JacHg0NFRjUjVUWk81TkFwaHZyOFZ5QlpZR2k4UF9XR0ZDNEJkMU05RnUzSmVXTFpVdWdHS0lWMjc0anNqRXl3d0ZhemtqRFJXSHh3RGZ1MEFMMzdoV2ozcG5iQjA1d0hrODdHeTBIOGxrUzBWaWVIenFXV2huN21IX19Kc0ZjWkRxUDUwZw?oc=5\n\n【抜粋元】\nベトナムのドンナイで計画されている日本企業の大型投資（包装材製造）に対し、現地当局が歓迎の意向を示しているという報道に基づいています。\n\n【判定】OK",
+  "xDraft": "【本文】\nダイヤモンド・オンラインが、建設会社78社を対象にした「最強オーナー企業ランキング」を公開しました。10位に東建コーポレーション、4位に戸田建設、2位に大林組がランクインし、1位にはあのスーパーゼネコンが選ばれています。\n\n僕はこの結果を見て、建設業界に根付くオーナーシップの力強さを改めて感じました。オーナー企業ならではの長期的かつ迅速な意思決定は、変化の激しい現代において大きな武器になりますね。伝統ある看板を背負いながら、これからの時代に合わせたガバナンスをどう進化させていくのか、非常に興味深いテーマです。\n\n出典：ダイヤモンド・オンライン\nhttps://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5\n\n【抜粋元】\nダイヤモンド・オンラインが報じた建設78社の「最強オーナー企業ランキング」に基づき、上位にランクインした大林組や戸田建設などの実名を挙げつつ、業界の特性を踏まえた考察をまとめました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "ベトナムのドンナイで計画されている日本企業の大型投資（包装材製造）に対し、現地当局が歓迎の意向を示しているという報道に基づいています。",
+  "xDraftExcerptSummary": "ダイヤモンド・オンラインが報じた建設78社の「最強オーナー企業ランキング」に基づき、上位にランクインした大林組や戸田建設などの実名を挙げつつ、業界の特性を踏まえた考察をまとめました。",
   "xDraftAlternates": [],
   "errors": []
 }
