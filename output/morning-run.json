@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-13T02:40:09.840Z",
+  "generatedAt": "2026-10-14T00:26:42.301Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
+  "skippedDuplicates": 3,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
+    {
+      "title": "日本の建設業界に「外資」のカンフル剤が必要では 大型工事が進まない「ボトルネック」はどこにある 大阪発ゼネコン社長と考える建設業の未来（賢者の選択サクセッション） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaUFXaWZvMVdFTUI1aVB3ajQ3ZVZuT3F0Y0RfMDBtQmZBRmc5cUtBNjY2OFl0ZXJ0Q1YxbTRoR19tVVRycGZYdUlWOFo1VnhDNEdLTlNhOUpKVC1ORVZMUTJ1RUVZeFpyWUdseXdVUFlTQ2JtMmIwRUFZbkc3WWc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 21:41:17 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 7.012734909300001,
+      "contentSnippet": "日本の建設業界に「外資」のカンフル剤が必要では 大型工事が進まない「ボトルネック」はどこにある 大阪発ゼネコン社長と考える建設業の未来（賢者の選択サクセッション）  Yahoo!ニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaUFXaWZvMVdFTUI1aVB3ajQ3ZVZuT3F0Y0RfMDBtQmZBRmc5cUtBNjY2OFl0ZXJ0Q1YxbTRoR19tVVRycGZYdUlWOFo1VnhDNEdLTlNhOUpKVC1ORVZMUTJ1RUVZeFpyWUdseXdVUFlTQ2JtMmIwRUFZbkc3WWc?oc=5",
+      "fingerprint": "b6ed9d4032cbfdc2112c959c8e5dccb65e4920a20e13cc4b9b569b1b671a0409"
+    },
     {
       "title": "社会インフラを支える建設業のデータ活用促進へ、日本語で体系的に学べるopenBIM解説記事100本を公開 - 山陽新聞",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zcXd4dXV1MWE5blNsV0hYejdqT1A0MU83dGtFVzAzYmpLSEFvdDlkSW9OUWVuZFA3ZjFGOG4tZUc3SEhicjZYMThhdTNuX2thSFhmMnQ3dzFTMVo0NElBV0ZQRlJ0OEk?oc=5",
@@ -37,14 +47,34 @@
       "fingerprint": "cb503b706f6c8f4c8dbc03c06f97b9e02eb75c05d7972aeb4d71a6b5010b6981"
     },
     {
-      "title": "【建設78社】最強「オーナー企業」ランキング！10位東建コーポレーション、4位戸田建設、2位大林組、1位はあのスーパーゼネコン - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 19:55:00 GMT",
+      "title": "日本の建設機械レンタル市場は、5.78%のCAGRで成長し、2034年までに米ドル20ビリオンに達すると予測されています。インフラ投資の増加や、費用対効果の高い機器レンタルソリューションへの需要の高まりが、市場の成長を促進するでしょう。 - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX0lCeVNpVUNXRWQzN3oycXNfRnVYS3BrcWdxbjNuM1ltRndMQ01OZHJCV2Z5NHk4N3VjNk81WVZUR3F5clNYcDdNcmN0SDQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 22:55:00 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4125736499999997,
-      "contentSnippet": "【建設78社】最強「オーナー企業」ランキング！10位東建コーポレーション、4位戸田建設、2位大林組、1位はあのスーパーゼネコン  ダイヤモンド・オンライン",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VQ0w1a1BuQ1JqZjhsbFBqcFFyZ3NHbFBDVDhsdU1La05mQ3NMVV9UQmJKMHI2WVNHV0xsU25hbG9OTFlLV2tMbDRJbnbSAU9BVV95cUxQYkctQ19CM1FfdkZfVE1HQkkwWUYtbnl1SWYxWE1EclhYZlE1Zk9JTUpza050amoxQ1diRDVpN3l1dFNBTGNOX2NhOU5aSEJv?oc=5",
-      "fingerprint": "e8390caf59670ad7fe0e26c4f15b4f2219f2015350bda71af87a604d1f64ae17"
+      "score": 3.41273889,
+      "contentSnippet": "日本の建設機械レンタル市場は、5.78%のCAGRで成長し、2034年までに米ドル20ビリオンに達すると予測されています。インフラ投資の増加や、費用対効果の高い機器レンタルソリューションへの需要の高まりが、市場の成長を促進するでしょう。  Newscast.jp",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX0lCeVNpVUNXRWQzN3oycXNfRnVYS3BrcWdxbjNuM1ltRndMQ01OZHJCV2Z5NHk4N3VjNk81WVZUR3F5clNYcDdNcmN0SDQ?oc=5",
+      "fingerprint": "eeeab0c8af7932ac44c34b0a2340e1b0657d9931b1db56a1b6b79050b1eb2412"
+    },
+    {
+      "title": "「シールドトンネル」は奥村組が初の首位、急上昇の大林組は僅差で及ばず",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400007/",
+      "pubDate": "2026-10-13T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「シールドトンネル」は奥村組が、過去10年間で初めての首位を獲得した。43.5％増収で前年度7位から急上昇した大林組は、僅差で及ばず2位となった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400007/",
+      "fingerprint": "edd7e8aef318e50e4a18ef04559cbdab3a276034c6eb9b96cd39978f0773c19f"
+    },
+    {
+      "title": "リニア工事でまたシールド機損傷、同じ工区で3度目　掘進中断は半年以上か",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02788/",
+      "pubDate": "2026-10-13T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "熊谷組などの共同企業体（JV）が東京都品川区で進めているリニア中央新幹線の大深度地下トンネル工事で、シールド機に複数の損傷が確認された。シールド機内部で異音が発生したため、掘削を止めて機内を調査していた。今後、内部を詳細に調査するため、掘進再開まで半年以上かかる見通しだ。問題の工区では2022年3月と23年7月にもシールド機の損傷で掘進を停止。1回目は約14カ月、2回目は約9カ月、掘進を中断した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02788/",
+      "fingerprint": "8830a4cc1a848298e4d2754e2bcfef10dd03ed11af58edf5ea5a250c60b5d35d"
     },
     {
       "title": "「防災地下神殿」にインバウンド呼び込む、施工した佐藤工業が特別ガイド",
@@ -65,6 +95,36 @@
       "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「山岳トンネル」の首位は安藤ハザマで3連覇を果たした。2位は大林組。清水建設に増収率で勝り前年度から順位を逆転させた。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400006/",
       "fingerprint": "522e851ffe723522758696ea1c386fe08381add7f34984ecb21ece1588a90ebe"
+    },
+    {
+      "title": "主要建設会社の決算を独自調査、8割が営業増益も採算改善は「頭打ち」か",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500009/",
+      "pubDate": "2026-10-13T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "主要建設会社の2025年度決算で、回答企業の約8割が営業増益を果たしたことが日経アーキテクチュアの独自調査で分かった。価格転嫁の進展や選別受注の強化によって、工事の採算性が改善した。26年度の見通しも悪くはないが、採算改善は「頭打ち」と見て、次の一手を打ち出す企業も出てきた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500009/",
+      "fingerprint": "6e654a00fee2e52251db0d453a49203c11ffcad3465bc072837e50aeb8b70a69"
+    },
+    {
+      "title": "「シールドトンネル」は奥村組が初の首位、急上昇の大林組は僅差で及ばず",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400007/",
+      "pubDate": "2026-10-13T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「シールドトンネル」は奥村組が、過去10年間で初めての首位を獲得した。43.5％増収で前年度7位から急上昇した大林組は、僅差で及ばず2位となった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400007/",
+      "fingerprint": "edd7e8aef318e50e4a18ef04559cbdab3a276034c6eb9b96cd39978f0773c19f"
+    },
+    {
+      "title": "中古住宅を改修しやすく、国交省の新ルールが分かる記事5選",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03045/100800037/",
+      "pubDate": "2026-10-13T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "中古住宅を改修する際に悩ましいのが、現行法規に不適合の箇所の扱いです。法令違反の場合は現行法規に適合させる必要がありますが、既存不適格の場合は現状のままでもよい可能性があります。国土交通省は、現況調査ガイドラインや緩和措置の解説集を公表しています。関連記事を紹介します。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03045/100800037/",
+      "fingerprint": "214145daefc4e428fe34bc49b28c2bad1f72d0b47dd823bb47b0be4d1ab0d78a"
     },
     {
       "title": "トップ設計事務所の売上高や所員数は増加、設計・監理以外に事業拡大も",
@@ -95,139 +155,79 @@
       "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「山岳トンネル」の首位は安藤ハザマで3連覇を果たした。2位は大林組。清水建設に増収率で勝り前年度から順位を逆転させた。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400006/",
       "fingerprint": "522e851ffe723522758696ea1c386fe08381add7f34984ecb21ece1588a90ebe"
-    },
-    {
-      "title": "住宅改修で確認申請が必要なのはどんな時、改正建基法が分かる記事5選",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03045/100800036/",
-      "pubDate": "2026-10-12T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "中古住宅を改修する際、注意が必要なのは建築確認だ。2025年4月施行の改正建築基準法によって、建築確認のルールが変わった。ポイントは、4号特例の見直し。解説した記事をまとめた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03045/100800036/",
-      "fingerprint": "9d70a173c9928e8b15d1c0741a4362288a0211e17948bc882048dcfc5e7fad23"
-    },
-    {
-      "title": "時速120kmで走るEVに給電、高速道で実証へ　大成建設とホンダ系",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02785/",
-      "pubDate": "2026-10-12T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "大成建設と大成ロテック、ホンダ子会社の本田技術研究所の3社は、道路に埋設した給電ユニットから走行中の電気自動車（EV）に無線で電力を送るシステムを開発した。通常の舗装材を用いた表層の構造や施工方法を確立し、大型車両が繰り返し走行しても耐えられる性能を載荷試験で確認した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02785/",
-      "fingerprint": "c3473a76ae91801ffcb69ec4af77aaf7243aba5b226fedbda99f3e364359c2d4"
-    },
-    {
-      "title": "Q．人を呼び込む宮城県富谷市の複合図書館、建物内に何を併設した？",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00649/100700152/",
-      "pubDate": "2026-10-12T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "宮城県富谷市で初の市立図書館「ユートミヤ」が2026年5月1日に開館した。館内には目を引く、人を呼び込む施設が併設されている。それは次の3つのうちどれか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00649/100700152/",
-      "fingerprint": "17d0e2de760aa8570616d78458b2d8b436d049d0c3fb868ff31326049af562ea"
-    },
-    {
-      "title": "データセンターの空調効率を高めるアルミパーティション",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01073/",
-      "pubDate": "2026-10-12T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "三和シヤッター工業は、サーバーの排熱を閉じ込めて空調効率を高める、データセンター向けのアルミパーティション「AP-3 DC」を2026年7月に発売した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01073/",
-      "fingerprint": "44084c55942c3fe04365514639a0b07c786896d9808bf309958b5e0e4b7a8503"
-    },
-    {
-      "title": "Q．人を呼び込む宮城県富谷市の複合図書館、建物内に何を併設した？",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00649/100700152/",
-      "pubDate": "2026-10-12T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "宮城県富谷市で初の市立図書館「ユートミヤ」が2026年5月1日に開館した。館内には目を引く、人を呼び込む施設が併設されている。それは次の3つのうちどれか。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00649/100700152/",
-      "fingerprint": "17d0e2de760aa8570616d78458b2d8b436d049d0c3fb868ff31326049af562ea"
-    },
-    {
-      "title": "リブワークが3Dプリンター新興と資本提携、東南アジアの住宅市場開拓",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02941/",
-      "pubDate": "2026-10-12T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "建設3Dプリンターを活用して海外で事業展開する動きがある。熊本県山鹿市の住宅会社Lib Work（リブワーク）は、独自の3Dプリンティング技術に強みを持つスタートアップV3D Asia（東京・千代田）と資本業務提携をした。東南アジアで施工実績を持つ同社と協働し、3Dプリンター住宅事業の海外展開を加速させる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02941/",
-      "fingerprint": "159f2a51520248589e3836891d09b3cd11e074bb46204b5fe7a3c44910cd840a"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "日経クロステック公式アプリで、あなたの情報収集を徹底サポート",
-        "link": "https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/",
-        "pubDate": "2026-10-12T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "「最新技術を理解し、ビジネスに生かしたい」。日経クロステックは、IT、自動車、電子・電機、建築・土木など、様々な産業分野の技術者とビジネスリーダーを応援する技術系デジタルメディアです。公式のスマートフォン用アプリで、あなたの情報収集を徹底的にサポートします。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/",
-        "fingerprint": "cb503b706f6c8f4c8dbc03c06f97b9e02eb75c05d7972aeb4d71a6b5010b6981"
+        "title": "日本の建設業界に「外資」のカンフル剤が必要では 大型工事が進まない「ボトルネック」はどこにある 大阪発ゼネコン社長と考える建設業の未来（賢者の選択サクセッション） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaUFXaWZvMVdFTUI1aVB3ajQ3ZVZuT3F0Y0RfMDBtQmZBRmc5cUtBNjY2OFl0ZXJ0Q1YxbTRoR19tVVRycGZYdUlWOFo1VnhDNEdLTlNhOUpKVC1ORVZMUTJ1RUVZeFpyWUdseXdVUFlTQ2JtMmIwRUFZbkc3WWc?oc=5",
+        "pubDate": "Tue, 13 Oct 2026 21:41:17 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 7.012734909300001,
+        "contentSnippet": "日本の建設業界に「外資」のカンフル剤が必要では 大型工事が進まない「ボトルネック」はどこにある 大阪発ゼネコン社長と考える建設業の未来（賢者の選択サクセッション）  Yahoo!ニュース",
+        "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaUFXaWZvMVdFTUI1aVB3ajQ3ZVZuT3F0Y0RfMDBtQmZBRmc5cUtBNjY2OFl0ZXJ0Q1YxbTRoR19tVVRycGZYdUlWOFo1VnhDNEdLTlNhOUpKVC1ORVZMUTJ1RUVZeFpyWUdseXdVUFlTQ2JtMmIwRUFZbkc3WWc?oc=5",
+        "fingerprint": "b6ed9d4032cbfdc2112c959c8e5dccb65e4920a20e13cc4b9b569b1b671a0409"
       },
-      "xDraft": "【本文】\n日経クロステックが、建設・土木を含む幅広い分野の最新技術情報を網羅した公式アプリを提供しています。ITや自動車など多分野の動向を効率よく収集し、ビジネスに活かしたい技術者やリーダーを支援するツールです。\n僕たちの業界も他分野との融合が進んでいるので、こうした横断的な情報を手軽に追えるのは助かりますね。現場の課題を解決するヒントを求めて、僕も上手く活用していきたいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/\n\n【抜粋元】\n建設・土木、IT、自動車など多様な技術情報を扱う「日経クロステック」が、公式アプリを通じて技術者やビジネスリーダーの情報収集をサポートしているという紹介記事です。\n\n【判定】OK",
+      "xDraft": "【本文】\n大型工事が停滞する日本の建設業界において、そのボトルネックをどう打破すべきか。大阪のゼネコン社長が、業界の未来を見据えて「外資」の導入を一つのカンフル剤として提案しています。\n僕としては、外資の参入が単なる価格競争ではなく、働き方や工法のイノベーションを加速させる契機になることを期待しています。現場の熱量を守りながら、新しい血をどう巡らせるか。産業の持続可能性を考える上で、避けては通れない非常に興味深いテーマですね。\n\n出典：Yahoo!ニュース（賢者の選択サクセッション）\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTFBGaUFXaWZvMVdFTUI1aVB3ajQ3ZVZuT3F0Y0RfMDBtQmZBRmc5cUtBNjY2OFl0ZXJ0Q1YxbTRoR19tVVRycGZYdUlWOFo1VnhDNEdLTlNhOUpKVC1ORVZMUTJ1RUVZeFpyWUdseXdVUFlTQ2JtMmIwRUFZbkc3WWc?oc=5\n\n【抜粋元】\n大阪のゼネコン社長が語る、建設業界の停滞を打破するための「外資」導入の可能性についての記事から、現状のボトルネックと未来への提言を抽出しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建設・土木、IT、自動車など多様な技術情報を扱う「日経クロステック」が、公式アプリを通じて技術者やビジネスリーダーの情報収集をサポートしているという紹介記事です。",
+      "xDraftExcerptSummary": "大阪のゼネコン社長が語る、建設業界の停滞を打破するための「外資」導入の可能性についての記事から、現状のボトルネックと未来への提言を抽出しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "日経クロステック公式アプリで、あなたの情報収集を徹底サポート",
-        "link": "https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/",
-        "pubDate": "2026-10-12T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "「最新技術を理解し、ビジネスに生かしたい」。日経クロステックは、IT、自動車、電子・電機、建築・土木など、様々な産業分野の技術者とビジネスリーダーを応援する技術系デジタルメディアです。公式のスマートフォン用アプリで、あなたの情報収集を徹底的にサポートします。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/",
-        "fingerprint": "cb503b706f6c8f4c8dbc03c06f97b9e02eb75c05d7972aeb4d71a6b5010b6981"
+        "title": "日本の建設機械レンタル市場は、5.78%のCAGRで成長し、2034年までに米ドル20ビリオンに達すると予測されています。インフラ投資の増加や、費用対効果の高い機器レンタルソリューションへの需要の高まりが、市場の成長を促進するでしょう。 - Newscast.jp",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX0lCeVNpVUNXRWQzN3oycXNfRnVYS3BrcWdxbjNuM1ltRndMQ01OZHJCV2Z5NHk4N3VjNk81WVZUR3F5clNYcDdNcmN0SDQ?oc=5",
+        "pubDate": "Tue, 13 Oct 2026 22:55:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.41273889,
+        "contentSnippet": "日本の建設機械レンタル市場は、5.78%のCAGRで成長し、2034年までに米ドル20ビリオンに達すると予測されています。インフラ投資の増加や、費用対効果の高い機器レンタルソリューションへの需要の高まりが、市場の成長を促進するでしょう。  Newscast.jp",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX0lCeVNpVUNXRWQzN3oycXNfRnVYS3BrcWdxbjNuM1ltRndMQ01OZHJCV2Z5NHk4N3VjNk81WVZUR3F5clNYcDdNcmN0SDQ?oc=5",
+        "fingerprint": "eeeab0c8af7932ac44c34b0a2340e1b0657d9931b1db56a1b6b79050b1eb2412"
       },
-      "xDraft": "【本文】\n日経クロステックが公式スマートフォンアプリの提供を開始したとのことです。IT、自動車、電子・電機といった分野に加え、僕らの携わる建築・土木分野の技術者やビジネスリーダーも主な対象読者として挙げられていますね。\n\n「最新技術を理解し、ビジネスに生かしたい」というニーズに応えるため、情報収集を徹底的にサポートしてくれるそうです。忙しい日々の中で、信頼できる技術情報を効率よく手軽に得られるのは、現場で働く僕らにとっても大きな助けになるでしょう。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/\n\n【抜粋元】\n日経クロステックが公式アプリで情報収集をサポートする旨の記事から、特に建築・土木分野の技術者やビジネスリーダーが対象に含まれている点に着目して投稿文を作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本の建設機械レンタル市場は2034年までに200億ドル規模に達し、年平均成長率5.78%で拡大すると予測されています。背景にはインフラ投資の継続や、コスト効率に優れたレンタルへの需要の高まりがあるようです。\n現場で働く建機が「所有」から「利用」へとシフトしていく流れは、業界の効率化に大きく寄与すると僕は考えています。これからのまちづくりを支える強力な後押しになりそうですね。\n\n出典：Newscast.jp\nhttps://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX0lCeVNpVUNXRWQzN3oycXNfRnVYS3BrcWdxbjNuM1ltRndMQ01OZHJCV2Z5NHk4N3VjNk81WVZUR3F5clNYcDdNcmN0SDQ?oc=5\n\n【抜粋元】\nNewscast.jpが報じた、日本の建設機械レンタル市場の成長予測に関する記事です。2034年までに市場規模が200億ドルに達する見通しや、インフラ需要が市場を牽引している点について触れています。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックが公式アプリで情報収集をサポートする旨の記事から、特に建築・土木分野の技術者やビジネスリーダーが対象に含まれている点に着目して投稿文を作成しました。",
+      "xDraftExcerptSummary": "Newscast.jpが報じた、日本の建設機械レンタル市場の成長予測に関する記事です。2034年までに市場規模が200億ドルに達する見通しや、インフラ需要が市場を牽引している点について触れています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "「防災地下神殿」にインバウンド呼び込む、施工した佐藤工業が特別ガイド",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/100700277/",
-        "pubDate": "2026-10-12T20:00:00.000Z",
+        "title": "「シールドトンネル」は奥村組が初の首位、急上昇の大林組は僅差で及ばず",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400007/",
+        "pubDate": "2026-10-13T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 2.4,
-        "contentSnippet": "インフラ施設を観光資源として活用するインフラツーリズムで、インバウンド（訪日外国人）を呼び込む取り組みが広がっている。埼玉県春日部市にある首都圏外郭放水路などを巡る、外国人向けのインフラツーリズムのモニターツアーに同行した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/100700277/",
-        "fingerprint": "a6987feb6c829fbee9e1c55b758c26a1578b8f56604ba6208d0b0a9df71d35fc"
+        "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「シールドトンネル」は奥村組が、過去10年間で初めての首位を獲得した。43.5％増収で前年度7位から急上昇した大林組は、僅差で及ばず2位となった。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400007/",
+        "fingerprint": "edd7e8aef318e50e4a18ef04559cbdab3a276034c6eb9b96cd39978f0773c19f"
       },
-      "xDraft": "【本文】\n「防災地下神殿」としても名高い首都圏外郭放水路が、インバウンド（訪日外国人）を呼び込むインフラツーリズムの舞台になっているようですね。記事によると、施工を担当した佐藤工業が特別ガイドを務める外国人向けモニターツアーが開催されたとのことです。\n巨大な地下施設は迫力満点ですし、日本の高い土木技術を世界に直接アピールできる素晴らしい機会だと僕は思います。防災の最前線である施設が、新たな価値を生み出していることに、土木業界の一員として誇りを感じますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00585/100700277/\n\n【抜粋元】\n「防災地下神殿」こと首都圏外郭放水路へのインバウンド誘致に関する記事です。インフラ施設を観光資源として活用するインフラツーリズムの広がりと、施工会社による特別ガイド付きツアーについて書かれています。\n\n【判定】OK",
+      "xDraft": "【本文】\n日経クロステックが主要建設会社を対象に実施した調査で、シールドトンネル部門の売上高ランキングが発表されました。奥村組が過去10年間で初めての首位を獲得したほか、前年度7位だった大林組が43.5％の大幅増収を記録し、僅差で2位に急上昇しています。\n\n都市の地下インフラを支えるシールド工法は、非常に高度な専門性が求められる分野です。そこで長年トップを守り続ける難しさと、今回の首位交代という大きな変化の裏にある各社の技術提案や現場の積み重ねを思うと、非常に興味深いですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03771/092400007/\n\n【抜粋元】\n日経クロステック 土木が実施した2025年度決算アンケートの結果に基づく、土木13分野の売上高ランキング記事です。シールドトンネル部門における奥村組の首位獲得と、2位大林組の急成長に焦点を当てて執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "「防災地下神殿」こと首都圏外郭放水路へのインバウンド誘致に関する記事です。インフラ施設を観光資源として活用するインフラツーリズムの広がりと、施工会社による特別ガイド付きツアーについて書かれています。",
+      "xDraftExcerptSummary": "日経クロステック 土木が実施した2025年度決算アンケートの結果に基づく、土木13分野の売上高ランキング記事です。シールドトンネル部門における奥村組の首位獲得と、2位大林組の急成長に焦点を当てて執筆しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "日経クロステック公式アプリで、あなたの情報収集を徹底サポート",
-    "link": "https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/",
-    "pubDate": "2026-10-12T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "「最新技術を理解し、ビジネスに生かしたい」。日経クロステックは、IT、自動車、電子・電機、建築・土木など、様々な産業分野の技術者とビジネスリーダーを応援する技術系デジタルメディアです。公式のスマートフォン用アプリで、あなたの情報収集を徹底的にサポートします。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/",
-    "fingerprint": "cb503b706f6c8f4c8dbc03c06f97b9e02eb75c05d7972aeb4d71a6b5010b6981"
+    "title": "日本の建設業界に「外資」のカンフル剤が必要では 大型工事が進まない「ボトルネック」はどこにある 大阪発ゼネコン社長と考える建設業の未来（賢者の選択サクセッション） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaUFXaWZvMVdFTUI1aVB3ajQ3ZVZuT3F0Y0RfMDBtQmZBRmc5cUtBNjY2OFl0ZXJ0Q1YxbTRoR19tVVRycGZYdUlWOFo1VnhDNEdLTlNhOUpKVC1ORVZMUTJ1RUVZeFpyWUdseXdVUFlTQ2JtMmIwRUFZbkc3WWc?oc=5",
+    "pubDate": "Tue, 13 Oct 2026 21:41:17 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 7.012734909300001,
+    "contentSnippet": "日本の建設業界に「外資」のカンフル剤が必要では 大型工事が進まない「ボトルネック」はどこにある 大阪発ゼネコン社長と考える建設業の未来（賢者の選択サクセッション）  Yahoo!ニュース",
+    "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaUFXaWZvMVdFTUI1aVB3ajQ3ZVZuT3F0Y0RfMDBtQmZBRmc5cUtBNjY2OFl0ZXJ0Q1YxbTRoR19tVVRycGZYdUlWOFo1VnhDNEdLTlNhOUpKVC1ORVZMUTJ1RUVZeFpyWUdseXdVUFlTQ2JtMmIwRUFZbkc3WWc?oc=5",
+    "fingerprint": "b6ed9d4032cbfdc2112c959c8e5dccb65e4920a20e13cc4b9b569b1b671a0409"
   },
-  "xDraft": "【本文】\n日経クロステックが、建設・土木を含む幅広い分野の最新技術情報を網羅した公式アプリを提供しています。ITや自動車など多分野の動向を効率よく収集し、ビジネスに活かしたい技術者やリーダーを支援するツールです。\n僕たちの業界も他分野との融合が進んでいるので、こうした横断的な情報を手軽に追えるのは助かりますね。現場の課題を解決するヒントを求めて、僕も上手く活用していきたいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/cpbook/18/00075/00041/\n\n【抜粋元】\n建設・土木、IT、自動車など多様な技術情報を扱う「日経クロステック」が、公式アプリを通じて技術者やビジネスリーダーの情報収集をサポートしているという紹介記事です。\n\n【判定】OK",
+  "xDraft": "【本文】\n大型工事が停滞する日本の建設業界において、そのボトルネックをどう打破すべきか。大阪のゼネコン社長が、業界の未来を見据えて「外資」の導入を一つのカンフル剤として提案しています。\n僕としては、外資の参入が単なる価格競争ではなく、働き方や工法のイノベーションを加速させる契機になることを期待しています。現場の熱量を守りながら、新しい血をどう巡らせるか。産業の持続可能性を考える上で、避けては通れない非常に興味深いテーマですね。\n\n出典：Yahoo!ニュース（賢者の選択サクセッション）\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTFBGaUFXaWZvMVdFTUI1aVB3ajQ3ZVZuT3F0Y0RfMDBtQmZBRmc5cUtBNjY2OFl0ZXJ0Q1YxbTRoR19tVVRycGZYdUlWOFo1VnhDNEdLTlNhOUpKVC1ORVZMUTJ1RUVZeFpyWUdseXdVUFlTQ2JtMmIwRUFZbkc3WWc?oc=5\n\n【抜粋元】\n大阪のゼネコン社長が語る、建設業界の停滞を打破するための「外資」導入の可能性についての記事から、現状のボトルネックと未来への提言を抽出しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "建設・土木、IT、自動車など多様な技術情報を扱う「日経クロステック」が、公式アプリを通じて技術者やビジネスリーダーの情報収集をサポートしているという紹介記事です。",
+  "xDraftExcerptSummary": "大阪のゼネコン社長が語る、建設業界の停滞を打破するための「外資」導入の可能性についての記事から、現状のボトルネックと未来への提言を抽出しました。",
   "xDraftAlternates": [],
   "errors": []
 }
