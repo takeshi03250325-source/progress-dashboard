@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T23:16:42.355Z",
+  "generatedAt": "2026-10-18T23:26:38.755Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 0,
   "skippedJapanFocus": 0,
@@ -7,107 +7,217 @@
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "プレスリリース：後継者不足から日本のインフラを守る―全国建設業支援協会 建設業のM&A勉強会を10月28日に新宿で開催。株式会社シードアドバイザリー代表取締役社長・朝野一博氏が登壇。アーカイブ動画で全国の建設業へ発信（PR TIMES） - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeWZmOVk5LVVlQ3VUenpXYUdSYkI1OUhhWlBhckZHNnE5R2JHR2ladnNCbjc0R2JrYUNHNWg1cE11c0UtUmROMVVzckY2N2tnQmdmSndVUnpHSGMxa19aeV9pdzBUUkI0?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 03:22:34 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.2129866186000005,
-      "contentSnippet": "プレスリリース：後継者不足から日本のインフラを守る―全国建設業支援協会 建設業のM&A勉強会を10月28日に新宿で開催。株式会社シードアドバイザリー代表取締役社長・朝野一博氏が登壇。アーカイブ動画で全国の建設業へ発信（PR TIMES）  毎日新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeWZmOVk5LVVlQ3VUenpXYUdSYkI1OUhhWlBhckZHNnE5R2JHR2ladnNCbjc0R2JrYUNHNWg1cE11c0UtUmROMVVzckY2N2tnQmdmSndVUnpHSGMxa19aeV9pdzBUUkI0?oc=5",
-      "fingerprint": "550a21b404f01a692395e88dfe509fffa2835da220ce23b674bfb6b1d8e5b4b0"
+      "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 7.199999999999999,
+      "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+      "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
     },
     {
-      "title": "日本マイクロソフト 西脇資哲氏が解説。生成AIで、建設業の仕事はどこまで変わるのか？デモで紹介する特別講演を開催＜12/10・参加無料 - イザ！",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWekhROXZ5OVYxem9rSXl5Y2ctajFZWHJydGlUOEEyQW1MTzBUeFlsb2x2RHBYenpzUTZRdUI1eHZmN3IwOHNPZ3QtVFhMdEo4ekFNUE5uY1Bya1BnOGVFX2NiVU1uNnRxRU81SzRvd09ncnZkQjNQTGRn?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 07:10:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.21292114,
-      "contentSnippet": "日本マイクロソフト 西脇資哲氏が解説。生成AIで、建設業の仕事はどこまで変わるのか？デモで紹介する特別講演を開催＜12/10・参加無料  イザ！",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWekhROXZ5OVYxem9rSXl5Y2ctajFZWHJydGlUOEEyQW1MTzBUeFlsb2x2RHBYenpzUTZRdUI1eHZmN3IwOHNPZ3QtVFhMdEo4ekFNUE5uY1Bya1BnOGVFX2NiVU1uNnRxRU81SzRvd09ncnZkQjNQTGRn?oc=5",
-      "fingerprint": "99cbd14e315f64cca3a7ee4c01dc4c531193981b87db36f3a64c27abcd2c4f8a"
+      "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 6,
+      "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+      "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
     },
     {
-      "title": "パキスタンの学校で屋根崩落、巻き込まれた子供32人と教師1人が死亡",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00337/",
-      "pubDate": "2026-10-16T02:00:00.000Z",
+      "title": "ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "ドローンやロボット、3Dプリンターなどが協調しながら、モジュール化した部材を無人で組み立ててビルをつくる──。そんな時代がやってくるかもしれない。欧州で始まった画期的な研究を紹介しつつ、フィジカルAI（人工知能）時代の建築生産の在り方を展望する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/",
+      "fingerprint": "8c4b8edaf6bcef6ab4a80e3bcad9a5c69c267325a2d2267dca2bc5d5e6c64575"
+    },
+    {
+      "title": "1位は「シールド機が下水道管破損、50m削り取る」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500386/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月19～25日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500386/",
+      "fingerprint": "dc53ad04323edfce795fcaa976c5b50723d39531480a133add8aada1680756b2"
+    },
+    {
+      "title": "「法面」はライト工業・日特建設の2強が共に2桁増収、上位4社は10年間不動",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400010/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「法面」はライト工業と日特建設の2強が、3位以下に大差を付けて競い合う構図が続く。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400010/",
+      "fingerprint": "1030f6a193050c9a2b39171665b720748bd5d1719a6baf3a1911254c939ee5a6"
+    },
+    {
+      "title": "国内初の大型木造商業ビル「渋谷マルイ」27年夏開業、木のフォスター建築",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02946/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "丸井グループは2027年夏、商業施設「渋谷マルイ」を木造ビルに建て替えて開業する。渋谷のスクランブル交差点の近くに木材で覆われた建設中の外観が見え始めた。木造の内部空間をいち早く紹介する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02946/",
+      "fingerprint": "9bcf9a1cb66fdecda0c0a37e6cef101ad0cc32ce2de71a42855884c803e1df40"
+    },
+    {
+      "title": "1位は「シールド機が下水道管破損、50m削り取る」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500386/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月19～25日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500386/",
+      "fingerprint": "dc53ad04323edfce795fcaa976c5b50723d39531480a133add8aada1680756b2"
+    },
+    {
+      "title": "「法面」はライト工業・日特建設の2強が共に2桁増収、上位4社は10年間不動",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400010/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「法面」はライト工業と日特建設の2強が、3位以下に大差を付けて競い合う構図が続く。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400010/",
+      "fingerprint": "1030f6a193050c9a2b39171665b720748bd5d1719a6baf3a1911254c939ee5a6"
+    },
+    {
+      "title": "28年度始動の建築物LCCO2評価、設計事務所の対応を独自調査",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500001/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年7月成立の改正建築物省エネ法で創設が決まった「建築物LCCO2（ライフサイクルカーボン）評価制度」。建物の資材製造から解体までに発生する二酸化炭素の削減に向けて、28年度に始動する。日経アーキテクチュアの経営動向調査で対応状況を尋ねたところ、「既に取り組んでいる」が16.5％、「取り組む予定がある」が32.1％で、合計すると約半数を占めた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500001/",
+      "fingerprint": "c2ea5de948489a2c851e843640fb0c8155054ebc51f2fa169d4afb4038d0b4a8"
+    },
+    {
+      "title": "国内初の大型木造商業ビル「渋谷マルイ」27年夏開業、木のフォスター建築",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02946/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "丸井グループは2027年夏、商業施設「渋谷マルイ」を木造ビルに建て替えて開業する。渋谷のスクランブル交差点の近くに木材で覆われた建設中の外観が見え始めた。木造の内部空間をいち早く紹介する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02946/",
+      "fingerprint": "9bcf9a1cb66fdecda0c0a37e6cef101ad0cc32ce2de71a42855884c803e1df40"
+    },
+    {
+      "title": "2026年度グッドデザイン賞に建築が多数、金賞には学会賞の動物園も",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02952/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年度グッドデザイン賞では、数多くの建築や住宅、開発事業が賞を受賞した。カテゴリーごとで最も優れた1件に与えられる金賞には、「ニカイメノイエ」や「登戸・向ヶ丘遊園エリア開発｜街に余白を編み込む」、「霞ケ浦どうぶつとみんなのいえ」、「OMO7横浜 by 星野リゾート」などが名を連ねた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02952/",
+      "fingerprint": "9276a59b568551f0c8c154abfbc396b82f2cb21db7292f497e156e84dfe79c5f"
+    },
+    {
+      "title": "2位は「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」20代以下の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年9月、20代以下の会員が読んだ記事をランキング形式で紹介します。2位に「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
+      "fingerprint": "497430a84034511f9b5ddcb618a459a03bc3c91b91aca54b2f2d09f7c2a87255"
+    },
+    {
+      "title": "国土交通省が公共事業の評価手法見直し、社会的割引率も",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02791/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "国土交通省が公共事業の評価手法を見直す。貨幣換算が難しい多様な効果を含めたより総合的な評価手法への改善や、費用便益比（B/C）に用いる社会的割引率の社会情勢を踏まえた見直しを検討する。外部の有識者らが委員を務める「公共事業評価手法研究委員会」で議論を開始した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02791/",
+      "fingerprint": "05d311bb949958f2b75f6b9ef118517eddd82fb0105a731c898cd04f8234d675"
+    },
+    {
+      "title": "2位は「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」20代以下の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
+      "pubDate": "2026-10-18T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 0,
-      "contentSnippet": "パキスタン北西部ペシャワルで15日、学校の屋根が崩落し、大半が14歳未満の児童・生徒32人と教師1人が死亡した。当局は建物の老朽化が原因とみている。他に児童・生徒20人が病院に搬送された。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00337/",
-      "fingerprint": "f30d0c94e76a3cced4d92c64c4ab82351a552da0fa613cc39c7b28f5f79f37ec"
+      "contentSnippet": "日経クロステックで2026年9月、20代以下の会員が読んだ記事をランキング形式で紹介します。2位に「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
+      "fingerprint": "497430a84034511f9b5ddcb618a459a03bc3c91b91aca54b2f2d09f7c2a87255"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "プレスリリース：後継者不足から日本のインフラを守る―全国建設業支援協会 建設業のM&A勉強会を10月28日に新宿で開催。株式会社シードアドバイザリー代表取締役社長・朝野一博氏が登壇。アーカイブ動画で全国の建設業へ発信（PR TIMES） - 毎日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeWZmOVk5LVVlQ3VUenpXYUdSYkI1OUhhWlBhckZHNnE5R2JHR2ladnNCbjc0R2JrYUNHNWg1cE11c0UtUmROMVVzckY2N2tnQmdmSndVUnpHSGMxa19aeV9pdzBUUkI0?oc=5",
-        "pubDate": "Sat, 17 Oct 2026 03:22:34 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 5.2129866186000005,
-        "contentSnippet": "プレスリリース：後継者不足から日本のインフラを守る―全国建設業支援協会 建設業のM&A勉強会を10月28日に新宿で開催。株式会社シードアドバイザリー代表取締役社長・朝野一博氏が登壇。アーカイブ動画で全国の建設業へ発信（PR TIMES）  毎日新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeWZmOVk5LVVlQ3VUenpXYUdSYkI1OUhhWlBhckZHNnE5R2JHR2ladnNCbjc0R2JrYUNHNWg1cE11c0UtUmROMVVzckY2N2tnQmdmSndVUnpHSGMxa19aeV9pdzBUUkI0?oc=5",
-        "fingerprint": "550a21b404f01a692395e88dfe509fffa2835da220ce23b674bfb6b1d8e5b4b0"
+        "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+        "pubDate": "2026-10-18T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 7.199999999999999,
+        "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+        "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
       },
-      "xDraft": "【本文】\n全国建設業支援協会が10月28日に新宿で、後継者不足対策をテーマにした建設業のM&A勉強会を開催します。シードアドバイザリーの朝野一博氏が登壇し、当日の内容はアーカイブ動画として全国へ配信される予定です。\n\n地域の建設会社が存続することは、その土地のインフラ維持や防災力を守ることに直結します。M&Aを単なる売却ではなく、技術と信頼を次世代につなぐための前向きな選択肢として捉える動きが広がるのは、業界にとって非常に意義深いことだと僕は思います。\n\n出典：PR TIMES（毎日新聞）\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeWZmOVk5LVVlQ3VUenpXYUdSYkI1OUhhWlBhckZHNnE5R2JHR2ladnNCbjc0R2JrYUNHNWg1cE11c0UtUmROMVVzckY2N2tnQmdmSndVUnpHSGMxa19aeV9pdzBUUkI0?oc=5\n\n【抜粋元】\nPR TIMESが配信し毎日新聞に掲載された、建設業の事業承継を支援するM&A勉強会の告知記事です。後継者不足がインフラ維持に与える影響と、専門家による具体的な知見が全国に共有される点に注目して執筆しました。\n\n【判定】OK",
+      "xDraft": "【本文】\nRistと松江土建が、AIで橋梁用ボルトの腐食度を判定するシステムを開発しました。国交省中国地方整備局発注の新江川橋での補修工事に適用され、約3万8000本のボルト診断期間を従来の3カ月から1カ月へと大幅に短縮したそうです。\n膨大な数のボルトを一つずつ近接目視で判定するのは大変な労力ですから、こうした技術の社会実装は本当に心強いですね。判定の均質化とスピードアップが両立されることで、日本のインフラ維持管理がより確実で持続可能なものになると感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/\n\n【抜粋元】\nRistと松江土建が共同開発した、AIによるボルト腐食判定システムの活用事例。新江川橋の補修工事で3万8000本のボルトを対象とし、診断工程を3分の1に短縮した事実に基づき作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "PR TIMESが配信し毎日新聞に掲載された、建設業の事業承継を支援するM&A勉強会の告知記事です。後継者不足がインフラ維持に与える影響と、専門家による具体的な知見が全国に共有される点に注目して執筆しました。",
+      "xDraftExcerptSummary": "Ristと松江土建が共同開発した、AIによるボルト腐食判定システムの活用事例。新江川橋の補修工事で3万8000本のボルトを対象とし、診断工程を3分の1に短縮した事実に基づき作成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "日本マイクロソフト 西脇資哲氏が解説。生成AIで、建設業の仕事はどこまで変わるのか？デモで紹介する特別講演を開催＜12/10・参加無料 - イザ！",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWekhROXZ5OVYxem9rSXl5Y2ctajFZWHJydGlUOEEyQW1MTzBUeFlsb2x2RHBYenpzUTZRdUI1eHZmN3IwOHNPZ3QtVFhMdEo4ekFNUE5uY1Bya1BnOGVFX2NiVU1uNnRxRU81SzRvd09ncnZkQjNQTGRn?oc=5",
-        "pubDate": "Fri, 16 Oct 2026 07:10:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 5.21292114,
-        "contentSnippet": "日本マイクロソフト 西脇資哲氏が解説。生成AIで、建設業の仕事はどこまで変わるのか？デモで紹介する特別講演を開催＜12/10・参加無料  イザ！",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWekhROXZ5OVYxem9rSXl5Y2ctajFZWHJydGlUOEEyQW1MTzBUeFlsb2x2RHBYenpzUTZRdUI1eHZmN3IwOHNPZ3QtVFhMdEo4ekFNUE5uY1Bya1BnOGVFX2NiVU1uNnRxRU81SzRvd09ncnZkQjNQTGRn?oc=5",
-        "fingerprint": "99cbd14e315f64cca3a7ee4c01dc4c531193981b87db36f3a64c27abcd2c4f8a"
-      },
-      "xDraft": "【本文】\n日本マイクロソフトの西脇資哲氏が、建設業における生成AIの活用について解説する特別講演が12月10日に開催されます。デモを交えて業務がどう変わるかを提示する内容で、参加は無料です。生成AIが現場や内勤の具体的なタスクをどう効率化するのか、実演を通して学べるのは非常に有益な機会だと感じます。最新技術が僕たちの産業をどう支えていくのか、その可能性に期待が高まります。\n\n出典：イザ！\nhttps://news.google.com/rss/articles/CBMiekFVX3lxTFBWekhROXZ5OVYxem9rSXl5Y2ctajFZWHJydGlUOEEyQW1MTzBUeFlsb2x2RHBYenpzUTZRdUI1eHZmN3IwOHNPZ3QtVFhMdEo4ekFNUE5uY1Bya1BnOGVFX2NiVU1uNnRxRU81SzRvd09ncnZkQjNQTGRn?oc=5\n\n【抜粋元】\n日本マイクロソフトのエバンジェリストである西脇氏が、建設業界特化の生成AI活用術をデモ付きで紹介する無料講演（12月10日開催）の告知記事に基づいています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本マイクロソフトのエバンジェリストである西脇氏が、建設業界特化の生成AI活用術をデモ付きで紹介する無料講演（12月10日開催）の告知記事に基づいています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "パキスタンの学校で屋根崩落、巻き込まれた子供32人と教師1人が死亡",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00337/",
-        "pubDate": "2026-10-16T02:00:00.000Z",
+        "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+        "pubDate": "2026-10-18T20:00:00.000Z",
         "feedName": "日経クロステック 建築・住宅",
-        "score": 0,
-        "contentSnippet": "パキスタン北西部ペシャワルで15日、学校の屋根が崩落し、大半が14歳未満の児童・生徒32人と教師1人が死亡した。当局は建物の老朽化が原因とみている。他に児童・生徒20人が病院に搬送された。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00337/",
-        "fingerprint": "f30d0c94e76a3cced4d92c64c4ab82351a552da0fa613cc39c7b28f5f79f37ec"
+        "score": 6,
+        "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+        "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
       },
-      "xDraft": "【本文】\nパキスタンの学校で老朽化が原因とみられる屋根の崩落事故が発生し、子供32人と教師1人が亡くなりました。20人が負傷し、病院に搬送されています。\n\n本来、子供たちを守るべき学び舎がこうした惨事を引き起こしたことに、強い悲しみを感じます。建物の維持管理の欠如がどれほど深刻な結果を招くか、僕たち建設に関わる人間は決して忘れてはいけない教訓です。世界中の教育施設で、適切な点検と改修が急がれることを切に願います。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/01162/00337/\n\n【抜粋元】\nパキスタン・ペシャワルで発生した、老朽化した学校の屋根崩落により子供32人と教師1人が死亡したという記事です。被害の大きさと原因について触れました。\n\n【判定】OK",
+      "xDraft": "【本文】\nAI開発のRistと松江土建が、橋梁ボルトの腐食をAIで判定するシステムを共同開発しました。島根県の新江川橋における約3万8000本のボルト診断に適用し、従来は3カ月を要していた工程を1カ月にまで短縮したそうです。\n3万8000本という膨大な数を人の目で判定し続けるのは、現場にとって大変な根気が必要な作業だったはずです。こうしたデジタル技術が熟練者の判断を補助し、効率化を支えてくれるのは、インフラメンテナンスの未来にとって非常に心強いですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/\n\n【抜粋元】\nRistと松江土建が共同開発したボルト腐食判定AIに関する記事です。島根県の新江川橋での補修工事において、約3万8000本のボルトを対象に診断期間を3分の1に短縮した実績を紹介しています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "パキスタン・ペシャワルで発生した、老朽化した学校の屋根崩落により子供32人と教師1人が死亡したという記事です。被害の大きさと原因について触れました。",
+      "xDraftExcerptSummary": "Ristと松江土建が共同開発したボルト腐食判定AIに関する記事です。島根県の新江川橋での補修工事において、約3万8000本のボルトを対象に診断期間を3分の1に短縮した実績を紹介しています。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/",
+        "pubDate": "2026-10-18T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "ドローンやロボット、3Dプリンターなどが協調しながら、モジュール化した部材を無人で組み立ててビルをつくる──。そんな時代がやってくるかもしれない。欧州で始まった画期的な研究を紹介しつつ、フィジカルAI（人工知能）時代の建築生産の在り方を展望する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/",
+        "fingerprint": "8c4b8edaf6bcef6ab4a80e3bcad9a5c69c267325a2d2267dca2bc5d5e6c64575"
+      },
+      "xDraft": "【本文】\n欧州で、ドローンやロボット、3Dプリンターを連携させ、モジュール化された部材を無人で組み立てるビルの施工研究が進んでいます。物理世界で動く「フィジカルAI」を活用した、新しい建築生産の在り方を展望する内容です。\n\n現場の自動化というと定置式の大型ロボットを想像しがちですが、複数の異なる機械が「協調」して動く点がこの研究の肝だと感じます。部材側の規格化とセットで技術が普及すれば、施工の概念そのものが劇的に変わるかもしれません。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/\n\n【抜粋元】\n日経クロステックの「ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ」という記事に基づき、欧州の無人施工研究とフィジカルAIによる自動化の展望について記述しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "日経クロステックの「ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ」という記事に基づき、欧州の無人施工研究とフィジカルAIによる自動化の展望について記述しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "プレスリリース：後継者不足から日本のインフラを守る―全国建設業支援協会 建設業のM&A勉強会を10月28日に新宿で開催。株式会社シードアドバイザリー代表取締役社長・朝野一博氏が登壇。アーカイブ動画で全国の建設業へ発信（PR TIMES） - 毎日新聞",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeWZmOVk5LVVlQ3VUenpXYUdSYkI1OUhhWlBhckZHNnE5R2JHR2ladnNCbjc0R2JrYUNHNWg1cE11c0UtUmROMVVzckY2N2tnQmdmSndVUnpHSGMxa19aeV9pdzBUUkI0?oc=5",
-    "pubDate": "Sat, 17 Oct 2026 03:22:34 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 5.2129866186000005,
-    "contentSnippet": "プレスリリース：後継者不足から日本のインフラを守る―全国建設業支援協会 建設業のM&A勉強会を10月28日に新宿で開催。株式会社シードアドバイザリー代表取締役社長・朝野一博氏が登壇。アーカイブ動画で全国の建設業へ発信（PR TIMES）  毎日新聞",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeWZmOVk5LVVlQ3VUenpXYUdSYkI1OUhhWlBhckZHNnE5R2JHR2ladnNCbjc0R2JrYUNHNWg1cE11c0UtUmROMVVzckY2N2tnQmdmSndVUnpHSGMxa19aeV9pdzBUUkI0?oc=5",
-    "fingerprint": "550a21b404f01a692395e88dfe509fffa2835da220ce23b674bfb6b1d8e5b4b0"
+    "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+    "pubDate": "2026-10-18T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 7.199999999999999,
+    "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
+    "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
   },
-  "xDraft": "【本文】\n全国建設業支援協会が10月28日に新宿で、後継者不足対策をテーマにした建設業のM&A勉強会を開催します。シードアドバイザリーの朝野一博氏が登壇し、当日の内容はアーカイブ動画として全国へ配信される予定です。\n\n地域の建設会社が存続することは、その土地のインフラ維持や防災力を守ることに直結します。M&Aを単なる売却ではなく、技術と信頼を次世代につなぐための前向きな選択肢として捉える動きが広がるのは、業界にとって非常に意義深いことだと僕は思います。\n\n出典：PR TIMES（毎日新聞）\nhttps://news.google.com/rss/articles/CBMiaEFVX3lxTE1qeWZmOVk5LVVlQ3VUenpXYUdSYkI1OUhhWlBhckZHNnE5R2JHR2ladnNCbjc0R2JrYUNHNWg1cE11c0UtUmROMVVzckY2N2tnQmdmSndVUnpHSGMxa19aeV9pdzBUUkI0?oc=5\n\n【抜粋元】\nPR TIMESが配信し毎日新聞に掲載された、建設業の事業承継を支援するM&A勉強会の告知記事です。後継者不足がインフラ維持に与える影響と、専門家による具体的な知見が全国に共有される点に注目して執筆しました。\n\n【判定】OK",
+  "xDraft": "【本文】\nRistと松江土建が、AIで橋梁用ボルトの腐食度を判定するシステムを開発しました。国交省中国地方整備局発注の新江川橋での補修工事に適用され、約3万8000本のボルト診断期間を従来の3カ月から1カ月へと大幅に短縮したそうです。\n膨大な数のボルトを一つずつ近接目視で判定するのは大変な労力ですから、こうした技術の社会実装は本当に心強いですね。判定の均質化とスピードアップが両立されることで、日本のインフラ維持管理がより確実で持続可能なものになると感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/\n\n【抜粋元】\nRistと松江土建が共同開発した、AIによるボルト腐食判定システムの活用事例。新江川橋の補修工事で3万8000本のボルトを対象とし、診断工程を3分の1に短縮した事実に基づき作成しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "PR TIMESが配信し毎日新聞に掲載された、建設業の事業承継を支援するM&A勉強会の告知記事です。後継者不足がインフラ維持に与える影響と、専門家による具体的な知見が全国に共有される点に注目して執筆しました。",
+  "xDraftExcerptSummary": "Ristと松江土建が共同開発した、AIによるボルト腐食判定システムの活用事例。新江川橋の補修工事で3万8000本のボルトを対象とし、診断工程を3分の1に短縮した事実に基づき作成しました。",
   "xDraftAlternates": [],
   "errors": []
 }
