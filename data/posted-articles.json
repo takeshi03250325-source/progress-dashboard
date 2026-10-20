@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41ckI4VFQtQVJvYlJjb2RqSHRmVnZid083NTAxYXJOUzBEOGtaM0R6UjNGdFJpcDhFMkNzWTJkUVlVMUZxZHBsZlB4UV9ZVEFHaWtOTDZJNVA?oc=5",
-      "fingerprint": "4b35ae719511e56e538f0be7f3932b0102dfccbfee1f0938eed84b60d8fecd86",
-      "title": "東亜建設工業/比に現地法人設立/民間・建築工事へ参画 - 建設通信新聞Digital",
-      "postedAt": "2026-05-19T10:47:01.895Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41ckI4VFQtQVJvYlJjb2RqSHRmVnZid083NTAxYXJOUzBEOGtaM0R6UjNGdFJpcDhFMkNzWTJkUVlVMUZxZHBsZlB4UV9ZVEFHaWtOTDZJNVA?oc=5"
-    },
-    {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02637/",
-      "fingerprint": "9c92558d3c873a18b5986930953737b705b446dbf55bcd255438ec537c3866f0",
-      "title": "東京都が建設現場の熱中症対策、土木工事は受注者が希望すれば一斉休工",
-      "postedAt": "2026-05-19T22:44:05.423Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02637/"
-    },
-    {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/051301021/",
-      "fingerprint": "6619950afe79ba3b99a472e49277d4a5b10aea912608e71d616ddc9ea7690ec5",
-      "title": "外環道でシールド機のギア損傷、工事中断",
-      "postedAt": "2026-05-19T22:44:05.423Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/051301021/"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZ2ktVjFRTUllRlZuVXFJekRpNEJhdk9CTTBfa1NlZmY2WHV6NEZUUTJCdDFZQzNRcjJtX3dCalNvU1g2ekJtczd2X1pyVWgtdHZQMHF1MHFqMTZkMVhWNFdvdEdyM0E?oc=5",
       "fingerprint": "bb81dde8b0b79e88fc893fa8a4d714f19b0be070dd0ee5085bf6eb4761f8a39b",
       "title": "東京都が建設現場の熱中症対策、土木工事は受注者が希望すれば一斉休工 - 日経クロステック",
@@ -2800,6 +2779,27 @@
       "title": "ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ",
       "postedAt": "2026-10-18T23:26:38.745Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
+      "fingerprint": "35f4064aef2ab8c3727c426d8c6e3ad7afca60502f7d860e109d5fb644f8ca1c",
+      "title": "インフラの「マネジメント」へ戦略的転換、国交省が中間答申",
+      "postedAt": "2026-10-20T00:29:53.417Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
+      "fingerprint": "890e693ce7063a61eb021e0608d8c1f2036534efccd8d33eed49de5d81ad4f81",
+      "title": "「推進」は機動建設工業が首位返り咲き、下水道の更新需要高まり活況",
+      "postedAt": "2026-10-20T00:29:53.417Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
+      "fingerprint": "efd6f17e881e6ee4021f4417ecb0bcaef00d2c39915d991af48c2bb954ec04e9",
+      "title": "四足歩行ロボットが吊り足場内を自律歩行、オリエンタル白石と燈が開発",
+      "postedAt": "2026-10-20T00:29:53.417Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/"
     }
   ]
 }

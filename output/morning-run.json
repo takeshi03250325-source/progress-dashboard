@@ -1,21 +1,11 @@
 {
-  "generatedAt": "2026-10-18T23:26:38.755Z",
+  "generatedAt": "2026-10-20T00:29:53.427Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
-  "skippedJapanFocus": 0,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
-    {
-      "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 7.199999999999999,
-      "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
-      "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
-    },
     {
       "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
@@ -25,6 +15,96 @@
       "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
       "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
+    },
+    {
+      "title": "インフラの「マネジメント」へ戦略的転換、国交省が中間答申",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
+      "pubDate": "2026-10-19T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "国土交通省は、インフラマネジメントの方向性などについて専門家らの議論による中間答申をまとめた。老朽化対策を中心とした従来の「メンテナンス」から、インフラの分野横断や管理者の連携を強め、ライフサイクル全体を見据えて戦略的かつ統合的に管理する「マネジメント」への転換を打ち出した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
+      "fingerprint": "35f4064aef2ab8c3727c426d8c6e3ad7afca60502f7d860e109d5fb644f8ca1c"
+    },
+    {
+      "title": "「推進」は機動建設工業が首位返り咲き、下水道の更新需要高まり活況",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
+      "pubDate": "2026-10-19T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「推進」は機動建設工業が前年度の3位から首位に浮上。同社以外の上位企業も軒並み増収で、主に下水道の管路を構築する推進工事の需要は旺盛だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
+      "fingerprint": "890e693ce7063a61eb021e0608d8c1f2036534efccd8d33eed49de5d81ad4f81"
+    },
+    {
+      "title": "四足歩行ロボットが吊り足場内を自律歩行、オリエンタル白石と燈が開発",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
+      "pubDate": "2026-10-19T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "オリエンタル白石と東京大学発スタートアップの燈（あかり、東京・千代田）は、橋梁工事などで使う吊（つ）り足場内で、四足歩行ロボットの自律歩行に成功した。AI（人工知能）を活用し、ロボットが吊りチェーンなどの障害物や床の段差をリアルタイムで認識しながら、安全に通れるルートを自ら選んで歩行する。今後、監視カメラなどを搭載し、現場巡回などでの活用を見込む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
+      "fingerprint": "efd6f17e881e6ee4021f4417ecb0bcaef00d2c39915d991af48c2bb954ec04e9"
+    },
+    {
+      "title": "土木技術者が生成AIでアプリ自作、現場管理や資料作成を効率化",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/",
+      "pubDate": "2026-10-19T17:04:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "広島市の地場建設会社、鴻治組ではプログラミング未経験の土木技術者が生成AI（人工知能）を活用してWebアプリを自作する。現場管理や書類作成などの業務効率化アプリを、半年で計11個開発した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/",
+      "fingerprint": "fa4b1a757811b759a6c67d6ec4416075e9e95732d080d9cfc3fa4d26618919c2"
+    },
+    {
+      "title": "国交省がフィジカルAIの重点8分野選定",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/100901055/",
+      "pubDate": "2026-10-19T17:03:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "国土交通省は建設分野の現場にフィジカルAI（人工知能）を導入するため、産官学が連携するコンソーシアムを早ければ2026年11月に設立すると明らかにした。具体的な目標や開発方針などを議論する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00005/100901055/",
+      "fingerprint": "9d45a52e18690f5b9b24599c78b33e242f4522b2614337c694bc311a5f77a0cf"
+    },
+    {
+      "title": "施工計画書のたたき台を10分で作成、生成AIで暗黙知を若手に継承",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800002/",
+      "pubDate": "2026-10-19T17:02:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "施工計画書は、工事を進める上でベースとなる重要な書類だ。その作成に生成AI（人工知能）を活用する狙いは業務効率化だけではない。熟練技術者の暗黙知を、誰もが活用できるよう見える形で引き出すことだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800002/",
+      "fingerprint": "63c50a8e98cf34252fe7f312867c156080b255e1057cfbca1a95147a0bc96ef8"
+    },
+    {
+      "title": "虚偽申請で資格取得すれば営業停止、主任・監理技術者の配置要件を知る",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00273/100900002/",
+      "pubDate": "2026-10-19T17:02:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "ほぼ全ての工事現場に配置が求められる主任技術者や監理技術者。建設業法に基づく行政処分の理由として多いのも、技術者関係の違反だ。資格の不正取得が発覚し、資格要件を満たさなくなった例は多い。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00273/100900002/",
+      "fingerprint": "52c85b36defc30fa8f126e15187d5a3d4c756b01ba8b568d459bab7eb4c54115"
+    },
+    {
+      "title": "「推進」は機動建設工業が首位返り咲き、下水道の更新需要高まり活況",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
+      "pubDate": "2026-10-19T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「推進」は機動建設工業が前年度の3位から首位に浮上。同社以外の上位企業も軒並み増収で、主に下水道の管路を構築する推進工事の需要は旺盛だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
+      "fingerprint": "890e693ce7063a61eb021e0608d8c1f2036534efccd8d33eed49de5d81ad4f81"
+    },
+    {
+      "title": "四足歩行ロボットが吊り足場内を自律歩行、オリエンタル白石と燈が開発",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
+      "pubDate": "2026-10-19T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "オリエンタル白石と東京大学発スタートアップの燈（あかり、東京・千代田）は、橋梁工事などで使う吊（つ）り足場内で、四足歩行ロボットの自律歩行に成功した。AI（人工知能）を活用し、ロボットが吊りチェーンなどの障害物や床の段差をリアルタイムで認識しながら、安全に通れるルートを自ら選んで歩行する。今後、監視カメラなどを搭載し、現場巡回などでの活用を見込む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
+      "fingerprint": "efd6f17e881e6ee4021f4417ecb0bcaef00d2c39915d991af48c2bb954ec04e9"
     },
     {
       "title": "ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ",
@@ -37,187 +117,117 @@
       "fingerprint": "8c4b8edaf6bcef6ab4a80e3bcad9a5c69c267325a2d2267dca2bc5d5e6c64575"
     },
     {
-      "title": "1位は「シールド機が下水道管破損、50m削り取る」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500386/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
+      "title": "空き家に侵入し貯金箱を盗む…被害複数、関連を捜査 邸宅侵入と窃盗の疑いで自称建設業の30歳男を再逮捕（南日本新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xOXJJZnFVOGprLURDa1hXUGZwZXhQTmtjTFY0UEVQQy1fUTJ6Zy1kNU02TENwdFN3T0R5V2VRWERUbTY0VnRrRVBVTjZncEx2NlpMTDdFNkJHdy1BMEwybVlxU2xwNkRkUlhKTTVEWjhLd3hGbVBFcWF4b2E4SkE?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 10:35:24 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4131655116000004,
+      "contentSnippet": "空き家に侵入し貯金箱を盗む…被害複数、関連を捜査 邸宅侵入と窃盗の疑いで自称建設業の30歳男を再逮捕（南日本新聞）  Yahoo!ニュース",
+      "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xOXJJZnFVOGprLURDa1hXUGZwZXhQTmtjTFY0UEVQQy1fUTJ6Zy1kNU02TENwdFN3T0R5V2VRWERUbTY0VnRrRVBVTjZncEx2NlpMTDdFNkJHdy1BMEwybVlxU2xwNkRkUlhKTTVEWjhLd3hGbVBFcWF4b2E4SkE?oc=5",
+      "fingerprint": "ee1bf52faabb7167bc005ad322fdf82bc5adedfe6e94c2532cb6eb543ab273e3"
+    },
+    {
+      "title": "国内初「森林ファンド」 1000億円投資、金融・商社・ゼネコンが連合 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWlA3R0RQaGE2Z0p6OGI4MUJxaHRjeHlZSVpNSmp0TW03M0lzTHh6M3Y4MEdtWVNrM3NuRG9ZdWE0dFJvUlNKY3ljS0h4SWtEZG83TmJPV3UyenY5ci1kYzN3dHBaRkN6cXRLOA?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 09:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.41316036,
+      "contentSnippet": "国内初「森林ファンド」 1000億円投資、金融・商社・ゼネコンが連合  日本経済新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWlA3R0RQaGE2Z0p6OGI4MUJxaHRjeHlZSVpNSmp0TW03M0lzTHh6M3Y4MEdtWVNrM3NuRG9ZdWE0dFJvUlNKY3ljS0h4SWtEZG83TmJPV3UyenY5ci1kYzN3dHBaRkN6cXRLOA?oc=5",
+      "fingerprint": "2279d7b8d4ffcbbf1cce200453414cc086f785663b11904b2a799845e3d88a05"
+    },
+    {
+      "title": "安藤建築「淡路夢舞台」を再生、優先交渉権者の外資系が50億円の投資案",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02951/",
+      "pubDate": "2026-10-19T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月19～25日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500386/",
-      "fingerprint": "dc53ad04323edfce795fcaa976c5b50723d39531480a133add8aada1680756b2"
+      "contentSnippet": "兵庫県は、建築家の安藤忠雄氏がグランドデザインを手掛けた淡路夢舞台の一部施設を民間の運営事業者に譲渡する公募において、優先交渉権者を米投資ファンドのフォートレス・インベストメント・グループの日本法人を代表とするグループに決定した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02951/",
+      "fingerprint": "36f510ee45efd05932eb5146f2e51df8f0989bf99697b5707b12d08247304992"
     },
     {
-      "title": "「法面」はライト工業・日特建設の2強が共に2桁増収、上位4社は10年間不動",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400010/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
+      "title": "生成AIの情報漏洩や改ざんに要注意、賢く使って現場で学ぶ時間を増やす",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800006/",
+      "pubDate": "2026-10-19T17:06:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「法面」はライト工業と日特建設の2強が、3位以下に大差を付けて競い合う構図が続く。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400010/",
-      "fingerprint": "1030f6a193050c9a2b39171665b720748bd5d1719a6baf3a1911254c939ee5a6"
-    },
-    {
-      "title": "国内初の大型木造商業ビル「渋谷マルイ」27年夏開業、木のフォスター建築",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02946/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "丸井グループは2027年夏、商業施設「渋谷マルイ」を木造ビルに建て替えて開業する。渋谷のスクランブル交差点の近くに木材で覆われた建設中の外観が見え始めた。木造の内部空間をいち早く紹介する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02946/",
-      "fingerprint": "9bcf9a1cb66fdecda0c0a37e6cef101ad0cc32ce2de71a42855884c803e1df40"
-    },
-    {
-      "title": "1位は「シールド機が下水道管破損、50m削り取る」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500386/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月19～25日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500386/",
-      "fingerprint": "dc53ad04323edfce795fcaa976c5b50723d39531480a133add8aada1680756b2"
-    },
-    {
-      "title": "「法面」はライト工業・日特建設の2強が共に2桁増収、上位4社は10年間不動",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400010/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「法面」はライト工業と日特建設の2強が、3位以下に大差を付けて競い合う構図が続く。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400010/",
-      "fingerprint": "1030f6a193050c9a2b39171665b720748bd5d1719a6baf3a1911254c939ee5a6"
-    },
-    {
-      "title": "28年度始動の建築物LCCO2評価、設計事務所の対応を独自調査",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500001/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年7月成立の改正建築物省エネ法で創設が決まった「建築物LCCO2（ライフサイクルカーボン）評価制度」。建物の資材製造から解体までに発生する二酸化炭素の削減に向けて、28年度に始動する。日経アーキテクチュアの経営動向調査で対応状況を尋ねたところ、「既に取り組んでいる」が16.5％、「取り組む予定がある」が32.1％で、合計すると約半数を占めた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500001/",
-      "fingerprint": "c2ea5de948489a2c851e843640fb0c8155054ebc51f2fa169d4afb4038d0b4a8"
-    },
-    {
-      "title": "国内初の大型木造商業ビル「渋谷マルイ」27年夏開業、木のフォスター建築",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02946/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "丸井グループは2027年夏、商業施設「渋谷マルイ」を木造ビルに建て替えて開業する。渋谷のスクランブル交差点の近くに木材で覆われた建設中の外観が見え始めた。木造の内部空間をいち早く紹介する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02946/",
-      "fingerprint": "9bcf9a1cb66fdecda0c0a37e6cef101ad0cc32ce2de71a42855884c803e1df40"
-    },
-    {
-      "title": "2026年度グッドデザイン賞に建築が多数、金賞には学会賞の動物園も",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02952/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年度グッドデザイン賞では、数多くの建築や住宅、開発事業が賞を受賞した。カテゴリーごとで最も優れた1件に与えられる金賞には、「ニカイメノイエ」や「登戸・向ヶ丘遊園エリア開発｜街に余白を編み込む」、「霞ケ浦どうぶつとみんなのいえ」、「OMO7横浜 by 星野リゾート」などが名を連ねた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02952/",
-      "fingerprint": "9276a59b568551f0c8c154abfbc396b82f2cb21db7292f497e156e84dfe79c5f"
-    },
-    {
-      "title": "2位は「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」20代以下の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年9月、20代以下の会員が読んだ記事をランキング形式で紹介します。2位に「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
-      "fingerprint": "497430a84034511f9b5ddcb618a459a03bc3c91b91aca54b2f2d09f7c2a87255"
-    },
-    {
-      "title": "国土交通省が公共事業の評価手法見直し、社会的割引率も",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02791/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "国土交通省が公共事業の評価手法を見直す。貨幣換算が難しい多様な効果を含めたより総合的な評価手法への改善や、費用便益比（B/C）に用いる社会的割引率の社会情勢を踏まえた見直しを検討する。外部の有識者らが委員を務める「公共事業評価手法研究委員会」で議論を開始した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02791/",
-      "fingerprint": "05d311bb949958f2b75f6b9ef118517eddd82fb0105a731c898cd04f8234d675"
-    },
-    {
-      "title": "2位は「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」20代以下の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
-      "pubDate": "2026-10-18T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "日経クロステックで2026年9月、20代以下の会員が読んだ記事をランキング形式で紹介します。2位に「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500416/",
-      "fingerprint": "497430a84034511f9b5ddcb618a459a03bc3c91b91aca54b2f2d09f7c2a87255"
+      "contentSnippet": "生成AI（人工知能）の活用で注意したいのが、情報漏洩や改ざんだ。備えとしてガイドライン整備や改ざん検知技術の開発・実装が進む。リスクに賢く対応し、書類作業を減らして現場で学ぶ時間を確保したい。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800006/",
+      "fingerprint": "4d87785984dc8ab9145000ea7a95f9caabd75965e533b4d19ce22fa09b10fa96"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
-        "pubDate": "2026-10-18T20:00:00.000Z",
+        "title": "インフラの「マネジメント」へ戦略的転換、国交省が中間答申",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
+        "pubDate": "2026-10-19T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 7.199999999999999,
-        "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
-        "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
+        "score": 4.8,
+        "contentSnippet": "国土交通省は、インフラマネジメントの方向性などについて専門家らの議論による中間答申をまとめた。老朽化対策を中心とした従来の「メンテナンス」から、インフラの分野横断や管理者の連携を強め、ライフサイクル全体を見据えて戦略的かつ統合的に管理する「マネジメント」への転換を打ち出した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
+        "fingerprint": "35f4064aef2ab8c3727c426d8c6e3ad7afca60502f7d860e109d5fb644f8ca1c"
       },
-      "xDraft": "【本文】\nRistと松江土建が、AIで橋梁用ボルトの腐食度を判定するシステムを開発しました。国交省中国地方整備局発注の新江川橋での補修工事に適用され、約3万8000本のボルト診断期間を従来の3カ月から1カ月へと大幅に短縮したそうです。\n膨大な数のボルトを一つずつ近接目視で判定するのは大変な労力ですから、こうした技術の社会実装は本当に心強いですね。判定の均質化とスピードアップが両立されることで、日本のインフラ維持管理がより確実で持続可能なものになると感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/\n\n【抜粋元】\nRistと松江土建が共同開発した、AIによるボルト腐食判定システムの活用事例。新江川橋の補修工事で3万8000本のボルトを対象とし、診断工程を3分の1に短縮した事実に基づき作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n国土交通省が、インフラマネジメントに関する中間答申をまとめました。従来の老朽化対策中心の「メンテナンス」から、インフラの分野横断や管理者の連携を強め、ライフサイクル全体を見据えて戦略的に管理する「マネジメント」へと、その方向性を転換するとのことです。\n\nこれは、インフラを総合的に捉え直し、持続可能性を高めるための重要な視点だと僕も感じています。これからの現場や産業においても、この「マネジメント」という言葉が持つ意味を深く理解し、実践していくことが求められますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/\n\n【抜粋元】\n日経クロステック 土木の記事「インフラの『マネジメント』へ戦略的転換、国交省が中間答申」の見出しと要約から、国土交通省が従来のメンテナンスからマネジメントへの転換を打ち出した点と、その具体的な内容（分野横断、管理者連携、ライフサイクル全体）についてまとめています。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
+      "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "Ristと松江土建が共同開発した、AIによるボルト腐食判定システムの活用事例。新江川橋の補修工事で3万8000本のボルトを対象とし、診断工程を3分の1に短縮した事実に基づき作成しました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事「インフラの『マネジメント』へ戦略的転換、国交省が中間答申」の見出しと要約から、国土交通省が従来のメンテナンスからマネジメントへの転換を打ち出した点と、その具体的な内容（分野横断、管理者連携、ライフサイクル全体）についてまとめています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
-        "pubDate": "2026-10-18T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 6,
-        "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
-        "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
+        "title": "「推進」は機動建設工業が首位返り咲き、下水道の更新需要高まり活況",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
+        "pubDate": "2026-10-19T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「推進」は機動建設工業が前年度の3位から首位に浮上。同社以外の上位企業も軒並み増収で、主に下水道の管路を構築する推進工事の需要は旺盛だ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
+        "fingerprint": "890e693ce7063a61eb021e0608d8c1f2036534efccd8d33eed49de5d81ad4f81"
       },
-      "xDraft": "【本文】\nAI開発のRistと松江土建が、橋梁ボルトの腐食をAIで判定するシステムを共同開発しました。島根県の新江川橋における約3万8000本のボルト診断に適用し、従来は3カ月を要していた工程を1カ月にまで短縮したそうです。\n3万8000本という膨大な数を人の目で判定し続けるのは、現場にとって大変な根気が必要な作業だったはずです。こうしたデジタル技術が熟練者の判断を補助し、効率化を支えてくれるのは、インフラメンテナンスの未来にとって非常に心強いですね。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/\n\n【抜粋元】\nRistと松江土建が共同開発したボルト腐食判定AIに関する記事です。島根県の新江川橋での補修工事において、約3万8000本のボルトを対象に診断期間を3分の1に短縮した実績を紹介しています。\n\n【判定】OK",
+      "xDraft": "【本文】\n日経クロステックの調査で、2025年度決算の「推進」分野ランキングが発表されました。機動建設工業さんが前年度の3位から首位に返り咲き、上位企業は軒並み増収とのこと。主に下水道の管路を構築する推進工事の需要が旺盛だという結果です。\n\n老朽化した下水道管の更新は、私たちの生活基盤を支える上で欠かせない大切な仕事。こうした堅実な需要が、業界の活況を支えているのですね。見えないところで技術を尽くされている皆さんの働きに、いつも感謝しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/\n\n【抜粋元】\n「日経クロステック 土木」の記事から、全国の主要建設会社に実施された2025年度決算アンケートに基づく「推進」分野の売上高ランキングと、下水道の更新需要がこの分野の活況を支えている点について書かれた部分を抜粋しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
+      "xDraftModel": "models/gemini-2.5-flash",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "Ristと松江土建が共同開発したボルト腐食判定AIに関する記事です。島根県の新江川橋での補修工事において、約3万8000本のボルトを対象に診断期間を3分の1に短縮した実績を紹介しています。",
+      "xDraftExcerptSummary": "「日経クロステック 土木」の記事から、全国の主要建設会社に実施された2025年度決算アンケートに基づく「推進」分野の売上高ランキングと、下水道の更新需要がこの分野の活況を支えている点について書かれた部分を抜粋しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/",
-        "pubDate": "2026-10-18T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "ドローンやロボット、3Dプリンターなどが協調しながら、モジュール化した部材を無人で組み立ててビルをつくる──。そんな時代がやってくるかもしれない。欧州で始まった画期的な研究を紹介しつつ、フィジカルAI（人工知能）時代の建築生産の在り方を展望する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/",
-        "fingerprint": "8c4b8edaf6bcef6ab4a80e3bcad9a5c69c267325a2d2267dca2bc5d5e6c64575"
+        "title": "四足歩行ロボットが吊り足場内を自律歩行、オリエンタル白石と燈が開発",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
+        "pubDate": "2026-10-19T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "オリエンタル白石と東京大学発スタートアップの燈（あかり、東京・千代田）は、橋梁工事などで使う吊（つ）り足場内で、四足歩行ロボットの自律歩行に成功した。AI（人工知能）を活用し、ロボットが吊りチェーンなどの障害物や床の段差をリアルタイムで認識しながら、安全に通れるルートを自ら選んで歩行する。今後、監視カメラなどを搭載し、現場巡回などでの活用を見込む。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
+        "fingerprint": "efd6f17e881e6ee4021f4417ecb0bcaef00d2c39915d991af48c2bb954ec04e9"
       },
-      "xDraft": "【本文】\n欧州で、ドローンやロボット、3Dプリンターを連携させ、モジュール化された部材を無人で組み立てるビルの施工研究が進んでいます。物理世界で動く「フィジカルAI」を活用した、新しい建築生産の在り方を展望する内容です。\n\n現場の自動化というと定置式の大型ロボットを想像しがちですが、複数の異なる機械が「協調」して動く点がこの研究の肝だと感じます。部材側の規格化とセットで技術が普及すれば、施工の概念そのものが劇的に変わるかもしれません。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03215/100500009/\n\n【抜粋元】\n日経クロステックの「ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ」という記事に基づき、欧州の無人施工研究とフィジカルAIによる自動化の展望について記述しました。\n\n【判定】OK",
+      "xDraft": "【本文】\nオリエンタル白石とスタートアップの燈が、橋梁工事などで使われる吊り足場内において、四足歩行ロボットの自律歩行に成功しました。AIを用いて吊りチェーンや段差をリアルタイムで認識し、安全なルートを自ら選択して歩行します。\n\n吊り足場という、特有の揺れや障害物がある難しい環境で自律歩行を実現したのは大きな一歩ですね。ロボットによる現場巡回が実用化されれば、点検の効率化だけでなく、作業員の安全確保にも大きく寄与すると期待しています。技術が現場の課題を一つずつ解決していく様子には、僕も非常にワクワクします。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/\n\n【抜粋元】\n日経クロステック 土木の記事より、オリエンタル白石と燈が開発した四足歩行ロボットの自律歩行試験成功について。AIによる障害物回避と、今後の現場巡回への活用見込みについてまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックの「ロボットやドローンでビルを無人施工、フィジカルAI時代の新工法を探れ」という記事に基づき、欧州の無人施工研究とフィジカルAIによる自動化の展望について記述しました。",
+      "xDraftExcerptSummary": "日経クロステック 土木の記事より、オリエンタル白石と燈が開発した四足歩行ロボットの自律歩行試験成功について。AIによる障害物回避と、今後の現場巡回への活用見込みについてまとめました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "橋のボルト腐食をAIで判定、診断期間を3分の1に短縮",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
-    "pubDate": "2026-10-18T20:00:00.000Z",
+    "title": "インフラの「マネジメント」へ戦略的転換、国交省が中間答申",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
+    "pubDate": "2026-10-19T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
-    "score": 7.199999999999999,
-    "contentSnippet": "AI（人工知能）を用いたシステム開発を手がけるRist（京都市）は松江土建（松江市）と共同で、AIによってボルトの腐食の程度を判定するシステムを開発した。国交省中国地整発注の新江川橋（島根県江津市）の補修工事で約3万8000本のボルトを対象に適用し、従来約3カ月かかる診断工程を約1カ月に短縮した。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/",
-    "fingerprint": "6a13252638e34e2017ee475faa33430045eab163eb39e6a6de01b690409e191b"
+    "score": 4.8,
+    "contentSnippet": "国土交通省は、インフラマネジメントの方向性などについて専門家らの議論による中間答申をまとめた。老朽化対策を中心とした従来の「メンテナンス」から、インフラの分野横断や管理者の連携を強め、ライフサイクル全体を見据えて戦略的かつ統合的に管理する「マネジメント」への転換を打ち出した。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
+    "fingerprint": "35f4064aef2ab8c3727c426d8c6e3ad7afca60502f7d860e109d5fb644f8ca1c"
   },
-  "xDraft": "【本文】\nRistと松江土建が、AIで橋梁用ボルトの腐食度を判定するシステムを開発しました。国交省中国地方整備局発注の新江川橋での補修工事に適用され、約3万8000本のボルト診断期間を従来の3カ月から1カ月へと大幅に短縮したそうです。\n膨大な数のボルトを一つずつ近接目視で判定するのは大変な労力ですから、こうした技術の社会実装は本当に心強いですね。判定の均質化とスピードアップが両立されることで、日本のインフラ維持管理がより確実で持続可能なものになると感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02790/\n\n【抜粋元】\nRistと松江土建が共同開発した、AIによるボルト腐食判定システムの活用事例。新江川橋の補修工事で3万8000本のボルトを対象とし、診断工程を3分の1に短縮した事実に基づき作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n国土交通省が、インフラマネジメントに関する中間答申をまとめました。従来の老朽化対策中心の「メンテナンス」から、インフラの分野横断や管理者の連携を強め、ライフサイクル全体を見据えて戦略的に管理する「マネジメント」へと、その方向性を転換するとのことです。\n\nこれは、インフラを総合的に捉え直し、持続可能性を高めるための重要な視点だと僕も感じています。これからの現場や産業においても、この「マネジメント」という言葉が持つ意味を深く理解し、実践していくことが求められますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/\n\n【抜粋元】\n日経クロステック 土木の記事「インフラの『マネジメント』へ戦略的転換、国交省が中間答申」の見出しと要約から、国土交通省が従来のメンテナンスからマネジメントへの転換を打ち出した点と、その具体的な内容（分野横断、管理者連携、ライフサイクル全体）についてまとめています。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-3-flash-preview",
+  "xDraftModel": "models/gemini-2.5-flash",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "Ristと松江土建が共同開発した、AIによるボルト腐食判定システムの活用事例。新江川橋の補修工事で3万8000本のボルトを対象とし、診断工程を3分の1に短縮した事実に基づき作成しました。",
+  "xDraftExcerptSummary": "日経クロステック 土木の記事「インフラの『マネジメント』へ戦略的転換、国交省が中間答申」の見出しと要約から、国土交通省が従来のメンテナンスからマネジメントへの転換を打ち出した点と、その具体的な内容（分野横断、管理者連携、ライフサイクル全体）についてまとめています。",
   "xDraftAlternates": [],
   "errors": []
 }
