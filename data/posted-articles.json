@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZ2ktVjFRTUllRlZuVXFJekRpNEJhdk9CTTBfa1NlZmY2WHV6NEZUUTJCdDFZQzNRcjJtX3dCalNvU1g2ekJtczd2X1pyVWgtdHZQMHF1MHFqMTZkMVhWNFdvdEdyM0E?oc=5",
-      "fingerprint": "bb81dde8b0b79e88fc893fa8a4d714f19b0be070dd0ee5085bf6eb4761f8a39b",
-      "title": "東京都が建設現場の熱中症対策、土木工事は受注者が希望すれば一斉休工 - 日経クロステック",
-      "postedAt": "2026-05-19T22:44:05.423Z",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZ2ktVjFRTUllRlZuVXFJekRpNEJhdk9CTTBfa1NlZmY2WHV6NEZUUTJCdDFZQzNRcjJtX3dCalNvU1g2ekJtczd2X1pyVWgtdHZQMHF1MHFqMTZkMVhWNFdvdEdyM0E?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VbFRMMVlqMFBkQzRfTzJxdXMxQjJKVW1BUHhDTW93TGNwN3pndmdFdEpMd216ZmZrVUhQRXdZMklBVU81Y0ZsYkJRTVQ4Z0lWZXE0UTRpNU0?oc=5",
-      "fingerprint": "9c6169aaa3aafc450a675caf6ad0d30a12b21ba13b070dcf9cacf2c973c758b1",
-      "title": "122件に栄誉/2025年度土木学会賞 - 建設通信新聞Digital",
-      "postedAt": "2026-05-20T22:52:22.563Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VbFRMMVlqMFBkQzRfTzJxdXMxQjJKVW1BUHhDTW93TGNwN3pndmdFdEpMd216ZmZrVUhQRXdZMklBVU81Y0ZsYkJRTVQ4Z0lWZXE0UTRpNU0?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUUt1bUhFZDN1SXVDbGs2YlFMN3F3WlFlbHJxajVlQ1BqS0N3U3VqT3NnTHAxZTlwejZRSFZvbEthNE9kUVdWQVI0WVJfcmU5SVFMU3JyWW1nMnRJSGNDcw?oc=5",
-      "fingerprint": "815519c5924e4ffce8b14f057a6b68d2fb2d56f119bffeb9eb34d8d358be1874",
-      "title": "［月曜訪問］西田興産 建設用３Ｄプリンターを導入、 コンクリート工事を効率化 - 愛媛新聞",
-      "postedAt": "2026-05-20T22:52:22.563Z",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUUt1bUhFZDN1SXVDbGs2YlFMN3F3WlFlbHJxajVlQ1BqS0N3U3VqT3NnTHAxZTlwejZRSFZvbEthNE9kUVdWQVI0WVJfcmU5SVFMU3JyWW1nMnRJSGNDcw?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tYm1RZThuUFBad1hFRDYwaVQtZE1TMmhYM0hzS0VsQXdBTWExS1U0NmFlRTNxN253cEpFQ2E2MjhUdWRab2hSVkxPWFFEeFdXSmpNaERB?oc=5",
       "fingerprint": "f96261259724c933743b248b5ff36e310c674e4a37f6f5d47582db23f8b651de",
       "title": "桜川市役所 新庁舎建設工事進む - LuckyFM茨城放送",
@@ -2800,6 +2779,27 @@
       "title": "四足歩行ロボットが吊り足場内を自律歩行、オリエンタル白石と燈が開発",
       "postedAt": "2026-10-20T00:29:53.417Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
+      "fingerprint": "fc3748e423643ee24f3f9a352cf08603a2f0e487c532ebb54a469c414a1aefd6",
+      "title": "建設業でもカスハラ対策を義務化、過剰な値引きや無償工事要求に備え",
+      "postedAt": "2026-10-21T00:00:02.322Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/",
+      "fingerprint": "ad3968f233e78d73e8ca8b5f1dc18a94c5204455ca66b16fcdc6f0644f247a9c",
+      "title": "都立明治公園に込めたこだわり、8mの高低差を克服　設計者がポイント解説",
+      "postedAt": "2026-10-21T00:00:02.322Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/",
+      "fingerprint": "fa4b1a757811b759a6c67d6ec4416075e9e95732d080d9cfc3fa4d26618919c2",
+      "title": "土木技術者が生成AIでアプリ自作、現場管理や資料作成を効率化",
+      "postedAt": "2026-10-21T00:00:02.322Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/"
     }
   ]
 }
