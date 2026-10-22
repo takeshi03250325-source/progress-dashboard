@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tYm1RZThuUFBad1hFRDYwaVQtZE1TMmhYM0hzS0VsQXdBTWExS1U0NmFlRTNxN253cEpFQ2E2MjhUdWRab2hSVkxPWFFEeFdXSmpNaERB?oc=5",
-      "fingerprint": "f96261259724c933743b248b5ff36e310c674e4a37f6f5d47582db23f8b651de",
-      "title": "桜川市役所 新庁舎建設工事進む - LuckyFM茨城放送",
-      "postedAt": "2026-05-20T22:52:22.563Z",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tYm1RZThuUFBad1hFRDYwaVQtZE1TMmhYM0hzS0VsQXdBTWExS1U0NmFlRTNxN253cEpFQ2E2MjhUdWRab2hSVkxPWFFEeFdXSmpNaERB?oc=5"
-    },
-    {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02644/",
-      "fingerprint": "e78975db0e2f5b2051e417af02c503693fd59195709a2b4fbfc83d032795e4a2",
-      "title": "北海道新幹線軌道工事で談合疑惑、不調を回避？　JR系9社と鉄道・運輸機構",
-      "postedAt": "2026-05-21T22:48:51.516Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02644/"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12UTBTWDNsb3hhdTB0N2taUjVkYmV4Wjd0eXg3aG5JM2hITVpjSlQ0ZzBxaFpKNlNSWkRUdUVvM1R5RVFvWHZFSzRuZXAzZk14M2tqY1lub2x1Rkg4ZndQZVNfQUtXNHI3cDR5ZmtoSi1LN21BemdkQzNnbUhKLTQ?oc=5",
-      "fingerprint": "41010806541891ce9c4c791c1bdb712e9b2ad2cb4723fb75da792580bafaec36",
-      "title": "福井の建築工事業「木又建設」破産開始決定（北國新聞社） - Yahoo!ニュース",
-      "postedAt": "2026-05-21T22:48:51.516Z",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12UTBTWDNsb3hhdTB0N2taUjVkYmV4Wjd0eXg3aG5JM2hITVpjSlQ0ZzBxaFpKNlNSWkRUdUVvM1R5RVFvWHZFSzRuZXAzZk14M2tqY1lub2x1Rkg4ZndQZVNfQUtXNHI3cDR5ZmtoSi1LN21BemdkQzNnbUhKLTQ?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xSDIxaVpPT2tJN3NyYmxJajR3QkRkOFctTy1CcGhsNkROWUE4VjRvNVdoMHZ0NmNnZ1FMM2dpejU1YzRLaUxuTGtKUQ?oc=5",
       "fingerprint": "297fb85007f03e7aa933e91d177bb0f59bc42d4fe77f65d997622c8b3409e871",
       "title": "福井の建築工事業「木又建設」破産開始決定 - 47NEWS",
@@ -2800,6 +2779,27 @@
       "title": "土木技術者が生成AIでアプリ自作、現場管理や資料作成を効率化",
       "postedAt": "2026-10-21T00:00:02.322Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/"
+    },
+    {
+      "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5",
+      "fingerprint": "9d6693a6b62a83825bf4795ba6cb88634f3b64e657b9dc401441f8f82e4609d1",
+      "title": "企業評価の見せ方議論/経審など制度検証を本格化/国交省WG - 建設通信新聞Digital",
+      "postedAt": "2026-10-22T00:05:26.970Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
+      "fingerprint": "f631ec5c397f29c384b6e5319eddf2b33b67ebe2aa3b3b7da894c31dcae1f268",
+      "title": "1位は「『配筋をやり替えろ』建て主が抗議、基礎の鉄筋とスリーブ管の接触に要注意」",
+      "postedAt": "2026-10-22T00:05:26.970Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
+      "fingerprint": "562e80155f5fe31c42d06d5ee6d44d1baf8d6ab2a1d8ba11b5f28feb676e3f99",
+      "title": "首里城正殿の木工事は若手主体、「遠慮するな」と励まし続けた宮大工棟梁",
+      "postedAt": "2026-10-22T00:05:26.970Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/"
     }
   ]
 }

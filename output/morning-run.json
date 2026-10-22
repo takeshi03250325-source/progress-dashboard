@@ -1,22 +1,12 @@
 {
-  "generatedAt": "2026-10-21T00:00:02.332Z",
+  "generatedAt": "2026-10-22T00:05:26.979Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 3,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 2,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "建設業でもカスハラ対策を義務化、過剰な値引きや無償工事要求に備え",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
-      "pubDate": "2026-10-20T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "厚生労働省は改正労働施策総合推進法に基づき、企業に対してカスタマーハラスメント（カスハラ）対策を講じることを義務付けた。一般消費者を対象とする飲食業やサービス業に限らず、建設業も対象だ。発注者や取引先による不当な要求や言動から従業員を守るため、カスハラに対する方針を明確にして周知し、相談体制の整備をはじめとした対応を求める。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
-      "fingerprint": "fc3748e423643ee24f3f9a352cf08603a2f0e487c532ebb54a469c414a1aefd6"
-    },
-    {
       "title": "都立明治公園に込めたこだわり、8mの高低差を克服　設計者がポイント解説",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/",
       "pubDate": "2026-10-20T20:00:00.000Z",
@@ -27,207 +17,217 @@
       "fingerprint": "ad3968f233e78d73e8ca8b5f1dc18a94c5204455ca66b16fcdc6f0644f247a9c"
     },
     {
-      "title": "インフラの「マネジメント」へ戦略的転換、国交省が中間答申",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
-      "pubDate": "2026-10-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "国土交通省は、インフラマネジメントの方向性などについて専門家らの議論による中間答申をまとめた。老朽化対策を中心とした従来の「メンテナンス」から、インフラの分野横断や管理者の連携を強め、ライフサイクル全体を見据えて戦略的かつ統合的に管理する「マネジメント」への転換を打ち出した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02793/",
-      "fingerprint": "35f4064aef2ab8c3727c426d8c6e3ad7afca60502f7d860e109d5fb644f8ca1c"
-    },
-    {
-      "title": "「推進」は機動建設工業が首位返り咲き、下水道の更新需要高まり活況",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
-      "pubDate": "2026-10-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「推進」は機動建設工業が前年度の3位から首位に浮上。同社以外の上位企業も軒並み増収で、主に下水道の管路を構築する推進工事の需要は旺盛だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
-      "fingerprint": "890e693ce7063a61eb021e0608d8c1f2036534efccd8d33eed49de5d81ad4f81"
-    },
-    {
-      "title": "四足歩行ロボットが吊り足場内を自律歩行、オリエンタル白石と燈が開発",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
-      "pubDate": "2026-10-19T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "オリエンタル白石と東京大学発スタートアップの燈（あかり、東京・千代田）は、橋梁工事などで使う吊（つ）り足場内で、四足歩行ロボットの自律歩行に成功した。AI（人工知能）を活用し、ロボットが吊りチェーンなどの障害物や床の段差をリアルタイムで認識しながら、安全に通れるルートを自ら選んで歩行する。今後、監視カメラなどを搭載し、現場巡回などでの活用を見込む。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
-      "fingerprint": "efd6f17e881e6ee4021f4417ecb0bcaef00d2c39915d991af48c2bb954ec04e9"
-    },
-    {
-      "title": "土木技術者が生成AIでアプリ自作、現場管理や資料作成を効率化",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/",
-      "pubDate": "2026-10-19T17:04:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "広島市の地場建設会社、鴻治組ではプログラミング未経験の土木技術者が生成AI（人工知能）を活用してWebアプリを自作する。現場管理や書類作成などの業務効率化アプリを、半年で計11個開発した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/",
-      "fingerprint": "fa4b1a757811b759a6c67d6ec4416075e9e95732d080d9cfc3fa4d26618919c2"
-    },
-    {
-      "title": "都立明治公園に込めたこだわり、8mの高低差を克服　設計者がポイント解説",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/",
-      "pubDate": "2026-10-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "国立競技場の隣に広がる都立明治公園（MEIJI PARK）。設計を務めたID＆Eホールディングスの吉成主税氏と公園を回り、「土木と建築の融合」を目指したデザインのポイントに迫る。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/",
-      "fingerprint": "ad3968f233e78d73e8ca8b5f1dc18a94c5204455ca66b16fcdc6f0644f247a9c"
-    },
-    {
-      "title": "標準労務費、見積書の内訳明示は定着途上　AI漫画や動画で浸透図る元請け",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500003/",
-      "pubDate": "2026-10-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "改正建設業法の全面施行で運用が始まった「標準労務費」。日経アーキテクチュアの経営動向調査で、標準労務費に基づく新たな取引ルールへの対応状況を尋ねたところ、約8割が「十分」または「ある程度」対応できていると回答した。もっとも、協力会社を含めたサプライチェーン（供給網）全体に新たな商習慣を浸透させるには、もう少し時間がかかりそうだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03784/100500003/",
-      "fingerprint": "3b225905ed2dea7ed9e687879eee5e1829f72e9103c3a40d69fe523a802581a5"
-    },
-    {
       "title": "建設業でもカスハラ対策を義務化、過剰な値引きや無償工事要求に備え",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
       "pubDate": "2026-10-20T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
       "contentSnippet": "厚生労働省は改正労働施策総合推進法に基づき、企業に対してカスタマーハラスメント（カスハラ）対策を講じることを義務付けた。一般消費者を対象とする飲食業やサービス業に限らず、建設業も対象だ。発注者や取引先による不当な要求や言動から従業員を守るため、カスハラに対する方針を明確にして周知し、相談体制の整備をはじめとした対応を求める。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
       "fingerprint": "fc3748e423643ee24f3f9a352cf08603a2f0e487c532ebb54a469c414a1aefd6"
     },
     {
-      "title": "四足歩行ロボットが吊り足場内を自律歩行、オリエンタル白石と燈が開発",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
-      "pubDate": "2026-10-19T20:00:00.000Z",
+      "title": "企業評価の見せ方議論/経審など制度検証を本格化/国交省WG - 建設通信新聞Digital",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 19:55:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.41335125,
+      "contentSnippet": "企業評価の見せ方議論/経審など制度検証を本格化/国交省WG  建設通信新聞Digital",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5",
+      "fingerprint": "9d6693a6b62a83825bf4795ba6cb88634f3b64e657b9dc401441f8f82e4609d1"
+    },
+    {
+      "title": "1位は「『配筋をやり替えろ』建て主が抗議、基礎の鉄筋とスリーブ管の接触に要注意」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月22～28日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
+      "fingerprint": "f631ec5c397f29c384b6e5319eddf2b33b67ebe2aa3b3b7da894c31dcae1f268"
+    },
+    {
+      "title": "首里城正殿の木工事は若手主体、「遠慮するな」と励まし続けた宮大工棟梁",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "2026年11月に一般公開が始まる首里城（那覇市）の正殿は、伝統的な木造建造物として屈指の規模を誇る。「令和の復元」では、全国から集めた樹齢100年近い木材を、釘を使わない「貫（ぬき）工法」で組み上げた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
+      "fingerprint": "562e80155f5fe31c42d06d5ee6d44d1baf8d6ab2a1d8ba11b5f28feb676e3f99"
+    },
+    {
+      "title": "京急本線の連続立体交差事業が36年度完了に延期、事業費も大幅増　東京都",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00533/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "東京都が事業主体で進める京急本線の泉岳寺―新馬場間の連続立体交差事業について、完了時期が2029年度から36年度に延期することになった。高輪築堤などで埋蔵文化財の調査が長期化した他、品川駅周辺で進む他事業の進捗によって工事が集中するためだ。全体の事業費は前回評価した22年度から983億円、工事費は961億円の増額となった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00533/",
+      "fingerprint": "699fca2afc0e68e051db2b17e0d75ebcf66a9c8b36027b291bebe4759c89bbce"
+    },
+    {
+      "title": "「上下水道」は大林組が初の首位、クボタ建設が初登場2位　変わる顔ぶれ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400013/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「上下水道」は、大林組が前期比約2倍の約200億円で初めて首位を獲得した。変革期にある同分野では顔ぶれが大きく変わった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400013/",
+      "fingerprint": "ab2ffec458d64ce6809eaf1839e1b8457f0be792c84de12b0a9d122cb8695d9e"
+    },
+    {
+      "title": "現場監督の5割弱にうつ・不安障害の疑い、2割強がパワハラ経験",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02794/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "2026年版「過労死等防止対策白書」（過労死白書）で、建設業の労働者の中でも現場監督は特に精神的に厳しい状況に置かれていることが分かった。モニター調査の結果で、うつ・不安障害の疑いがあると回答した割合が5割弱、パワーハラスメントを経験した割合が2割強で、共に建設業の職種別で最も多かった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02794/",
+      "fingerprint": "1256a4c6bd6235d6a89a07d1fc38f5473e70e50a8ab20da54a4745a9b276074b"
+    },
+    {
+      "title": "施工計画、施工設備及び積算　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500075/",
+      "pubDate": "2026-10-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "2026年度の選択科目「施工計画、施工設備及び積算（施工計画）」は、建設発生土、改正建設業法、埋設物近接施工、暑中コンクリートという現場直結型の知識に加え、施工計画の見直し、外国人労働者、猛暑対策が出題されました。安全・品質・工程・原価・環境のトレードオフを、具体的な管理行動に落とし込む力が重視されています。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500075/",
+      "fingerprint": "57eb57efdfb0a09fbaeb68002eef98290278c29374664f1acf40c57f17f7e252"
+    },
+    {
+      "title": "「ダム」は大林組が2連覇、前田建設工業は2年連続減収でピークから半減",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400012/",
+      "pubDate": "2026-10-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「ダム」は大林組が2連覇を果たした。その前年に首位だった前田建設工業は2年連続の減収で、売上高は直近のピークの半分に落ち込んだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400012/",
+      "fingerprint": "26a4281ac58e8c16015583040bd56cd628ac1c5d2340b1dd3fd76b1554eb186f"
+    },
+    {
+      "title": "住人「もうだめかと」、千葉豪雨で地下水没のマンション　停電解消に2カ月",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02954/",
+      "pubDate": "2026-10-20T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "「3、2、1、点灯」。停電が続いていた共用部の照明が一斉にともると、住人から歓声が上がった。ここは、2026年8月13日の千葉豪雨で浸水した千葉県松戸市内のマンション「サンクタス新松戸ヴィレーヴ」だ。被災から約2カ月後の10月8日に仮設の電気設備工事が完了し、停電はようやく解消した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02954/",
+      "fingerprint": "4b70f333d48c70d23bb466f50cbb2c1ac5948900626c285564eadc2063cbb0d7"
+    },
+    {
+      "title": "1位は「『配筋をやり替えろ』建て主が抗議、基礎の鉄筋とスリーブ管の接触に要注意」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "オリエンタル白石と東京大学発スタートアップの燈（あかり、東京・千代田）は、橋梁工事などで使う吊（つ）り足場内で、四足歩行ロボットの自律歩行に成功した。AI（人工知能）を活用し、ロボットが吊りチェーンなどの障害物や床の段差をリアルタイムで認識しながら、安全に通れるルートを自ら選んで歩行する。今後、監視カメラなどを搭載し、現場巡回などでの活用を見込む。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02792/",
-      "fingerprint": "efd6f17e881e6ee4021f4417ecb0bcaef00d2c39915d991af48c2bb954ec04e9"
+      "score": 2,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月22～28日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
+      "fingerprint": "f631ec5c397f29c384b6e5319eddf2b33b67ebe2aa3b3b7da894c31dcae1f268"
     },
     {
-      "title": "「推進」は機動建設工業が首位返り咲き、下水道の更新需要高まり活況",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
-      "pubDate": "2026-10-19T20:00:00.000Z",
+      "title": "京急本線の連続立体交差事業が36年度完了に延期、事業費も大幅増　東京都",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00533/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「推進」は機動建設工業が前年度の3位から首位に浮上。同社以外の上位企業も軒並み増収で、主に下水道の管路を構築する推進工事の需要は旺盛だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400011/",
-      "fingerprint": "890e693ce7063a61eb021e0608d8c1f2036534efccd8d33eed49de5d81ad4f81"
+      "score": 2,
+      "contentSnippet": "東京都が事業主体で進める京急本線の泉岳寺―新馬場間の連続立体交差事業について、完了時期が2029年度から36年度に延期することになった。高輪築堤などで埋蔵文化財の調査が長期化した他、品川駅周辺で進む他事業の進捗によって工事が集中するためだ。全体の事業費は前回評価した22年度から983億円、工事費は961億円の増額となった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00533/",
+      "fingerprint": "699fca2afc0e68e051db2b17e0d75ebcf66a9c8b36027b291bebe4759c89bbce"
     },
     {
-      "title": "高知県の土木・建設会社トップ15社を紹介！〜 日本最後の清流と南海トラフ地震への対策がつくる防災最前線 - デジコン",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hZmlnYXVxQ0ZvTEtHQW5XUmE3S3B4U1MzbjNNM2NWS3ZlemxlZFZzaGtDWGhUeDdQemhRNVdZc3U1Ykp1ZUlGcGxJcUc2Z2JrT3dvZ1dR?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 06:56:22 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4132314438,
-      "contentSnippet": "高知県の土木・建設会社トップ15社を紹介！〜 日本最後の清流と南海トラフ地震への対策がつくる防災最前線  デジコン",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hZmlnYXVxQ0ZvTEtHQW5XUmE3S3B4U1MzbjNNM2NWS3ZlemxlZFZzaGtDWGhUeDdQemhRNVdZc3U1Ykp1ZUlGcGxJcUc2Z2JrT3dvZ1dR?oc=5",
-      "fingerprint": "927ded743d54546ada7dc16fe0b812eb94cb4f485963090160442d5c2a17ea91"
+      "title": "「上下水道」は大林組が初の首位、クボタ建設が初登場2位　変わる顔ぶれ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400013/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「上下水道」は、大林組が前期比約2倍の約200億円で初めて首位を獲得した。変革期にある同分野では顔ぶれが大きく変わった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400013/",
+      "fingerprint": "ab2ffec458d64ce6809eaf1839e1b8457f0be792c84de12b0a9d122cb8695d9e"
     },
     {
-      "title": "時価10円相当の貯金箱盗む 自称建設業の男（30）逮捕 「庭に見知らぬ男が入ってきた」と通報 周辺では空き家狙った窃盗被害も 鹿児島 | 鹿児島のニュース｜MBC NEWS｜南日本放送 (1ページ) - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNRkFHR0NLZkpLMzlua25sVzhXRmFSQXFSUUtBMVVCYWFiRFhzbWprQUJTczJTZXdQYUNhSmJUdkV0d1hOY0NRemF4aWw5enY2cnNKM3FEWlNjRVBxbUhLQnc2cVIyelU?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 13:16:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.413174184,
-      "contentSnippet": "時価10円相当の貯金箱盗む 自称建設業の男（30）逮捕 「庭に見知らぬ男が入ってきた」と通報 周辺では空き家狙った窃盗被害も 鹿児島 | 鹿児島のニュース｜MBC NEWS｜南日本放送 (1ページ)  TBS NEWS DIG",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNRkFHR0NLZkpLMzlua25sVzhXRmFSQXFSUUtBMVVCYWFiRFhzbWprQUJTczJTZXdQYUNhSmJUdkV0d1hOY0NRemF4aWw5enY2cnNKM3FEWlNjRVBxbUhLQnc2cVIyelU?oc=5",
-      "fingerprint": "b1cc543f9b2aaed5387c1ef9413bd05e9d81b496c484ce2bce1ad06dc5f1c1ea"
-    },
-    {
-      "title": "空き家に侵入し貯金箱を盗む…被害複数、関連を捜査 邸宅侵入と窃盗の疑いで自称建設業の30歳男を再逮捕（南日本新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xOXJJZnFVOGprLURDa1hXUGZwZXhQTmtjTFY0UEVQQy1fUTJ6Zy1kNU02TENwdFN3T0R5V2VRWERUbTY0VnRrRVBVTjZncEx2NlpMTDdFNkJHdy1BMEwybVlxU2xwNkRkUlhKTTVEWjhLd3hGbVBFcWF4b2E4SkE?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 10:35:24 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4131655116000004,
-      "contentSnippet": "空き家に侵入し貯金箱を盗む…被害複数、関連を捜査 邸宅侵入と窃盗の疑いで自称建設業の30歳男を再逮捕（南日本新聞）  Yahoo!ニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xOXJJZnFVOGprLURDa1hXUGZwZXhQTmtjTFY0UEVQQy1fUTJ6Zy1kNU02TENwdFN3T0R5V2VRWERUbTY0VnRrRVBVTjZncEx2NlpMTDdFNkJHdy1BMEwybVlxU2xwNkRkUlhKTTVEWjhLd3hGbVBFcWF4b2E4SkE?oc=5",
-      "fingerprint": "ee1bf52faabb7167bc005ad322fdf82bc5adedfe6e94c2532cb6eb543ab273e3"
-    },
-    {
-      "title": "国内初「森林ファンド」 1000億円投資、金融・商社・ゼネコンが連合 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWlA3R0RQaGE2Z0p6OGI4MUJxaHRjeHlZSVpNSmp0TW03M0lzTHh6M3Y4MEdtWVNrM3NuRG9ZdWE0dFJvUlNKY3ljS0h4SWtEZG83TmJPV3UyenY5ci1kYzN3dHBaRkN6cXRLOA?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 09:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.41316036,
-      "contentSnippet": "国内初「森林ファンド」 1000億円投資、金融・商社・ゼネコンが連合  日本経済新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWlA3R0RQaGE2Z0p6OGI4MUJxaHRjeHlZSVpNSmp0TW03M0lzTHh6M3Y4MEdtWVNrM3NuRG9ZdWE0dFJvUlNKY3ljS0h4SWtEZG83TmJPV3UyenY5ci1kYzN3dHBaRkN6cXRLOA?oc=5",
-      "fingerprint": "2279d7b8d4ffcbbf1cce200453414cc086f785663b11904b2a799845e3d88a05"
+      "title": "現場監督の5割弱にうつ・不安障害の疑い、2割強がパワハラ経験",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02794/",
+      "pubDate": "2026-10-21T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年版「過労死等防止対策白書」（過労死白書）で、建設業の労働者の中でも現場監督は特に精神的に厳しい状況に置かれていることが分かった。モニター調査の結果で、うつ・不安障害の疑いがあると回答した割合が5割弱、パワーハラスメントを経験した割合が2割強で、共に建設業の職種別で最も多かった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02794/",
+      "fingerprint": "1256a4c6bd6235d6a89a07d1fc38f5473e70e50a8ab20da54a4745a9b276074b"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "建設業でもカスハラ対策を義務化、過剰な値引きや無償工事要求に備え",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
-        "pubDate": "2026-10-20T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "厚生労働省は改正労働施策総合推進法に基づき、企業に対してカスタマーハラスメント（カスハラ）対策を講じることを義務付けた。一般消費者を対象とする飲食業やサービス業に限らず、建設業も対象だ。発注者や取引先による不当な要求や言動から従業員を守るため、カスハラに対する方針を明確にして周知し、相談体制の整備をはじめとした対応を求める。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
-        "fingerprint": "fc3748e423643ee24f3f9a352cf08603a2f0e487c532ebb54a469c414a1aefd6"
+        "title": "企業評価の見せ方議論/経審など制度検証を本格化/国交省WG - 建設通信新聞Digital",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5",
+        "pubDate": "Wed, 21 Oct 2026 19:55:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.41335125,
+        "contentSnippet": "企業評価の見せ方議論/経審など制度検証を本格化/国交省WG  建設通信新聞Digital",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5",
+        "fingerprint": "9d6693a6b62a83825bf4795ba6cb88634f3b64e657b9dc401441f8f82e4609d1"
       },
-      "xDraft": "【本文】\n厚生労働省が、改正労働施策総合推進法に基づき企業に対してカスタマーハラスメント（カスハラ）対策を講じることを義務付けました。サービス業だけでなく建設業も対象で、発注者や取引先からの不当な要求や言動から従業員を守るための相談体制の整備などが求められます。\n僕たちの業界では、過度な要求が「現場の努力」という言葉で片付けられてしまう場面も少なくありませんでした。今回の義務化を機に、個人の忍耐に頼るのではなく、組織として毅然と技術や誇りを守る文化がより深まることを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/\n\n【抜粋元】\n厚生労働省が企業に対しカスハラ対策を義務化したことを受け、建設業においても過剰な値引きや無償工事の要求といった不当な働きかけへの対応が必要になるという記事の内容に基づいています。\n\n【判定】OK",
+      "xDraft": "【本文】\n国土交通省のワーキンググループにて、経営事項審査（経審）などの企業評価制度を検証する議論が本格化しました。企業評価のあり方や、その見せ方をどう改善していくかが主な論点となっています。\n\n経審は建設業において非常に重みのある指標ですが、今の時代に即した評価の形を探ることは重要ですね。企業の強みがより多角的に、かつ正確に伝わるような制度へと進化していくことを期待しています。\n\n出典：企業評価の見せ方議論/経審など制度検証を本格化/国交省WG - 建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5\n\n【抜粋元】\n国土交通省のWGで経営事項審査などの企業評価制度の検証や「見せ方」の議論が始まったという記事を基に、制度の見直しについて触れました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "厚生労働省が企業に対しカスハラ対策を義務化したことを受け、建設業においても過剰な値引きや無償工事の要求といった不当な働きかけへの対応が必要になるという記事の内容に基づいています。",
+      "xDraftExcerptSummary": "国土交通省のWGで経営事項審査などの企業評価制度の検証や「見せ方」の議論が始まったという記事を基に、制度の見直しについて触れました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "都立明治公園に込めたこだわり、8mの高低差を克服　設計者がポイント解説",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/",
-        "pubDate": "2026-10-20T20:00:00.000Z",
+        "title": "1位は「『配筋をやり替えろ』建て主が抗議、基礎の鉄筋とスリーブ管の接触に要注意」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
+        "pubDate": "2026-10-21T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "国立競技場の隣に広がる都立明治公園（MEIJI PARK）。設計を務めたID＆Eホールディングスの吉成主税氏と公園を回り、「土木と建築の融合」を目指したデザインのポイントに迫る。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/",
-        "fingerprint": "ad3968f233e78d73e8ca8b5f1dc18a94c5204455ca66b16fcdc6f0644f247a9c"
+        "score": 2.4,
+        "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月22～28日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
+        "fingerprint": "f631ec5c397f29c384b6e5319eddf2b33b67ebe2aa3b3b7da894c31dcae1f268"
       },
-      "xDraft": "【本文】\n国立競技場の隣にある都立明治公園は、最大8mもの高低差を持つ敷地です。設計したID＆Eホールディングスの吉成主税氏は、土木的な基盤整備と建築デザインを融合させることで、この地形を克服したと語っています。\n僕はこの「土木と建築の融合」という言葉に、インフラとしての強さと居心地の良さの両立を感じてワクワクします。高低差があるからこそ生まれる独自の景観を、今度じっくり観察してみたいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03520/101900023/\n\n【抜粋元】\n都立明治公園（MEIJI PARK）の設計において、最大8mの高低差という地形的課題をいかに「土木と建築の融合」として解決したか、設計者の吉成主税氏がポイントを解説している記事です。\n\n【判定】OK",
+      "xDraft": "【本文】\n日経クロステックの週間記事ランキングで、基礎の鉄筋とスリーブ管の接触が原因となり、建て主から配筋のやり直しを求められた事例が1位になっています。\n施工現場での取り合いは常に難しい課題ですが、目に見える形での不備は、建て主の信頼を損なう大きな要因になり得ます。設計段階での検討と現場での丁寧な確認が、いかに重要であるかを僕も改めて考えさせられました。\n\n出典：日経クロステック 建築\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/\n\n【抜粋元】\n日経クロステック建築面の記事ランキングにおいて、1位となった「基礎の鉄筋とスリーブ管の接触によるトラブル」の要点に基づき、施工管理の重要性に触れて執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "都立明治公園（MEIJI PARK）の設計において、最大8mの高低差という地形的課題をいかに「土木と建築の融合」として解決したか、設計者の吉成主税氏がポイントを解説している記事です。",
+      "xDraftExcerptSummary": "日経クロステック建築面の記事ランキングにおいて、1位となった「基礎の鉄筋とスリーブ管の接触によるトラブル」の要点に基づき、施工管理の重要性に触れて執筆しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "土木技術者が生成AIでアプリ自作、現場管理や資料作成を効率化",
-        "link": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/",
-        "pubDate": "2026-10-19T17:04:00.000Z",
+        "title": "首里城正殿の木工事は若手主体、「遠慮するな」と励まし続けた宮大工棟梁",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
+        "pubDate": "2026-10-21T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "広島市の地場建設会社、鴻治組ではプログラミング未経験の土木技術者が生成AI（人工知能）を活用してWebアプリを自作する。現場管理や書類作成などの業務効率化アプリを、半年で計11個開発した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/",
-        "fingerprint": "fa4b1a757811b759a6c67d6ec4416075e9e95732d080d9cfc3fa4d26618919c2"
+        "score": 2.4,
+        "contentSnippet": "2026年11月に一般公開が始まる首里城（那覇市）の正殿は、伝統的な木造建造物として屈指の規模を誇る。「令和の復元」では、全国から集めた樹齢100年近い木材を、釘を使わない「貫（ぬき）工法」で組み上げた。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
+        "fingerprint": "562e80155f5fe31c42d06d5ee6d44d1baf8d6ab2a1d8ba11b5f28feb676e3f99"
       },
-      "xDraft": "【本文】\n広島市の地場建設会社である鴻治組にて、プログラミング未経験の土木技術者が生成AIを活用し、半年間で11個ものWebアプリを自作したそうです。現場管理や書類作成の効率化を目的としており、実務に即したツールをスピーディーに構築しています。\n\n現場の苦労を一番知っている技術者が、AIという道具を得て自ら解決策を形にする姿には大きな希望を感じます。外部任せにせず、自分たちの手で仕組みをアップデートしていく姿勢は、これからの建設産業において非常に重要になると僕は考えています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00272/100800004/\n\n【抜粋元】\n広島市の建設会社・鴻治組において、未経験の技術者が生成AIで半年間に11個の業務効率化アプリを自作したという事例に基づき、現場主導のDXの価値について記述しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n2026年11月に一般公開を控える首里城正殿の復元では、釘を使わない伝統的な「貫（ぬき）工法」が採用され、全国から集められた樹齢100年近い木材が組み上げられました。今回の木工事は、若手が主体となって進められたそうです。\n\n伝統技術を次世代へ繋ぐには、座学だけでなくこうした実戦の場こそが重要だと改めて感じます。大規模な復元現場で若手に実務を任せ、励まし続けた棟梁の覚悟と、それに応えた職人たちの熱意には頭が下がります。完成が今から待ち遠しいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/\n\n【抜粋元】\n首里城正殿の「令和の復元」において、樹齢100年の木材を貫工法で組み上げる難工事を若手主体で完遂させた背景に触れた記事です。2026年11月の一般公開に向けた進捗と、宮大工棟梁による技術継承のあり方が記されています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "広島市の建設会社・鴻治組において、未経験の技術者が生成AIで半年間に11個の業務効率化アプリを自作したという事例に基づき、現場主導のDXの価値について記述しました。",
+      "xDraftExcerptSummary": "首里城正殿の「令和の復元」において、樹齢100年の木材を貫工法で組み上げる難工事を若手主体で完遂させた背景に触れた記事です。2026年11月の一般公開に向けた進捗と、宮大工棟梁による技術継承のあり方が記されています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "建設業でもカスハラ対策を義務化、過剰な値引きや無償工事要求に備え",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
-    "pubDate": "2026-10-20T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "厚生労働省は改正労働施策総合推進法に基づき、企業に対してカスタマーハラスメント（カスハラ）対策を講じることを義務付けた。一般消費者を対象とする飲食業やサービス業に限らず、建設業も対象だ。発注者や取引先による不当な要求や言動から従業員を守るため、カスハラに対する方針を明確にして周知し、相談体制の整備をはじめとした対応を求める。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/",
-    "fingerprint": "fc3748e423643ee24f3f9a352cf08603a2f0e487c532ebb54a469c414a1aefd6"
+    "title": "企業評価の見せ方議論/経審など制度検証を本格化/国交省WG - 建設通信新聞Digital",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5",
+    "pubDate": "Wed, 21 Oct 2026 19:55:00 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 3.41335125,
+    "contentSnippet": "企業評価の見せ方議論/経審など制度検証を本格化/国交省WG  建設通信新聞Digital",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5",
+    "fingerprint": "9d6693a6b62a83825bf4795ba6cb88634f3b64e657b9dc401441f8f82e4609d1"
   },
-  "xDraft": "【本文】\n厚生労働省が、改正労働施策総合推進法に基づき企業に対してカスタマーハラスメント（カスハラ）対策を講じることを義務付けました。サービス業だけでなく建設業も対象で、発注者や取引先からの不当な要求や言動から従業員を守るための相談体制の整備などが求められます。\n僕たちの業界では、過度な要求が「現場の努力」という言葉で片付けられてしまう場面も少なくありませんでした。今回の義務化を機に、個人の忍耐に頼るのではなく、組織として毅然と技術や誇りを守る文化がより深まることを期待しています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02955/\n\n【抜粋元】\n厚生労働省が企業に対しカスハラ対策を義務化したことを受け、建設業においても過剰な値引きや無償工事の要求といった不当な働きかけへの対応が必要になるという記事の内容に基づいています。\n\n【判定】OK",
+  "xDraft": "【本文】\n国土交通省のワーキンググループにて、経営事項審査（経審）などの企業評価制度を検証する議論が本格化しました。企業評価のあり方や、その見せ方をどう改善していくかが主な論点となっています。\n\n経審は建設業において非常に重みのある指標ですが、今の時代に即した評価の形を探ることは重要ですね。企業の強みがより多角的に、かつ正確に伝わるような制度へと進化していくことを期待しています。\n\n出典：企業評価の見せ方議論/経審など制度検証を本格化/国交省WG - 建設通信新聞Digital\nhttps://news.google.com/rss/articles/CBMiUEFVX3lxTFBNend1T01Jbk1ubnlFT0pQOEd6V2M4a0hJLVY2R1c3QVdMdVZKOTRtVGVIalJtVnAtWmNlVE5QRi1CZUp0cUZsa3lOcmJsd3R5?oc=5\n\n【抜粋元】\n国土交通省のWGで経営事項審査などの企業評価制度の検証や「見せ方」の議論が始まったという記事を基に、制度の見直しについて触れました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "厚生労働省が企業に対しカスハラ対策を義務化したことを受け、建設業においても過剰な値引きや無償工事の要求といった不当な働きかけへの対応が必要になるという記事の内容に基づいています。",
+  "xDraftExcerptSummary": "国土交通省のWGで経営事項審査などの企業評価制度の検証や「見せ方」の議論が始まったという記事を基に、制度の見直しについて触れました。",
   "xDraftAlternates": [],
   "errors": []
 }
