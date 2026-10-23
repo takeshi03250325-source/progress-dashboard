@@ -1,20 +1,30 @@
 {
-  "generatedAt": "2026-10-23T00:03:31.752Z",
+  "generatedAt": "2026-10-23T23:54:36.517Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
+  "skippedDuplicates": 2,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "日本道路、土木・舗装の松岡建設を子会社化。三重・北勢地区へ事業拡大 - デジコン",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RmswdmtEeTRacWxHV1ZwOWJQUVItajZza3BHNGFzRVJaUEZnNUI1X2J4bGk0VkM3N0EyTDdtM1h2MjJZNDgyNF9TeHhISTY5OUtZ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 05:37:49 GMT",
+      "title": "大成建設・鹿島に120日間の営業停止処分、リニア談合で有罪確定を受け",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02804/",
+      "pubDate": "2026-10-23T07:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 7.199999999999999,
+      "contentSnippet": "リニア中央新幹線の建設工事を巡る談合事件で大成建設と鹿島の有罪判決が確定したことを受け、国土交通省は建設業法に基づき両社を2026年11月7日から120日間、民間土木工事を対象とした営業停止処分を下した。リニア談合を巡っては、東京地検特捜部が18年3月に両社を含む大手建設会社4社などを起訴。そのうち談合を認めた大林組と清水建設は18年に有罪が確定し、翌年に120日間の営業停止処分を受けている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02804/",
+      "fingerprint": "6f237d697ede2977573238f57315ccfd30f5bb179ead23b189eae02a2e701a26"
+    },
+    {
+      "title": "鹿島・大成建設、民間土木工事で120日間営業停止 リニア談合有罪で - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRG9ka1ZjOWtZc2o1TTk5WU1fRFJzWUFmZkFjV005dDh5S0l2RUREbnNKQnBtYkhpeTRDQlE2dl82VGcwN1pQaDZtZF9vay02QlYyNmlfalMtTEF1ZDkxY19Oa2VyWWN0a3JEYw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 08:12:03 GMT",
       "feedName": "Googleニュース 建設業",
-      "score": 3.4133049621000002,
-      "contentSnippet": "日本道路、土木・舗装の松岡建設を子会社化。三重・北勢地区へ事業拡大  デジコン",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RmswdmtEeTRacWxHV1ZwOWJQUVItajZza3BHNGFzRVJaUEZnNUI1X2J4bGk0VkM3N0EyTDdtM1h2MjJZNDgyNF9TeHhISTY5OUtZ?oc=5",
-      "fingerprint": "0f19a2db72a2e702907c7556c24d09baf4b44275ceefe8d2099c58c8a8ee80b0"
+      "score": 5.2134688107,
+      "contentSnippet": "鹿島・大成建設、民間土木工事で120日間営業停止 リニア談合有罪で  日本経済新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRG9ka1ZjOWtZc2o1TTk5WU1fRFJzWUFmZkFjV005dDh5S0l2RUREbnNKQnBtYkhpeTRDQlE2dl82VGcwN1pQaDZtZF9vay02QlYyNmlfalMtTEF1ZDkxY19Oa2VyWWN0a3JEYw?oc=5",
+      "fingerprint": "a0b6875caa4abe6b798ead4f4277e826bded5b71c8baa0092dfd345660d60f2a"
     },
     {
       "title": "「パラメトリック設計」実現へ、国総研が10社と共同研究　28年度まで",
@@ -47,56 +57,6 @@
       "fingerprint": "c0d0c74854db367da64d354d21d9e001b2ce6853520ba76fbfab5689c9568618"
     },
     {
-      "title": "1位は「『配筋をやり替えろ』建て主が抗議、基礎の鉄筋とスリーブ管の接触に要注意」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
-      "pubDate": "2026-10-21T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月22～28日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
-      "fingerprint": "f631ec5c397f29c384b6e5319eddf2b33b67ebe2aa3b3b7da894c31dcae1f268"
-    },
-    {
-      "title": "首里城正殿の木工事は若手主体、「遠慮するな」と励まし続けた宮大工棟梁",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
-      "pubDate": "2026-10-21T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "2026年11月に一般公開が始まる首里城（那覇市）の正殿は、伝統的な木造建造物として屈指の規模を誇る。「令和の復元」では、全国から集めた樹齢100年近い木材を、釘を使わない「貫（ぬき）工法」で組み上げた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
-      "fingerprint": "562e80155f5fe31c42d06d5ee6d44d1baf8d6ab2a1d8ba11b5f28feb676e3f99"
-    },
-    {
-      "title": "京急本線の連続立体交差事業が36年度完了に延期、事業費も大幅増　東京都",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00533/",
-      "pubDate": "2026-10-21T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "東京都が事業主体で進める京急本線の泉岳寺―新馬場間の連続立体交差事業について、完了時期が2029年度から36年度に延期することになった。高輪築堤などで埋蔵文化財の調査が長期化した他、品川駅周辺で進む他事業の進捗によって工事が集中するためだ。全体の事業費は前回評価した22年度から983億円、工事費は961億円の増額となった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00533/",
-      "fingerprint": "699fca2afc0e68e051db2b17e0d75ebcf66a9c8b36027b291bebe4759c89bbce"
-    },
-    {
-      "title": "「上下水道」は大林組が初の首位、クボタ建設が初登場2位　変わる顔ぶれ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400013/",
-      "pubDate": "2026-10-21T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「上下水道」は、大林組が前期比約2倍の約200億円で初めて首位を獲得した。変革期にある同分野では顔ぶれが大きく変わった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400013/",
-      "fingerprint": "ab2ffec458d64ce6809eaf1839e1b8457f0be792c84de12b0a9d122cb8695d9e"
-    },
-    {
-      "title": "現場監督の5割弱にうつ・不安障害の疑い、2割強がパワハラ経験",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02794/",
-      "pubDate": "2026-10-21T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "2026年版「過労死等防止対策白書」（過労死白書）で、建設業の労働者の中でも現場監督は特に精神的に厳しい状況に置かれていることが分かった。モニター調査の結果で、うつ・不安障害の疑いがあると回答した割合が5割弱、パワーハラスメントを経験した割合が2割強で、共に建設業の職種別で最も多かった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02794/",
-      "fingerprint": "1256a4c6bd6235d6a89a07d1fc38f5473e70e50a8ab20da54a4745a9b276074b"
-    },
-    {
       "title": "アクセンチュアが整備進める新職種「RDE」、育成現場を徹底リポート",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/102100024/",
       "pubDate": "2026-10-22T20:00:00.000Z",
@@ -127,107 +87,147 @@
       "fingerprint": "e92fd1ba257b66eeb28990a1a20b6a801f89cf29e08688a56a1531246273a32e"
     },
     {
-      "title": "1位は「『配筋をやり替えろ』建て主が抗議、基礎の鉄筋とスリーブ管の接触に要注意」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
-      "pubDate": "2026-10-21T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月19～25日に読まれた記事の1～10位を26年10月22～28日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500437/",
-      "fingerprint": "f631ec5c397f29c384b6e5319eddf2b33b67ebe2aa3b3b7da894c31dcae1f268"
+      "title": "韓国・鬱陵空港、開港2030年にずれ込む見通し…事業費は当初比83.7％増",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102300104/",
+      "pubDate": "2026-10-23T04:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "韓国・鬱陵島で進む鬱陵空港建設事業が、余剰土砂の処理や職員住宅の整備難航、開港の遅れなどに直面している。事業費は9000億ウォン（約1060億円）を超え、国会の国政監査でも問題となる見通しだ。国土交通省や鬱陵郡などによると、国会国土交通委員会は22日、韓国空港公社など空港関連機関への国政監査を実施し、23日には同省の総合監査を予定している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102300104/",
+      "fingerprint": "af23b2d1b2eaf363f3d5484289ae1ac6d294eaec66b19007fb674ab69a401d4f"
     },
     {
-      "title": "「上下水道」は大林組が初の首位、クボタ建設が初登場2位　変わる顔ぶれ",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400013/",
-      "pubDate": "2026-10-21T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "全国の主要な建設会社に2025年度決算のアンケートを実施。13の土木分野に関して、回答企業の売上高を基に、最大で上位25社までのランキングを作成した。「上下水道」は、大林組が前期比約2倍の約200億円で初めて首位を獲得した。変革期にある同分野では顔ぶれが大きく変わった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03771/092400013/",
-      "fingerprint": "ab2ffec458d64ce6809eaf1839e1b8457f0be792c84de12b0a9d122cb8695d9e"
+      "title": "建設環境　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500076/",
+      "pubDate": "2026-10-22T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "2026年度の選択科目「建設環境」は、順応的管理、樹木点検、外来植物、仮想的市場評価法（CVM）という環境分野の実務的な基礎知識と、都市の低炭素化、環境影響評価、生態系ネットワーク、循環経済が出題されました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500076/",
+      "fingerprint": "c5c037110b092ed958b1bd332a764885119d8c44daec07e965996bc4f8ef769b"
     },
     {
-      "title": "首里城正殿の木工事は若手主体、「遠慮するな」と励まし続けた宮大工棟梁",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
-      "pubDate": "2026-10-21T20:00:00.000Z",
+      "title": "2位は「溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ　部材作り直し再架設」60代以上の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500420/",
+      "pubDate": "2026-10-22T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年9月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ　部材作り直し再架設」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500420/",
+      "fingerprint": "1c73a15d29b91865ecf08e10170ffd585ef76ed92305740acee0483ba928d5db"
+    },
+    {
+      "title": "建設環境　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500076/",
+      "pubDate": "2026-10-22T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年11月に一般公開が始まる首里城（那覇市）の正殿は、伝統的な木造建造物として屈指の規模を誇る。「令和の復元」では、全国から集めた樹齢100年近い木材を、釘を使わない「貫（ぬき）工法」で組み上げた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/102000045/",
-      "fingerprint": "562e80155f5fe31c42d06d5ee6d44d1baf8d6ab2a1d8ba11b5f28feb676e3f99"
+      "score": 0,
+      "contentSnippet": "2026年度の選択科目「建設環境」は、順応的管理、樹木点検、外来植物、仮想的市場評価法（CVM）という環境分野の実務的な基礎知識と、都市の低炭素化、環境影響評価、生態系ネットワーク、循環経済が出題されました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00491/091500076/",
+      "fingerprint": "c5c037110b092ed958b1bd332a764885119d8c44daec07e965996bc4f8ef769b"
+    },
+    {
+      "title": "2位は「溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ　部材作り直し再架設」60代以上の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500420/",
+      "pubDate": "2026-10-22T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年9月、60代以上の会員が読んだ記事をランキング形式で紹介します。2位に「溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ　部材作り直し再架設」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/100500420/",
+      "fingerprint": "1c73a15d29b91865ecf08e10170ffd585ef76ed92305740acee0483ba928d5db"
+    },
+    {
+      "title": "薄いビニールから硬い金属線まで切断できる万能はさみ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01080/",
+      "pubDate": "2026-10-22T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "京都機械工具は、薄いビニールから硬い金属線まで切断できる3タイプの万能はさみ「ユーティリティシザーズ」を2026年9月に発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01080/",
+      "fingerprint": "6b829db1f992373e0fbf21ef3c5d6482463ef157d4899f475852118e1799268c"
+    },
+    {
+      "title": "校庭を広場に改修し地域に開放、廃校活用の先駆けをリニューアル",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03803/101900003/",
+      "pubDate": "2026-10-22T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "2025年7月にグランドオープンしたHOME/WORK VILLAGE（東京・世田谷）は、廃校活用の先駆けとして約18年使われた旧区立中学校を再び改修し、産業活性化拠点として刷新した。運営を開始して約1年。評価の時期を迎えたプロジェクトの現在を追った。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03803/101900003/",
+      "fingerprint": "ae3c834ef0fd96f729bebc5a37cf56fc69b775aeff51a27f6f22b8c67c9b4348"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "日本道路、土木・舗装の松岡建設を子会社化。三重・北勢地区へ事業拡大 - デジコン",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RmswdmtEeTRacWxHV1ZwOWJQUVItajZza3BHNGFzRVJaUEZnNUI1X2J4bGk0VkM3N0EyTDdtM1h2MjJZNDgyNF9TeHhISTY5OUtZ?oc=5",
-        "pubDate": "Wed, 21 Oct 2026 05:37:49 GMT",
+        "title": "大成建設・鹿島に120日間の営業停止処分、リニア談合で有罪確定を受け",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02804/",
+        "pubDate": "2026-10-23T07:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 7.199999999999999,
+        "contentSnippet": "リニア中央新幹線の建設工事を巡る談合事件で大成建設と鹿島の有罪判決が確定したことを受け、国土交通省は建設業法に基づき両社を2026年11月7日から120日間、民間土木工事を対象とした営業停止処分を下した。リニア談合を巡っては、東京地検特捜部が18年3月に両社を含む大手建設会社4社などを起訴。そのうち談合を認めた大林組と清水建設は18年に有罪が確定し、翌年に120日間の営業停止処分を受けている。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02804/",
+        "fingerprint": "6f237d697ede2977573238f57315ccfd30f5bb179ead23b189eae02a2e701a26"
+      },
+      "xDraft": "【本文】\nリニア中央新幹線の談合事件を巡り、大成建設と鹿島の有罪判決が確定したことを受けて、国土交通省は両社に120日間の営業停止処分を下しました。執行は2026年11月7日からで、対象は民間土木工事となります。\n\n2018年の起訴から長い年月を経て、先行して処分を終えた大林組や清水建設に続く形での決定となりました。業界を牽引する大手各社がこの厳しい処分を重く受け止め、どのように再発防止と信頼回復に努めていくのかを、僕も静かに見守りたいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02804/\n\n【抜粋元】\nリニア中央新幹線談合事件で有罪が確定した大成建設と鹿島に対し、国交省が建設業法に基づき2026年11月より120日間の民間土木営業停止処分を下した事実と、先行して処分を終えた他2社の経緯をまとめた記事。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "リニア中央新幹線談合事件で有罪が確定した大成建設と鹿島に対し、国交省が建設業法に基づき2026年11月より120日間の民間土木営業停止処分を下した事実と、先行して処分を終えた他2社の経緯をまとめた記事。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "鹿島・大成建設、民間土木工事で120日間営業停止 リニア談合有罪で - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRG9ka1ZjOWtZc2o1TTk5WU1fRFJzWUFmZkFjV005dDh5S0l2RUREbnNKQnBtYkhpeTRDQlE2dl82VGcwN1pQaDZtZF9vay02QlYyNmlfalMtTEF1ZDkxY19Oa2VyWWN0a3JEYw?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 08:12:03 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 3.4133049621000002,
-        "contentSnippet": "日本道路、土木・舗装の松岡建設を子会社化。三重・北勢地区へ事業拡大  デジコン",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RmswdmtEeTRacWxHV1ZwOWJQUVItajZza3BHNGFzRVJaUEZnNUI1X2J4bGk0VkM3N0EyTDdtM1h2MjJZNDgyNF9TeHhISTY5OUtZ?oc=5",
-        "fingerprint": "0f19a2db72a2e702907c7556c24d09baf4b44275ceefe8d2099c58c8a8ee80b0"
+        "score": 5.2134688107,
+        "contentSnippet": "鹿島・大成建設、民間土木工事で120日間営業停止 リニア談合有罪で  日本経済新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRG9ka1ZjOWtZc2o1TTk5WU1fRFJzWUFmZkFjV005dDh5S0l2RUREbnNKQnBtYkhpeTRDQlE2dl82VGcwN1pQaDZtZF9vay02QlYyNmlfalMtTEF1ZDkxY19Oa2VyWWN0a3JEYw?oc=5",
+        "fingerprint": "a0b6875caa4abe6b798ead4f4277e826bded5b71c8baa0092dfd345660d60f2a"
       },
-      "xDraft": "【本文】\n日本道路が、三重県を拠点とする松岡建設を子会社化したそうです。松岡建設は土木・舗装を強みとする企業で、今回の提携によって日本道路は三重・北勢地区での事業基盤をさらに強化する狙いがあります。\n\n大手による地域有力企業のグループ化という流れは、最近の建設業界を象徴しているように僕には見えます。北勢地区は中京圏に近く産業も盛んなため、インフラの維持管理において非常に重要な拠点になるはずです。地場の技術と大手のリソースが合わさり、現場がどう進化していくのか期待しています。\n\n出典：デジコン\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE04RmswdmtEeTRacWxHV1ZwOWJQUVItajZza3BHNGFzRVJaUEZnNUI1X2J4bGk0VkM3N0EyTDdtM1h2MjJZNDgyNF9TeHhISTY5OUtZ?oc=5\n\n【抜粋元】\n日本道路が松岡建設を子会社化し、三重・北勢地区への事業拡大を図るというデジコンの記事に基づいています。大手によるエリア戦略の観点から記述しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n鹿島建設と大成建設に対し、国土交通省から120日間の営業停止処分が下されました。リニア中央新幹線を巡る談合事件での有罪確定を受けたもので、対象は全国の民間土木工事となります。\n120日間という期間の長さは、業界全体にとっても非常に重いものだと感じます。過去の事案に対する法的なけじめではありますが、現在現場で汗を流している技術者の方々への影響が、少しでも小さく済むことを願うばかりです。\n\n出典：日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFBkRG9ka1ZjOWtZc2o1TTk5WU1fRFJzWUFmZkFjV005dDh5S0l2RUREbnNKQnBtYkhpeTRDQlE2dl82VGcwN1pQaDZtZF9vay02QlYyNmlfalMtTEF1ZDkxY19Oa2VyWWN0a3JEYw?oc=5\n\n【抜粋元】\n日本経済新聞の、国土交通省が鹿島建設と大成建設に対して120日間の営業停止処分を下したという記事です。リニア談合事件の有罪確定に伴う行政処分であることを踏まえて作成しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本道路が松岡建設を子会社化し、三重・北勢地区への事業拡大を図るというデジコンの記事に基づいています。大手によるエリア戦略の観点から記述しました。",
+      "xDraftExcerptSummary": "日本経済新聞の、国土交通省が鹿島建設と大成建設に対して120日間の営業停止処分を下したという記事です。リニア談合事件の有罪確定に伴う行政処分であることを踏まえて作成しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "「パラメトリック設計」実現へ、国総研が10社と共同研究　28年度まで",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02796/",
+        "title": "「怒り」で出馬した山本理顕氏の横浜市長選挙、住民自治を訴えるも落選",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02957/",
         "pubDate": "2026-10-22T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 2.4,
-        "contentSnippet": "国土交通省国土技術政策総合研究所（国総研）は、構造計算と3D（3次元）モデル作成のデータ連係を図る設計手法「パラメトリック設計」の実現に向け、民間企業10社と共同研究を始める。土木構造物の設計業務の効率化を目指し、異なるソフトウエア間でデータを連係するための機能要件などを検討する。研究期間は2028年度までだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02796/",
-        "fingerprint": "4ad64d150f08086819471caac9af41ee31a47e22aa0ba3c2aeeff248e41ee82d"
+        "contentSnippet": "建築家の山本理顕氏が突如、無所属で立候補を表明したことで建築界の注目を集めた横浜市長選挙の結果が出た。山本氏は住宅政策や観光振興の公約を掲げたが、得票数は7人の候補者中で最下位に終わり、落選した。世界的な建築家は何を実現することを目指したのか。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02957/",
+        "fingerprint": "c0d0c74854db367da64d354d21d9e001b2ce6853520ba76fbfab5689c9568618"
       },
-      "xDraft": "【本文】\n国総研が民間10社と共同で、土木構造物の「パラメトリック設計」実現に向けた研究を2028年度まで実施します。構造計算と3Dモデル作成のデータ連携をスムーズにし、設計業務の効率化を目指す取り組みです。\n\nパラメトリック設計が普及すれば、設計変更に伴うモデル修正や再計算といった手間が劇的に軽減されるはずです。異なるソフト間の連携という高い壁に対し、官民が足並みを揃えて共通の要件を検討していくプロセスに、設計現場の未来への期待が高まります。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02796/\n\n【抜粋元】\n国総研と民間10社が、構造計算と3Dモデルを連動させる「パラメトリック設計」の実現に向けて2028年度まで共同研究を行うという記事です。設計の効率化に不可欠なソフト間のデータ連携について、機能要件の検討が始まる点に注目しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n建築家の山本理顕氏が立候補した横浜市長選挙の結果、山本氏は7人中得票数最下位で落選しました。住宅政策や観光振興、そして「住民自治」を公約に掲げ、建築家としての知見を直接市政に届けようとした挑戦でした。\n世界で活躍する建築家が、既存の政治のあり方に一石を投じようとした試みには敬意を抱かずにはいられません。専門的な知見がいかにして市民の合意形成や実際の行政運営と調和できるのか、僕も現場に関わる一人として深く考えさせられる出来事でした。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02957/\n\n【抜粋元】\n建築家の山本理顕氏が横浜市長選に無所属で立候補し、最下位で落選した事実と、氏が掲げた住宅政策や住民自治といった公約の要点をまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国総研と民間10社が、構造計算と3Dモデルを連動させる「パラメトリック設計」の実現に向けて2028年度まで共同研究を行うという記事です。設計の効率化に不可欠なソフト間のデータ連携について、機能要件の検討が始まる点に注目しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "アクセンチュアが整備進める新職種「RDE」、育成現場を徹底リポート",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/102100024/",
-        "pubDate": "2026-10-22T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "アクセンチュアが変革に乗りだしている。鍵を握るのが、「RDE（Reinvention Deployed Engineer）」と呼ぶ新たな人材だ。AI時代にも価値を発揮するために重要と位置付けるRDE。育成現場を取材した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/102100024/",
-        "fingerprint": "7573036cfcecdf72b39a87a5288b590b1af383bc84855f76d91cc1b4d233cfb3"
-      },
-      "xDraft": "【本文】\nアクセンチュアが、AI時代に価値を発揮する新職種「RDE（Reinvention Deployed Engineer）」の育成に乗り出しています。事業の変革を現場に実装できる人材として定義し、その教育現場を徹底的にリポートした内容です。\n\nコンサルティングの領域でも、単なる戦略立案だけでなく「現場への実装」に重きを置く動きは注目に値します。建設やまちづくりの現場においても、新しい技術をどう社会に馴染ませ、変革を定着させていくかという視点は、ますます欠かせないものになりますね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03520/102100024/\n\n【抜粋元】\nアクセンチュアが提唱する新職種「RDE」の定義とその育成現場を詳報した記事。AI時代におけるエンジニアの役割が「実装」や「変革」にシフトしている点を踏まえて書きました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "アクセンチュアが提唱する新職種「RDE」の定義とその育成現場を詳報した記事。AI時代におけるエンジニアの役割が「実装」や「変革」にシフトしている点を踏まえて書きました。",
+      "xDraftExcerptSummary": "建築家の山本理顕氏が横浜市長選に無所属で立候補し、最下位で落選した事実と、氏が掲げた住宅政策や住民自治といった公約の要点をまとめました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "日本道路、土木・舗装の松岡建設を子会社化。三重・北勢地区へ事業拡大 - デジコン",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RmswdmtEeTRacWxHV1ZwOWJQUVItajZza3BHNGFzRVJaUEZnNUI1X2J4bGk0VkM3N0EyTDdtM1h2MjJZNDgyNF9TeHhISTY5OUtZ?oc=5",
-    "pubDate": "Wed, 21 Oct 2026 05:37:49 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 3.4133049621000002,
-    "contentSnippet": "日本道路、土木・舗装の松岡建設を子会社化。三重・北勢地区へ事業拡大  デジコン",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RmswdmtEeTRacWxHV1ZwOWJQUVItajZza3BHNGFzRVJaUEZnNUI1X2J4bGk0VkM3N0EyTDdtM1h2MjJZNDgyNF9TeHhISTY5OUtZ?oc=5",
-    "fingerprint": "0f19a2db72a2e702907c7556c24d09baf4b44275ceefe8d2099c58c8a8ee80b0"
+    "title": "大成建設・鹿島に120日間の営業停止処分、リニア談合で有罪確定を受け",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02804/",
+    "pubDate": "2026-10-23T07:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 7.199999999999999,
+    "contentSnippet": "リニア中央新幹線の建設工事を巡る談合事件で大成建設と鹿島の有罪判決が確定したことを受け、国土交通省は建設業法に基づき両社を2026年11月7日から120日間、民間土木工事を対象とした営業停止処分を下した。リニア談合を巡っては、東京地検特捜部が18年3月に両社を含む大手建設会社4社などを起訴。そのうち談合を認めた大林組と清水建設は18年に有罪が確定し、翌年に120日間の営業停止処分を受けている。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02804/",
+    "fingerprint": "6f237d697ede2977573238f57315ccfd30f5bb179ead23b189eae02a2e701a26"
   },
-  "xDraft": "【本文】\n日本道路が、三重県を拠点とする松岡建設を子会社化したそうです。松岡建設は土木・舗装を強みとする企業で、今回の提携によって日本道路は三重・北勢地区での事業基盤をさらに強化する狙いがあります。\n\n大手による地域有力企業のグループ化という流れは、最近の建設業界を象徴しているように僕には見えます。北勢地区は中京圏に近く産業も盛んなため、インフラの維持管理において非常に重要な拠点になるはずです。地場の技術と大手のリソースが合わさり、現場がどう進化していくのか期待しています。\n\n出典：デジコン\nhttps://news.google.com/rss/articles/CBMiU0FVX3lxTE04RmswdmtEeTRacWxHV1ZwOWJQUVItajZza3BHNGFzRVJaUEZnNUI1X2J4bGk0VkM3N0EyTDdtM1h2MjJZNDgyNF9TeHhISTY5OUtZ?oc=5\n\n【抜粋元】\n日本道路が松岡建設を子会社化し、三重・北勢地区への事業拡大を図るというデジコンの記事に基づいています。大手によるエリア戦略の観点から記述しました。\n\n【判定】OK",
+  "xDraft": "【本文】\nリニア中央新幹線の談合事件を巡り、大成建設と鹿島の有罪判決が確定したことを受けて、国土交通省は両社に120日間の営業停止処分を下しました。執行は2026年11月7日からで、対象は民間土木工事となります。\n\n2018年の起訴から長い年月を経て、先行して処分を終えた大林組や清水建設に続く形での決定となりました。業界を牽引する大手各社がこの厳しい処分を重く受け止め、どのように再発防止と信頼回復に努めていくのかを、僕も静かに見守りたいと思います。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02804/\n\n【抜粋元】\nリニア中央新幹線談合事件で有罪が確定した大成建設と鹿島に対し、国交省が建設業法に基づき2026年11月より120日間の民間土木営業停止処分を下した事実と、先行して処分を終えた他2社の経緯をまとめた記事。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日本道路が松岡建設を子会社化し、三重・北勢地区への事業拡大を図るというデジコンの記事に基づいています。大手によるエリア戦略の観点から記述しました。",
+  "xDraftExcerptSummary": "リニア中央新幹線談合事件で有罪が確定した大成建設と鹿島に対し、国交省が建設業法に基づき2026年11月より120日間の民間土木営業停止処分を下した事実と、先行して処分を終えた他2社の経緯をまとめた記事。",
   "xDraftAlternates": [],
   "errors": []
 }
