@@ -2,13 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjc0THJiUzQ3ai1JVExnNUhFSjMwZVZnZ2hKR3lhSEl3MndqMWhfMzRLV3IzNlBtMGtiT1BraGY4clExQWhFSHBzQ3pjeF9ERGJIQXlNVFFOa2l5R001aFFOdHNfXzNxZ21YZWxweVRydWtJMjhVY3NGSkFhOUxKNGRjeWxjSnpL?oc=5",
-      "fingerprint": "77c85083563d0f82f50edfa859998276ca52cbe1d364ec609c1ec6d980760380",
-      "title": "「私たちの声は届いていないのか」止まる工事現場、追いつめられる中小建設業者の切実な声【報道特集】 - Yahoo!ニュース",
-      "postedAt": "2026-05-23T22:13:39.693Z",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYjc0THJiUzQ3ai1JVExnNUhFSjMwZVZnZ2hKR3lhSEl3MndqMWhfMzRLV3IzNlBtMGtiT1BraGY4clExQWhFSHBzQ3pjeF9ERGJIQXlNVFFOa2l5R001aFFOdHNfXzNxZ21YZWxweVRydWtJMjhVY3NGSkFhOUxKNGRjeWxjSnpL?oc=5"
-    },
-    {
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02645/",
       "fingerprint": "321d4a608b410640e4225a1c98cf16ebdc022d44b44be4198b2793502c3ddebf",
       "title": "建機の自動運転、海外勢を「逆転する一手」　コマツとティアフォー",
@@ -2800,6 +2793,13 @@
       "title": "「怒り」で出馬した山本理顕氏の横浜市長選挙、住民自治を訴えるも落選",
       "postedAt": "2026-10-23T23:54:36.506Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02957/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102300104/",
+      "fingerprint": "af23b2d1b2eaf363f3d5484289ae1ac6d294eaec66b19007fb674ab69a401d4f",
+      "title": "韓国・鬱陵空港、開港2030年にずれ込む見通し…事業費は当初比83.7％増",
+      "postedAt": "2026-10-24T23:29:47.400Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102300104/"
     }
   ]
 }
