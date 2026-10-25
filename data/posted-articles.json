@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02645/",
-      "fingerprint": "321d4a608b410640e4225a1c98cf16ebdc022d44b44be4198b2793502c3ddebf",
-      "title": "建機の自動運転、海外勢を「逆転する一手」　コマツとティアフォー",
-      "postedAt": "2026-05-24T22:29:15.202Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02645/"
-    },
-    {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02645/",
-      "fingerprint": "321d4a608b410640e4225a1c98cf16ebdc022d44b44be4198b2793502c3ddebf",
-      "title": "建機の自動運転、海外勢を「逆転する一手」　コマツとティアフォー",
-      "postedAt": "2026-05-24T22:29:15.202Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02645/"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSmFIaG9xblYtTFBTSEdOR2tLYzNwV3I2ZXIwMDZ3LVNuU1V2QW1HblV5RktKWE5OLTV2RHQ0MjlNMXptUTBzczVuNTZEczhyUS1v?oc=5",
-      "fingerprint": "f7633618c1cbc0c8fb3da72f50fbda1fa24776757acd9abe7f8bff3901197ac1",
-      "title": "写真77枚で見る第3回「東京建築祭」メインの2日間、最注目の建設現場から明治のレンガ造建築まで - BUNGA NET",
-      "postedAt": "2026-05-24T22:29:15.202Z",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSmFIaG9xblYtTFBTSEdOR2tLYzNwV3I2ZXIwMDZ3LVNuU1V2QW1HblV5RktKWE5OLTV2RHQ0MjlNMXptUTBzczVuNTZEczhyUS1v?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yUUU2aWdXUTZNRm94R3N4VjZoaXlUVjZQYVhWUnlxMlR1dko3ZzVidnVxeUFGTHhuRkdhOWVMaFIweTVvZGkxTUpCZGNjRHNUUUlFOHlQNmhFcGRvVWdjamIyVEt5MzUyeDVpdg?oc=5",
       "fingerprint": "0f002886bcaed362a16c82d9c26721f58ebe0671f3e2147f0045375701f9a35c",
       "title": "AIファクトリー建設ラッシュという“美しき狂気” 見直すべき企業インフラ構築の優先順位：電力を制する者がAIを制す - ITmedia",
@@ -2800,6 +2779,27 @@
       "title": "韓国・鬱陵空港、開港2030年にずれ込む見通し…事業費は当初比83.7％増",
       "postedAt": "2026-10-24T23:29:47.400Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102300104/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500387/",
+      "fingerprint": "830762f0ea1f7501ee5ea431071d41677697f449b814561b0c2a35304658a156",
+      "title": "1位は「東北道の橋工事で通信線損傷、協議内容を周知せず　熊谷組など資格停止」",
+      "postedAt": "2026-10-25T23:24:57.723Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500387/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02801/",
+      "fingerprint": "5233de0bb80e3d158c8683da6af0cf631918107e854abcd44bb80008b72c1a6e",
+      "title": "最新船「アポロ18号」で海洋土木学ぶ高校生、受発注者の若手と船内で交流会",
+      "postedAt": "2026-10-25T23:24:57.723Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02801/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500387/",
+      "fingerprint": "830762f0ea1f7501ee5ea431071d41677697f449b814561b0c2a35304658a156",
+      "title": "1位は「東北道の橋工事で通信線損傷、協議内容を周知せず　熊谷組など資格停止」",
+      "postedAt": "2026-10-25T23:24:57.723Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500387/"
     }
   ]
 }
