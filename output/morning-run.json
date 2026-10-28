@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-27T00:39:23.786Z",
+  "generatedAt": "2026-10-28T00:37:30.898Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 3,
+  "skippedDuplicates": 1,
   "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
+    {
+      "title": "国交省／企業評価ＷＧで建設業団体が意見表明、地域貢献度など重点評価を - 日刊建設工業新聞",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 21:05:10 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 5.213821599,
+      "contentSnippet": "国交省／企業評価ＷＧで建設業団体が意見表明、地域貢献度など重点評価を  日刊建設工業新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5",
+      "fingerprint": "ba2a062b7129ad07e94cbddf3082b3076f73ef6efeb386ec98686f1959add1c4"
+    },
     {
       "title": "施工計画書を生成AIで、10分でたたき台作成　熟練技術者の暗黙知も継承",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900002/",
@@ -17,54 +27,14 @@
       "fingerprint": "f82478c00f415f2fc069b7cc62bb510d9b6589e21645b41f8e3894881805bb37"
     },
     {
-      "title": "1位は「東北道の橋工事で通信線損傷、協議内容を周知せず　熊谷組など資格停止」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500387/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月26日～11月1日に読まれた記事の1～10位を26年10月26日～11月1日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500387/",
-      "fingerprint": "830762f0ea1f7501ee5ea431071d41677697f449b814561b0c2a35304658a156"
-    },
-    {
-      "title": "最新船「アポロ18号」で海洋土木学ぶ高校生、受発注者の若手と船内で交流会",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02801/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "山口県下関市で浚渫（しゅんせつ）工事を手掛ける白海（しらかい、北九州市）は発注者である国土交通省九州地方整備局下関港湾事務所と共同で、自社が保有する巨大船「アポロ18号」の中で地元高校生向けの現場見学会を開催した。船内では受発注者の若手社員が一緒になって、就職などに関する質問に受け答えする交流会を実施した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02801/",
-      "fingerprint": "5233de0bb80e3d158c8683da6af0cf631918107e854abcd44bb80008b72c1a6e"
-    },
-    {
-      "title": "1位は「東北道の橋工事で通信線損傷、協議内容を周知せず　熊谷組など資格停止」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500387/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月26日～11月1日に読まれた記事の1～10位を26年10月26日～11月1日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/091500387/",
-      "fingerprint": "830762f0ea1f7501ee5ea431071d41677697f449b814561b0c2a35304658a156"
-    },
-    {
-      "title": "マンション修繕談合を受け国交省が検討会、管理組合の支援策を議論",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02960/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "国土交通省は、有識者による「マンション大規模修繕工事の発注等の適正化に関する検討会」（座長：松村秀一・神戸芸術工科大学学長）を設置した。公正取引委員会が設計コンサルタント会社と工事会社の独占禁止法違反（不当な取引制限）を認定したことを受けたものだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02960/",
-      "fingerprint": "eee623946e0d34fd6b217781dc6c0e3e441e034cc696ad11fc3cadc2af00229c"
-    },
-    {
-      "title": "27年4月に迫る設計・監理の「書面契約」義務化、設計業務の外注に注意",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02953/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "建築士が行う設計や工事監理について、全ての受託契約で書面の取り交わしを義務付ける改正建築士法の規定が、2027年4月1日に施行される。これまで除外されていた延べ面積300m2以下の建築物の新築なども対象に加わる。建築実務に詳しい匠総合法律事務所の秋野卓生弁護士は、住宅分野での設計業務の外注など、企業間取引への影響が大きいと指摘する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02953/",
-      "fingerprint": "441faa3b7b44a3f365ee954939130ba90120bbae9466bb7e0b780e372149c4a0"
+      "title": "国交省、越大学で日本の建設企業への就職説明会 - NNAアジア",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52ZTdTQ3R2TjQyS1NqcHdPT1RFYzZxcHp3QzhBMU1EQUJYeGlCWm9xWWo3OWpyR0ZmM1BYZVJmUTZudWZxMWc?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 15:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4138018800000003,
+      "contentSnippet": "国交省、越大学で日本の建設企業への就職説明会  NNAアジア",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52ZTdTQ3R2TjQyS1NqcHdPT1RFYzZxcHp3QzhBMU1EQUJYeGlCWm9xWWo3OWpyR0ZmM1BYZVJmUTZudWZxMWc?oc=5",
+      "fingerprint": "86e70b38af2046d285a2543dafaab366938ea6b13db93fe0119d6ef27a8ed5ab"
     },
     {
       "title": "日本交通インフラ建設市場：スマートハイウェイ事業、東海道新幹線の拡張、空港インフラ投資が日本の交通ネットワークを再編する - Excite エキサイト",
@@ -77,24 +47,74 @@
       "fingerprint": "194a73ff9af82f5a9677bd67c6d9ee2e0ef4a93fada9bab312cffb96b6bcef17"
     },
     {
-      "title": "建設現場の生成AI導入、中核業務で道半ば　国土交通省は活用に本腰",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900001/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
+      "title": "土質及び基礎　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500065/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "生成AI（人工知能）は普及や技術向上が進み、建設現場でも本格的な導入機運が高まる。国土交通省は積極的な活用に向けた方針を示し、環境整備を開始。一方、施工管理など現場の中核業務への導入は途上だ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900001/",
-      "fingerprint": "985c5f969da7a541fbb6a0b8ce3f980655f55946f48136779d6407fd4ac7d1a7"
+      "contentSnippet": "選択科目「土質及び基礎（土質基礎）」のIII―1は地震後の豪雨など複合災害に対する盛り土の安全確保、III―2は老朽地下インフラに起因する地盤空洞化・道路陥没の予防保全です。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500065/",
+      "fingerprint": "5b10d4a94ff95481d8310555b6ba2bcf6bde547ef74d74259462bcca5da4afdc"
     },
     {
-      "title": "高速光通信網でトンネル工事の施工管理を遠隔化　安藤ハザマとNTTなど",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02803/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
+      "title": "現場の危険示唆やKY活動の記録・評価、生成AIが安全管理をサポート",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900003/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "安藤ハザマとNTT、富士通グループの1FINITY（川崎市）は共同で、山岳トンネルの工事現場に光通信による高速・大容量ネットワークを構築し、壁面のひび割れ確認など遠隔施工管理の実証実験を行った。NTTの次世代通信基盤「IOWN（アイオン）」の中核技術であるAPNを活用し、従来は通信容量や遅延の制約から難しかった遠隔検査や大容量データの共有ができることを確認した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02803/",
-      "fingerprint": "30d97a3004cc86701d6c947e76217b28d8ba4290dae8a4cd27ee8c053e911488"
+      "contentSnippet": "施工現場の安全管理は、質の向上が最も求められる業務の一つだ。技術者の目や知見を生成AI（人工知能）でサポートする技術の導入が進む。日々の危険予知（KY）活動など安全対策の形骸化も防げる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900003/",
+      "fingerprint": "d153984fa18e29ea91e3d9428991ac2d0e77cf10e4b9cd10bd27e49d7bf18993"
+    },
+    {
+      "title": "橋の耐震補強で施工不良、兵庫県の8橋64カ所　ボルト穴を勝手に開け直し",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02805/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "兵庫県発注の橋の耐震補強工事で、施工者が落橋防止装置の鋼製受け台（ブラケット）に設けるボルト穴の位置を誤り、発注者に無断で穴を開け直していたことが分かった。問題が判明したのは8橋で、開け直していたボルト穴は計64カ所に及ぶ。誤って開けた穴は溶接などで塞いでいたものの、ブラケットが強度不足になった。県は耐震補強の施工者9社に対し、ブラケット付け替えなどの補修工事を命じる。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02805/",
+      "fingerprint": "25734d63bf83e1b8536fcc09a6f00ad641aba9a4a81ec6625e7915cd6eec1d75"
+    },
+    {
+      "title": "大阪城天守閣が国の重要文化財へ、SRC造「近代建築」の意匠など評価",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02963/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "国の文化審議会は、1931年に建設された鉄骨鉄筋コンクリート造の「大阪城天守閣」などの建築物を、国の重要文化財に指定するよう文部科学大臣に答申した。近代に再建された天守の評価が変わる転機になりそうだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02963/",
+      "fingerprint": "0059d69932e4188a8ebd152b3009d0a16ec1e4ffa8c51d0c38e0a1347ef5d97f"
+    },
+    {
+      "title": "土質及び基礎　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500065/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "選択科目「土質及び基礎（土質基礎）」のIII―1は地震後の豪雨など複合災害に対する盛り土の安全確保、III―2は老朽地下インフラに起因する地盤空洞化・道路陥没の予防保全です。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500065/",
+      "fingerprint": "5b10d4a94ff95481d8310555b6ba2bcf6bde547ef74d74259462bcca5da4afdc"
+    },
+    {
+      "title": "全国の60m超RC造煙突、約4割に損傷・劣化　熊本地震受け国交省が調査",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02962/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年熊本地震で八代工場の煙突が倒壊し9人が死亡した事故を受け、国土交通省は全国の発電所や工場などにある高さ60m超の鉄筋コンクリート（RC）造煙突を対象とする調査を実施した。こうした煙突は全国に444本存在し、うち180本で損傷・劣化が確認された。国は応急的な補修などを要請している。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02962/",
+      "fingerprint": "1de23561f24c8ce0acb7d4d7379c88e2e075adc415b6cde6de3c54a1752e571d"
+    },
+    {
+      "title": "大阪城天守閣が国の重要文化財へ、SRC造「近代建築」の意匠など評価",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02963/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "国の文化審議会は、1931年に建設された鉄骨鉄筋コンクリート造の「大阪城天守閣」などの建築物を、国の重要文化財に指定するよう文部科学大臣に答申した。近代に再建された天守の評価が変わる転機になりそうだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02963/",
+      "fingerprint": "0059d69932e4188a8ebd152b3009d0a16ec1e4ffa8c51d0c38e0a1347ef5d97f"
     },
     {
       "title": "韓国で相次ぐ「499戸・999戸」マンション…1戸の差で認証義務の対象外に",
@@ -117,117 +137,97 @@
       "fingerprint": "4f85fa02d6ab7d64cb27a1a82ea58cf6c9b32e7deac60a542d7aef1df5dae657"
     },
     {
-      "title": "NTT東日本や鹿島がコンソーシアム、光ファイバーで道路管理を高度化",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02797/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "NTT東日本と鹿島、応用地質、オリエンタルコンサルタンツ、三菱総合研究所の5社は共同で、「光ファイバセンシングの道路維持管理への活用モデル構築に向けたコンソーシアム」を設立した。定期的に点検や調査を行う必要がある道路の維持管理を高度化するため、光ファイバーによるセンシング技術を用いて管理者が実務で活用するための仕組みを構築する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02797/",
-      "fingerprint": "8a0f4620fa5b8508620606491f2ba5decd41bbb3db0c15aaa8edd484aadfa602"
-    },
-    {
-      "title": "韓国・富川の工場火災で8人死傷、70代の代表を立件…シンナー蒸気への引火を捜査",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102200102/",
-      "pubDate": "2026-10-25T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "韓国・京畿道富川市の金属部品塗装工場で消防隊員1人が死亡、7人が重軽傷を負った火災で、警察は工場代表の70代男性を業務上過失傷害と業務上失火の疑いで立件した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102200102/",
-      "fingerprint": "7749f027078a9e2c02b7ea5059ba37c95efb3e4792ed95962a795255746b13a5"
-    },
-    {
-      "title": "接着剤や釘を使わずに施工する床材",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01075/",
-      "pubDate": "2026-10-26T20:00:00.000Z",
+      "title": "テラゾー調の床に仕上げられる塗材",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01077/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 0,
-      "contentSnippet": "サンゲツは、接着剤や釘を使わずに施工する床材「ハイブリッドフローリング」の販売を2026年9月に開始した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01075/",
-      "fingerprint": "7c9b60a425b3a93662b4470db44c51bd756ec86d78c6912c7c5cd7f1240887fb"
+      "contentSnippet": "アイカ工業は、人造大理石（テラゾー）の意匠性と質感を再現した内装床面用の塗材「クライマテリア クランチアート フロア仕様」を2026年8月に発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01077/",
+      "fingerprint": "a1248f89d4e15e14b1908907137fdc9cc469e87fb10efc26e521f8ef0d0f8b7d"
     },
     {
-      "title": "韓国で相次ぐ「499戸・999戸」マンション…1戸の差で認証義務の対象外に",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102200103/",
-      "pubDate": "2026-10-26T20:00:00.000Z",
+      "title": "廃校は地域ニーズを受け止める空間資源、必要に応じて活用範囲を拡大",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03803/101900006/",
+      "pubDate": "2026-10-27T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 0,
-      "contentSnippet": "韓国で最近、500戸や1000戸に1戸だけ届かない、499戸・999戸規模のマンションの供給が相次いでいる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/102200103/",
-      "fingerprint": "c02a254869fbe777a32a206eab3f51c3120520ebb3118680a90f3910a7bdc89f"
+      "contentSnippet": "人口減少や施設の老朽化を背景に、公共施設の再編が進んでいる。公共施設マネジメントに詳しい名古屋大学大学院の小松尚教授は、廃校だけを切り離して考えるのではなく、地域に分散する機能の再配置と合わせて捉えることが重要だと指摘する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03803/101900006/",
+      "fingerprint": "722a755d597adbc2457ddd9896cc9366c135fdc2d345089899a24c9586e7a3c1"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "施工計画書を生成AIで、10分でたたき台作成　熟練技術者の暗黙知も継承",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900002/",
-        "pubDate": "2026-10-26T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "施工計画書は、工事を進める上でベースとなる重要な書類だ。その作成に生成AI（人工知能）を活用する狙いは業務効率化だけではない。熟練技術者の暗黙知を、誰もが活用できるよう見える形で引き出すことだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900002/",
-        "fingerprint": "f82478c00f415f2fc069b7cc62bb510d9b6589e21645b41f8e3894881805bb37"
+        "title": "国交省／企業評価ＷＧで建設業団体が意見表明、地域貢献度など重点評価を - 日刊建設工業新聞",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5",
+        "pubDate": "Tue, 27 Oct 2026 21:05:10 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 5.213821599,
+        "contentSnippet": "国交省／企業評価ＷＧで建設業団体が意見表明、地域貢献度など重点評価を  日刊建設工業新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5",
+        "fingerprint": "ba2a062b7129ad07e94cbddf3082b3076f73ef6efeb386ec98686f1959add1c4"
       },
-      "xDraft": "【本文】\n施工計画書の作成に生成AIが活用され、10分でたたき台を作成できるようになったと日経クロステック 土木にあります。業務効率化はもちろん、熟練技術者の暗黙知を見える形で引き出し、継承していくことが大きな狙いとのことです。\n\n僕が現場で感じてきた、熟練の方々の培ってきた知識や勘はまさに「宝」です。これまではなかなか言語化が難しかった部分にAIが光を当てることで、若手技術者もより深く学べる環境が生まれるかもしれません。これは、業界全体の底上げにつながる、素晴らしい取り組みだと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03804/101900002/\n\n【抜粋元】\n「施工計画書を生成AIで、10分でたたき台作成　熟練技術者の暗黙知も継承」という見出しの記事から、生成AIが施工計画書作成に導入され、業務効率化だけでなく熟練技術者の暗黙知の継承に貢献する点に着目して書きました。\n\n【判定】OK",
+      "xDraft": "【本文】\n国交省の企業評価ワーキンググループにて、建設業団体が地域貢献度の重点評価を求める意見を表明しました。災害対応や除雪といった実績を、企業の評価に重く反映させるよう求めています。\n地域のインフラを支える活動は、数値化しにくいですが非常に尊いものです。そこを評価する視点は、産業の持続性にとって極めて重要だと僕は思います。\n現場の地道な貢献が、制度として正当に報われる仕組みに育ってほしいですね。\n\n出典：日刊建設工業新聞\nhttps://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5\n\n【抜粋元】\n国土交通省の企業評価ワーキンググループにおいて、建設業団体が地域貢献活動の実績を評価に反映するよう求めたニュースです。地元の守り手としての役割をどう評価制度に組み込むかという論点に基づき執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-2.5-flash",
+      "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "「施工計画書を生成AIで、10分でたたき台作成　熟練技術者の暗黙知も継承」という見出しの記事から、生成AIが施工計画書作成に導入され、業務効率化だけでなく熟練技術者の暗黙知の継承に貢献する点に着目して書きました。",
+      "xDraftExcerptSummary": "国土交通省の企業評価ワーキンググループにおいて、建設業団体が地域貢献活動の実績を評価に反映するよう求めたニュースです。地元の守り手としての役割をどう評価制度に組み込むかという論点に基づき執筆しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "マンション修繕談合を受け国交省が検討会、管理組合の支援策を議論",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02960/",
-        "pubDate": "2026-10-25T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "国土交通省は、有識者による「マンション大規模修繕工事の発注等の適正化に関する検討会」（座長：松村秀一・神戸芸術工科大学学長）を設置した。公正取引委員会が設計コンサルタント会社と工事会社の独占禁止法違反（不当な取引制限）を認定したことを受けたものだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02960/",
-        "fingerprint": "eee623946e0d34fd6b217781dc6c0e3e441e034cc696ad11fc3cadc2af00229c"
+        "title": "国交省、越大学で日本の建設企業への就職説明会 - NNAアジア",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52ZTdTQ3R2TjQyS1NqcHdPT1RFYzZxcHp3QzhBMU1EQUJYeGlCWm9xWWo3OWpyR0ZmM1BYZVJmUTZudWZxMWc?oc=5",
+        "pubDate": "Tue, 27 Oct 2026 15:00:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.4138018800000003,
+        "contentSnippet": "国交省、越大学で日本の建設企業への就職説明会  NNAアジア",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52ZTdTQ3R2TjQyS1NqcHdPT1RFYzZxcHp3QzhBMU1EQUJYeGlCWm9xWWo3OWpyR0ZmM1BYZVJmUTZudWZxMWc?oc=5",
+        "fingerprint": "86e70b38af2046d285a2543dafaab366938ea6b13db93fe0119d6ef27a8ed5ab"
       },
-      "xDraft": "【本文】\n国土交通省は、マンション大規模修繕工事の発注を適正化するための有識者検討会を設置しました。これは、公正取引委員会が設計コンサルタント会社と施工会社による独占禁止法違反（不当な取引制限）を認定したことを受けた対応です。\n大切な修繕積立金が不透明な形で扱われることは、管理組合だけでなく建設産業への信頼も損なう切実な問題だと僕も感じています。専門知識の差を埋め、発注者が安心して修繕を任せられる環境が整うことを切に願っています。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02960/\n\n【抜粋元】\n国土交通省がマンション修繕工事の談合問題を受けて、発注適正化のための検討会を設置したというニュースです。公取委による不当な取引制限の認定が背景にある点を踏まえて作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n国土交通省がベトナムの大学で、日本の建設企業への就職説明会を開催しました。現地の学生に向けて、日本の建設産業の魅力や就職に関する情報を直接届ける取り組みです。\n\n深刻な担い手不足が続く中、海外の優秀な若者に日本の技術や現場を知ってもらう機会は非常に大切ですね。彼らの新しい力が、将来の日本のインフラや街づくりを共に支える仲間となってくれることを期待しています。\n\n出典：NNAアジア\nhttps://news.google.com/rss/articles/CBMiRkFVX3lxTE52ZTdTQ3R2TjQyS1NqcHdPT1RFYzZxcHp3QzhBMU1EQUJYeGlCWm9xWWo3OWpyR0ZmM1BYZVJmUTZudWZxMWc?oc=5\n\n【抜粋元】\nNNAアジアが報じた、ベトナムの大学における国交省主導の就職説明会のニュースです。官民が連携して海外人材の確保に動いている事実と、それに対する期待をまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国土交通省がマンション修繕工事の談合問題を受けて、発注適正化のための検討会を設置したというニュースです。公取委による不当な取引制限の認定が背景にある点を踏まえて作成しました。",
+      "xDraftExcerptSummary": "NNAアジアが報じた、ベトナムの大学における国交省主導の就職説明会のニュースです。官民が連携して海外人材の確保に動いている事実と、それに対する期待をまとめました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "27年4月に迫る設計・監理の「書面契約」義務化、設計業務の外注に注意",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02953/",
-        "pubDate": "2026-10-25T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "建築士が行う設計や工事監理について、全ての受託契約で書面の取り交わしを義務付ける改正建築士法の規定が、2027年4月1日に施行される。これまで除外されていた延べ面積300m2以下の建築物の新築なども対象に加わる。建築実務に詳しい匠総合法律事務所の秋野卓生弁護士は、住宅分野での設計業務の外注など、企業間取引への影響が大きいと指摘する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02953/",
-        "fingerprint": "441faa3b7b44a3f365ee954939130ba90120bbae9466bb7e0b780e372149c4a0"
+        "title": "日本交通インフラ建設市場：スマートハイウェイ事業、東海道新幹線の拡張、空港インフラ投資が日本の交通ネットワークを再編する - Excite エキサイト",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0d1U3TkJfdVhyQzR1QVJmNE5Hc3lja1ZNWVJMb1NCa1RNZ2l6NEhoaHBXQXNHOFlNTTZKc0dWNERDWTR3WjQwX2UydURDZzVVNFVaVGZFdll6dWdxLVFscDNjSUJ4dXRMRGc?oc=5",
+        "pubDate": "Mon, 26 Oct 2026 07:30:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.41369982,
+        "contentSnippet": "日本交通インフラ建設市場：スマートハイウェイ事業、東海道新幹線の拡張、空港インフラ投資が日本の交通ネットワークを再編する  Excite エキサイト",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0d1U3TkJfdVhyQzR1QVJmNE5Hc3lja1ZNWVJMb1NCa1RNZ2l6NEhoaHBXQXNHOFlNTTZKc0dWNERDWTR3WjQwX2UydURDZzVVNFVaVGZFdll6dWdxLVFscDNjSUJ4dXRMRGc?oc=5",
+        "fingerprint": "194a73ff9af82f5a9677bd67c6d9ee2e0ef4a93fada9bab312cffb96b6bcef17"
       },
-      "xDraft": "【本文】\n2027年4月から改正建築士法が施行され、設計や工事監理の契約における書面交付が全面的に義務化されます。これまで対象外だった延べ面積300平米以下の小規模建築も含まれることになり、住宅分野の実務に大きな影響を与えそうです。\n\n設計業務の外注など、これまで口頭やメールのやり取りで進めていたケースでも厳格な対応が求められます。実務の負担は増えますが、業務の責任範囲を明確にすることは、結果として設計者の立場を守ることにもつながるはずです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02953/\n\n【抜粋元】\n2027年4月施行の改正建築士法により、全ての設計・工事監理受託契約で書面取り交わしが義務化されることを伝える記事です。特に住宅分野の小規模建築や企業間の外注取引における注意点が示されています。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本の交通インフラ市場において、スマートハイウェイ事業や東海道新幹線の拡張、空港への投資がネットワークの再編を牽引しています。物流や移動の効率化を目的とした、次世代に向けた基盤整備が本格化しているようです。\n\n僕としては、これらの大規模な投資が既存の土木技術とデジタルをどう融合させていくのかに強い関心があります。ただ作るだけでなく、運用のスマート化が現場のあり方にどう浸透していくのか、その変化をしっかり追っていきたいですね。\n\n出典：Excite エキサイト\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFA0d1U3TkJfdVhyQzR1QVJmNE5Hc3lja1ZNWVJMb1NCa1RNZ2l6NEhoaHBXQXNHOFlNTTZKc0dWNERDWTR3WjQwX2UydURDZzVVNFVaVGZFdll6dWdxLVFscDNjSUJ4dXRMRGc?oc=5\n\n【抜粋元】\nスマートハイウェイ、東海道新幹線の拡張、空港インフラ投資という3つの柱が日本の交通網を再編し、建設市場にどのような影響を与えるかを伝える記事に基づいています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "2027年4月施行の改正建築士法により、全ての設計・工事監理受託契約で書面取り交わしが義務化されることを伝える記事です。特に住宅分野の小規模建築や企業間の外注取引における注意点が示されています。",
+      "xDraftExcerptSummary": "スマートハイウェイ、東海道新幹線の拡張、空港インフラ投資という3つの柱が日本の交通網を再編し、建設市場にどのような影響を与えるかを伝える記事に基づいています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "施工計画書を生成AIで、10分でたたき台作成　熟練技術者の暗黙知も継承",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900002/",
-    "pubDate": "2026-10-26T20:00:00.000Z",
-    "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "施工計画書は、工事を進める上でベースとなる重要な書類だ。その作成に生成AI（人工知能）を活用する狙いは業務効率化だけではない。熟練技術者の暗黙知を、誰もが活用できるよう見える形で引き出すことだ。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900002/",
-    "fingerprint": "f82478c00f415f2fc069b7cc62bb510d9b6589e21645b41f8e3894881805bb37"
+    "title": "国交省／企業評価ＷＧで建設業団体が意見表明、地域貢献度など重点評価を - 日刊建設工業新聞",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5",
+    "pubDate": "Tue, 27 Oct 2026 21:05:10 GMT",
+    "feedName": "Googleニュース 建設業",
+    "score": 5.213821599,
+    "contentSnippet": "国交省／企業評価ＷＧで建設業団体が意見表明、地域貢献度など重点評価を  日刊建設工業新聞",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5",
+    "fingerprint": "ba2a062b7129ad07e94cbddf3082b3076f73ef6efeb386ec98686f1959add1c4"
   },
-  "xDraft": "【本文】\n施工計画書の作成に生成AIが活用され、10分でたたき台を作成できるようになったと日経クロステック 土木にあります。業務効率化はもちろん、熟練技術者の暗黙知を見える形で引き出し、継承していくことが大きな狙いとのことです。\n\n僕が現場で感じてきた、熟練の方々の培ってきた知識や勘はまさに「宝」です。これまではなかなか言語化が難しかった部分にAIが光を当てることで、若手技術者もより深く学べる環境が生まれるかもしれません。これは、業界全体の底上げにつながる、素晴らしい取り組みだと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03804/101900002/\n\n【抜粋元】\n「施工計画書を生成AIで、10分でたたき台作成　熟練技術者の暗黙知も継承」という見出しの記事から、生成AIが施工計画書作成に導入され、業務効率化だけでなく熟練技術者の暗黙知の継承に貢献する点に着目して書きました。\n\n【判定】OK",
+  "xDraft": "【本文】\n国交省の企業評価ワーキンググループにて、建設業団体が地域貢献度の重点評価を求める意見を表明しました。災害対応や除雪といった実績を、企業の評価に重く反映させるよう求めています。\n地域のインフラを支える活動は、数値化しにくいですが非常に尊いものです。そこを評価する視点は、産業の持続性にとって極めて重要だと僕は思います。\n現場の地道な貢献が、制度として正当に報われる仕組みに育ってほしいですね。\n\n出典：日刊建設工業新聞\nhttps://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5\n\n【抜粋元】\n国土交通省の企業評価ワーキンググループにおいて、建設業団体が地域貢献活動の実績を評価に反映するよう求めたニュースです。地元の守り手としての役割をどう評価制度に組み込むかという論点に基づき執筆しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
-  "xDraftModel": "models/gemini-2.5-flash",
+  "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "「施工計画書を生成AIで、10分でたたき台作成　熟練技術者の暗黙知も継承」という見出しの記事から、生成AIが施工計画書作成に導入され、業務効率化だけでなく熟練技術者の暗黙知の継承に貢献する点に着目して書きました。",
+  "xDraftExcerptSummary": "国土交通省の企業評価ワーキンググループにおいて、建設業団体が地域貢献活動の実績を評価に反映するよう求めたニュースです。地元の守り手としての役割をどう評価制度に組み込むかという論点に基づき執筆しました。",
   "xDraftAlternates": [],
   "errors": []
 }
