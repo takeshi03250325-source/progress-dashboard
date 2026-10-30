@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-29T01:07:12.735Z",
+  "generatedAt": "2026-10-30T01:12:43.774Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 1,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 3,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "国交省／企業評価ＷＧで建設業団体が意見表明、地域貢献度など重点評価を - 日刊建設工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 21:05:10 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.213821599,
-      "contentSnippet": "国交省／企業評価ＷＧで建設業団体が意見表明、地域貢献度など重点評価を  日刊建設工業新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82VGxPNXBVSlNhY0ZoVjQ5TGpVZXRrSC13YWRtazBuNFYtX1NmU1hzLXRIMGNBeDB6eTQ3cTNnQ3p5NmRlSm1n?oc=5",
-      "fingerprint": "ba2a062b7129ad07e94cbddf3082b3076f73ef6efeb386ec98686f1959add1c4"
+      "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 4.8,
+      "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+      "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
     },
     {
       "title": "自作アプリで事務作業を8割削減、地方建設会社の土木技術者が生成AIで開発",
@@ -25,6 +25,16 @@
       "contentSnippet": "広島市の地場建設会社、鴻治組ではプログラミング未経験の土木技術者が生成AI（人工知能）を活用してWebアプリを自作する。現場管理や書類作成などの業務効率化アプリを、半年で計11個開発した。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/",
       "fingerprint": "df20f417d219e2f2d81e9bdc289c83304ba387ef1e00112f628885303e868fd2"
+    },
+    {
+      "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+      "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
     },
     {
       "title": "隈研吾氏が考える日本の建築費が高い理由 「土建国家」が抱える構造的課題 - 日経ビジネス電子版",
@@ -47,6 +57,26 @@
       "fingerprint": "4ccf08c97aaa52aa23956e553dc0ea5d2c8c4f71bca8046b64b97d90dff1c7cd"
     },
     {
+      "title": "現場を省力化する生成AI活用術、書類読解や資料作成のノウハウ4選",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "施工計画の作成など高度な業務へ生成AI（人工知能）をいきなり活用するのはハードルが高い。資料の整理や安全管理、若手教育など身近な業務の省力化から試すのが手だ。今日から実践できる活用例を伝授する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/",
+      "fingerprint": "72416ff89f09958dc0d7c4a02b7c963a7bd432b43ff63af249e0c9be6a0529da"
+    },
+    {
+      "title": "マンション工事停止の仮命令を取り消し　高裁決定、盛土規制法違反は認定",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "東京都渋谷区で進むマンション建設工事を巡り、旧擁壁を解体すると土砂崩れが起こる恐れがあるとして周辺住民が渋谷区に工事停止命令を求めた行政訴訟の抗告審。東京高等裁判所は、区による事業者への工事停止を仮に義務付けた一審の決定を取り消した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+      "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f"
+    },
+    {
       "title": "1位は「1万5000冊の漫画を中核に、スロープで回遊できる新図書館」",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500438/",
       "pubDate": "2026-10-28T20:00:00.000Z",
@@ -67,44 +97,14 @@
       "fingerprint": "ec02e2931fb5fef417ec45bf66a10afd0e214d52fcc1868a70fceb918bc5aec8"
     },
     {
-      "title": "土質及び基礎　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500065/",
-      "pubDate": "2026-10-27T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "選択科目「土質及び基礎（土質基礎）」のIII―1は地震後の豪雨など複合災害に対する盛り土の安全確保、III―2は老朽地下インフラに起因する地盤空洞化・道路陥没の予防保全です。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500065/",
-      "fingerprint": "5b10d4a94ff95481d8310555b6ba2bcf6bde547ef74d74259462bcca5da4afdc"
-    },
-    {
-      "title": "現場の危険示唆やKY活動の記録・評価、生成AIが安全管理をサポート",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900003/",
-      "pubDate": "2026-10-27T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "施工現場の安全管理は、質の向上が最も求められる業務の一つだ。技術者の目や知見を生成AI（人工知能）でサポートする技術の導入が進む。日々の危険予知（KY）活動など安全対策の形骸化も防げる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900003/",
-      "fingerprint": "d153984fa18e29ea91e3d9428991ac2d0e77cf10e4b9cd10bd27e49d7bf18993"
-    },
-    {
-      "title": "橋の耐震補強で施工不良、兵庫県の8橋64カ所　ボルト穴を勝手に開け直し",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02805/",
-      "pubDate": "2026-10-27T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "兵庫県発注の橋の耐震補強工事で、施工者が落橋防止装置の鋼製受け台（ブラケット）に設けるボルト穴の位置を誤り、発注者に無断で穴を開け直していたことが分かった。問題が判明したのは8橋で、開け直していたボルト穴は計64カ所に及ぶ。誤って開けた穴は溶接などで塞いでいたものの、ブラケットが強度不足になった。県は耐震補強の施工者9社に対し、ブラケット付け替えなどの補修工事を命じる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02805/",
-      "fingerprint": "25734d63bf83e1b8536fcc09a6f00ad641aba9a4a81ec6625e7915cd6eec1d75"
-    },
-    {
-      "title": "大阪城天守閣が国の重要文化財へ、SRC造「近代建築」の意匠など評価",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02963/",
-      "pubDate": "2026-10-27T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "国の文化審議会は、1931年に建設された鉄骨鉄筋コンクリート造の「大阪城天守閣」などの建築物を、国の重要文化財に指定するよう文部科学大臣に答申した。近代に再建された天守の評価が変わる転機になりそうだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02963/",
-      "fingerprint": "0059d69932e4188a8ebd152b3009d0a16ec1e4ffa8c51d0c38e0a1347ef5d97f"
+      "title": "マンション工事停止の仮命令を取り消し　高裁決定、盛土規制法違反は認定",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "東京都渋谷区で進むマンション建設工事を巡り、旧擁壁を解体すると土砂崩れが起こる恐れがあるとして周辺住民が渋谷区に工事停止命令を求めた行政訴訟の抗告審。東京高等裁判所は、区による事業者への工事停止を仮に義務付けた一審の決定を取り消した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+      "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f"
     },
     {
       "title": "1位は「1万5000冊の漫画を中核に、スロープで回遊できる新図書館」",
@@ -137,97 +137,97 @@
       "fingerprint": "dc248b8a284bad7fa9aa3928b8b1b4a57f9389f87cfec2d864f95b590e4085c3"
     },
     {
-      "title": "土質及び基礎　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500065/",
-      "pubDate": "2026-10-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "選択科目「土質及び基礎（土質基礎）」のIII―1は地震後の豪雨など複合災害に対する盛り土の安全確保、III―2は老朽地下インフラに起因する地盤空洞化・道路陥没の予防保全です。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500065/",
-      "fingerprint": "5b10d4a94ff95481d8310555b6ba2bcf6bde547ef74d74259462bcca5da4afdc"
+      "title": "Autodesk選出の次世代リーダー、日本は清水建設の櫻井氏 - 建設通信新聞Digital",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1Q2Z2ZGpNbTk3S09vLUxMejQ2dGFuMlRQMVl4VlR3dGJ4SEpMOWh2bjFpMXdfNFRwOGNSMWV5bWJGZllhMTJoYmp2MzN2a2dqVWpuQURB?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 00:31:55 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6139882835000001,
+      "contentSnippet": "Autodesk選出の次世代リーダー、日本は清水建設の櫻井氏  建設通信新聞Digital",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1Q2Z2ZGpNbTk3S09vLUxMejQ2dGFuMlRQMVl4VlR3dGJ4SEpMOWh2bjFpMXdfNFRwOGNSMWV5bWJGZllhMTJoYmp2MzN2a2dqVWpuQURB?oc=5",
+      "fingerprint": "3aaf7f010294d225075a4c382f2b502fa9f66a0529da871defe6ae52ac3b40e9"
     },
     {
-      "title": "全国の60m超RC造煙突、約4割に損傷・劣化　熊本地震受け国交省が調査",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02962/",
-      "pubDate": "2026-10-27T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "2026年熊本地震で八代工場の煙突が倒壊し9人が死亡した事故を受け、国土交通省は全国の発電所や工場などにある高さ60m超の鉄筋コンクリート（RC）造煙突を対象とする調査を実施した。こうした煙突は全国に444本存在し、うち180本で損傷・劣化が確認された。国は応急的な補修などを要請している。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02962/",
-      "fingerprint": "1de23561f24c8ce0acb7d4d7379c88e2e075adc415b6cde6de3c54a1752e571d"
+      "title": "円安と人材不足が日本建設市場を再定義 投資主体の変化が鮮明に、データセンター・半導体関連投資は引き続き拡大 - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 02:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.61391528,
+      "contentSnippet": "円安と人材不足が日本建設市場を再定義 投資主体の変化が鮮明に、データセンター・半導体関連投資は引き続き拡大  Newscast.jp",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5",
+      "fingerprint": "dcdcc2ad3e31eeed4249e2283351813fe03dc7cf8a956dcfa80c81aa387b065a"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "自作アプリで事務作業を8割削減、地方建設会社の土木技術者が生成AIで開発",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/",
-        "pubDate": "2026-10-28T20:00:00.000Z",
+        "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+        "pubDate": "2026-10-29T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 4.8,
-        "contentSnippet": "広島市の地場建設会社、鴻治組ではプログラミング未経験の土木技術者が生成AI（人工知能）を活用してWebアプリを自作する。現場管理や書類作成などの業務効率化アプリを、半年で計11個開発した。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/",
-        "fingerprint": "df20f417d219e2f2d81e9bdc289c83304ba387ef1e00112f628885303e868fd2"
+        "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+        "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
       },
-      "xDraft": "【本文】\n広島市の地場建設会社である鴻治組にて、プログラミング未経験の土木技術者が生成AIを活用し、半年で11個もの業務効率化アプリを自作したそうです。現場管理や書類作成などの事務作業を8割削減するという、非常に大きな成果を上げています。\n\n現場の課題を最もよく知る技術者自身が、AIを道具として使いこなし、自力で解決策を形にする姿は素晴らしいですね。外部に頼り切るのではなく、現場の熱量で仕組みをアップデートしていくこうした取り組みは、これからの地域建設業におけるDXの理想的な形の一つだと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/\n\n【抜粋元】\n広島市の建設会社、鴻治組の未経験技術者が生成AIでアプリを11個自作し、事務作業を8割削減したという日経クロステック 土木の記事を参照しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n現場で生成AIを活用する監督が、ツールとしての利用を強く勧めつつも「脳みそ代わりに使っちゃ駄目だ」と語っています。日経クロステックの特集記事で、効率化と思考の維持の両立について論じられたものです。\n便利な道具が増えるほど、最後に現場で何を選択するかという人間の判断の重みが増していく気がします。僕も、AIに頼り切るのではなく、自分自身の技術力や思考力を磨くための助けとして向き合っていきたいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/\n\n【抜粋元】\n日経クロステックの特集「現場監督と生成AI」の記事から。施工現場でAIを使いこなす監督が、若手に向けて「活用はすべきだが、自分で考えるのをやめてはいけない」と説いたエピソードを元にしています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "広島市の建設会社、鴻治組の未経験技術者が生成AIでアプリを11個自作し、事務作業を8割削減したという日経クロステック 土木の記事を参照しました。",
+      "xDraftExcerptSummary": "日経クロステックの特集「現場監督と生成AI」の記事から。施工現場でAIを使いこなす監督が、若手に向けて「活用はすべきだが、自分で考えるのをやめてはいけない」と説いたエピソードを元にしています。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "隈研吾氏が考える日本の建築費が高い理由 「土建国家」が抱える構造的課題 - 日経ビジネス電子版",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzA2SXhxdUNkOUs1WnkxUnR1OHhaRkVLUHFPd01GUHoyMW9pTHlzcHhVaGhXVzZibXZPaUxhdVA0XzQ4Y3E5UFpQT3FfaUJUYzBUVkRlck1handIYlZ2c2Q2NnVwWTg?oc=5",
-        "pubDate": "Wed, 28 Oct 2026 20:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4138958400000003,
-        "contentSnippet": "隈研吾氏が考える日本の建築費が高い理由 「土建国家」が抱える構造的課題  日経ビジネス電子版",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzA2SXhxdUNkOUs1WnkxUnR1OHhaRkVLUHFPd01GUHoyMW9pTHlzcHhVaGhXVzZibXZPaUxhdVA0XzQ4Y3E5UFpQT3FfaUJUYzBUVkRlck1handIYlZ2c2Q2NnVwWTg?oc=5",
-        "fingerprint": "737374c78587b3a0f59cd2b996ee4b77f54f345368e0eb261f6da2b69057bbac"
+        "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+        "pubDate": "2026-10-29T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+        "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
       },
-      "xDraft": "【本文】\n隈研吾氏が、日本の建築費が高騰している背景について構造的な課題を指摘しています。かつての「土建国家」としての仕組みが、現在のコストにどう影響しているかという論点です。\n僕たちが関わる現場のあり方が、大きな歴史の流れの中でどう位置づけられているのか興味深く感じました。産業の持続可能性を考える上でも、非常に重要な視点だと思います。\n\n出典：日経ビジネス電子版\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzA2SXhxdUNkOUs1WnkxUnR1OHhaRkVLUHFPd01GUHoyMW9pTHlzcHhVaGhXVzZibXZPaUxhdVA0XzQ4Y3E5UFpQT3FfaUJUYzBUVkRlck1handIYlZ2c2Q2NnVwWTg?oc=5\n\n【抜粋元】\n建築家の隈研吾氏が、日本の建築コストが高い理由を構造的な課題から分析した日経ビジネス電子版の記事に基づいています。\n\n【判定】OK",
+      "xDraft": "【本文】\n施工現場で生成AIを活用する現場監督の「脳みその代わりに使っちゃ駄目だ」という言葉が印象的です。ツールとしての活用は強く推奨しつつも、自分で考えることを放棄してはいけないという、技術者としての根幹を説いています。\n便利な道具だからこそ、導き出された回答が現場の状況に即しているかを見極める力が必要になりますね。効率化と深い思考をどう両立させるか、これからの現場のあり方を考えさせられる内容です。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/\n\n【抜粋元】\n日経クロステックの特集記事より、生成AIを施工現場で活用する現場監督が語った「使うことと思考停止は別である」という警鐘と、若手技術者の葛藤について触れた部分を参考にしました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建築家の隈研吾氏が、日本の建築コストが高い理由を構造的な課題から分析した日経ビジネス電子版の記事に基づいています。",
+      "xDraftExcerptSummary": "日経クロステックの特集記事より、生成AIを施工現場で活用する現場監督が語った「使うことと思考停止は別である」という警鐘と、若手技術者の葛藤について触れた部分を参考にしました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "【ベトナム】国交省、越大学で日本の建設企業への就職説明会（NNA） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53R3FDRjlYSnZKSXlyVlBpREh1RTEtbkpQREtmaGg5VjB0SUd2Z1Rha3V3b19RaUhGTTFVWElNYUd1ejI3UUFvZVEwQ2l5V2dKNE5aSHZDTHRJQ2o1SDRzSmdNZWJkQlJRN1NabG1CYWVYQVlzZEFRQ0FrWU8zUms?oc=5",
-        "pubDate": "Wed, 28 Oct 2026 02:30:55 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4138391895,
-        "contentSnippet": "【ベトナム】国交省、越大学で日本の建設企業への就職説明会（NNA）  Yahoo!ニュース",
-        "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53R3FDRjlYSnZKSXlyVlBpREh1RTEtbkpQREtmaGg5VjB0SUd2Z1Rha3V3b19RaUhGTTFVWElNYUd1ejI3UUFvZVEwQ2l5V2dKNE5aSHZDTHRJQ2o1SDRzSmdNZWJkQlJRN1NabG1CYWVYQVlzZEFRQ0FrWU8zUms?oc=5",
-        "fingerprint": "4ccf08c97aaa52aa23956e553dc0ea5d2c8c4f71bca8046b64b97d90dff1c7cd"
+        "title": "現場を省力化する生成AI活用術、書類読解や資料作成のノウハウ4選",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/",
+        "pubDate": "2026-10-29T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "施工計画の作成など高度な業務へ生成AI（人工知能）をいきなり活用するのはハードルが高い。資料の整理や安全管理、若手教育など身近な業務の省力化から試すのが手だ。今日から実践できる活用例を伝授する。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/",
+        "fingerprint": "72416ff89f09958dc0d7c4a02b7c963a7bd432b43ff63af249e0c9be6a0529da"
       },
-      "xDraft": "【本文】\n国土交通省がベトナムの大学で、日本の建設企業への就職説明会を開催しました。現地の学生に日本の建設技術をアピールし、国内企業への就労を促進する狙いがあります。\n\n人手不足が深刻ななか、国が主導して海外の優秀な層に直接アプローチする試みは非常に重要ですね。僕としては、単なる労働力の確保というだけでなく、日本の技術が海を越えて継承され、共に街をつくる仲間が増えていくことを期待しています。\n\n出典：NNA\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTE53R3FDRjlYSnZKSXlyVlBpREh1RTEtbkpQREtmaGg5VjB0SUd2Z1Rha3V3b19RaUhGTTFVWElNYUd1ejI3UUFvZVEwQ2l5V2dKNE5aSHZDTHRJQ2o1SDRzSmdNZWJkQlJRN1NabG1CYWVXQVlzZEFRQ0FrWU8zUms?oc=5\n\n【抜粋元】\n国交省がベトナムの大学で実施した就職説明会についての記事です。日本企業への就労支援と、官民一体となった人材確保の動きについて触れています。\n\n【判定】OK\n\nhttps://news.google.com/rss/articles/CBMif0FVX3lxTE53R3FDRjlYSnZKSXlyVlBpREh1RTEtbkpQREtmaGg5VjB0SUd2Z1Rha3V3b19RaUhGTTFVWElNYUd1ejI3UUFvZV…",
+      "xDraft": "【本文】\n現場での生成AI活用について、施工計画のような高度な業務からではなく、資料整理や安全管理、若手教育といった身近な省力化から始める4つのノウハウが紹介されています。\n僕も、まずはこうした手の届くところから技術に触れてみることが大切だと感じます。書類業務の負担が減り、技術者が現場に専念できる時間が増えることで、結果として品質や安全の向上に繋がっていくのが理想的ですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/\n\n【抜粋元】\n日経クロステック 土木の「現場を省力化する生成AI活用術」という記事から、生成AI導入のハードルを下げるための身近な活用例（資料整理や安全管理など）の重要性について取り上げました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国交省がベトナムの大学で実施した就職説明会についての記事です。日本企業への就労支援と、官民一体となった人材確保の動きについて触れています。",
+      "xDraftExcerptSummary": "日経クロステック 土木の「現場を省力化する生成AI活用術」という記事から、生成AI導入のハードルを下げるための身近な活用例（資料整理や安全管理など）の重要性について取り上げました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "自作アプリで事務作業を8割削減、地方建設会社の土木技術者が生成AIで開発",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/",
-    "pubDate": "2026-10-28T20:00:00.000Z",
+    "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+    "pubDate": "2026-10-29T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
     "score": 4.8,
-    "contentSnippet": "広島市の地場建設会社、鴻治組ではプログラミング未経験の土木技術者が生成AI（人工知能）を活用してWebアプリを自作する。現場管理や書類作成などの業務効率化アプリを、半年で計11個開発した。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/",
-    "fingerprint": "df20f417d219e2f2d81e9bdc289c83304ba387ef1e00112f628885303e868fd2"
+    "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+    "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
   },
-  "xDraft": "【本文】\n広島市の地場建設会社である鴻治組にて、プログラミング未経験の土木技術者が生成AIを活用し、半年で11個もの業務効率化アプリを自作したそうです。現場管理や書類作成などの事務作業を8割削減するという、非常に大きな成果を上げています。\n\n現場の課題を最もよく知る技術者自身が、AIを道具として使いこなし、自力で解決策を形にする姿は素晴らしいですね。外部に頼り切るのではなく、現場の熱量で仕組みをアップデートしていくこうした取り組みは、これからの地域建設業におけるDXの理想的な形の一つだと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/\n\n【抜粋元】\n広島市の建設会社、鴻治組の未経験技術者が生成AIでアプリを11個自作し、事務作業を8割削減したという日経クロステック 土木の記事を参照しました。\n\n【判定】OK",
+  "xDraft": "【本文】\n現場で生成AIを活用する監督が、ツールとしての利用を強く勧めつつも「脳みそ代わりに使っちゃ駄目だ」と語っています。日経クロステックの特集記事で、効率化と思考の維持の両立について論じられたものです。\n便利な道具が増えるほど、最後に現場で何を選択するかという人間の判断の重みが増していく気がします。僕も、AIに頼り切るのではなく、自分自身の技術力や思考力を磨くための助けとして向き合っていきたいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/\n\n【抜粋元】\n日経クロステックの特集「現場監督と生成AI」の記事から。施工現場でAIを使いこなす監督が、若手に向けて「活用はすべきだが、自分で考えるのをやめてはいけない」と説いたエピソードを元にしています。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "広島市の建設会社、鴻治組の未経験技術者が生成AIでアプリを11個自作し、事務作業を8割削減したという日経クロステック 土木の記事を参照しました。",
+  "xDraftExcerptSummary": "日経クロステックの特集「現場監督と生成AI」の記事から。施工現場でAIを使いこなす監督が、若手に向けて「活用はすべきだが、自分で考えるのをやめてはいけない」と説いたエピソードを元にしています。",
   "xDraftAlternates": [],
   "errors": []
 }
