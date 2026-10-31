@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T01:12:43.774Z",
+  "generatedAt": "2026-10-31T00:55:51.439Z",
   "dedupeEnabled": true,
   "skippedDuplicates": 3,
-  "skippedJapanFocus": 1,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
@@ -17,16 +17,6 @@
       "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
     },
     {
-      "title": "自作アプリで事務作業を8割削減、地方建設会社の土木技術者が生成AIで開発",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/",
-      "pubDate": "2026-10-28T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "広島市の地場建設会社、鴻治組ではプログラミング未経験の土木技術者が生成AI（人工知能）を活用してWebアプリを自作する。現場管理や書類作成などの業務効率化アプリを、半年で計11個開発した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900004/",
-      "fingerprint": "df20f417d219e2f2d81e9bdc289c83304ba387ef1e00112f628885303e868fd2"
-    },
-    {
       "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
       "pubDate": "2026-10-29T20:00:00.000Z",
@@ -35,26 +25,6 @@
       "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
       "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
-    },
-    {
-      "title": "隈研吾氏が考える日本の建築費が高い理由 「土建国家」が抱える構造的課題 - 日経ビジネス電子版",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzA2SXhxdUNkOUs1WnkxUnR1OHhaRkVLUHFPd01GUHoyMW9pTHlzcHhVaGhXVzZibXZPaUxhdVA0XzQ4Y3E5UFpQT3FfaUJUYzBUVkRlck1handIYlZ2c2Q2NnVwWTg?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 20:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4138958400000003,
-      "contentSnippet": "隈研吾氏が考える日本の建築費が高い理由 「土建国家」が抱える構造的課題  日経ビジネス電子版",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UbzA2SXhxdUNkOUs1WnkxUnR1OHhaRkVLUHFPd01GUHoyMW9pTHlzcHhVaGhXVzZibXZPaUxhdVA0XzQ4Y3E5UFpQT3FfaUJUYzBUVkRlck1handIYlZ2c2Q2NnVwWTg?oc=5",
-      "fingerprint": "737374c78587b3a0f59cd2b996ee4b77f54f345368e0eb261f6da2b69057bbac"
-    },
-    {
-      "title": "【ベトナム】国交省、越大学で日本の建設企業への就職説明会（NNA） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53R3FDRjlYSnZKSXlyVlBpREh1RTEtbkpQREtmaGg5VjB0SUd2Z1Rha3V3b19RaUhGTTFVWElNYUd1ejI3UUFvZVEwQ2l5V2dKNE5aSHZDTHRJQ2o1SDRzSmdNZWJkQlJRN1NabG1CYWVYQVlzZEFRQ0FrWU8zUms?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 02:30:55 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4138391895,
-      "contentSnippet": "【ベトナム】国交省、越大学で日本の建設企業への就職説明会（NNA）  Yahoo!ニュース",
-      "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53R3FDRjlYSnZKSXlyVlBpREh1RTEtbkpQREtmaGg5VjB0SUd2Z1Rha3V3b19RaUhGTTFVWElNYUd1ejI3UUFvZVEwQ2l5V2dKNE5aSHZDTHRJQ2o1SDRzSmdNZWJkQlJRN1NabG1CYWVYQVlzZEFRQ0FrWU8zUms?oc=5",
-      "fingerprint": "4ccf08c97aaa52aa23956e553dc0ea5d2c8c4f71bca8046b64b97d90dff1c7cd"
     },
     {
       "title": "現場を省力化する生成AI活用術、書類読解や資料作成のノウハウ4選",
@@ -77,26 +47,6 @@
       "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f"
     },
     {
-      "title": "1位は「1万5000冊の漫画を中核に、スロープで回遊できる新図書館」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500438/",
-      "pubDate": "2026-10-28T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月26日～11月1日に読まれた記事の1～10位を26年10月29日～11月4日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500438/",
-      "fingerprint": "9a9811964d4f6e1b83099e22790c793cdc09c2b5bcefb0e0b84764dc65bc1a8f"
-    },
-    {
-      "title": "建設業の賃上げに息切れ、実施率が産業別ワースト3位　改定率6年ぶり低下",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02806/",
-      "pubDate": "2026-10-28T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "建設業で2026年に1人当たり平均賃金を「引き上げた」または「引き上げる」と答えた会社の割合が85.1％にとどまった。集計対象の全15産業中、ワースト3位だ。人手不足や政府の賃上げ政策などを背景に活発だった賃金上昇の勢いに息切れが見えている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02806/",
-      "fingerprint": "ec02e2931fb5fef417ec45bf66a10afd0e214d52fcc1868a70fceb918bc5aec8"
-    },
-    {
       "title": "マンション工事停止の仮命令を取り消し　高裁決定、盛土規制法違反は認定",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
       "pubDate": "2026-10-29T20:00:00.000Z",
@@ -107,46 +57,6 @@
       "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f"
     },
     {
-      "title": "1位は「1万5000冊の漫画を中核に、スロープで回遊できる新図書館」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500438/",
-      "pubDate": "2026-10-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年10月26日～11月1日に読まれた記事の1～10位を26年10月29日～11月4日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/091500438/",
-      "fingerprint": "9a9811964d4f6e1b83099e22790c793cdc09c2b5bcefb0e0b84764dc65bc1a8f"
-    },
-    {
-      "title": "建設業の賃上げに息切れ、実施率が産業別ワースト3位　改定率6年ぶり低下",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02806/",
-      "pubDate": "2026-10-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "建設業で2026年に1人当たり平均賃金を「引き上げた」または「引き上げる」と答えた会社の割合が85.1％にとどまった。集計対象の全15産業中、ワースト3位だ。人手不足や政府の賃上げ政策などを背景に活発だった賃金上昇の勢いに息切れが見えている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02806/",
-      "fingerprint": "ec02e2931fb5fef417ec45bf66a10afd0e214d52fcc1868a70fceb918bc5aec8"
-    },
-    {
-      "title": "SANAAが建築分野で初の国際交流基金賞、「建築の新たな可能性」を評価",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02964/",
-      "pubDate": "2026-10-28T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "国際交流基金が、文化活動を通じて国際交流に貢献した個人や団体を表彰する「国際交流基金賞」の2026年度受賞者に、設計事務所SANAA（東京・江東）など3者を選んだ。1973年の賞創設以来、建築分野の受賞者は今回が初めて。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02964/",
-      "fingerprint": "dc248b8a284bad7fa9aa3928b8b1b4a57f9389f87cfec2d864f95b590e4085c3"
-    },
-    {
-      "title": "Autodesk選出の次世代リーダー、日本は清水建設の櫻井氏 - 建設通信新聞Digital",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1Q2Z2ZGpNbTk3S09vLUxMejQ2dGFuMlRQMVl4VlR3dGJ4SEpMOWh2bjFpMXdfNFRwOGNSMWV5bWJGZllhMTJoYmp2MzN2a2dqVWpuQURB?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 00:31:55 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 1.6139882835000001,
-      "contentSnippet": "Autodesk選出の次世代リーダー、日本は清水建設の櫻井氏  建設通信新聞Digital",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1Q2Z2ZGpNbTk3S09vLUxMejQ2dGFuMlRQMVl4VlR3dGJ4SEpMOWh2bjFpMXdfNFRwOGNSMWV5bWJGZllhMTJoYmp2MzN2a2dqVWpuQURB?oc=5",
-      "fingerprint": "3aaf7f010294d225075a4c382f2b502fa9f66a0529da871defe6ae52ac3b40e9"
-    },
-    {
       "title": "円安と人材不足が日本建設市場を再定義 投資主体の変化が鮮明に、データセンター・半導体関連投資は引き続き拡大 - Newscast.jp",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5",
       "pubDate": "Thu, 29 Oct 2026 02:00:00 GMT",
@@ -155,79 +65,149 @@
       "contentSnippet": "円安と人材不足が日本建設市場を再定義 投資主体の変化が鮮明に、データセンター・半導体関連投資は引き続き拡大  Newscast.jp",
       "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5",
       "fingerprint": "dcdcc2ad3e31eeed4249e2283351813fe03dc7cf8a956dcfa80c81aa387b065a"
+    },
+    {
+      "title": "鋼構造及びコンクリート　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500066/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "選択科目「鋼構造及びコンクリート（鋼コンクリート）」のIII―1は巨大地震に備える事前防災、III―2は限られた人員で生産性向上と品質確保を両立する方策です。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500066/",
+      "fingerprint": "dc90895c340be7fd98ebe02fd00645877787fffd79d661ad2ba03fbe81d5e233"
+    },
+    {
+      "title": "日揮HDの「バイオものづくり」、鍵はスケールアップ　研究の最前線に潜入",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/102900025/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "プラント大手の日揮ホールディングス（HD）が、微生物から有用物を製造する「バイオものづくり」に力を注いでいる。狙うのは、石油依存リスクの分散だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/102900025/",
+      "fingerprint": "ecffbccaaafaa300e47d9bb83c6530bdcebfdc9f3702e172fa998ad96aa39101"
+    },
+    {
+      "title": "住宅で培った技術で非住宅マーケットに挑む",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00461/101900113/",
+      "pubDate": "2026-10-29T23:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "「相見積もりは受け付けない」と強気の姿勢を貫く地域工務店、武部建設（北海道岩見沢市）が、非住宅市場の攻略を進めている。祖業は造材業と製材業。素材としての木へのこだわりは強く、大工を自ら抱え、育成にも努める。住宅の設計・施工で培ってきた在来軸組構法と高断熱・高気密の技術を武器に、道内で急拡大するワイナリー、店舗や事務所などで実績を積む。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00461/101900113/",
+      "fingerprint": "9b842880d4b5a94bbe6fe5193e8b972afcc7b48ffcd43a09cb91962ebc9772d0"
+    },
+    {
+      "title": "鋼構造及びコンクリート　過去問題と解説　2026年度",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500066/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "選択科目「鋼構造及びコンクリート（鋼コンクリート）」のIII―1は巨大地震に備える事前防災、III―2は限られた人員で生産性向上と品質確保を両立する方策です。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500066/",
+      "fingerprint": "dc90895c340be7fd98ebe02fd00645877787fffd79d661ad2ba03fbe81d5e233"
+    },
+    {
+      "title": "フォーク形の木質列柱の先に広がる水平線、パソナが淡路島に長期滞在施設",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03129/100600038/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "パソナグループが兵庫県の淡路島で、健康寿命を延ばす目的の未病リトリート施設「THE PASONA natureverse retreat（ザ・パソナ・ネイチャーバース・リトリート）」を開業した。海と山に挟まれた広大な敷地に立つ長期滞在型の宿泊施設は、坂茂氏が設計した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03129/100600038/",
+      "fingerprint": "08c5d298b004ce2aa9c89e65b25341cddcde74fb58eee2e48e4343cb5c39ea8a"
+    },
+    {
+      "title": "米データセンター建設、1世帯に1万ドル提示 住民側は「賄賂」と反発",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00339/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "米東部ペンシルベニア州の森林を見渡すテラスで、エド・ネグラさんは4通の手紙を並べた。いずれもデータセンターの開発業者から届いたもので、施設が稼働すれば各世帯に1万ドル（約158万円）の小切手を支払うと約束する内容だった。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01162/00339/",
+      "fingerprint": "0ddaaaf8d4ff8078a2d3fbc70f8f2e9a29d777a5f98b5ad9c398bc788932e835"
+    },
+    {
+      "title": "日揮HDの「バイオものづくり」、鍵はスケールアップ　研究の最前線に潜入",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/102900025/",
+      "pubDate": "2026-10-29T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 0,
+      "contentSnippet": "プラント大手の日揮ホールディングス（HD）が、微生物から有用物を製造する「バイオものづくり」に力を注いでいる。狙うのは、石油依存リスクの分散だ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/102900025/",
+      "fingerprint": "ecffbccaaafaa300e47d9bb83c6530bdcebfdc9f3702e172fa998ad96aa39101"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
-        "pubDate": "2026-10-29T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 4.8,
-        "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
-        "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
-      },
-      "xDraft": "【本文】\n現場で生成AIを活用する監督が、ツールとしての利用を強く勧めつつも「脳みそ代わりに使っちゃ駄目だ」と語っています。日経クロステックの特集記事で、効率化と思考の維持の両立について論じられたものです。\n便利な道具が増えるほど、最後に現場で何を選択するかという人間の判断の重みが増していく気がします。僕も、AIに頼り切るのではなく、自分自身の技術力や思考力を磨くための助けとして向き合っていきたいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/\n\n【抜粋元】\n日経クロステックの特集「現場監督と生成AI」の記事から。施工現場でAIを使いこなす監督が、若手に向けて「活用はすべきだが、自分で考えるのをやめてはいけない」と説いたエピソードを元にしています。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックの特集「現場監督と生成AI」の記事から。施工現場でAIを使いこなす監督が、若手に向けて「活用はすべきだが、自分で考えるのをやめてはいけない」と説いたエピソードを元にしています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
-        "pubDate": "2026-10-29T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 4,
-        "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
-        "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
-      },
-      "xDraft": "【本文】\n施工現場で生成AIを活用する現場監督の「脳みその代わりに使っちゃ駄目だ」という言葉が印象的です。ツールとしての活用は強く推奨しつつも、自分で考えることを放棄してはいけないという、技術者としての根幹を説いています。\n便利な道具だからこそ、導き出された回答が現場の状況に即しているかを見極める力が必要になりますね。効率化と深い思考をどう両立させるか、これからの現場のあり方を考えさせられる内容です。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/\n\n【抜粋元】\n日経クロステックの特集記事より、生成AIを施工現場で活用する現場監督が語った「使うことと思考停止は別である」という警鐘と、若手技術者の葛藤について触れた部分を参考にしました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステックの特集記事より、生成AIを施工現場で活用する現場監督が語った「使うことと思考停止は別である」という警鐘と、若手技術者の葛藤について触れた部分を参考にしました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "現場を省力化する生成AI活用術、書類読解や資料作成のノウハウ4選",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/",
+        "title": "マンション工事停止の仮命令を取り消し　高裁決定、盛土規制法違反は認定",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
         "pubDate": "2026-10-29T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 2.4,
-        "contentSnippet": "施工計画の作成など高度な業務へ生成AI（人工知能）をいきなり活用するのはハードルが高い。資料の整理や安全管理、若手教育など身近な業務の省力化から試すのが手だ。今日から実践できる活用例を伝授する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/",
-        "fingerprint": "72416ff89f09958dc0d7c4a02b7c963a7bd432b43ff63af249e0c9be6a0529da"
+        "contentSnippet": "東京都渋谷区で進むマンション建設工事を巡り、旧擁壁を解体すると土砂崩れが起こる恐れがあるとして周辺住民が渋谷区に工事停止命令を求めた行政訴訟の抗告審。東京高等裁判所は、区による事業者への工事停止を仮に義務付けた一審の決定を取り消した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+        "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f"
       },
-      "xDraft": "【本文】\n現場での生成AI活用について、施工計画のような高度な業務からではなく、資料整理や安全管理、若手教育といった身近な省力化から始める4つのノウハウが紹介されています。\n僕も、まずはこうした手の届くところから技術に触れてみることが大切だと感じます。書類業務の負担が減り、技術者が現場に専念できる時間が増えることで、結果として品質や安全の向上に繋がっていくのが理想的ですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/\n\n【抜粋元】\n日経クロステック 土木の「現場を省力化する生成AI活用術」という記事から、生成AI導入のハードルを下げるための身近な活用例（資料整理や安全管理など）の重要性について取り上げました。\n\n【判定】OK",
+      "xDraft": "【本文】\n東京都渋谷区のマンション建設を巡り、東京高裁が一審の工事停止命令を取り消す決定を出しました。旧擁壁の解体による土砂崩れの恐れを理由に住民側が求めていたものですが、裁判所は盛土規制法違反を認定しつつも、区による停止の義務付けは認めませんでした。\n\n法違反が認められながらも工事停止の命令は取り消されるという、非常に難しい判断が下されたと感じます。現場の安全性確保と法規制の遵守がどうあるべきか、僕たち実務に関わる人間にとっても非常に考えさせられる事例ですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/\n\n【抜粋元】\n渋谷区のマンション工事差し止めを巡る抗告審で、東京高裁が一審の工事停止命令を取り消したニュースです。盛土規制法違反が認定された点と、裁判所の判断の行方に着目して執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック 土木の「現場を省力化する生成AI活用術」という記事から、生成AI導入のハードルを下げるための身近な活用例（資料整理や安全管理など）の重要性について取り上げました。",
+      "xDraftExcerptSummary": "渋谷区のマンション工事差し止めを巡る抗告審で、東京高裁が一審の工事停止命令を取り消したニュースです。盛土規制法違反が認定された点と、裁判所の判断の行方に着目して執筆しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "マンション工事停止の仮命令を取り消し　高裁決定、盛土規制法違反は認定",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+        "pubDate": "2026-10-29T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 2,
+        "contentSnippet": "東京都渋谷区で進むマンション建設工事を巡り、旧擁壁を解体すると土砂崩れが起こる恐れがあるとして周辺住民が渋谷区に工事停止命令を求めた行政訴訟の抗告審。東京高等裁判所は、区による事業者への工事停止を仮に義務付けた一審の決定を取り消した。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+        "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f"
+      },
+      "xDraft": "【本文】\n東京都渋谷区のマンション建設をめぐり、周辺住民が求めていた工事停止の仮命令を東京高裁が取り消しました。一審の決定が覆った形ですが、注目すべきは高裁も盛土規制法違反については認めている点です。\n違反を認定しつつも工事停止までは求めないという判断には、法規制の遵守とプロジェクトの継続性をどうバランスさせるかという難しい課題が見て取れます。安全を第一に据えつつ、都市の更新をどう進めるべきか、僕も深く考えさせられました。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/\n\n【抜粋元】\n東京都渋谷区のマンション工事で、旧擁壁の解体に伴う土砂崩れの懸念から出されていた工事停止の仮命令を、東京高裁が取り消したニュースです。盛土規制法違反が認定されながらも停止命令が取り消されたという、実務上の重要な論点を整理しました。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "東京都渋谷区のマンション工事で、旧擁壁の解体に伴う土砂崩れの懸念から出されていた工事停止の仮命令を、東京高裁が取り消したニュースです。盛土規制法違反が認定されながらも停止命令が取り消されたという、実務上の重要な論点を整理しました。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "円安と人材不足が日本建設市場を再定義 投資主体の変化が鮮明に、データセンター・半導体関連投資は引き続き拡大 - Newscast.jp",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5",
+        "pubDate": "Thu, 29 Oct 2026 02:00:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 1.61391528,
+        "contentSnippet": "円安と人材不足が日本建設市場を再定義 投資主体の変化が鮮明に、データセンター・半導体関連投資は引き続き拡大  Newscast.jp",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5",
+        "fingerprint": "dcdcc2ad3e31eeed4249e2283351813fe03dc7cf8a956dcfa80c81aa387b065a"
+      },
+      "xDraft": "【本文】\n円安の進行と深刻な人材不足により、日本の建設市場が大きな転換期を迎えています。全体として厳しい環境にありながら、データセンターや半導体関連への投資は引き続き拡大しており、投資主体のシフトが鮮明になっています。\n\n僕たちの業界は今、単なる景気変動ではなく構造的な変化の渦中にいるのだと感じます。限られたリソースをどこに投じるべきか、国全体の将来を見据えた選択が始まっているのかもしれません。現場を支える一人として、この大きな流れを冷静に注視していきたいです。\n\n出典：Newscast.jp\nhttps://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5\n\n【抜粋元】\n円安と人手不足が建設市場のあり方を変容させている点や、データセンター・半導体分野への投資集中という市場構造の変化を指摘した記事の内容を踏まえています。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "円安と人手不足が建設市場のあり方を変容させている点や、データセンター・半導体分野への投資集中という市場構造の変化を指摘した記事の内容を踏まえています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "生成AIを脳みそにするな、若手土木技術者に自分を重ねた新人記者のジレンマ",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
+    "title": "マンション工事停止の仮命令を取り消し　高裁決定、盛土規制法違反は認定",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
     "pubDate": "2026-10-29T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
-    "score": 4.8,
-    "contentSnippet": "「生成AIを、脳みその代わりに使っちゃ駄目だ」。日経クロステックの特集「現場監督と生成AI」の取材で、生成AI（人工知能）を施工現場で活用する現場監督が、終盤にそう話した。生成AIを否定しているわけではない。「絶対にどんどん使うべきだ」とも言う。つまり、生成AIを使うことと、自分で考えるのをやめることは違うということだ。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/",
-    "fingerprint": "a4e865dacab5194ed1b901fd54a15bbafa5a2c5e3a84d2f277356ef2422ff24e"
+    "score": 2.4,
+    "contentSnippet": "東京都渋谷区で進むマンション建設工事を巡り、旧擁壁を解体すると土砂崩れが起こる恐れがあるとして周辺住民が渋谷区に工事停止命令を求めた行政訴訟の抗告審。東京高等裁判所は、区による事業者への工事停止を仮に義務付けた一審の決定を取り消した。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+    "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f"
   },
-  "xDraft": "【本文】\n現場で生成AIを活用する監督が、ツールとしての利用を強く勧めつつも「脳みそ代わりに使っちゃ駄目だ」と語っています。日経クロステックの特集記事で、効率化と思考の維持の両立について論じられたものです。\n便利な道具が増えるほど、最後に現場で何を選択するかという人間の判断の重みが増していく気がします。僕も、AIに頼り切るのではなく、自分自身の技術力や思考力を磨くための助けとして向き合っていきたいです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/102802134/\n\n【抜粋元】\n日経クロステックの特集「現場監督と生成AI」の記事から。施工現場でAIを使いこなす監督が、若手に向けて「活用はすべきだが、自分で考えるのをやめてはいけない」と説いたエピソードを元にしています。\n\n【判定】OK",
+  "xDraft": "【本文】\n東京都渋谷区のマンション建設を巡り、東京高裁が一審の工事停止命令を取り消す決定を出しました。旧擁壁の解体による土砂崩れの恐れを理由に住民側が求めていたものですが、裁判所は盛土規制法違反を認定しつつも、区による停止の義務付けは認めませんでした。\n\n法違反が認められながらも工事停止の命令は取り消されるという、非常に難しい判断が下されたと感じます。現場の安全性確保と法規制の遵守がどうあるべきか、僕たち実務に関わる人間にとっても非常に考えさせられる事例ですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/\n\n【抜粋元】\n渋谷区のマンション工事差し止めを巡る抗告審で、東京高裁が一審の工事停止命令を取り消したニュースです。盛土規制法違反が認定された点と、裁判所の判断の行方に着目して執筆しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日経クロステックの特集「現場監督と生成AI」の記事から。施工現場でAIを使いこなす監督が、若手に向けて「活用はすべきだが、自分で考えるのをやめてはいけない」と説いたエピソードを元にしています。",
+  "xDraftExcerptSummary": "渋谷区のマンション工事差し止めを巡る抗告審で、東京高裁が一審の工事停止命令を取り消したニュースです。盛土規制法違反が認定された点と、裁判所の判断の行方に着目して執筆しました。",
   "xDraftAlternates": [],
   "errors": []
 }

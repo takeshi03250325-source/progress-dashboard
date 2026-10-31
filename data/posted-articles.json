@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uZVFSR1lJZktDanNYUjktbG9VclJ1bXJMT3lSU2VING04el9DMGNQTHRaNjd6dTdjT3cyX0ZJNmR2U254TVE?oc=5",
-      "fingerprint": "23e415aab1f6d45422efd07fd0d54a791a7b89f3228eebbc2bcb71e5fbb927b6",
-      "title": "第一建設工業、27年3月期は売上高690億円へ 建築の繰越工事増で15％増収予想 - みんかぶ",
-      "postedAt": "2026-05-29T22:49:52.887Z",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uZVFSR1lJZktDanNYUjktbG9VclJ1bXJMT3lSU2VING04el9DMGNQTHRaNjd6dTdjT3cyX0ZJNmR2U254TVE?oc=5"
-    },
-    {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02823/",
-      "fingerprint": "ac24120a660066db0b758dd82df4006a17ab7bdd5e05818e741f6edc55ded073",
-      "title": "中東情勢混迷で工事が足踏み、武蔵野市は公会堂改修の入札を中止",
-      "postedAt": "2026-05-29T22:49:52.887Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02823/"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xci1LaTFmSDVibHZUbF9YTVpnNHdXZlJGNmhfdW1xVmtVc1M0V19jYklIQy1sRjBVbmljN2hhR0RSQkV0eTNzUDBJV0JkbGhuNGFESDlSUHBzOGhyYk40dm5sUDhmQk1xb2hVSFlMNEE2aTAxdzlhOXZoT1JMc3M?oc=5",
-      "fingerprint": "13e2a7d9670e44bf65c23cda5533701c6c6ffc67ce70d47a938b8137078dd75a",
-      "title": "「土木の仕事は社会の基礎」地域を守るプロの言葉に生徒たちは 建設業界の魅力を若手技術者が伝える（山形・川西町） - Yahoo!ニュース",
-      "postedAt": "2026-05-29T22:49:52.887Z",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xci1LaTFmSDVibHZUbF9YTVpnNHdXZlJGNmhfdW1xVmtVc1M0V19jYklIQy1sRjBVbmljN2hhR0RSQkV0eTNzUDBJV0JkbGhuNGFESDlSUHBzOGhyYk40dm5sUDhmQk1xb2hVSFlMNEE2aTAxdzlhOXZoT1JMc3M?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LdmJ6Y0tIVVE4TkVrRUJNU2xTWnFoeXJ5Z0JFTFRYZWdyaUJnTEJDWHBGNWFCVXo4UGcyNmN1YVduakhBNVhVNi1MX1c2RFJ6SDVKYjc0U29aek1GVzVJcC1xSmk0bUJNTHhub3NwdGJDbjJ0ZGlmelpfM2tMMmM?oc=5",
       "fingerprint": "e7ce98027702491396b0891f84433fb801610bc2fe05ee2e136afff26f6d2262",
       "title": "極めて難しく…さいたま市の新学校、建設工事が3回連続で入札不調 市長が見解「教育活動への影響は最小限に」 2030年4月に開校予定…小中一貫の義務教育学校、武蔵浦和駅の周辺に設置を計画（埼玉新聞） - Yahoo!ニュース",
@@ -2800,6 +2779,27 @@
       "title": "現場を省力化する生成AI活用術、書類読解や資料作成のノウハウ4選",
       "postedAt": "2026-10-30T01:12:43.765Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03804/101900005/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+      "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f",
+      "title": "マンション工事停止の仮命令を取り消し　高裁決定、盛土規制法違反は認定",
+      "postedAt": "2026-10-31T00:55:51.433Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/",
+      "fingerprint": "7ab5cdb4af421a0513ad2ec7fe7e220c28393c5cc4feae2018190fd8b968ee6f",
+      "title": "マンション工事停止の仮命令を取り消し　高裁決定、盛土規制法違反は認定",
+      "postedAt": "2026-10-31T00:55:51.433Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02967/"
+    },
+    {
+      "urlNorm": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5",
+      "fingerprint": "dcdcc2ad3e31eeed4249e2283351813fe03dc7cf8a956dcfa80c81aa387b065a",
+      "title": "円安と人材不足が日本建設市場を再定義 投資主体の変化が鮮明に、データセンター・半導体関連投資は引き続き拡大 - Newscast.jp",
+      "postedAt": "2026-10-31T00:55:51.433Z",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xQlFjS25ybXBUODNrWjdvai1vNG9YUVQ1YlhCTnoyamJuQkRnaGQtLUJ4bHNLV2NUWGxpQVYyZ29wWGJQVVBJ?oc=5"
     }
   ]
 }
