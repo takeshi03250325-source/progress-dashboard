@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IdkhIZGI2YkkzN3RUd3ZpQ3RuNWdMUkpCMEVHZ1NhMVBaZnV2T25lZ1pibXV5YlI1NmNqa2tUVmhsbVBXSTNwWUFBY1FoRDdibGVJS2pFdjE?oc=5",
-      "fingerprint": "9911e5ab4b258282f78e27d61b13d2db7ea3f9f8dce09f7a3322c2c84d9f6488",
-      "title": "統合小長寿命化改修 建設工事入札を公告／板柳町｜行政・政治｜青森ニュース｜Web東奥 - 東奥日報社",
-      "postedAt": "2026-06-02T23:14:55.792Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IdkhIZGI2YkkzN3RUd3ZpQ3RuNWdMUkpCMEVHZ1NhMVBaZnV2T25lZ1pibXV5YlI1NmNqa2tUVmhsbVBXSTNwWUFBY1FoRDdibGVJS2pFdjE?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdTBBd3JMc0lsUExJeVY4UDRvdkhxR1dnMzhfdUFybFlTTzVzNVVqSi1nQTBtbU9mSFNYNHJ3dlNianhIWEM2X3NDdXhqSHhqT0xRajJ1WW8wUDY0YlpHMFF1Wl8ydS1ZRHlrVXBpNzdFWU1GWXFMMC1mNXhldGs?oc=5",
-      "fingerprint": "113416ea3c395f28c246e4514e1e6562177a858281f0a0cad6a03ccfc0a2d001",
-      "title": "ナフサ不足で住宅建設・リフォーム工事がストップ？「接着剤不足」が招く最悪シナリオを徹底検証（ダイヤモンド不動産研究所） - Yahoo!ニュース",
-      "postedAt": "2026-06-02T23:14:55.792Z",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zdTBBd3JMc0lsUExJeVY4UDRvdkhxR1dnMzhfdUFybFlTTzVzNVVqSi1nQTBtbU9mSFNYNHJ3dlNianhIWEM2X3NDdXhqSHhqT0xRajJ1WW8wUDY0YlpHMFF1Wl8ydS1ZRHlrVXBpNzdFWU1GWXFMMC1mNXhldGs?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3V3ViSHdRa1ZuYzZMVXd5d3pBbldPZFYyajN0MjFldFlLMGVPNzN6RmtnVTdDemJqUU8zaFVORmx1ZndTdktDYXlTQzc3OGdrYTI0MHhBY0hSOTFxRl9qbFdyZzZNdTY3YU10b3BmQURVRlJ6dDItWGJwaHZhUQ?oc=5",
-      "fingerprint": "14dce93aa498fafa6ba1ca909171abd96eb6f2c8a5d93147959486bebf00ab48",
-      "title": "大成建設の植松専務執行役員「リニューアル工事の売上高比率、30年度に3割に」 - 日本経済新聞",
-      "postedAt": "2026-06-02T23:14:55.792Z",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3V3ViSHdRa1ZuYzZMVXd5d3pBbldPZFYyajN0MjFldFlLMGVPNzN6RmtnVTdDemJqUU8zaFVORmx1ZndTdktDYXlTQzc3OGdrYTI0MHhBY0hSOTFxRl9qbFdyZzZNdTY3YU10b3BmQURVRlJ6dDItWGJwaHZhUQ?oc=5"
-    },
-    {
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02657/",
       "fingerprint": "a92ed3d4a7d601ac99ecfb688e2bfecc123231ca5cc1fb89e3f34a0fc4c2f819",
       "title": "前田建設工業、シールド工事で10秒後の切り羽圧を予測　周期性からAIが判断",
@@ -2800,6 +2779,27 @@
       "title": "行政「処分」と「指導」は何が違う？　建設業法違反の内訳を分析",
       "postedAt": "2026-11-04T01:32:15.737Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900001/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900002/",
+      "fingerprint": "41f6703a6fe466e6a73a3a631a37903ea78eebeb886b26d4a6f3ce0fc21a140e",
+      "title": "芋づる式に建設資格の不正取得発覚、技術者の要件満たさず営業停止",
+      "postedAt": "2026-11-05T01:35:33.626Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900002/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000439/",
+      "fingerprint": "c99533fd22ef262d40d1e61a66dec653faeb2a52637bf7302d5c1eafe5ba3b4f",
+      "title": "1位は「築1年目で深刻な結露被害　対策工事も裏目、外気の壁内流入に要注意」",
+      "postedAt": "2026-11-05T01:35:33.626Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000439/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900002/",
+      "fingerprint": "41f6703a6fe466e6a73a3a631a37903ea78eebeb886b26d4a6f3ce0fc21a140e",
+      "title": "芋づる式に建設資格の不正取得発覚、技術者の要件満たさず営業停止",
+      "postedAt": "2026-11-05T01:35:33.626Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900002/"
     }
   ]
 }
