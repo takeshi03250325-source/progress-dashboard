@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02657/",
-      "fingerprint": "a92ed3d4a7d601ac99ecfb688e2bfecc123231ca5cc1fb89e3f34a0fc4c2f819",
-      "title": "前田建設工業、シールド工事で10秒後の切り羽圧を予測　周期性からAIが判断",
-      "postedAt": "2026-06-03T23:17:08.655Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02657/"
-    },
-    {
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02660/",
-      "fingerprint": "3148fd6a006eb5843e38231a1ec3b85701c930d163b2f7498729600b333e039b",
-      "title": "新名神高速道路の橋工事で緊張材が破断、作業員1人骨折　鹿島が資格停止",
-      "postedAt": "2026-06-03T23:17:08.655Z",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02660/"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jV05PM3hGWUNvWnA2eVZhczliOHd2NElqVGt1cFJaLTktZ2pJRGxEQUtka2FiaGpZc0VnSTdSQ3ZvcGVtVGlrS25ORXRuU0duVVN0SFV2NlowSU5vcjBtOVFLYXBKRDQ?oc=5",
-      "fingerprint": "fa98f77bf91fbd29cc4dc57bcaaedd942c016ddb096c5229eddc53a280ac3aba",
-      "title": "前田建設工業、シールド工事で10秒後の切り羽圧を予測 周期性からAIが判断 - 日経クロステック",
-      "postedAt": "2026-06-03T23:17:08.655Z",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jV05PM3hGWUNvWnA2eVZhczliOHd2NElqVGt1cFJaLTktZ2pJRGxEQUtka2FiaGpZc0VnSTdSQ3ZvcGVtVGlrS25ORXRuU0duVVN0SFV2NlowSU5vcjBtOVFLYXBKRDQ?oc=5"
-    },
-    {
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02662/",
       "fingerprint": "16b1d698cb0df7f7f0f7b8eaaff8a39a836bc61542b69e2782a33f08cad207b2",
       "title": "技能者の賃金調査を工事成績で加点　「適正価格での入札」促す、国土交通省",
@@ -2800,6 +2779,27 @@
       "title": "芋づる式に建設資格の不正取得発覚、技術者の要件満たさず営業停止",
       "postedAt": "2026-11-05T01:35:33.626Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900002/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900003/",
+      "fingerprint": "189a70c14456ee2895b6aa54d31bb7be87bd298e7231d3367412281468f39765",
+      "title": "建設会社を悩ます専任技術者の配置要件、条件満たせば2現場兼務も",
+      "postedAt": "2026-11-06T01:41:59.810Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900003/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/110200279/",
+      "fingerprint": "bf7f96d68fdc99ab09ad7c9eb3447df2f5be0ea9b7675b0f01ad1b3dce75985f",
+      "title": "リニア神奈川県駅、軌道階の一部を初公開　壁面に乗降口となる開口部",
+      "postedAt": "2026-11-06T01:41:59.810Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/110200279/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02811/",
+      "fingerprint": "ddf0fe338f92fdaf8fa90f770006656462f1239bea6646fc6270cb2b07fc4e08",
+      "title": "福井県工事でダンプ運搬の施工単価を過大算定、富士通Japanがデータ誤入力",
+      "postedAt": "2026-11-06T01:41:59.810Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02811/"
     }
   ]
 }
