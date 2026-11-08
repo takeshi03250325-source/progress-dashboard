@@ -1,101 +1,11 @@
 {
-  "generatedAt": "2026-11-07T01:01:40.437Z",
+  "generatedAt": "2026-11-08T00:49:13.904Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 4,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 0,
   "pickCountRequested": 3,
-  "pickCountActual": 3,
+  "pickCountActual": 1,
   "candidates": [
-    {
-      "title": "土木の魅力伝える、現場見学会を開催【日本道路建設業協会北陸支部】 - 日本工業経済新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdUdCSEFPaVVKQWFNNUxtNDlwWE1iZ0xncnFuYWJfWko2ZlhWZ0Qydm1nR2xwR1JGOWs1WXhCOVhPQmlGbzdVU0dPLVJZM3JldmJtdWlOYTU?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 11:20:24 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.214489861600001,
-      "contentSnippet": "土木の魅力伝える、現場見学会を開催【日本道路建設業協会北陸支部】  日本工業経済新聞社",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdUdCSEFPaVVKQWFNNUxtNDlwWE1iZ0xncnFuYWJfWko2ZlhWZ0Qydm1nR2xwR1JGOWs1WXhCOVhPQmlGbzdVU0dPLVJZM3JldmJtdWlOYTU?oc=5",
-      "fingerprint": "1a11b9248139a905e331782e0a1659482546bf67c55a5d93527dd472dc34d244"
-    },
-    {
-      "title": "建設会社を悩ます専任技術者の配置要件、条件満たせば2現場兼務も",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900003/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "工事現場への専任が求められる主任技術者や監理技術者が他現場を兼務するのはご法度だ。専任の営業所技術者も、原則として工事現場へは配置できない。専任義務違反で行政処分を受ける会社は後を絶たない。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900003/",
-      "fingerprint": "189a70c14456ee2895b6aa54d31bb7be87bd298e7231d3367412281468f39765"
-    },
-    {
-      "title": "手持ち工事が過去最大、それでも「施工余力は十分」と主張する茶番",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "国土交通省が2026年10月30日に公表した建設工事受注動態統計調査（大手50社調査）の結果で、手持ち工事高の26年8月実績が過去最大を更新した。手持ち工事とは、受注した工事のうち、まだ施工が完了していない工事のこと。その金額を示す手持ち工事高は、対象企業の合計で29兆2636億円に及ぶ。手持ち工事の増大は、施工する量よりも多くの工事を受注していることを意味する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/",
-      "fingerprint": "709d64fd4c284f04f8e9d12826505681ee438cf0390409054fc1104ca386c804"
-    },
-    {
-      "title": "福井県工事でダンプ運搬の施工単価を過大算定、富士通Japanがデータ誤入力",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02811/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "福井県が2026年度に発注した公共工事の設計価格で、ダンプトラック運搬にかかる施工単価を最大で約5％過大に算定していたことが分かった。県は積算システムの委託先である富士通Japan（川崎市）のデータ誤入力が原因だと発表した。富士通側もデータの誤りに対する責任を認め、県との協議に応じている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02811/",
-      "fingerprint": "ddf0fe338f92fdaf8fa90f770006656462f1239bea6646fc6270cb2b07fc4e08"
-    },
-    {
-      "title": "リニア神奈川県駅、軌道階の一部を初公開　壁面に乗降口となる開口部",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/110200279/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "リニア中央新幹線の神奈川県駅（仮称、相模原市）の工事現場を会場としたイベントが2026年も開催された。イベントは今回で6回目、「さがみはらリニアフェスタ」の名称では3回目の開催だ。地下3階にあたる軌道階の一部を初めて一般公開した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/110200279/",
-      "fingerprint": "bf7f96d68fdc99ab09ad7c9eb3447df2f5be0ea9b7675b0f01ad1b3dce75985f"
-    },
-    {
-      "title": "建設会社を悩ます専任技術者の配置要件、条件満たせば2現場兼務も",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900003/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "工事現場への専任が求められる主任技術者や監理技術者が他現場を兼務するのはご法度だ。専任の営業所技術者も、原則として工事現場へは配置できない。専任義務違反で行政処分を受ける会社は後を絶たない。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900003/",
-      "fingerprint": "189a70c14456ee2895b6aa54d31bb7be87bd298e7231d3367412281468f39765"
-    },
-    {
-      "title": "手持ち工事が過去最大、それでも「施工余力は十分」と主張する茶番",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "国土交通省が2026年10月30日に公表した建設工事受注動態統計調査（大手50社調査）の結果で、手持ち工事高の26年8月実績が過去最大を更新した。手持ち工事とは、受注した工事のうち、まだ施工が完了していない工事のこと。その金額を示す手持ち工事高は、対象企業の合計で29兆2636億円に及ぶ。手持ち工事の増大は、施工する量よりも多くの工事を受注していることを意味する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/",
-      "fingerprint": "709d64fd4c284f04f8e9d12826505681ee438cf0390409054fc1104ca386c804"
-    },
-    {
-      "title": "福井県工事でダンプ運搬の施工単価を過大算定、富士通Japanがデータ誤入力",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02811/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "福井県が2026年度に発注した公共工事の設計価格で、ダンプトラック運搬にかかる施工単価を最大で約5％過大に算定していたことが分かった。県は積算システムの委託先である富士通Japan（川崎市）のデータ誤入力が原因だと発表した。富士通側もデータの誤りに対する責任を認め、県との協議に応じている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02811/",
-      "fingerprint": "ddf0fe338f92fdaf8fa90f770006656462f1239bea6646fc6270cb2b07fc4e08"
-    },
-    {
-      "title": "リニア神奈川県駅、軌道階の一部を初公開　壁面に乗降口となる開口部",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/110200279/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "リニア中央新幹線の神奈川県駅（仮称、相模原市）の工事現場を会場としたイベントが2026年も開催された。イベントは今回で6回目、「さがみはらリニアフェスタ」の名称では3回目の開催だ。地下3階にあたる軌道階の一部を初めて一般公開した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00585/110200279/",
-      "fingerprint": "bf7f96d68fdc99ab09ad7c9eb3447df2f5be0ea9b7675b0f01ad1b3dce75985f"
-    },
     {
       "title": "日本建設の日本企業と海外メーカー - pando.life",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54VmVRX3FPam4wZkwzRUh1R3RFalRQcjdGTnV3Y1VGRzVrQm5IMTVRYjdVTVp3dDVkcG5oNVZHS3dGdVBNN2lDamtB?oc=5",
@@ -105,129 +15,43 @@
       "contentSnippet": "日本建設の日本企業と海外メーカー  pando.life",
       "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54VmVRX3FPam4wZkwzRUh1R3RFalRQcjdGTnV3Y1VGRzVrQm5IMTVRYjdVTVp3dDVkcG5oNVZHS3dGdVBNN2lDamtB?oc=5",
       "fingerprint": "692908c319a7eae333176f0ba5d1196779599cfaf373bbf3752d69e4533bc8e9"
-    },
-    {
-      "title": "河川、砂防及び海岸・海洋　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500068/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "選択科目「河川、砂防及び海岸・海洋（河川砂防）」のIII―1は能登半島地震後の豪雨に象徴される複合災害への緊急対応です。III―2は水災害分野の事業評価で、気候変動や人口・資産の変化を便益・費用に反映し、流域治水による多主体・多施策の効果を評価する問題です。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500068/",
-      "fingerprint": "21437affd7553ece4cdeb8b4cc2c4f72f4420109932e0fc69e206aea64cd35f8"
-    },
-    {
-      "title": "道路舗装点検の要領改定に着手、技術基準の性能指標に対応　国土交通省",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02812/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "国土交通省は、道路の舗装点検要領の改定に着手した。2026年9月に舗装構造の技術基準を改定し、舗装が有すべき性能を明確化した。これを受け、舗装の性能の状態を確認するよう点検要領に明記する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02812/",
-      "fingerprint": "720be4b84f8f074ceb6cdf97814955ffa51a3183634ac997515cf501fd4f21e4"
-    },
-    {
-      "title": "［三里河中国経済観察］広州白雲空港、旅客数で中国首位に返り咲き",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01161/00033/",
-      "pubDate": "2026-11-05T04:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "2026年1～9月、中国国内の空港の旅客数ランキングで再び首位が入れ替わった。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/01161/00033/",
-      "fingerprint": "88b440163305f4fae79202c55a5c0c160b780d1a14a2c308e45ed98348f4618c"
-    },
-    {
-      "title": "河川、砂防及び海岸・海洋　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500068/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "選択科目「河川、砂防及び海岸・海洋（河川砂防）」のIII―1は能登半島地震後の豪雨に象徴される複合災害への緊急対応です。III―2は水災害分野の事業評価で、気候変動や人口・資産の変化を便益・費用に反映し、流域治水による多主体・多施策の効果を評価する問題です。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500068/",
-      "fingerprint": "21437affd7553ece4cdeb8b4cc2c4f72f4420109932e0fc69e206aea64cd35f8"
-    },
-    {
-      "title": "想定外の大地震から免震建物を守る、清水建設が安価なダンパー開発",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02973/",
-      "pubDate": "2026-11-05T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 0,
-      "contentSnippet": "想定外の大地震に遭遇しても、免震建物が致命的なリスクを回避できるように対策する――。清水建設はシンプルな構成のダンパーを設置するだけで、設計で想定したレベルを超える地震動に対する安全性を向上させる技術を開発した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02973/",
-      "fingerprint": "9c812602a4f619b8a668eafc0d7566041a0a60b8efa636436cb87ece6eafaa45"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "土木の魅力伝える、現場見学会を開催【日本道路建設業協会北陸支部】 - 日本工業経済新聞社",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdUdCSEFPaVVKQWFNNUxtNDlwWE1iZ0xncnFuYWJfWko2ZlhWZ0Qydm1nR2xwR1JGOWs1WXhCOVhPQmlGbzdVU0dPLVJZM3JldmJtdWlOYTU?oc=5",
-        "pubDate": "Thu, 05 Nov 2026 11:20:24 GMT",
+        "title": "日本建設の日本企業と海外メーカー - pando.life",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54VmVRX3FPam4wZkwzRUh1R3RFalRQcjdGTnV3Y1VGRzVrQm5IMTVRYjdVTVp3dDVkcG5oNVZHS3dGdVBNN2lDamtB?oc=5",
+        "pubDate": "Fri, 06 Nov 2026 20:27:37 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 5.214489861600001,
-        "contentSnippet": "土木の魅力伝える、現場見学会を開催【日本道路建設業協会北陸支部】  日本工業経済新聞社",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdUdCSEFPaVVKQWFNNUxtNDlwWE1iZ0xncnFuYWJfWko2ZlhWZ0Qydm1nR2xwR1JGOWs1WXhCOVhPQmlGbzdVU0dPLVJZM3JldmJtdWlOYTU?oc=5",
-        "fingerprint": "1a11b9248139a905e331782e0a1659482546bf67c55a5d93527dd472dc34d244"
+        "score": 1.6145971713,
+        "contentSnippet": "日本建設の日本企業と海外メーカー  pando.life",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54VmVRX3FPam4wZkwzRUh1R3RFalRQcjdGTnV3Y1VGRzVrQm5IMTVRYjdVTVp3dDVkcG5oNVZHS3dGdVBNN2lDamtB?oc=5",
+        "fingerprint": "692908c319a7eae333176f0ba5d1196779599cfaf373bbf3752d69e4533bc8e9"
       },
-      "xDraft": "【本文】\n日本道路建設業協会北陸支部が、土木の魅力を伝えるための現場見学会を開催しました。\n\n実際の施工現場を肌で感じることは、そこで働く方々の技術やインフラの大切さを知る非常に貴重な機会になりますね。こうした地道な広報活動が、産業の未来を支える関心へとつながっていくことを願っています。\n\n出典：土木の魅力伝える、現場見学会を開催【日本道路建設業協会北陸支部】 - 日本工業経済新聞社\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdUdCSEFPaVVKQWFNNUxtNDlwWE1iZ0xncnFuYWJfWko2ZlhWZ0Qydm1nR2xwR1JGOWs1WXhCOVhPQmlGbzdVU0dPLVJZM3JldmJtdWlOYTU?oc=5\n\n【抜粋元】\n日本道路建設業協会北陸支部による、土木の魅力を発信するための現場見学会の開催。地域社会や次世代に向けて現場を開放する取り組みの内容に基づいています。\n\n【判定】OK",
+      "xDraft": "【本文】\n日本の建設業界における国内企業と海外メーカーの立ち位置や、その関係性について記された記事です。\n\n現場で使われる重機や資材を見渡すと、国産メーカーの細やかな配慮はもちろん、海外メーカーの合理的な設計に驚かされることも多いですよね。異なる背景を持つ企業同士が切磋琢磨することで、施工の選択肢が広がるのは素晴らしいことだと思います。僕もそれぞれのメーカーが持つ技術思想の違いを学ぶのが好きです。\n\n出典：Pando\nhttps://news.google.com/rss/articles/CBMiSkFVX3lxTE54VmVRX3FPam4wZkwzRUh1R3RFalRQcjdGTnV3Y1VGRzVrQm5IMTVRYjdVTVp3dDVkcG5oNVZHS3dGdVBNN2lDamtB?oc=5\n\n【抜粋元】\nPandoに掲載された記事「日本建設の日本企業と海外メーカー」を元にしています。建設業界を構成する多様なプレイヤーとしての日本企業と海外メーカーの対比に注目して執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本道路建設業協会北陸支部による、土木の魅力を発信するための現場見学会の開催。地域社会や次世代に向けて現場を開放する取り組みの内容に基づいています。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "手持ち工事が過去最大、それでも「施工余力は十分」と主張する茶番",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/",
-        "pubDate": "2026-11-05T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "国土交通省が2026年10月30日に公表した建設工事受注動態統計調査（大手50社調査）の結果で、手持ち工事高の26年8月実績が過去最大を更新した。手持ち工事とは、受注した工事のうち、まだ施工が完了していない工事のこと。その金額を示す手持ち工事高は、対象企業の合計で29兆2636億円に及ぶ。手持ち工事の増大は、施工する量よりも多くの工事を受注していることを意味する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/",
-        "fingerprint": "709d64fd4c284f04f8e9d12826505681ee438cf0390409054fc1104ca386c804"
-      },
-      "xDraft": "【本文】\n国土交通省の大手建設50社を対象とした調査で、手持ち工事高が約29兆2636億円に達し、過去最大を更新したそうです。これは施工して完了した分よりも、多くの工事を継続的に受注している状態を指しています。\n\n僕はこの数字を見て、建設需要の底堅さを感じる一方で、現場の「施工余力」という言葉の定義について考えさせられました。統計上の数字だけでなく、現場で働く方々の実感としての工期や人手に無理が生じていないか、業界全体で注視していく必要がありそうです。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/\n\n【抜粋元】\n国土交通省の建設工事受注動態統計調査の結果から、大手50社の手持ち工事高が過去最大を更新したという事実と、受注が施工能力を上回り続けている現状を指摘した記事です。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国土交通省の建設工事受注動態統計調査の結果から、大手50社の手持ち工事高が過去最大を更新したという事実と、受注が施工能力を上回り続けている現状を指摘した記事です。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "手持ち工事が過去最大、それでも「施工余力は十分」と主張する茶番",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/",
-        "pubDate": "2026-11-05T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "国土交通省が2026年10月30日に公表した建設工事受注動態統計調査（大手50社調査）の結果で、手持ち工事高の26年8月実績が過去最大を更新した。手持ち工事とは、受注した工事のうち、まだ施工が完了していない工事のこと。その金額を示す手持ち工事高は、対象企業の合計で29兆2636億円に及ぶ。手持ち工事の増大は、施工する量よりも多くの工事を受注していることを意味する。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/",
-        "fingerprint": "709d64fd4c284f04f8e9d12826505681ee438cf0390409054fc1104ca386c804"
-      },
-      "xDraft": "【本文】\n国土交通省が公表した建設工事受注動態統計調査で、大手50社の手持ち工事高が2026年8月実績で過去最大の29兆2636億円に達したそうです。受注したものの未完了である工事の積み上がりが、これまでにない規模になっています。\n\n数字で見ると改めて、業界全体の供給能力と受注のバランスが問われていると感じます。手持ちの増大は将来の収益確保という側面もありますが、現場が過度な負荷を負わずに品質を保てるのか、僕も注視していきたいです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00138/110302139/\n\n【抜粋元】\n国土交通省の大手50社調査において、手持ち工事高が29兆円を超えて過去最大を更新した事実。受注が施工完了を上回っている現状を整理して記述しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "国土交通省の大手50社調査において、手持ち工事高が29兆円を超えて過去最大を更新した事実。受注が施工完了を上回っている現状を整理して記述しました。",
+      "xDraftExcerptSummary": "Pandoに掲載された記事「日本建設の日本企業と海外メーカー」を元にしています。建設業界を構成する多様なプレイヤーとしての日本企業と海外メーカーの対比に注目して執筆しました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "土木の魅力伝える、現場見学会を開催【日本道路建設業協会北陸支部】 - 日本工業経済新聞社",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdUdCSEFPaVVKQWFNNUxtNDlwWE1iZ0xncnFuYWJfWko2ZlhWZ0Qydm1nR2xwR1JGOWs1WXhCOVhPQmlGbzdVU0dPLVJZM3JldmJtdWlOYTU?oc=5",
-    "pubDate": "Thu, 05 Nov 2026 11:20:24 GMT",
+    "title": "日本建設の日本企業と海外メーカー - pando.life",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54VmVRX3FPam4wZkwzRUh1R3RFalRQcjdGTnV3Y1VGRzVrQm5IMTVRYjdVTVp3dDVkcG5oNVZHS3dGdVBNN2lDamtB?oc=5",
+    "pubDate": "Fri, 06 Nov 2026 20:27:37 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 5.214489861600001,
-    "contentSnippet": "土木の魅力伝える、現場見学会を開催【日本道路建設業協会北陸支部】  日本工業経済新聞社",
-    "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdUdCSEFPaVVKQWFNNUxtNDlwWE1iZ0xncnFuYWJfWko2ZlhWZ0Qydm1nR2xwR1JGOWs1WXhCOVhPQmlGbzdVU0dPLVJZM3JldmJtdWlOYTU?oc=5",
-    "fingerprint": "1a11b9248139a905e331782e0a1659482546bf67c55a5d93527dd472dc34d244"
+    "score": 1.6145971713,
+    "contentSnippet": "日本建設の日本企業と海外メーカー  pando.life",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54VmVRX3FPam4wZkwzRUh1R3RFalRQcjdGTnV3Y1VGRzVrQm5IMTVRYjdVTVp3dDVkcG5oNVZHS3dGdVBNN2lDamtB?oc=5",
+    "fingerprint": "692908c319a7eae333176f0ba5d1196779599cfaf373bbf3752d69e4533bc8e9"
   },
-  "xDraft": "【本文】\n日本道路建設業協会北陸支部が、土木の魅力を伝えるための現場見学会を開催しました。\n\n実際の施工現場を肌で感じることは、そこで働く方々の技術やインフラの大切さを知る非常に貴重な機会になりますね。こうした地道な広報活動が、産業の未来を支える関心へとつながっていくことを願っています。\n\n出典：土木の魅力伝える、現場見学会を開催【日本道路建設業協会北陸支部】 - 日本工業経済新聞社\nhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdUdCSEFPaVVKQWFNNUxtNDlwWE1iZ0xncnFuYWJfWko2ZlhWZ0Qydm1nR2xwR1JGOWs1WXhCOVhPQmlGbzdVU0dPLVJZM3JldmJtdWlOYTU?oc=5\n\n【抜粋元】\n日本道路建設業協会北陸支部による、土木の魅力を発信するための現場見学会の開催。地域社会や次世代に向けて現場を開放する取り組みの内容に基づいています。\n\n【判定】OK",
+  "xDraft": "【本文】\n日本の建設業界における国内企業と海外メーカーの立ち位置や、その関係性について記された記事です。\n\n現場で使われる重機や資材を見渡すと、国産メーカーの細やかな配慮はもちろん、海外メーカーの合理的な設計に驚かされることも多いですよね。異なる背景を持つ企業同士が切磋琢磨することで、施工の選択肢が広がるのは素晴らしいことだと思います。僕もそれぞれのメーカーが持つ技術思想の違いを学ぶのが好きです。\n\n出典：Pando\nhttps://news.google.com/rss/articles/CBMiSkFVX3lxTE54VmVRX3FPam4wZkwzRUh1R3RFalRQcjdGTnV3Y1VGRzVrQm5IMTVRYjdVTVp3dDVkcG5oNVZHS3dGdVBNN2lDamtB?oc=5\n\n【抜粋元】\nPandoに掲載された記事「日本建設の日本企業と海外メーカー」を元にしています。建設業界を構成する多様なプレイヤーとしての日本企業と海外メーカーの対比に注目して執筆しました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日本道路建設業協会北陸支部による、土木の魅力を発信するための現場見学会の開催。地域社会や次世代に向けて現場を開放する取り組みの内容に基づいています。",
+  "xDraftExcerptSummary": "Pandoに掲載された記事「日本建設の日本企業と海外メーカー」を元にしています。建設業界を構成する多様なプレイヤーとしての日本企業と海外メーカーの対比に注目して執筆しました。",
   "xDraftAlternates": [],
   "errors": []
 }
