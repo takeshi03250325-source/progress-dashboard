@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-09T01:04:56.426Z",
+  "generatedAt": "2026-11-10T03:41:34.735Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 0,
-  "skippedJapanFocus": 1,
+  "skippedDuplicates": 1,
+  "skippedJapanFocus": 2,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
+    {
+      "title": "コストプラスフィーの活用を議論、自治体の入札・契約制度で　国交省WG",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/",
+      "pubDate": "2026-11-09T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 9.6,
+      "contentSnippet": "国土交通省は「持続的な成長産業としての建設業のあり方に関する検討会」の下に設けた入札・発注ワーキンググループの第2回会合を開催した。技術系職員の不足や災害復旧工事での入札不調・不落の発生といった課題を踏まえ、入札・契約制度や発注体制の在り方について議論した。事業者の意見として、日本建設業連合会と全国中小建設業協会にヒアリングした。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/",
+      "fingerprint": "c89d8ecfa60ea6e593767bf3a6c240811abcaba07a6fc2e40cf3bbf3b393b51a"
+    },
     {
       "title": "経審に「制度疲労」、人材の確保や育成の評価拡充を求める声　国交省調査",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02813/",
@@ -15,6 +25,36 @@
       "contentSnippet": "公共工事の入札に参加する建設会社を審査・格付けする経営事項審査（経審）を巡り、社会情勢を踏まえた見直しを求める声が建設業界から上がっている。働き方改革の推進や防災活動への貢献など業界の課題解決に取り組む建設会社を、より高く評価してほしいという要望だ。評価項目の複雑化や陳腐化など経審の制度疲労を懸念する指摘もある。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02813/",
       "fingerprint": "31c77456f02dadd88d4c31e1b932b6cd24a3315eb452a67dda644c47ce70f8ae"
+    },
+    {
+      "title": "BALLAS、シリーズB総額34億円、累計調達額は約53億円に 〜JIC VGI、日本政策金融公庫、三菱UFJ銀行の支援が加わり、建設インフラの供給力不足にAI-Nativeで挑む〜 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWWkxHb3ItS3BpdU9nXzJoYnExdFp6SnItay1BZHV0a0RJdS0zdm1QUFp6ekJQRGwwZVdGSDYxcmhKY1NoRDFwSzBDWklzdENVa3M0bC1ZUjdIVVMxQlBNb0R2c1JzM0Frc0E?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 00:50:01 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 5.2148446209,
+      "contentSnippet": "BALLAS、シリーズB総額34億円、累計調達額は約53億円に 〜JIC VGI、日本政策金融公庫、三菱UFJ銀行の支援が加わり、建設インフラの供給力不足にAI-Nativeで挑む〜  PR TIMES",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWWkxHb3ItS3BpdU9nXzJoYnExdFp6SnItay1BZHV0a0RJdS0zdm1QUFp6ekJQRGwwZVdGSDYxcmhKY1NoRDFwSzBDWklzdENVa3M0bC1ZUjdIVVMxQlBNb0R2c1JzM0Frc0E?oc=5",
+      "fingerprint": "fef58cb462ccbd7ae9d7fb98912aeaff11a398ce7df9ca0fc05c1d1211df8b4a"
+    },
+    {
+      "title": "建設業の現場監督、46%にうつ・不安障害の疑い パワハラ経験2割強 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 20:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.41482896,
+      "contentSnippet": "建設業の現場監督、46%にうつ・不安障害の疑い パワハラ経験2割強  日本経済新聞",
+      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg?oc=5",
+      "fingerprint": "8723dadda5ca04d7dc6e939f2447a09d52db94d53d905515ef26aaac77609853"
+    },
+    {
+      "title": "日本の建設市場、インフラ整備や都市再開発を背景に2034年までに9413億米ドル規模へ到達する見通し - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZWo0ZEE1S2UxWkJqYm0weF9UaVMzbThfRzN0d0VZRHRMOW14c1I2LXNsTWllYy13VkF2UlFxa3JkWllRZVVBcTV6RVI1YUk?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 22:45:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.4147601100000005,
+      "contentSnippet": "日本の建設市場、インフラ整備や都市再開発を背景に2034年までに9413億米ドル規模へ到達する見通し  Newscast.jp",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZWo0ZEE1S2UxWkJqYm0weF9UaVMzbThfRzN0d0VZRHRMOW14c1I2LXNsTWllYy13VkF2UlFxa3JkWllRZVVBcTV6RVI1YUk?oc=5",
+      "fingerprint": "ff75be9559e12d8eec570df22d8614f6617718e6cb8faed2e3ac866b970041b2"
     },
     {
       "title": "建設Gメン調査に基づく指導が大幅増、法改正で不適正取引にメス",
@@ -45,6 +85,26 @@
       "contentSnippet": "大阪市高速電気軌道（大阪メトロ）がAI（人工知能）活用へアクセルを踏んでいる。鉄道業界全体を見渡してもAIの社会実装は着実に進んできる。AIで変わろうとしている公共交通の今を追いかけた。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03520/110500026/",
       "fingerprint": "bce9f4d2063aed967e5000e56168fe1d58d58ad9397058ccf2167b1f423c3454"
+    },
+    {
+      "title": "木を現しにした中規模木造をどうつくるか",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00461/102800114/",
+      "pubDate": "2026-11-09T23:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "2026年10月21日、宮城県木材協同組合が主催した「木造建築ビジネスフォーラム in 東北」のパネルディスカッションに、東北工業大学建築学科准教授の齋藤隆太郎氏が登壇した。DOG一級建築士事務所（東京都新宿区）を率いる齋藤氏は、中規模木造建築の設計にも積極的に取り組んでいる。ここでは26年に完成した3つの木造建築を紹介する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00461/102800114/",
+      "fingerprint": "42fe6f504bbbc71a8fcec3dcda506b7d587bcb27094be1141b2e005a6fe25db4"
+    },
+    {
+      "title": "1人のための建築と庭、100人当たりの蔵書数全国1位の福井県立図書館",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03602/091000006/",
+      "pubDate": "2026-11-09T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 2,
+      "contentSnippet": "全国で書店の店じまいが相次ぐ中、図書館の存在意義はますます大きくなっている。都道府県別に見ると、図書館の充実度で目を引くのが福井県だ。『図書館年鑑2025』によれば、人口100人当たりの公立図書館蔵書数は832冊で全国1位。利用も盛んで、館外個人貸出の登録が人口の65.1％に及んでいて、これは全国3位である。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03602/091000006/",
+      "fingerprint": "1aaf74a38f21adb9d0b9729643f7576ac31fb440f8e406cee514d4c74ecc776c"
     },
     {
       "title": "建設Gメン調査に基づく指導が大幅増、法改正で不適正取引にメス",
@@ -85,79 +145,89 @@
       "contentSnippet": "築約170年の古民家「池谷家住宅主屋」を改修した飲食店など3棟から成る木造商業施設「新綱島MICCA」が開業した。東急が事業コンサルタントを担い、再生建築研究所（東京・渋谷）が施設全体のデザイン監修や古民家の改修設計を担当。住友林業が新築2棟の設計・施工を手掛けた。",
       "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02974/",
       "fingerprint": "2a25d9fcf981e27323e4842e13903a2cc39653b67a1d1053987435213e6849ff"
+    },
+    {
+      "title": "気候変動で都市型水害が新局面、千葉豪雨では死者　政府は従来対策を総点検",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200001/",
+      "pubDate": "2026-11-09T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "近年の記録的な豪雨で都市部の浸水が相次いでいる。千葉市では2026年8月、気象の専門家にも予測が難しい豪雨が発生し、死者が出た。豪雨の激甚化で被害が拡大する都市型水害に、政府は対策へ乗り出した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200001/",
+      "fingerprint": "7a2248907591a00eeece3b8964b1e0b41413514b64261d54a33ac44f777685be"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "経審に「制度疲労」、人材の確保や育成の評価拡充を求める声　国交省調査",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02813/",
-        "pubDate": "2026-11-08T20:00:00.000Z",
+        "title": "コストプラスフィーの活用を議論、自治体の入札・契約制度で　国交省WG",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/",
+        "pubDate": "2026-11-09T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 9.6,
-        "contentSnippet": "公共工事の入札に参加する建設会社を審査・格付けする経営事項審査（経審）を巡り、社会情勢を踏まえた見直しを求める声が建設業界から上がっている。働き方改革の推進や防災活動への貢献など業界の課題解決に取り組む建設会社を、より高く評価してほしいという要望だ。評価項目の複雑化や陳腐化など経審の制度疲労を懸念する指摘もある。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02813/",
-        "fingerprint": "31c77456f02dadd88d4c31e1b932b6cd24a3315eb452a67dda644c47ce70f8ae"
+        "contentSnippet": "国土交通省は「持続的な成長産業としての建設業のあり方に関する検討会」の下に設けた入札・発注ワーキンググループの第2回会合を開催した。技術系職員の不足や災害復旧工事での入札不調・不落の発生といった課題を踏まえ、入札・契約制度や発注体制の在り方について議論した。事業者の意見として、日本建設業連合会と全国中小建設業協会にヒアリングした。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/",
+        "fingerprint": "c89d8ecfa60ea6e593767bf3a6c240811abcaba07a6fc2e40cf3bbf3b393b51a"
       },
-      "xDraft": "【本文】\n 国交省の調査により、経営事項審査（経審）の見直しを求める声が建設業界で強まっていることが分かりました。働き方改革や人材育成、防災活動といった課題への取り組みをより正当に評価してほしいという要望がある一方、制度の複雑化による「制度疲労」も懸念されています。\n\n 僕たちの業界にとって経審は非常に大きな指針ですが、社会情勢の変化に合わせて評価のあり方もアップデートしていく時期に来ているのかもしれません。現場でのたゆまぬ努力が正当な格付けに繋がるような、納得感のある見直しが進むことを期待しています。\n\n 出典：日経クロステック 土木\n https://xtech.nikkei.com/atcl/nxt/column/18/00142/02813/\n\n 【抜粋元】\n 公共工事の入札に関わる経営事項審査において、業界側から働き方改革や人材育成の評価拡充を求める要望が出ていること、および制度の陳腐化（制度疲労）を指摘する声があることを報じた記事を参照しました。\n\n 【判定】OK",
+      "xDraft": "【本文】\n国土交通省のワーキンググループにて、地方自治体の入札・契約制度における「コストプラスフィー」方式の活用が議論されました。技術系職員の不足や災害復旧時の入札不調といった課題を解決するため、日建連や全中建などの業界団体へのヒアリングも行われています。\n\n実費に報酬を上乗せするこの方式は、不確実性の高い現場でこそ力を発揮する合理的な仕組みだと僕は思います。自治体での運用には透明性の確保など超えるべき壁もあるでしょうが、地域のインフラを維持する建設業の持続可能性を高めるために、意義のある議論が進むことを願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/\n\n【抜粋元】\n国土交通省の「入札・発注ワーキンググループ」第2回会合で、自治体の入札不調や技術職員不足を背景に、コストプラスフィー方式の活用や発注体制の在り方が議論された点。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "公共工事の入札に関わる経営事項審査において、業界側から働き方改革や人材育成の評価拡充を求める要望が出ていること、および制度の陳腐化（制度疲労）を指摘する声があることを報じた記事を参照しました。\n\n 【判定】OK",
+      "xDraftExcerptSummary": "国土交通省の「入札・発注ワーキンググループ」第2回会合で、自治体の入札不調や技術職員不足を背景に、コストプラスフィー方式の活用や発注体制の在り方が議論された点。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "建設Gメン調査に基づく指導が大幅増、法改正で不適正取引にメス",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900004/",
-        "pubDate": "2026-11-08T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "下請け会社と不当に低い代金で取引することは、法律で禁止されている。建設業の場合、他の業種に適用される中小受託取引適正化法（取適法、旧下請法）ではなく、建設業法で規制される。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03805/101900004/",
-        "fingerprint": "44a603b7ab7e24fdaf0ac6bda8ff2e20f8f8569fbede8daf47811d8329219d35"
+        "title": "BALLAS、シリーズB総額34億円、累計調達額は約53億円に 〜JIC VGI、日本政策金融公庫、三菱UFJ銀行の支援が加わり、建設インフラの供給力不足にAI-Nativeで挑む〜 - PR TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWWkxHb3ItS3BpdU9nXzJoYnExdFp6SnItay1BZHV0a0RJdS0zdm1QUFp6ekJQRGwwZVdGSDYxcmhKY1NoRDFwSzBDWklzdENVa3M0bC1ZUjdIVVMxQlBNb0R2c1JzM0Frc0E?oc=5",
+        "pubDate": "Tue, 10 Nov 2026 00:50:01 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 5.2148446209,
+        "contentSnippet": "BALLAS、シリーズB総額34億円、累計調達額は約53億円に 〜JIC VGI、日本政策金融公庫、三菱UFJ銀行の支援が加わり、建設インフラの供給力不足にAI-Nativeで挑む〜  PR TIMES",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWWkxHb3ItS3BpdU9nXzJoYnExdFp6SnItay1BZHV0a0RJdS0zdm1QUFp6ekJQRGwwZVdGSDYxcmhKY1NoRDFwSzBDWklzdENVa3M0bC1ZUjdIVVMxQlBNb0R2c1JzM0Frc0E?oc=5",
+        "fingerprint": "fef58cb462ccbd7ae9d7fb98912aeaff11a398ce7df9ca0fc05c1d1211df8b4a"
       },
-      "xDraft": "【本文】\n建設業における不当に低い代金での取引は、他業種で適用される法律ではなく建設業法によって規制されています。近年は「建設Gメン」による調査と指導が大幅に増えており、法改正とあわせて不適正な慣習の是正が進んでいます。\n現場を支えるのは協力会社の皆さんの技術です。その価値が適正に評価され、守られる環境が広がることは、産業の持続性の観点からも非常に重要だと僕は感じています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/03805/101900004/\n\n【抜粋元】\n建設Gメンによる指導の急増と、建設業法に基づく不適正取引の規制強化について。建設業では他業種と異なる法律が適用される点と、実地調査が強化されている事実に着目しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n建設部材の調達プラットフォームを運営するBALLASが、シリーズBで総額34億円を調達しました。累計調達額は約53億円に達し、JIC VGIや日本政策金融公庫、三菱UFJ銀行らが参画しています。AIを活用することで、建設現場の深刻な供給力不足という課題に挑むとのことです。\n\n現場目線で見ても、部材調達の最適化は生産性向上に直結する非常に重要な領域だと僕は感じています。これだけの大型調達と強力な資本の参画は、業界の構造改革に対する期待の表れですね。\n\n出典：PR TIMES\nhttps://news.google.com/rss/articles/CBMiakFVX3lxTFBWWkxHb3ItS3BpdU9nXzJoYnExdFp6SnItay1BZHV0a0RJdS0zdm1QUFp6ekJQRGwwZVdGSDYxcmhKY1NoRDFwSzBDWklzdENVa3M0bC1ZUjdIVVMxQlBNb0R2c1JzM0Frc0E?oc=5\n\n【抜粋元】\nBALLASによるシリーズBの資金調達のニュースです。調達額、出資元、およびAIを用いて建設インフラの供給力不足を解消するという事業の目的について、記事の内容を正確に反映して執筆しました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "建設Gメンによる指導の急増と、建設業法に基づく不適正取引の規制強化について。建設業では他業種と異なる法律が適用される点と、実地調査が強化されている事実に着目しました。",
+      "xDraftExcerptSummary": "BALLASによるシリーズBの資金調達のニュースです。調達額、出資元、およびAIを用いて建設インフラの供給力不足を解消するという事業の目的について、記事の内容を正確に反映して執筆しました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "1位は「高水圧で壁厚30cmのトンネル崩落、湧水対策が裏目に出た可能性も」2週連続",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/102000389/",
-        "pubDate": "2026-11-08T20:00:00.000Z",
-        "feedName": "日経クロステック 土木",
-        "score": 2.4,
-        "contentSnippet": "日経クロステック土木面で、過去に公開したニュースをランキング形式でご紹介します。2025年11月9～15日に読まれた記事の1～10位を26年11月9～15日に無料で読めるようにしました。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00674/102000389/",
-        "fingerprint": "9e9477ab736b0c0d6ef87dd5cf7113780e52b15110afa8af79e784f1de2482bf"
+        "title": "建設業の現場監督、46%にうつ・不安障害の疑い パワハラ経験2割強 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg?oc=5",
+        "pubDate": "Mon, 09 Nov 2026 20:00:00 GMT",
+        "feedName": "Googleニュース 建設業",
+        "score": 3.41482896,
+        "contentSnippet": "建設業の現場監督、46%にうつ・不安障害の疑い パワハラ経験2割強  日本経済新聞",
+        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg?oc=5",
+        "fingerprint": "8723dadda5ca04d7dc6e939f2447a09d52db94d53d905515ef26aaac77609853"
       },
-      "xDraft": "【本文】\n日経クロステック土木の週間ランキングで、トンネル崩落事故の原因を分析した記事が注目を集めています。高水圧によって厚さ30cmのコンクリート壁が崩落した事例で、湧水対策として講じた措置が、結果的に崩落を招く一因となった可能性も示唆されています。\n\n地下深くの不可視な環境下で、自然の力とどう向き合うかの難しさを痛感します。現場での良かれという判断がどのような挙動を招くのか、こうした貴重な知見を共有してくださることに敬意を払いつつ、僕たちも深く学び続けたいですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00674/102000389/\n\n【抜粋元】\n日経クロステック土木のアクセスランキング記事より、1位となった「高水圧によるトンネル崩落」に関する見出しと要約を抜粋しました。壁厚30cmという具体的な数字と、湧水対策が裏目に出たという技術的な論点を中心に構成しています。\n\n【判定】OK",
+      "xDraft": "【本文】\n建設現場を支える現場監督の約46%にうつや不安障害の疑いがあり、2割強がパワハラを経験しているという調査結果が報じられました。\n\n現場を預かる責任の重さと、工期や予算のプレッシャーが現場監督の心に深く影響している現状が浮き彫りになっています。僕も多くの現場を見てきましたが、技術を磨くことと同じくらい、働く人の心を守る仕組みが大切だと感じます。この産業が誇りあるものであり続けるために、職場環境の改善を急がなければなりません。\n\n出典：日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg?oc=5\n\n【抜粋元】\n日本経済新聞の、建設現場監督のメンタルヘルスに関する調査記事です。46%に精神疾患の疑い、2割強にパワハラ経験があるという具体的な数字を基に書きました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日経クロステック土木のアクセスランキング記事より、1位となった「高水圧によるトンネル崩落」に関する見出しと要約を抜粋しました。壁厚30cmという具体的な数字と、湧水対策が裏目に出たという技術的な論点を中心に構成しています。",
+      "xDraftExcerptSummary": "日本経済新聞の、建設現場監督のメンタルヘルスに関する調査記事です。46%に精神疾患の疑い、2割強にパワハラ経験があるという具体的な数字を基に書きました。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "経審に「制度疲労」、人材の確保や育成の評価拡充を求める声　国交省調査",
-    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02813/",
-    "pubDate": "2026-11-08T20:00:00.000Z",
+    "title": "コストプラスフィーの活用を議論、自治体の入札・契約制度で　国交省WG",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/",
+    "pubDate": "2026-11-09T20:00:00.000Z",
     "feedName": "日経クロステック 土木",
     "score": 9.6,
-    "contentSnippet": "公共工事の入札に参加する建設会社を審査・格付けする経営事項審査（経審）を巡り、社会情勢を踏まえた見直しを求める声が建設業界から上がっている。働き方改革の推進や防災活動への貢献など業界の課題解決に取り組む建設会社を、より高く評価してほしいという要望だ。評価項目の複雑化や陳腐化など経審の制度疲労を懸念する指摘もある。",
-    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02813/",
-    "fingerprint": "31c77456f02dadd88d4c31e1b932b6cd24a3315eb452a67dda644c47ce70f8ae"
+    "contentSnippet": "国土交通省は「持続的な成長産業としての建設業のあり方に関する検討会」の下に設けた入札・発注ワーキンググループの第2回会合を開催した。技術系職員の不足や災害復旧工事での入札不調・不落の発生といった課題を踏まえ、入札・契約制度や発注体制の在り方について議論した。事業者の意見として、日本建設業連合会と全国中小建設業協会にヒアリングした。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/",
+    "fingerprint": "c89d8ecfa60ea6e593767bf3a6c240811abcaba07a6fc2e40cf3bbf3b393b51a"
   },
-  "xDraft": "【本文】\n 国交省の調査により、経営事項審査（経審）の見直しを求める声が建設業界で強まっていることが分かりました。働き方改革や人材育成、防災活動といった課題への取り組みをより正当に評価してほしいという要望がある一方、制度の複雑化による「制度疲労」も懸念されています。\n\n 僕たちの業界にとって経審は非常に大きな指針ですが、社会情勢の変化に合わせて評価のあり方もアップデートしていく時期に来ているのかもしれません。現場でのたゆまぬ努力が正当な格付けに繋がるような、納得感のある見直しが進むことを期待しています。\n\n 出典：日経クロステック 土木\n https://xtech.nikkei.com/atcl/nxt/column/18/00142/02813/\n\n 【抜粋元】\n 公共工事の入札に関わる経営事項審査において、業界側から働き方改革や人材育成の評価拡充を求める要望が出ていること、および制度の陳腐化（制度疲労）を指摘する声があることを報じた記事を参照しました。\n\n 【判定】OK",
+  "xDraft": "【本文】\n国土交通省のワーキンググループにて、地方自治体の入札・契約制度における「コストプラスフィー」方式の活用が議論されました。技術系職員の不足や災害復旧時の入札不調といった課題を解決するため、日建連や全中建などの業界団体へのヒアリングも行われています。\n\n実費に報酬を上乗せするこの方式は、不確実性の高い現場でこそ力を発揮する合理的な仕組みだと僕は思います。自治体での運用には透明性の確保など超えるべき壁もあるでしょうが、地域のインフラを維持する建設業の持続可能性を高めるために、意義のある議論が進むことを願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/\n\n【抜粋元】\n国土交通省の「入札・発注ワーキンググループ」第2回会合で、自治体の入札不調や技術職員不足を背景に、コストプラスフィー方式の活用や発注体制の在り方が議論された点。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "公共工事の入札に関わる経営事項審査において、業界側から働き方改革や人材育成の評価拡充を求める要望が出ていること、および制度の陳腐化（制度疲労）を指摘する声があることを報じた記事を参照しました。\n\n 【判定】OK",
+  "xDraftExcerptSummary": "国土交通省の「入札・発注ワーキンググループ」第2回会合で、自治体の入札不調や技術職員不足を背景に、コストプラスフィー方式の活用や発注体制の在り方が議論された点。",
   "xDraftAlternates": [],
   "errors": []
 }
