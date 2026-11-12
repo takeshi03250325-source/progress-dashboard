@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-11-11T01:21:13.968Z",
+  "generatedAt": "2026-11-12T02:21:49.922Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 3,
-  "skippedJapanFocus": 2,
+  "skippedDuplicates": 0,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
     {
-      "title": "コストプラスフィーの活用を議論、自治体の入札・契約制度で　国交省WG",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/",
-      "pubDate": "2026-11-09T20:00:00.000Z",
+      "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+      "pubDate": "2026-11-11T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
-      "score": 9.6,
-      "contentSnippet": "国土交通省は「持続的な成長産業としての建設業のあり方に関する検討会」の下に設けた入札・発注ワーキンググループの第2回会合を開催した。技術系職員の不足や災害復旧工事での入札不調・不落の発生といった課題を踏まえ、入札・契約制度や発注体制の在り方について議論した。事業者の意見として、日本建設業連合会と全国中小建設業協会にヒアリングした。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02814/",
-      "fingerprint": "c89d8ecfa60ea6e593767bf3a6c240811abcaba07a6fc2e40cf3bbf3b393b51a"
+      "score": 4.8,
+      "contentSnippet": "Webカメラなど情報通信機器の設置を条件に建設技術者の2現場兼務を認める専任特例が2024年12月施行の改正建設業法で導入されたものの、その特例を活用した工事は一部にとどまっていることが国土交通省の調査で分かった。建設業団体からは兼務による技術者の有効活用や受注機会の拡大といった期待が寄せられるものの、技術者の負担増や施工管理への悪影響を懸念する声も上がっている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+      "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a"
     },
     {
-      "title": "BALLAS、シリーズB総額34億円、累計調達額は約53億円に 〜JIC VGI、日本政策金融公庫、三菱UFJ銀行の支援が加わり、建設インフラの供給力不足にAI-Nativeで挑む〜 | 株式会社BALLASのプレスリリース - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWWkxHb3ItS3BpdU9nXzJoYnExdFp6SnItay1BZHV0a0RJdS0zdm1QUFp6ekJQRGwwZVdGSDYxcmhKY1NoRDFwSzBDWklzdENVa3M0bC1ZUjdIVVMxQlBNb0R2c1JzM0Frc0E?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 00:50:01 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 5.2148446209,
-      "contentSnippet": "BALLAS、シリーズB総額34億円、累計調達額は約53億円に 〜JIC VGI、日本政策金融公庫、三菱UFJ銀行の支援が加わり、建設インフラの供給力不足にAI-Nativeで挑む〜 | 株式会社BALLASのプレスリリース  PR TIMES",
-      "urlNorm": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWWkxHb3ItS3BpdU9nXzJoYnExdFp6SnItay1BZHV0a0RJdS0zdm1QUFp6ekJQRGwwZVdGSDYxcmhKY1NoRDFwSzBDWklzdENVa3M0bC1ZUjdIVVMxQlBNb0R2c1JzM0Frc0E?oc=5",
-      "fingerprint": "1bc17268809e9c946c39522ba3d23d13142db18e1aa9a9bcf2dfabb9475b9d93"
+      "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+      "pubDate": "2026-11-11T20:00:00.000Z",
+      "feedName": "日経クロステック 建築・住宅",
+      "score": 4,
+      "contentSnippet": "Webカメラなど情報通信機器の設置を条件に建設技術者の2現場兼務を認める専任特例が2024年12月施行の改正建設業法で導入されたものの、その特例を活用した工事は一部にとどまっていることが国土交通省の調査で分かった。建設業団体からは兼務による技術者の有効活用や受注機会の拡大といった期待が寄せられるものの、技術者の負担増や施工管理への悪影響を懸念する声も上がっている。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+      "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a"
     },
     {
-      "title": "日本型枠中国支部×中国地整 酷暑対策費等の専門工事業への行き渡りなど要望 - 建通新聞",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUpiRTFXQk9DdGgyWURhVzVscjVaQ1dLWlRUSlhld09INXpScG5KWWt5SmxfMHlSUW9DQ0VyZ3hGUUpGYXlzTGM2bEstTW1GWVQxY1NaU2tCZjV0TEpiNDN0dllHd3pqdE1DbktybGpiOTNqaFFQWWViTUNOaEFMWg?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 05:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.4148581200000003,
-      "contentSnippet": "日本型枠中国支部×中国地整 酷暑対策費等の専門工事業への行き渡りなど要望  建通新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUpiRTFXQk9DdGgyWURhVzVscjVaQ1dLWlRUSlhld09INXpScG5KWWt5SmxfMHlSUW9DQ0VyZ3hGUUpGYXlzTGM2bEstTW1GWVQxY1NaU2tCZjV0TEpiNDN0dllHd3pqdE1DbktybGpiOTNqaFFQWWViTUNOaEFMWg?oc=5",
-      "fingerprint": "5a642111af49bbed3dbba534c681592f3f3f4c088c13eeea2c228a37f5996a56"
+      "title": "1位は「半月で基礎断熱がカビだらけに」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
+      "pubDate": "2026-11-11T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年11月9～15日に読まれた記事の1～10位を26年11月12～18日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
+      "fingerprint": "fc20eac835f8a1551d7cf15ae83e2610a703763f95b5e311b66ddfd98e10d1f1"
     },
     {
-      "title": "建設業の現場監督、46%にうつ・不安障害の疑い パワハラ経験2割強 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 20:00:00 GMT",
-      "feedName": "Googleニュース 建設業",
-      "score": 3.41482896,
-      "contentSnippet": "建設業の現場監督、46%にうつ・不安障害の疑い パワハラ経験2割強  日本経済新聞",
-      "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWXdjTzluXy1rZTN0Y1ZWRW10N01XNmVSb3JJMEk2OE9INWU3djYwNU5UeEtjUUVEVThiT2V0WnRuRmpxWElUQnhILUk0cE1KVG9Wckt1X0U3emJzbFNJMmFvV2drNVE2cVp2cg?oc=5",
-      "fingerprint": "8723dadda5ca04d7dc6e939f2447a09d52db94d53d905515ef26aaac77609853"
+      "title": "山本理顕氏の横浜市長選",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00005/110200227/",
+      "pubDate": "2026-11-11T17:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 2.4,
+      "contentSnippet": "告示当日に横浜市長選挙への立候補を表明した、建築家の山本理顕氏。結果は最下位で落選に終わった。怒りを原動力に出馬し、「住民自治」の実現を公約として訴えたが、得票数は伸び悩んだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00005/110200227/",
+      "fingerprint": "57b3344ef16de4cfc9f814f74f2c099b4885602c2d5382918ff031a111de9834"
     },
     {
       "title": "公共事業拡大が他産業の供給制約に、財務省が慎重な検討求める",
@@ -57,177 +57,177 @@
       "fingerprint": "b16395c51454cf73e35f73342719960e3575e93e50f7836ffd57ec0051751bf6"
     },
     {
-      "title": "公共事業拡大が他産業の供給制約に、財務省が慎重な検討求める",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/",
-      "pubDate": "2026-11-10T20:00:00.000Z",
+      "title": "1位は「半月で基礎断熱がカビだらけに」",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
+      "pubDate": "2026-11-11T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "公共事業の拡大は他産業の雇用を逼迫させ、資材価格などを上昇させる恐れがあると財務省が指摘している。その根拠として、東北地方では東日本大震災後に建設業の雇用が増えた一方、他産業では雇用が減少する傾向が見られたとするデータを提示。さらに、公共投資が大きく増えた地域ほど、建設資材などの価格上昇率が高いことを挙げる。こうしたデータを基に、公共事業の拡大について慎重な検討を求めている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/",
-      "fingerprint": "b16395c51454cf73e35f73342719960e3575e93e50f7836ffd57ec0051751bf6"
+      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年11月9～15日に読まれた記事の1～10位を26年11月12～18日に無料で読めるようにしました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
+      "fingerprint": "fc20eac835f8a1551d7cf15ae83e2610a703763f95b5e311b66ddfd98e10d1f1"
     },
     {
-      "title": "木を現しにした中規模木造をどうつくるか",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00461/102800114/",
-      "pubDate": "2026-11-09T23:00:00.000Z",
+      "title": "グッドデザイン賞に多数の建築、学会賞の動物園も",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/110200751/",
+      "pubDate": "2026-11-11T17:04:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "2026年10月21日、宮城県木材協同組合が主催した「木造建築ビジネスフォーラム in 東北」のパネルディスカッションに、東北工業大学建築学科准教授の齋藤隆太郎氏が登壇した。DOG一級建築士事務所（東京都新宿区）を率いる齋藤氏は、中規模木造建築の設計にも積極的に取り組んでいる。ここでは26年に完成した3つの木造建築を紹介する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00461/102800114/",
-      "fingerprint": "42fe6f504bbbc71a8fcec3dcda506b7d587bcb27094be1141b2e005a6fe25db4"
+      "contentSnippet": "2026年度グッドデザイン賞では、建築領域で多くの受賞があった。20のカテゴリーごとに最も優れた「金賞」として、「ニカイメノイエ」（神奈川県逗子市）や「登戸・向ヶ丘遊園エリア開発｜街に余白を編み込む」（川崎市）、「霞ケ浦どうぶつとみんなのいえ」（茨城県行方市）などが選ばれた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/110200751/",
+      "fingerprint": "0f480cc726ac3e53dbbd0a68c1a6663418b3f0128af607b80dcd1efd2f8b8906"
     },
     {
-      "title": "1人のための建築と庭、100人当たりの蔵書数全国1位の福井県立図書館",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03602/091000006/",
-      "pubDate": "2026-11-09T20:00:00.000Z",
+      "title": "マンション修繕談合で検討会、発注者支援を議論",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/110200750/",
+      "pubDate": "2026-11-11T17:03:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
       "score": 2,
-      "contentSnippet": "全国で書店の店じまいが相次ぐ中、図書館の存在意義はますます大きくなっている。都道府県別に見ると、図書館の充実度で目を引くのが福井県だ。『図書館年鑑2025』によれば、人口100人当たりの公立図書館蔵書数は832冊で全国1位。利用も盛んで、館外個人貸出の登録が人口の65.1％に及んでいて、これは全国3位である。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03602/091000006/",
-      "fingerprint": "1aaf74a38f21adb9d0b9729643f7576ac31fb440f8e406cee514d4c74ecc776c"
+      "contentSnippet": "国土交通省は、「マンション大規模修繕工事の発注等の適正化に関する検討会」（座長：松村秀一・神戸芸術工科大学学長）を設置して、大規模修繕工事を巡る談合の再発防止や適切な受発注を促す手立てを議論する。関東地区で起こった一連の談合を巡り、公正取引委員会が設計コンサルタント会社と工事会社の独占禁止法違反（不当な取引制限）を認定したことを受けたものだ。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/110200750/",
+      "fingerprint": "b271015d8a62b256b2e2698d7b9940f6b7ef2d4377b924414b66cc5911b76419"
     },
     {
-      "title": "道路　過去問題と解説　2026年度",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500069/",
-      "pubDate": "2026-11-10T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "選択科目「道路」のIII―1の自動物流道路は、物流の担い手不足を背景に、道路空間に専用の物流機能を導入する構想です。III―2は能登半島地震を踏まえた道路の防災機能です。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500069/",
-      "fingerprint": "c6a36ff6b643aebae0d322feaf034e9851d1850477dc97b0df204897226e27e4"
+      "title": "英国と日本の積算実務の違いから見える建設プロジェクトの新たな可能性 - Newscast.jp",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VWFdZUHVUbzdMRHN5SGZLSU5tS1kwTEg4TWRCUzAtRUVkY0x5NGgwMU9wYm1QSU12MmlLMHFQMWlpSEVIZXQ0VkZmM1lfbVk?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 02:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.6150039200000001,
+      "contentSnippet": "英国と日本の積算実務の違いから見える建設プロジェクトの新たな可能性  Newscast.jp",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VWFdZUHVUbzdMRHN5SGZLSU5tS1kwTEg4TWRCUzAtRUVkY0x5NGgwMU9wYm1QSU12MmlLMHFQMWlpSEVIZXQ0VkZmM1lfbVk?oc=5",
+      "fingerprint": "85bd12bde57aba6caf5aa051a2d78d2f6de90a8f98a209ebff82b2f8f1fee30a"
     },
     {
-      "title": "都市の排水強化が加速、東京都は地下河川具体化へ　水害対策債で資金調達も",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200002/",
-      "pubDate": "2026-11-10T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 0,
-      "contentSnippet": "降水量の増加に備え、都市部で排水能力の強化が進む。東京都では地下河川構想の具体化が始まった。水害対策を確実に進めるため、使途を限定したレジリエンス債を発行する動きも出ている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200002/",
-      "fingerprint": "601dc6273022d7688a251865bf716beccaeec4f40237ce868dd142f818afbf3c"
+      "title": "驚異の“海底ケーブル9000t積み” 全長150m「建設会社の巨大船」がついに日本到着 はるばる3万キロ回航 いよいよ習熟へ - carview!",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ192R0xCelhJRlc0Ti1lbUhYaUIwUlBmb2xTaGk1dGtEdXlLS1NhYjJSaU9NbEZJQ2lIRHB0MWhzV29EaVFndktpd1FFeGw1Tm9WU1I0MzZQV0ZGaHJ5Umw5d0ZCYy0tZnRDNUJHRTdmY2loVzVRN3dLMTdLT0tWR3lvVzgxTm1X?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 23:12:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 1.614994848,
+      "contentSnippet": "驚異の“海底ケーブル9000t積み” 全長150m「建設会社の巨大船」がついに日本到着 はるばる3万キロ回航 いよいよ習熟へ  carview!",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ192R0xCelhJRlc0Ti1lbUhYaUIwUlBmb2xTaGk1dGtEdXlLS1NhYjJSaU9NbEZJQ2lIRHB0MWhzV29EaVFndktpd1FFeGw1Tm9WU1I0MzZQV0ZGaHJ5Umw5d0ZCYy0tZnRDNUJHRTdmY2loVzVRN3dLMTdLT0tWR3lvVzgxTm1X?oc=5",
+      "fingerprint": "38a663d93ea9a6949ea22c798d22ea886bf02ac278e90aae57484090e3ae9904"
     },
     {
-      "title": "3位は「PHP重大脆弱性、財団が『構造的な失敗』と認める　兆候は24年に把握」経営層の注目トップ10",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/110200421/",
-      "pubDate": "2026-11-10T20:00:00.000Z",
+      "title": "羽田D滑走路の破損、タイヤバーストと因果特定できず　部材交換で再発防止",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02820/",
+      "pubDate": "2026-11-11T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 0,
-      "contentSnippet": "日経クロステックで2026年10月、経営層（役員クラス）の会員が読んだ記事をランキング形式で紹介します。3位に「PHP重大脆弱性、財団が『構造的な失敗』と認める　兆候は24年に把握」が入りました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/110200421/",
-      "fingerprint": "4506a75e80dfe15462edd0def0f1098018840668d98a20369d0752e27a8c2711"
+      "contentSnippet": "国土交通省は、2026年5月に羽田空港で相次いだ離陸機のタイヤバースト事故とD滑走路の金属板が浮き上がった破損について、両者の因果関係の特定が困難と結論付けた。ただし、滑走路の破損がタイヤバーストの原因となった可能性を否定できないとして、部材の交換や点検の強化など、金属板破損の再発防止策を取りまとめた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02820/",
+      "fingerprint": "58bde0ecfa3a13675027d0c06e744e7ebaa4bfa9be052889c16568b1b886f56b"
     },
     {
-      "title": "住宅会社アネシスの「雨庭」、ドラム缶51本の水を浸透させる内水氾濫対策",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02975/",
-      "pubDate": "2026-11-10T20:00:00.000Z",
+      "title": "「自己負担したくない」6割、豪雨時の雨水流出抑制策　自主設置の壁高く",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200003/",
+      "pubDate": "2026-11-11T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 0,
-      "contentSnippet": "内水氾濫が全国各地で頻発している。対策として注目されるのが、「雨庭（あめにわ）」に代表される雨水浸透層の活用だ。住宅会社のアネシス（熊本市）が開発したモデルハウスでは、浸透層1カ所で200リットルのドラム缶51本分の雨水を土中に還元できる効果を2026年6月に確認した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02975/",
-      "fingerprint": "28f2f67f653f845c02d3cab872cd39bf6b79692e95a32c57bc0978c86146073c"
+      "contentSnippet": "降った雨を一時的に貯留するタンクなど、河川や下水道への雨水流出を抑える対策に光が当たっている。こうした対策が流域に広がれば高い効果を発揮するものの、住民の自主性に頼る面が大きく、普及は難しい。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200003/",
+      "fingerprint": "cbc7d2f8403a48e076915be20c651db3a7c738c27e672a8776afd6467c84431d"
     },
     {
-      "title": "下水道管内から背面地盤の空洞調査、ロボットが天井走行　前田建設工業など",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02817/",
-      "pubDate": "2026-11-10T20:00:00.000Z",
+      "title": "東京都がアンダーパスの冠水対策を強化、区市道に補助　27年度予算要求",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02818/",
+      "pubDate": "2026-11-11T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 0,
-      "contentSnippet": "前田建設工業とアルソシア建設（旧三井住友建設）は東京大学や熊本県と共同で、電磁波レーダーを搭載したロボットが下水道管の天井（頂部）に張り付いて走行し、背面地盤の空洞を調査する実証研究を開始した。地表面からではレーダーが届かない地中深くの地盤を調査することで、空洞の発生を早期に検知する。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02817/",
-      "fingerprint": "dfeeb1cc7e8440c5261192ebd60823240fe95f6de51f9c777f9066ec6b5b6d41"
+      "contentSnippet": "2026年8月の千葉豪雨などを受けて、東京都がアンダーパスにおける冠水事故の防止策を強化している。27年度の予算要求で、区市道に対する補助事業を新たに盛り込んだ。26年11月2日にはスマートフォン用の「東京都防災アプリ」でアンダーパスに関する情報提供の機能を追加。「レベル4大雨危険警報」の発表時などに利用者へ注意喚起する仕組みを構築した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02818/",
+      "fingerprint": "bf54bbe1cd0b17df66d86f9aaf4450413567abcd1f91eb1691d3165cca0197e0"
     },
     {
-      "title": "気候変動で都市型水害が新局面、千葉豪雨では死者　政府は従来対策を総点検",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200001/",
-      "pubDate": "2026-11-09T20:00:00.000Z",
+      "title": "2位は「印旛沼の破堤、原因は異例の『パイピング』か　千葉県は調査委員会を未設置」部課長層の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/110200422/",
+      "pubDate": "2026-11-11T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 0,
-      "contentSnippet": "近年の記録的な豪雨で都市部の浸水が相次いでいる。千葉市では2026年8月、気象の専門家にも予測が難しい豪雨が発生し、死者が出た。豪雨の激甚化で被害が拡大する都市型水害に、政府は対策へ乗り出した。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200001/",
-      "fingerprint": "7a2248907591a00eeece3b8964b1e0b41413514b64261d54a33ac44f777685be"
+      "contentSnippet": "日経クロステックで2026年10月、部課長層の会員が読んだ記事をランキング形式で紹介します。2位に「印旛沼の破堤、原因は異例の『パイピング』か　千葉県は調査委員会を未設置」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/110200422/",
+      "fingerprint": "398e8d7af168f7f0fcaf4a61e905a5bedb3eac8af554306e6d9487c69fa06adf"
     },
     {
-      "title": "骨材と結合する耐水アスファルト、舗装内の剝離を抑制　出光興産",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02815/",
-      "pubDate": "2026-11-09T20:00:00.000Z",
+      "title": "日本橋に新たな東京ミッドタウン誕生",
+      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/110200307/",
+      "pubDate": "2026-11-11T17:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 0,
-      "contentSnippet": "出光興産は、舗装内への水の浸入による損傷を抑えるアスファルトを開発した。骨材の表面と化学反応を起こして接着を強くする炭化水素樹脂を添加剤としてアスファルトに混ぜ、剝離しにくくした。既存のアスファルト合材工場で使用でき、通常の舗装機械を用いて施工できる。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02815/",
-      "fingerprint": "2a5a98e88a57d89d0119ad8f8c2c9d9dc27cdc478374bd0ca7be515b3e9c8b5c"
+      "contentSnippet": "日本橋川周辺の再開発の一角を占める大型複合施設「東京ミッドタウン日本橋」が、2027年内に全街区で開業を迎える予定だ。シンボルとなる高さ284mの超高層ビル「日本橋野村三井タワー」（通称ザ タワー）には、野村ホールディングスや第一三共の本社などが順次入居する。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00007/110200307/",
+      "fingerprint": "ba4b8005805632c22a60d0bde11ad538ec523a69da140d0e41bfaba2814df1ea"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "日本型枠中国支部×中国地整 酷暑対策費等の専門工事業への行き渡りなど要望 - 建通新聞",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUpiRTFXQk9DdGgyWURhVzVscjVaQ1dLWlRUSlhld09INXpScG5KWWt5SmxfMHlSUW9DQ0VyZ3hGUUpGYXlzTGM2bEstTW1GWVQxY1NaU2tCZjV0TEpiNDN0dllHd3pqdE1DbktybGpiOTNqaFFQWWViTUNOaEFMWg?oc=5",
-        "pubDate": "Tue, 10 Nov 2026 05:00:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4148581200000003,
-        "contentSnippet": "日本型枠中国支部×中国地整 酷暑対策費等の専門工事業への行き渡りなど要望  建通新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUpiRTFXQk9DdGgyWURhVzVscjVaQ1dLWlRUSlhld09INXpScG5KWWt5SmxfMHlSUW9DQ0VyZ3hGUUpGYXlzTGM2bEstTW1GWVQxY1NaU2tCZjV0TEpiNDN0dllHd3pqdE1DbktybGpiOTNqaFFQWWViTUNOaEFMWg?oc=5",
-        "fingerprint": "5a642111af49bbed3dbba534c681592f3f3f4c088c13eeea2c228a37f5996a56"
+        "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+        "pubDate": "2026-11-11T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 4.8,
+        "contentSnippet": "Webカメラなど情報通信機器の設置を条件に建設技術者の2現場兼務を認める専任特例が2024年12月施行の改正建設業法で導入されたものの、その特例を活用した工事は一部にとどまっていることが国土交通省の調査で分かった。建設業団体からは兼務による技術者の有効活用や受注機会の拡大といった期待が寄せられるものの、技術者の負担増や施工管理への悪影響を懸念する声も上がっている。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+        "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a"
       },
-      "xDraft": "【本文】\n日本型枠工事業協会中国支部が中国地方整備局に対し、酷暑対策費などが専門工事業者にまで適切に行き渡るよう要望書を提出しました。\n現場の安全や健康を守るための予算が、実際に作業を担う方々にまで届くことは非常に大切な視点です。こうした直接の対話によって実態が可視化され、より健全な現場環境が整っていくことを僕も期待しています。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPYUpiRTFXQk9DdGgyWURhVzVscjVaQ1dLWlRUSlhld09INXpScG5KWWt5SmxfMHlSUW9DQ0VyZ3hGUUpGYXlzTGM2bEstTW1GWVQxY1NaU2tCZjV0TEpiNDN0dllHd3pqdE1DbktybGpiOTNqaFFQWWViTUNOaEFMWg?oc=5\n\n【抜粋元】\n日本型枠工事業協会中国支部が中国地方整備局を訪れ、熱中症対策費の専門工事業者への行き渡りや適正な工期設定などを要望した建通新聞の記事を参考にしました。\n\n【判定】OK",
+      "xDraft": "【本文】\nWebカメラ等の設置を条件に建設技術者の2現場兼務を認める「専任特例」ですが、国交省の調査では活用が一部に留まっていることが分かりました。技術者の有効活用への期待がある一方、現場の負担増や施工管理への悪影響を懸念する声も根強く、受注者の間でも賛否が分かれています。\n制度としての選択肢は増えましたが、現場を預かる責任の重さを考えると、兼務に慎重になるのは自然な反応かもしれません。ICTの導入が単なる「管理の効率化」に留まらず、技術者の皆さんがより安心して働ける環境づくりに繋がることを願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/\n\n【抜粋元】\n改正建設業法で導入された、情報通信機器の設置を条件とする建設技術者の2現場兼務（専任特例）について、国交省の調査結果をもとに、現場の負担増への懸念などから活用が広がっていない現状を伝えた記事。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本型枠工事業協会中国支部が中国地方整備局を訪れ、熱中症対策費の専門工事業者への行き渡りや適正な工期設定などを要望した建通新聞の記事を参考にしました。",
+      "xDraftExcerptSummary": "改正建設業法で導入された、情報通信機器の設置を条件とする建設技術者の2現場兼務（専任特例）について、国交省の調査結果をもとに、現場の負担増への懸念などから活用が広がっていない現状を伝えた記事。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "公共事業拡大が他産業の供給制約に、財務省が慎重な検討求める",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/",
-        "pubDate": "2026-11-10T20:00:00.000Z",
+        "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+        "pubDate": "2026-11-11T20:00:00.000Z",
+        "feedName": "日経クロステック 建築・住宅",
+        "score": 4,
+        "contentSnippet": "Webカメラなど情報通信機器の設置を条件に建設技術者の2現場兼務を認める専任特例が2024年12月施行の改正建設業法で導入されたものの、その特例を活用した工事は一部にとどまっていることが国土交通省の調査で分かった。建設業団体からは兼務による技術者の有効活用や受注機会の拡大といった期待が寄せられるものの、技術者の負担増や施工管理への悪影響を懸念する声も上がっている。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+        "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a"
+      },
+      "xDraft": "【本文】\n2024年12月の改正建設業法で、Webカメラなどの情報通信機器の設置を条件に技術者の2現場兼務を認める「専任特例」が導入されましたが、国交省の調査では利用が一部に留まっていることが分かりました。\n\n僕としては、技術者不足への対策として期待する一方で、一人にかかる責任の重さや移動の負担を考えると、二の足を踏む現場の感覚もよく分かります。まずは無理のない範囲でモデルケースを積み重ねて、管理の質を落とさない運用の形が見えてくることを期待したいです。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/\n\n【抜粋元】\n2024年12月施行の改正建設業法で導入された「専任特例（2現場兼務）」の活用が、国交省の調査で一部に留まっているという事実。その背景にある、受注者側の期待と、施工管理への悪影響などの懸念点について。\n\n【判定】OK",
+      "xDraftSource": "gemini",
+      "xDraftModel": "models/gemini-3-flash-preview",
+      "xPostVerdict": "OK",
+      "xDraftExcerptSummary": "2024年12月施行の改正建設業法で導入された「専任特例（2現場兼務）」の活用が、国交省の調査で一部に留まっているという事実。その背景にある、受注者側の期待と、施工管理への悪影響などの懸念点について。",
+      "xDraftAlternates": []
+    },
+    {
+      "picked": {
+        "title": "1位は「半月で基礎断熱がカビだらけに」",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
+        "pubDate": "2026-11-11T20:00:00.000Z",
         "feedName": "日経クロステック 土木",
         "score": 2.4,
-        "contentSnippet": "公共事業の拡大は他産業の雇用を逼迫させ、資材価格などを上昇させる恐れがあると財務省が指摘している。その根拠として、東北地方では東日本大震災後に建設業の雇用が増えた一方、他産業では雇用が減少する傾向が見られたとするデータを提示。さらに、公共投資が大きく増えた地域ほど、建設資材などの価格上昇率が高いことを挙げる。こうしたデータを基に、公共事業の拡大について慎重な検討を求めている。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/",
-        "fingerprint": "b16395c51454cf73e35f73342719960e3575e93e50f7836ffd57ec0051751bf6"
+        "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年11月9～15日に読まれた記事の1～10位を26年11月12～18日に無料で読めるようにしました。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
+        "fingerprint": "fc20eac835f8a1551d7cf15ae83e2610a703763f95b5e311b66ddfd98e10d1f1"
       },
-      "xDraft": "【本文】\n財務省が、公共事業の拡大が他産業の雇用を圧迫し、資材価格を上昇させる恐れがあると指摘しています。東北での復興期に建設業の雇用が増えた一方で他産業が減少したデータなどを根拠に、慎重な検討を求める構えです。\n\nインフラの維持管理や防災を考えると事業の継続性は不可欠ですが、労働力という有限な資源を社会全体でどう分かち合うかという視点は避けて通れません。建設業界の生産性向上や、他産業との共生がこれまで以上に重要になってきそうですね。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/\n\n【抜粋元】\n公共事業の拡大が他産業の供給制約（労働力不足や価格高騰）に繋がるという財務省の指摘と、その根拠となる東北地方のデータを紹介した日経クロステックの記事を基に執筆しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n日経クロステックが過去の人気記事をランキング形式で紹介しています。1位は「半月で基礎断熱がカビだらけに」という、現場にとって非常に重い事例でした。2025年11月に注目を集めた上位10記事が、現在期間限定で無料公開されています。\n\n高気密・高断熱を追求するなかで、施工中の湿気管理がこれほど短期間に影響を及ぼす事実に驚きます。現場の細かな配慮が建物の価値を左右することを、僕も改めて心に留めておきたいと思いました。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/\n\n【抜粋元】\n日経クロステックの建築面で公開された、2025年11月の人気記事ランキングから作成しました。1位の基礎断熱におけるカビ発生事例や、過去の有料記事が期間限定で無料公開されている点を取り上げています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "公共事業の拡大が他産業の供給制約（労働力不足や価格高騰）に繋がるという財務省の指摘と、その根拠となる東北地方のデータを紹介した日経クロステックの記事を基に執筆しました。",
-      "xDraftAlternates": []
-    },
-    {
-      "picked": {
-        "title": "公共事業拡大が他産業の供給制約に、財務省が慎重な検討求める",
-        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/",
-        "pubDate": "2026-11-10T20:00:00.000Z",
-        "feedName": "日経クロステック 建築・住宅",
-        "score": 2,
-        "contentSnippet": "公共事業の拡大は他産業の雇用を逼迫させ、資材価格などを上昇させる恐れがあると財務省が指摘している。その根拠として、東北地方では東日本大震災後に建設業の雇用が増えた一方、他産業では雇用が減少する傾向が見られたとするデータを提示。さらに、公共投資が大きく増えた地域ほど、建設資材などの価格上昇率が高いことを挙げる。こうしたデータを基に、公共事業の拡大について慎重な検討を求めている。",
-        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/",
-        "fingerprint": "b16395c51454cf73e35f73342719960e3575e93e50f7836ffd57ec0051751bf6"
-      },
-      "xDraft": "【本文】\n財務省は、公共事業の拡大が他産業の雇用を圧迫し、資材価格を押し上げる懸念があるとして、慎重な検討を求めています。震災後の東北で建設業の雇用が増えた一方で他産業が減少したデータや、投資増と価格高騰の相関が根拠に挙げられました。\n\n僕たち現場の人間からすると、インフラ維持に必要な投資は不可欠だと感じますが、他産業を含めた社会全体の資源配分という視点も無視はできませんね。現場の逼迫感をデータで突きつけられると、建設業の適正な事業量と他産業との共存について、改めて深く考えさせられます。\n\n出典：日経クロステック 建築・住宅\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/\n\n【抜粋元】\n財務省が公共事業の拡大に対し、他産業への供給制約や資材高騰を招くリスクがあるとして慎重な姿勢を示した記事です。東北の事例など、具体的なデータに基づいた指摘を整理しました。\n\n【判定】OK",
-      "xDraftSource": "gemini",
-      "xDraftModel": "models/gemini-3-flash-preview",
-      "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "財務省が公共事業の拡大に対し、他産業への供給制約や資材高騰を招くリスクがあるとして慎重な姿勢を示した記事です。東北の事例など、具体的なデータに基づいた指摘を整理しました。",
+      "xDraftExcerptSummary": "日経クロステックの建築面で公開された、2025年11月の人気記事ランキングから作成しました。1位の基礎断熱におけるカビ発生事例や、過去の有料記事が期間限定で無料公開されている点を取り上げています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "日本型枠中国支部×中国地整 酷暑対策費等の専門工事業への行き渡りなど要望 - 建通新聞",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUpiRTFXQk9DdGgyWURhVzVscjVaQ1dLWlRUSlhld09INXpScG5KWWt5SmxfMHlSUW9DQ0VyZ3hGUUpGYXlzTGM2bEstTW1GWVQxY1NaU2tCZjV0TEpiNDN0dllHd3pqdE1DbktybGpiOTNqaFFQWWViTUNOaEFMWg?oc=5",
-    "pubDate": "Tue, 10 Nov 2026 05:00:00 GMT",
-    "feedName": "Googleニュース 建設業",
-    "score": 3.4148581200000003,
-    "contentSnippet": "日本型枠中国支部×中国地整 酷暑対策費等の専門工事業への行き渡りなど要望  建通新聞",
-    "urlNorm": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUpiRTFXQk9DdGgyWURhVzVscjVaQ1dLWlRUSlhld09INXpScG5KWWt5SmxfMHlSUW9DQ0VyZ3hGUUpGYXlzTGM2bEstTW1GWVQxY1NaU2tCZjV0TEpiNDN0dllHd3pqdE1DbktybGpiOTNqaFFQWWViTUNOaEFMWg?oc=5",
-    "fingerprint": "5a642111af49bbed3dbba534c681592f3f3f4c088c13eeea2c228a37f5996a56"
+    "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+    "pubDate": "2026-11-11T20:00:00.000Z",
+    "feedName": "日経クロステック 土木",
+    "score": 4.8,
+    "contentSnippet": "Webカメラなど情報通信機器の設置を条件に建設技術者の2現場兼務を認める専任特例が2024年12月施行の改正建設業法で導入されたものの、その特例を活用した工事は一部にとどまっていることが国土交通省の調査で分かった。建設業団体からは兼務による技術者の有効活用や受注機会の拡大といった期待が寄せられるものの、技術者の負担増や施工管理への悪影響を懸念する声も上がっている。",
+    "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+    "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a"
   },
-  "xDraft": "【本文】\n日本型枠工事業協会中国支部が中国地方整備局に対し、酷暑対策費などが専門工事業者にまで適切に行き渡るよう要望書を提出しました。\n現場の安全や健康を守るための予算が、実際に作業を担う方々にまで届くことは非常に大切な視点です。こうした直接の対話によって実態が可視化され、より健全な現場環境が整っていくことを僕も期待しています。\n\n出典：建通新聞\nhttps://news.google.com/rss/articles/CBMigAFBVV95cUxPYUpiRTFXQk9DdGgyWURhVzVscjVaQ1dLWlRUSlhld09INXpScG5KWWt5SmxfMHlSUW9DQ0VyZ3hGUUpGYXlzTGM2bEstTW1GWVQxY1NaU2tCZjV0TEpiNDN0dllHd3pqdE1DbktybGpiOTNqaFFQWWViTUNOaEFMWg?oc=5\n\n【抜粋元】\n日本型枠工事業協会中国支部が中国地方整備局を訪れ、熱中症対策費の専門工事業者への行き渡りや適正な工期設定などを要望した建通新聞の記事を参考にしました。\n\n【判定】OK",
+  "xDraft": "【本文】\nWebカメラ等の設置を条件に建設技術者の2現場兼務を認める「専任特例」ですが、国交省の調査では活用が一部に留まっていることが分かりました。技術者の有効活用への期待がある一方、現場の負担増や施工管理への悪影響を懸念する声も根強く、受注者の間でも賛否が分かれています。\n制度としての選択肢は増えましたが、現場を預かる責任の重さを考えると、兼務に慎重になるのは自然な反応かもしれません。ICTの導入が単なる「管理の効率化」に留まらず、技術者の皆さんがより安心して働ける環境づくりに繋がることを願っています。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/\n\n【抜粋元】\n改正建設業法で導入された、情報通信機器の設置を条件とする建設技術者の2現場兼務（専任特例）について、国交省の調査結果をもとに、現場の負担増への懸念などから活用が広がっていない現状を伝えた記事。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "日本型枠工事業協会中国支部が中国地方整備局を訪れ、熱中症対策費の専門工事業者への行き渡りや適正な工期設定などを要望した建通新聞の記事を参考にしました。",
+  "xDraftExcerptSummary": "改正建設業法で導入された、情報通信機器の設置を条件とする建設技術者の2現場兼務（専任特例）について、国交省の調査結果をもとに、現場の負担増への懸念などから活用が広がっていない現状を伝えた記事。",
   "xDraftAlternates": [],
   "errors": []
 }

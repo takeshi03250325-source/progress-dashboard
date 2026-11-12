@@ -2,27 +2,6 @@
   "version": 1,
   "entries": [
     {
-      "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yNVlKX3ZlZ0FlUlRMWkstbHA2UkZrTmpma1hTb3VvYUozaDFndU9ycUFxVngxSEJzUzhFSm9iT2RzTWpKREZvOWdlN3V3WndSYnQzVzFzS0RleWk1NnhRUm9qajBFOVpQTEtJVU5Ndnpoa0NxQmNLdUVGUQ?oc=5",
-      "fingerprint": "0b243b5f0b4eeacaa31d0ecd1025c8eea5fd0afce7550eff24fc5b4077ce6d88",
-      "title": "水ing、Sustineri 建設工事のGHG排出量算定を日常業務で自動化へ - kankyo-news.co.jp",
-      "postedAt": "2026-06-08T22:55:14.729Z",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yNVlKX3ZlZ0FlUlRMWkstbHA2UkZrTmpma1hTb3VvYUozaDFndU9ycUFxVngxSEJzUzhFSm9iT2RzTWpKREZvOWdlN3V3WndSYnQzVzFzS0RleWk1NnhRUm9qajBFOVpQTEtJVU5Ndnpoa0NxQmNLdUVGUQ?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oRnkwS041NmdGUWI3TGRkcW13ejA2bU5FTzk5TTlLVVI2OEwwVUNfYlBDSkM1SzZTOVdOSURGdmdRekRCRFgxaFlkR09LNllXdVhmck8tNEk?oc=5",
-      "fingerprint": "9b63b49c0d3aaf5c1599c02911e05752dfe39f055ad4b16136fa9aeab4432c12",
-      "title": "石川県土木部長 木村 康博氏に聞く - 建設通信新聞Digital",
-      "postedAt": "2026-06-08T22:55:14.729Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oRnkwS041NmdGUWI3TGRkcW13ejA2bU5FTzk5TTlLVVI2OEwwVUNfYlBDSkM1SzZTOVdOSURGdmdRekRCRFgxaFlkR09LNllXdVhmck8tNEk?oc=5"
-    },
-    {
-      "urlNorm": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hdWtTVUtvV2YwTHJGMFMzNG95TTFjbW84T0c4QUFRQTc2RGtaNWVHS3VLcFl1ZVM4TTdrdzRfLXdYLU1vNnRqMG1ENktkelpMM25taHBDbXQ?oc=5",
-      "fingerprint": "3b20d005d0c58b52b2cdef4f3748f5fc1860aec6e2e8df46158d4f90bc06774b",
-      "title": "明日のパレット(13) 建築家 斎藤信吾 - 建設通信新聞Digital",
-      "postedAt": "2026-06-09T22:57:07.378Z",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hdWtTVUtvV2YwTHJGMFMzNG95TTFjbW84T0c4QUFRQTc2RGtaNWVHS3VLcFl1ZVM4TTdrdzRfLXdYLU1vNnRqMG1ENktkelpMM25taHBDbXQ?oc=5"
-    },
-    {
       "urlNorm": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtZF9GLUd1cE1qVERPRWNGV2JZdlV6bXpGZ1lvZEMwdmdpWHEyNEdQSUFIbGRnT29tU0NZSHpUdDdfRkdvaURIMndNaw?oc=5",
       "fingerprint": "b1f0ae5b323569d7c1eda4725e54a202028f91593f139b786b4f6456b66e8215",
       "title": "公共工事、柔軟対応申し入れ 建設業協会、室蘭市に - 47NEWS",
@@ -2800,6 +2779,27 @@
       "title": "公共事業拡大が他産業の供給制約に、財務省が慎重な検討求める",
       "postedAt": "2026-11-11T01:21:13.960Z",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02816/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+      "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a",
+      "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
+      "postedAt": "2026-11-12T02:21:49.915Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
+      "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a",
+      "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
+      "postedAt": "2026-11-12T02:21:49.915Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/"
+    },
+    {
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
+      "fingerprint": "fc20eac835f8a1551d7cf15ae83e2610a703763f95b5e311b66ddfd98e10d1f1",
+      "title": "1位は「半月で基礎断熱がカビだらけに」",
+      "postedAt": "2026-11-12T02:21:49.915Z",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/"
     }
   ]
 }
