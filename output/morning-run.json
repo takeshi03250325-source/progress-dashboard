@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T02:00:25.051Z",
+  "generatedAt": "2026-11-14T01:32:32.601Z",
   "dedupeEnabled": true,
-  "skippedDuplicates": 2,
-  "skippedJapanFocus": 0,
+  "skippedDuplicates": 3,
+  "skippedJapanFocus": 1,
   "pickCountRequested": 3,
   "pickCountActual": 3,
   "candidates": [
@@ -17,24 +17,14 @@
       "fingerprint": "220bab42b02eda45f3eef9e883523aa47c4fed115f5fcdb58e6911ff1821af1b"
     },
     {
-      "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
-      "pubDate": "2026-11-11T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 4.8,
-      "contentSnippet": "Webカメラなど情報通信機器の設置を条件に建設技術者の2現場兼務を認める専任特例が2024年12月施行の改正建設業法で導入されたものの、その特例を活用した工事は一部にとどまっていることが国土交通省の調査で分かった。建設業団体からは兼務による技術者の有効活用や受注機会の拡大といった期待が寄せられるものの、技術者の負担増や施工管理への悪影響を懸念する声も上がっている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
-      "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a"
-    },
-    {
-      "title": "建設技術者の2現場兼務、専任特例の活用広まらず　受注者は賛否両論",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
-      "pubDate": "2026-11-11T20:00:00.000Z",
-      "feedName": "日経クロステック 建築・住宅",
-      "score": 4,
-      "contentSnippet": "Webカメラなど情報通信機器の設置を条件に建設技術者の2現場兼務を認める専任特例が2024年12月施行の改正建設業法で導入されたものの、その特例を活用した工事は一部にとどまっていることが国土交通省の調査で分かった。建設業団体からは兼務による技術者の有効活用や受注機会の拡大といった期待が寄せられるものの、技術者の負担増や施工管理への悪影響を懸念する声も上がっている。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02819/",
-      "fingerprint": "41f3766086bed31f5701ce9da04cca4f6534e60e5190f6604e0349750104e92a"
+      "title": "【不動産69社】倒産危険度ランキング2027最新版！大手デベも上位に・ドコモ“つながりにくい”通信を招いた「3つの要因」とは？・ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】 - ダイヤモンド・オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "feedName": "Googleニュース 建設業",
+      "score": 3.41510112,
+      "contentSnippet": "【不動産69社】倒産危険度ランキング2027最新版！大手デベも上位に・ドコモ“つながりにくい”通信を招いた「3つの要因」とは？・ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】  ダイヤモンド・オンライン",
+      "urlNorm": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5",
+      "fingerprint": "c3f988f104e768b43e3d0be5960ad2455e9810c9271b772c9c96099aa85f59e9"
     },
     {
       "title": "ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】プライム上場の日本国土開発は4位、ワースト1位は？ - ダイヤモンド・オンライン",
@@ -77,16 +67,6 @@
       "fingerprint": "7dbe8092111e778b067848aa5fa8f1473634fab93d5e9fe0e02b65940b2138e2"
     },
     {
-      "title": "住宅設計で構造計算する理由を勘違い、壁量設計で検定しない項目の不安解消",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/111102147/",
-      "pubDate": "2026-11-12T20:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "日経アーキテクチュアが編集した書籍『設計実務に使える 木造住宅の許容応力度計算 増補改訂版』を2026年9月に発行した。筆者はこの書籍を編集する中で、25年4月施行の建築基準法改正について大きな勘違いをしていたことに気付いた。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/111102147/",
-      "fingerprint": "c14064a7dac94a7777238552ae7975d892ac1139d5d80e13274761871ea5cee3"
-    },
-    {
       "title": "生コン不正でJIS認証取り消し、190現場に出荷か　麻生コンクリート工業",
       "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02977/",
       "pubDate": "2026-11-12T20:00:00.000Z",
@@ -97,24 +77,14 @@
       "fingerprint": "1d9b02ad01c38c715e5f7d574c18dd9a6ae5c3d7d8065878c148acd314d3ea73"
     },
     {
-      "title": "1位は「半月で基礎断熱がカビだらけに」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
-      "pubDate": "2026-11-11T20:00:00.000Z",
+      "title": "住宅設計で構造計算する理由を勘違い、壁量設計で検定しない項目の不安解消",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/111102147/",
+      "pubDate": "2026-11-12T20:00:00.000Z",
       "feedName": "日経クロステック 土木",
       "score": 2.4,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年11月9～15日に読まれた記事の1～10位を26年11月12～18日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
-      "fingerprint": "fc20eac835f8a1551d7cf15ae83e2610a703763f95b5e311b66ddfd98e10d1f1"
-    },
-    {
-      "title": "山本理顕氏の横浜市長選",
-      "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00005/110200227/",
-      "pubDate": "2026-11-11T17:00:00.000Z",
-      "feedName": "日経クロステック 土木",
-      "score": 2.4,
-      "contentSnippet": "告示当日に横浜市長選挙への立候補を表明した、建築家の山本理顕氏。結果は最下位で落選に終わった。怒りを原動力に出馬し、「住民自治」の実現を公約として訴えたが、得票数は伸び悩んだ。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00005/110200227/",
-      "fingerprint": "57b3344ef16de4cfc9f814f74f2c099b4885602c2d5382918ff031a111de9834"
+      "contentSnippet": "日経アーキテクチュアが編集した書籍『設計実務に使える 木造住宅の許容応力度計算 増補改訂版』を2026年9月に発行した。筆者はこの書籍を編集する中で、25年4月施行の建築基準法改正について大きな勘違いをしていたことに気付いた。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/111102147/",
+      "fingerprint": "c14064a7dac94a7777238552ae7975d892ac1139d5d80e13274761871ea5cee3"
     },
     {
       "title": "トンネル　過去問題と解説　2026年度",
@@ -147,87 +117,117 @@
       "fingerprint": "1d9b02ad01c38c715e5f7d574c18dd9a6ae5c3d7d8065878c148acd314d3ea73"
     },
     {
-      "title": "1位は「半月で基礎断熱がカビだらけに」",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
-      "pubDate": "2026-11-11T20:00:00.000Z",
+      "title": "北朝鮮とロシア結ぶ初の道路橋、開通後も利用低迷…物流・観光の需要乏しく",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/111300107/",
+      "pubDate": "2026-11-13T03:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "北朝鮮とロシアを結ぶ初の道路橋が9月上旬に開通したものの、物流や観光での利用はほとんどないと、米国の北朝鮮専門メディア「NKニュース」が11月6日に報じた。開通時には両国の軍事・政治面での連携が深まり、貿易も拡大すると見込まれていた。同メディアは、橋の建設には北朝鮮のロシア派兵に対する政治的な見返りとしての意味合いが大きかったと分析した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02407/111300107/",
+      "fingerprint": "5c1ae447cfe1cff4244df06b39f23363c191f463739cca554ab5b04711385db6"
+    },
+    {
+      "title": "警戒レベル付き防災気象情報、3割以上がレベル4を過小評価　独自調査",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200004/",
+      "pubDate": "2026-11-12T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "浸水による人的被害を最小限に抑えるには、適切な避難行動を促す防災情報が重要になる。気象庁などが警戒レベルを付記した新しい「防災気象情報」の運用を始めたものの、一般の人たちの理解は広がっていない。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/03813/110200004/",
+      "fingerprint": "c2f71d334a3639e0830fac33ca2ee3d4b6f8ef6f0705ccb71e35034bfc3adffc"
+    },
+    {
+      "title": "3位は「タイムズカーの見舞金、3000円の根拠　漏洩を通知したうち約14万件が対象外」一般社員層の注目トップ10",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/110200423/",
+      "pubDate": "2026-11-12T20:00:00.000Z",
+      "feedName": "日経クロステック 土木",
+      "score": 0,
+      "contentSnippet": "日経クロステックで2026年10月、一般社員層の会員が読んだ記事をランキング形式で紹介します。3位に「タイムズカーの見舞金、3000円の根拠　漏洩を通知したうち約14万件が対象外」が入りました。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/02156/110200423/",
+      "fingerprint": "6a2264a844a3577ed6bdb96e474a3fd438a03c460840709757241faa137839a6"
+    },
+    {
+      "title": "観葉植物に適した環境をつくれる突っ張り棒と育成照明のセット",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01078/",
+      "pubDate": "2026-11-12T20:00:00.000Z",
       "feedName": "日経クロステック 建築・住宅",
-      "score": 2,
-      "contentSnippet": "日経クロステック建築面で、過去に公開したニュースをランキング形式でご紹介します。2025年11月9～15日に読まれた記事の1～10位を26年11月12～18日に無料で読めるようにしました。",
-      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00241/102000440/",
-      "fingerprint": "fc20eac835f8a1551d7cf15ae83e2610a703763f95b5e311b66ddfd98e10d1f1"
+      "score": 0,
+      "contentSnippet": "平安伸銅工業は、突っ張り棒と植物育成ライトなどを組み合わせて観葉植物に適した環境をつくれる「Grow Light シリーズ」を2026年9月に発売した。",
+      "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01078/",
+      "fingerprint": "09eff5a778b0bd3a8fa5e9e265558e51bc4fc48ef424361d3076444ada2d5f81"
     }
   ],
   "picks": [
     {
       "picked": {
-        "title": "日本建設資材市場：インフラの更新、耐震建築、持続可能な素材が新たな成長機会を創出 - ニコニコニュース",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YREt1d3lweUJ6REF3SGRrYzN1QzczZ1BualJQaU4tY1hfRzBMZzhSdU8xcldtUzBPbDR0VE1tazAzX2lPdmlSSk1FQnRpb0JzTDFMNG5wMnpCM205VjRlbVY2Nzh5dV8ta1Bpc3oxUS1kdkM5dl9SVjF3WQ?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 01:00:46 GMT",
+        "title": "【不動産69社】倒産危険度ランキング2027最新版！大手デベも上位に・ドコモ“つながりにくい”通信を招いた「3つの要因」とは？・ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】 - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
         "feedName": "Googleニュース 建設業",
-        "score": 5.2150784814,
-        "contentSnippet": "日本建設資材市場：インフラの更新、耐震建築、持続可能な素材が新たな成長機会を創出  ニコニコニュース",
-        "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YREt1d3lweUJ6REF3SGRrYzN1QzczZ1BualJQaU4tY1hfRzBMZzhSdU8xcldtUzBPbDR0VE1tazAzX2lPdmlSSk1FQnRpb0JzTDFMNG5wMnpCM205VjRlbVY2Nzh5dV8ta1Bpc3oxUS1kdkM5dl9SVjF3WQ?oc=5",
-        "fingerprint": "220bab42b02eda45f3eef9e883523aa47c4fed115f5fcdb58e6911ff1821af1b"
+        "score": 3.41510112,
+        "contentSnippet": "【不動産69社】倒産危険度ランキング2027最新版！大手デベも上位に・ドコモ“つながりにくい”通信を招いた「3つの要因」とは？・ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】  ダイヤモンド・オンライン",
+        "urlNorm": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5",
+        "fingerprint": "c3f988f104e768b43e3d0be5960ad2455e9810c9271b772c9c96099aa85f59e9"
       },
-      "xDraft": "【本文】\n日本の建設資材市場で、インフラの更新需要や耐震性能の向上、持続可能な素材への注目が新たな成長機会を生んでいるようです。従来の建設から、より長寿命で環境負荷の低い形への移行が示唆されています。\n\n僕たちの社会を支える基礎が、維持管理や防災という観点からアップデートされていくのは非常に意義深いことだと感じます。現場の技術と新しい資材が組み合わさり、未来のまちづくりを支えていく姿に期待が膨らみます。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE1YREt1d3lweUJ6REF3SGRrYzN1QzczZ1BualJQaU4tY1hfRzBMZzhSdU8xcldtUzBPbDR0VE1tazAzX2lPdmlSSk1FQnRpb0JzTDFMNG5wMnpCM205VjRlbVY2Nzh5dV8ta1Bpc3oxUS1kdkM5dl9SVjF3WQ?oc=5\n\n【抜粋元】\nニコニコニュースの、日本の建設資材市場において「インフラ更新」「耐震」「持続可能な素材」が成長の鍵になるというニュースに基づき作成しました。\n\n【判定】OK",
+      "xDraft": "【本文】\nダイヤモンド・オンラインが、不動産69社と日建連加盟のゼネコン128社を対象とした経営耐久度・倒産危険度ランキングの最新版を公開しました。大手デベロッパーや大手ゼネコンも上位に名を連ねるなど、業界を取り巻く厳しい現状が示されています。\n\nこうした具体的な数字を目の当たりにすると、僕も身が引き締まる思いがします。業界を支える企業がリストに含まれていることは、市場環境の変化がいかに激しいかを物語っていますね。現場で働く皆さんの努力が報われるような、健全で強固な経営基盤が維持されることを願うばかりです。\n\n出典：ダイヤモンド・オンライン\nhttps://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5\n\n【抜粋元】\nダイヤモンド・オンラインの記事「不動産69社倒産危険度ランキング2027最新版」および「ゼネコン経営耐久度ワーストランキング」の内容に基づき、大手企業がランクインしている事実と、それに対する建設・不動産業界への敬意を込めた所感をまとめました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ニコニコニュースの、日本の建設資材市場において「インフラ更新」「耐震」「持続可能な素材」が成長の鍵になるというニュースに基づき作成しました。",
+      "xDraftExcerptSummary": "ダイヤモンド・オンラインの記事「不動産69社倒産危険度ランキング2027最新版」および「ゼネコン経営耐久度ワーストランキング」の内容に基づき、大手企業がランクインしている事実と、それに対する建設・不動産業界への敬意を込めた所感をまとめました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】プライム上場の日本国土開発は4位、ワースト1位は？ - ダイヤモンド・オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oQVVuWU9pNkVSWFQteE1kb2ppOGNQNDFhSzh0SFpMRUZ2cW5SZUg4LVFUXzdkSUhWbWR4MGhOaTRPTjBpZUcxdEdsM1k?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 19:55:00 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4150619700000004,
-        "contentSnippet": "ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】プライム上場の日本国土開発は4位、ワースト1位は？  ダイヤモンド・オンライン",
-        "urlNorm": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oQVVuWU9pNkVSWFQteE1kb2ppOGNQNDFhSzh0SFpMRUZ2cW5SZUg4LVFUXzdkSUhWbWR4MGhOaTRPTjBpZUcxdEdsM1k?oc=5",
-        "fingerprint": "d1ff6506c2ddee158d0e78812c9c4f2dc573b5090a41579e487d1591af6949b4"
+        "title": "トンネル　過去問題と解説　2026年度",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500070/",
+        "pubDate": "2026-11-12T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "選択科目「トンネル」のIII―1は地上・地下の近接構造物がある山岳トンネル、III―2は都市部の開削またはシールド工事における環境保全です。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00492/091500070/",
+        "fingerprint": "0cc146fede08e51efd5361bcf64c10966f339dc81e0f2a647a1bcda8b8cc04f4"
       },
-      "xDraft": "【本文】\n日建連加盟のゼネコン128社を対象とした「経営耐久度」のワーストランキングが、ダイヤモンド・オンラインで公開されました。プライム上場の日本国土開発が4位にランクインしています。\n\n資材高騰や人件費の上昇など、今の建設業界は非常にタフな舵取りを迫られています。ランキングの結果そのものよりも、その背景にある産業構造の課題に目を向けることが大切だと感じました。現場の熱量を絶やさないためにも、各社の動向を丁寧に見守っていきたいですね。\n\n出典：ダイヤモンド・オンライン\nhttps://news.google.com/rss/articles/CBMiTEFVX3lxTE1oQVVuWU9pNkVSWFQteE1kb2ppOGNQNDFhSzh0SFpMRUZ2cW5SZUg4LVFUXzdkSUhWbWR4MGhOaTRPTjBpZUcxdEdsM1k?oc=5\n\n【抜粋元】\nダイヤモンド・オンラインの記事から、日建連加盟128社を対象とした経営耐久度ランキングの情報を引用しました。大手・準大手を含めた業界の財務的な現在地を伝える内容です。\n\n【判定】OK",
+      "xDraft": "【本文】\n技術士試験の選択科目「トンネル」に関する過去問解説記事です。設問では、地上・地下の近接構造物がある山岳トンネルの施工や、都市部における開削・シールド工事での環境保全といったテーマが取り上げられています。\n\n山岳と都市部、それぞれの現場が抱える制約条件やリスクが明確に示されていますね。特に近接施工や環境対策は実務でも非常に重要度が高まっており、技術者としてどう解を導き出すかという視点は常に磨いておきたいと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00492/091500070/\n\n【抜粋元】\n日経クロステック 土木の連載記事より、2026年度に向けた技術士試験「トンネル」科目の過去問解説です。山岳トンネルの近接施工と都市部の環境保全という2つの重要な出題論点を踏まえて書きました。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "ダイヤモンド・オンラインの記事から、日建連加盟128社を対象とした経営耐久度ランキングの情報を引用しました。大手・準大手を含めた業界の財務的な現在地を伝える内容です。",
+      "xDraftExcerptSummary": "日経クロステック 土木の連載記事より、2026年度に向けた技術士試験「トンネル」科目の過去問解説です。山岳トンネルの近接施工と都市部の環境保全という2つの重要な出題論点を踏まえて書きました。",
       "xDraftAlternates": []
     },
     {
       "picked": {
-        "title": "「ヘーベルハウス」旭化成ホームズ、ゼネコンの森組を完全子会社化 129億円でTOB - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeFF2UTVQODFaTDFUdmk3LTNQcFVqem9TVVRjMFdjMVM0ekFOVUQ0OGtoTGY1TlJycnRJRmJxZGpQcjVJNXhfdHU2RkVBRmdpX3FHUnNqbGR0UlhtbEl4Q1hGM1d2c2JHVG92aw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 11:16:37 GMT",
-        "feedName": "Googleニュース 建設業",
-        "score": 3.4150339773,
-        "contentSnippet": "「ヘーベルハウス」旭化成ホームズ、ゼネコンの森組を完全子会社化 129億円でTOB  日本経済新聞",
-        "urlNorm": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeFF2UTVQODFaTDFUdmk3LTNQcFVqem9TVVRjMFdjMVM0ekFOVUQ0OGtoTGY1TlJycnRJRmJxZGpQcjVJNXhfdHU2RkVBRmdpX3FHUnNqbGR0UlhtbEl4Q1hGM1d2c2JHVG92aw?oc=5",
-        "fingerprint": "ddd73260e6df5d15a6cb5581b57e398b85e5bbcc96abddd1038e111b44b48a50"
+        "title": "建設コンサルタント会社がサイバー攻撃の標的に、3500件超の個人情報漏洩か",
+        "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02823/",
+        "pubDate": "2026-11-12T20:00:00.000Z",
+        "feedName": "日経クロステック 土木",
+        "score": 2.4,
+        "contentSnippet": "全国でサイバー攻撃の被害が相次ぐなか、用地測量や地籍調査などを手掛ける秋田県の建設コンサルタント会社が標的にされた。被害を受けた会社に業務を委託する複数の自治体によると、業務に関連する延べ3500件以上の個人情報が外部に漏洩した恐れがある。建設業界でもサイバー攻撃のリスクが無視できなくなっている。",
+        "urlNorm": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02823/",
+        "fingerprint": "7dbe8092111e778b067848aa5fa8f1473634fab93d5e9fe0e02b65940b2138e2"
       },
-      "xDraft": "【本文】\n旭化成ホームズが、ゼネコンの森組を129億円でTOB（株式公開買い付け）し、完全子会社化することを発表しました。\nこれまでも資本提携関係にありましたが、完全子会社化によって住宅事業と施工・土木技術をより強固に統合する狙いがあるようです。\n僕としては、メーカーの企画力と歴史あるゼネコンの現場力が深く融合することで、これからの都市再開発や建替え事業がどう進化していくのか、非常に興味深く感じています。\n\n出典：日本経済新聞\nhttps://news.google.com/rss/articles/CBMibEFVX3lxTFBQeFF2UTVQODFaTDFUdmk3LTNQcFVqem9TVVRjMFdjMVM0ekFOVUQ0OGtoTGY1TlJycnRJRmJxZGpQcjVJNXhfdHU2RkVBRmdpX3FHUnNqbGR0UlhtbEl4Q1hGM1d2c2JHVG92aw?oc=5\n\n【抜粋元】\n日本経済新聞の「旭化成ホームズが森組を129億円で完全子会社化する」というニュースに基づき、提携強化の事実とその背景にある事業領域拡大の可能性について記述しました。\n\n【判定】OK",
+      "xDraft": "【本文】\n秋田県の建設コンサルタント会社がサイバー攻撃を受け、委託元の自治体に関連する延べ3500件以上の個人情報が漏洩した恐れがあるそうです。標的となったのは用地測量や地籍調査などを手掛ける企業で、建設業界でもリスクが顕在化しています。\n\n地籍調査や用地測量は、地域の境界を定める非常に公共性の高い業務です。それだけに、扱う情報の重みを守るためのセキュリティ対策が、今や現場の技術と同じくらい重要になっているのだと感じます。\n\n出典：日経クロステック 土木\nhttps://xtech.nikkei.com/atcl/nxt/column/18/00142/02823/\n\n【抜粋元】\n秋田県の建設コンサルタントがサイバー攻撃を受け、地籍調査等に関連する3500件以上の個人情報が漏洩した可能性を報じる記事です。業界全体でサイバーリスクへの認識を高める必要性を説いています。\n\n【判定】OK",
       "xDraftSource": "gemini",
       "xDraftModel": "models/gemini-3-flash-preview",
       "xPostVerdict": "OK",
-      "xDraftExcerptSummary": "日本経済新聞の「旭化成ホームズが森組を129億円で完全子会社化する」というニュースに基づき、提携強化の事実とその背景にある事業領域拡大の可能性について記述しました。",
+      "xDraftExcerptSummary": "秋田県の建設コンサルタントがサイバー攻撃を受け、地籍調査等に関連する3500件以上の個人情報が漏洩した可能性を報じる記事です。業界全体でサイバーリスクへの認識を高める必要性を説いています。",
       "xDraftAlternates": []
     }
   ],
   "picked": {
-    "title": "日本建設資材市場：インフラの更新、耐震建築、持続可能な素材が新たな成長機会を創出 - ニコニコニュース",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YREt1d3lweUJ6REF3SGRrYzN1QzczZ1BualJQaU4tY1hfRzBMZzhSdU8xcldtUzBPbDR0VE1tazAzX2lPdmlSSk1FQnRpb0JzTDFMNG5wMnpCM205VjRlbVY2Nzh5dV8ta1Bpc3oxUS1kdkM5dl9SVjF3WQ?oc=5",
-    "pubDate": "Fri, 13 Nov 2026 01:00:46 GMT",
+    "title": "【不動産69社】倒産危険度ランキング2027最新版！大手デベも上位に・ドコモ“つながりにくい”通信を招いた「3つの要因」とは？・ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】 - ダイヤモンド・オンライン",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
     "feedName": "Googleニュース 建設業",
-    "score": 5.2150784814,
-    "contentSnippet": "日本建設資材市場：インフラの更新、耐震建築、持続可能な素材が新たな成長機会を創出  ニコニコニュース",
-    "urlNorm": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YREt1d3lweUJ6REF3SGRrYzN1QzczZ1BualJQaU4tY1hfRzBMZzhSdU8xcldtUzBPbDR0VE1tazAzX2lPdmlSSk1FQnRpb0JzTDFMNG5wMnpCM205VjRlbVY2Nzh5dV8ta1Bpc3oxUS1kdkM5dl9SVjF3WQ?oc=5",
-    "fingerprint": "220bab42b02eda45f3eef9e883523aa47c4fed115f5fcdb58e6911ff1821af1b"
+    "score": 3.41510112,
+    "contentSnippet": "【不動産69社】倒産危険度ランキング2027最新版！大手デベも上位に・ドコモ“つながりにくい”通信を招いた「3つの要因」とは？・ゼネコン「経営耐久度」ワーストランキング【日建連加盟128社】  ダイヤモンド・オンライン",
+    "urlNorm": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5",
+    "fingerprint": "c3f988f104e768b43e3d0be5960ad2455e9810c9271b772c9c96099aa85f59e9"
   },
-  "xDraft": "【本文】\n日本の建設資材市場で、インフラの更新需要や耐震性能の向上、持続可能な素材への注目が新たな成長機会を生んでいるようです。従来の建設から、より長寿命で環境負荷の低い形への移行が示唆されています。\n\n僕たちの社会を支える基礎が、維持管理や防災という観点からアップデートされていくのは非常に意義深いことだと感じます。現場の技術と新しい資材が組み合わさり、未来のまちづくりを支えていく姿に期待が膨らみます。\n\n出典：ニコニコニュース\nhttps://news.google.com/rss/articles/CBMie0FVX3lxTE1YREt1d3lweUJ6REF3SGRrYzN1QzczZ1BualJQaU4tY1hfRzBMZzhSdU8xcldtUzBPbDR0VE1tazAzX2lPdmlSSk1FQnRpb0JzTDFMNG5wMnpCM205VjRlbVY2Nzh5dV8ta1Bpc3oxUS1kdkM5dl9SVjF3WQ?oc=5\n\n【抜粋元】\nニコニコニュースの、日本の建設資材市場において「インフラ更新」「耐震」「持続可能な素材」が成長の鍵になるというニュースに基づき作成しました。\n\n【判定】OK",
+  "xDraft": "【本文】\nダイヤモンド・オンラインが、不動産69社と日建連加盟のゼネコン128社を対象とした経営耐久度・倒産危険度ランキングの最新版を公開しました。大手デベロッパーや大手ゼネコンも上位に名を連ねるなど、業界を取り巻く厳しい現状が示されています。\n\nこうした具体的な数字を目の当たりにすると、僕も身が引き締まる思いがします。業界を支える企業がリストに含まれていることは、市場環境の変化がいかに激しいかを物語っていますね。現場で働く皆さんの努力が報われるような、健全で強固な経営基盤が維持されることを願うばかりです。\n\n出典：ダイヤモンド・オンライン\nhttps://news.google.com/rss/articles/CBMiTEFVX3lxTE9rQTBzamV3YWVaSzlCalhueXEtRHhNYVVBTmdMOFNmNThiU1VKdHA0bldXVmRUSEhzM2M3RHoyS0V6TkRCaXZQeURRWjA?oc=5\n\n【抜粋元】\nダイヤモンド・オンラインの記事「不動産69社倒産危険度ランキング2027最新版」および「ゼネコン経営耐久度ワーストランキング」の内容に基づき、大手企業がランクインしている事実と、それに対する建設・不動産業界への敬意を込めた所感をまとめました。\n\n【判定】OK",
   "xDraftSource": "gemini",
   "xDraftModel": "models/gemini-3-flash-preview",
   "xPostVerdict": "OK",
-  "xDraftExcerptSummary": "ニコニコニュースの、日本の建設資材市場において「インフラ更新」「耐震」「持続可能な素材」が成長の鍵になるというニュースに基づき作成しました。",
+  "xDraftExcerptSummary": "ダイヤモンド・オンラインの記事「不動産69社倒産危険度ランキング2027最新版」および「ゼネコン経営耐久度ワーストランキング」の内容に基づき、大手企業がランクインしている事実と、それに対する建設・不動産業界への敬意を込めた所感をまとめました。",
   "xDraftAlternates": [],
   "errors": []
 }
